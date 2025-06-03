@@ -4,6 +4,13 @@
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <title>Content Manager</title>
+
+        <!-- Fixes Netlify CMS editor cursor jumping issue! -->
+        <style>
+            [data-slate-editor] { 
+                -webkit-user-modify: read-write !important; 
+            }
+        </style>
     </head>
     <body>
         <!-- Include the script that builds the page and powers Netlify CMS -->
