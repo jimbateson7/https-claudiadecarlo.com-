@@ -259,7 +259,7 @@ collections:
 
           - label: 'Social Links'
             name: 'socialLinks'
-            file: 'src/_data/social-links.yaml'
+            file: 'src/_data/socialLinks.yaml'
             fields:
                 - label: Social Items
                   name: socialItems

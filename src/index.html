@@ -27,21 +27,8 @@ contactLinkUrl: mailto:hello@claudiadecarlo.com
 ---
 
 <div class="container mx-auto">
-	<section>
-		<div>
-			<img src="{{avatarImage}}" alt="" class="rounded-full w-32 h-32 mb-4">
-			<h1>{{title}}</h1>
-			<h2>{{subtitle}}</h2>
-			{% include "./_includes/partials/social.html" %}
-		</div>
-		
-		{% if heroImage %}
-			<div>
-				<img src="{{heroImage}}" alt="Hero Image" class="w-full max-w-2xl mb-8">
-			</div>
-		{% endif %}
-	</section>
-
+	{% include "./_includes/partials/hero--home.html" %}
+	
 	{% include "./_includes/partials/services.html" %}
 	{% include "./_includes/partials/testimonials.html" %}
 	{% include "./_includes/partials/about.html" %}
