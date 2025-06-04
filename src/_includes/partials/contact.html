@@ -1,0 +1,13 @@
+<section>
+    {% if contactImage %}
+        <div>
+            <img src="{{contactImage}}" alt="" class="w-full max-w-2xl mt-4">
+        </div>
+    {% endif %}
+
+    <div>
+        <h2>{{contactTitle}}</h2>
+        <p>{{contactSummary}}</p>
+        <a href="{{contactLinkUrl}}" class="text-purple-600 hover:underline">{{contactLinkText}}</a>
+    </div>
+</section>

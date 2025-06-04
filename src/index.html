@@ -1,11 +1,49 @@
 ---
-layout: default
-title: Claudia de Carlo
+avatarImage: /static/img/1747215352004.jpeg
+heroImage: /static/img/homepage-hero.jpg
+testimonialsTitle: What people say
 path: home
+layout: default
+title: Change your story. Change your life.
+subtitle: Rewrite. Rewire. Realign. Transformative sessions.
+howIHelpTitle: How I help
+servicesToShow: 3
+testimonialsToShow: 3
+aboutTitle: About me
+aboutSummary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
+  quis magna volutpat, mollis metus ut, bibendum lacus. Cras faucibus leo sed
+  nisl tincidunt, eget sagittis ligula tincidunt. Nulla sit amet ultrices neque.
+aboutImage: /static/img/homepage-hero.jpg
+aboutLinkText: Find out more
+aboutLinkUrl: /about
+contactTitle: Get in touch
+contactSummary: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  Curabitur quis magna volutpat, mollis metus ut, bibendum lacus. Cras faucibus
+  leo sed nisl tincidunt, eget sagittis ligula tincidunt. Nulla sit amet
+  ultrices neque.
+contactImage: /static/img/homepage-hero.jpg
+contactLinkText: hello@claudiadecarlo.com
+contactLinkUrl: mailto:hello@claudiadecarlo.com
 ---
 
-<div class="container mx-auto lg:h-screen flex flex-col justify-center items-center">
-	<h1 class="font-display">{{title}}</h1>
-	
-	{% include "./_includes/partials/content.html" %}
+<div class="container mx-auto">
+	<section>
+		<div>
+			<img src="{{avatarImage}}" alt="" class="rounded-full w-32 h-32 mb-4">
+			<h1 class="font-display">{{title}}</h1>
+			<h2>{{subtitle}}</h2>
+			{% include "./_includes/partials/social.html" %}
+		</div>
+		
+		{% if heroImage %}
+			<div>
+				<img src="{{heroImage}}" alt="Hero Image" class="w-full max-w-2xl mb-8">
+			</div>
+		{% endif %}
+	</section>
+
+	{% include "./_includes/partials/services.html" %}
+	{% include "./_includes/partials/testimonials.html" %}
+	{% include "./_includes/partials/about.html" %}
+	{% include "./_includes/partials/contact.html" %}
 </div>

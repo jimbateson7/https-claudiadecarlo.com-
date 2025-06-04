@@ -1,0 +1,5 @@
+socialItems:
+  - text: Test
+    url: /test
+  - text: Test 2
+    url: /test-2

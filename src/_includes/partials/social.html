@@ -1,0 +1,11 @@
+<div>
+    <ul>
+    {% for item in socialLinks.socialItems %}
+        <li>
+            <a href="{{ item.url }}" target="_blank" class="inline-block mx-2 text-gray-500 hover:text-gray-700">
+                {{ item.text }}
+            </a>
+        </li>
+    {% endfor %}
+    </ul>
+</div>

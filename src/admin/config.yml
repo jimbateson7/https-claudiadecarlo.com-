@@ -221,12 +221,30 @@ collections:
       editor:
           preview: false
       files:
-          - label: 'Navigation'
-            name: 'items'
-            file: 'src/_data/navigation.yaml'
+          - label: 'Header Navigation'
+            name: 'headerNavigation'
+            file: 'src/_data/headerNavigation.yaml'
             fields:
-                - label: Nav Items
-                  name: items
+                - label: Header Nav Items
+                  name: headerItems
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: false
+                  fields:
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: URL
+                        name: url
+                        widget: string
+
+          - label: 'Footer Navigation'
+            name: 'footerNavigation'
+            file: 'src/_data/footerNavigation.yaml'
+            fields:
+                - label: Footer Nav Items
+                  name: footerItems
                   widget: list
                   allow_add: true
                   allow_delete: true
