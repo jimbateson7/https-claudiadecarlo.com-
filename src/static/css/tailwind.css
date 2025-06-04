@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 @font-face {
-  font-family: 'bugaki';
-  src: url('./../fonts/bugaki.woff2') format('woff2');
+  font-family: "bugaki";
+  src: url("./../fonts/bugaki.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 
@@ -12,25 +12,22 @@
   --font-display: "bugaki", "serif";
   --font-sans: "Inter", "sans-serif";
 
-  --brand-red: #cc2a24;
-  --brand-purple: #552d62;
-  --brand-yellow: #fca23b;
+  --color-brand-red: #cc2a24;
+  --color-brand-purple: #552d62;
+  --color-brand-yellow: #fca23b;
 
   --ease-fluid: cubic-bezier(0.3, 0, 0, 1);
   --ease-snappy: cubic-bezier(0.2, 0, 0, 1);
 }
 
+h1, h2, h3 {
+  @apply font-display;
+}
+
 h1 {
-  @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
+  @apply text-brand-red;
 }
 
-h3 {
-  @apply text-2xl font-bold mb-3;
-}
-
-/* Syntax Highlighting*/
-
-body :not(pre) > code[class*="language-"],
-body pre[class*="language-"] {
-  @apply bg-gray-800;
+h2, h3 {
+  @apply text-brand-purple text-2xl;
 }
