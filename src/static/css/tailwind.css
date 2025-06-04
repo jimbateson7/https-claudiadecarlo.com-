@@ -1,6 +1,24 @@
 @import "tailwindcss";
 
-/*Your Custom CSS Goes here*/
+@font-face {
+  font-family: 'bugaki';
+  src: url('./../fonts/bugaki.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@theme {
+  --font-display: "bugaki", "serif";
+  --font-sans: "Inter", "sans-serif";
+
+  --brand-red: #cc2a24;
+  --brand-purple: #552d62;
+  --brand-yellow: #fca23b;
+
+  --ease-fluid: cubic-bezier(0.3, 0, 0, 1);
+  --ease-snappy: cubic-bezier(0.2, 0, 0, 1);
+}
 
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;

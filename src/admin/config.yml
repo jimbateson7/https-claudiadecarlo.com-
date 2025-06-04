@@ -1,68 +1,291 @@
 backend:
-  # Use netlify identity as backend
-  name: git-gateway
-  branch: master
-  ### enable below lines for github integration ###
-  # name: github
-  # repo: surjithctly/neat-starter
-media_folder: "src/static/img"
-public_folder: "/static/img"
+    name: git-gateway
+    branch: main
+    # Enable below lines for GitHub integration
+    # name: github
+    # repo: surjithctly/neat-starter
 
-# Please run "npx netlify-cms-proxy-server" for local backend
+publish_mode: editorial_workflow
+media_folder: 'src/static/img'
+public_folder: '/static/img'
+site_url: https://claudiadecarlo.com/
+
+# Run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
-# publish_mode: editorial_workflow
+
 collections:
-  - label: "Blog"
-    name: "blog"
-    folder: "src/posts"
-    create: true
-    editor:
-      preview: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
-        label: "tags"
-        name: "tags"
-        multiple: true
-        create: true
-        options: ["Tags", "created", "from", "config.yml"]
-  - label: "Settings"
-    name: "settings"
-    editor:
-      preview: false
-    files:
-      - label: "Navigation"
-        name: "items"
-        file: "src/_data/navigation.yaml"
-        fields:
-          - label: Nav Items
-            name: items
-            widget: list
-            allow_add: false
-            collapsed: false
+    - name: 'pages'
+      label: 'Pages'
+      files:
+          - name: 'home'
+            label: 'Homepage'
+            delete: false
+            file: 'src/index.html'
+            slug: '{{slug}}'
+            create: false
             fields:
-              - { label: Title, name: text, widget: string }
-              - { label: URL, name: url, widget: string }
-      - label: "Quick Links"
-        name: "links"
-        file: "src/_data/quicklinks.yaml"
-        fields:
-          - label: Nav Items
-            name: links
-            widget: list
-            collapsed: false
+                - label: 'Layout'
+                  name: 'layout'
+                  widget: 'hidden'
+                  default: 'layouts/njk.njk'
+
+                - label: 'SEO Meta Title'
+                  name: 'metaTitle'
+                  widget: 'string'
+                  required: false
+
+                - label: 'SEO Meta Description'
+                  name: 'metaDesc'
+                  widget: 'string'
+                  required: false
+
+                - label: 'Social Image'
+                  name: 'socialImage'
+                  widget: 'image'
+                  required: false
+
+                - label: 'Avatar Image'
+                  name: 'avatarImage'
+                  widget: 'image'
+
+                - label: 'Title'
+                  name: 'title'
+                  widget: 'string'
+
+                - label: 'Subtitle'
+                  name: 'subtitle'
+                  widget: 'string'
+
+                - label: 'Hero Image'
+                  name: 'heroImage'
+                  widget: 'image'
+
+                - label: 'Collage Heading'
+                  name: 'collageHeading'
+                  widget: 'string'
+                  required: false
+
+                - label: 'Collage Summary'
+                  name: 'collageSummary'
+                  widget: 'markdown'
+                  required: false
+
+                - label: 'Collage Image'
+                  name: 'collageImage'
+                  widget: 'image'
+                  required: false
+
+                - label: 'How I help Title'
+                  name: 'howIHelpTitle'
+                  widget: 'string'
+
+                - label: 'Services to Show'
+                  name: 'servicesToShow'
+                  widget: 'number'
+                  default: 3
+                  min: 3
+
+                - label: 'Testimonials Title'
+                  name: 'testimonialsTitle'
+                  widget: 'string'
+
+                - label: 'Testimonials to Show'
+                  name: 'testimonialsToShow'
+                  widget: 'number'
+                  default: 3
+                  min: 3
+
+                - label: About Title
+                  name: 'aboutTitle'
+                  widget: 'string'
+
+                - label: About Summary
+                  name: 'aboutSummary'
+                  widget: 'markdown'
+
+                - label: About Image
+                  name: 'aboutImage'
+                  widget: 'image'
+
+                - label: 'About Link Text'
+                  name: 'aboutLinkText'
+                  widget: 'string'
+
+                - label: 'About Link URL'
+                  name: 'aboutLinkUrl'
+                  widget: 'string'
+
+                - label: Contact Title
+                  name: 'contactTitle'
+                  widget: 'string'
+
+                - label: Contact Summary
+                  name: 'contactSummary'
+                  widget: 'markdown'
+
+                - label: Contact Image
+                  name: 'contactImage'
+                  widget: 'image'
+
+                - label: 'Contact Link Text'
+                  name: 'contactLinkText'
+                  widget: 'string'
+
+                - label: 'Contact Link URL'
+                  name: 'contactLinkUrl'
+                  widget: 'string'
+    - name: 'static_pages'
+      label: 'Static Pages'
+      folder: 'src/pages'
+      slug: '{{slug}}'
+      preview_path: 'pages/{{slug}}'
+      create: true
+      fields:
+          - {
+                label: 'Layout',
+                name: 'layout',
+                widget: 'hidden',
+                default: 'page.html',
+            }
+
+          - { label: 'Title', name: 'title', widget: 'string' }
+
+          - {
+                label: 'Banner Image',
+                name: 'bannerImage',
+                widget: 'image',
+                required: false,
+            }
+
+          - { label: 'Permalink Override', name: 'permalink', widget: 'string' }
+
+          - {
+                label: 'SEO Meta Title',
+                name: 'metaTitle',
+                widget: 'string',
+                required: false,
+            }
+
+          - {
+                label: 'SEO Meta Description',
+                name: 'metaDesc',
+                widget: 'string',
+                required: false,
+            }
+
+          - {
+                label: 'Social Image',
+                name: 'socialImage',
+                widget: 'image',
+                required: false,
+            }
+
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+    - label: 'Blog'
+      name: 'blog'
+      folder: 'src/posts'
+      create: true
+      editor:
+          preview: false
+      fields:
+          - label: 'Title'
+            name: 'title'
+            widget: 'string'
+
+          - label: 'Description'
+            name: 'description'
+            widget: 'string'
+
+          - label: 'Author'
+            name: 'author'
+            widget: 'string'
+
+          - label: 'Publish Date'
+            name: 'date'
+            widget: 'datetime'
+
+          - label: 'Body'
+            name: 'body'
+            widget: 'markdown'
+
+          - label: 'Tags'
+            name: 'tags'
+            widget: 'select'
+            multiple: true
+            create: true
+            options: ['Tags', 'created', 'from', 'config.yml']
+
+    - label: 'Global'
+      name: 'global'
+      description: 'General site settings that are used across multiple pages. Note that social links added will appear in the homepage banner and footer.'
+      editor:
+          preview: false
+      files:
+          - label: 'Navigation'
+            name: 'items'
+            file: 'src/_data/navigation.yaml'
             fields:
-              - { label: Title, name: title, widget: string }
-              - { label: URL, name: url, widget: string }
-              - { label: Description, name: desc, widget: string }
-      - label: "Meta Settings"
-        name: "settings"
-        file: "src/_data/settings.yaml"
-        fields:
-          - { label: Name, name: name, widget: string }
-          - { label: Author, name: author, widget: string }
-          - { label: URL, name: url, widget: string }
+                - label: Nav Items
+                  name: items
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: false
+                  fields:
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: URL
+                        name: url
+                        widget: string
+
+          - label: 'Social Links'
+            name: 'socialLinks'
+            file: 'src/_data/social-links.yaml'
+            fields:
+                - label: Social Items
+                  name: socialItems
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: false
+                  fields:
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: URL
+                        name: url
+                        widget: string
+
+          - label: 'Quick Links'
+            name: 'links'
+            file: 'src/_data/quick-links.yaml'
+            fields:
+                - label: Nav Items
+                  name: links
+                  widget: list
+                  collapsed: false
+                  fields:
+                      - label: Title
+                        name: title
+                        widget: string
+                      - label: URL
+                        name: url
+                        widget: string
+                      - label: Description
+                        name: desc
+                        widget: string
+
+          - label: 'Site Settings'
+            name: 'siteSettings'
+            file: 'src/_data/site-settings.yaml'
+            fields:
+                - label: Name
+                  name: name
+                  widget: string
+                - label: Author
+                  name: author
+                  widget: string
+                - label: URL
+                  name: url
+                  widget: string
