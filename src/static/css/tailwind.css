@@ -20,14 +20,24 @@
   --ease-snappy: cubic-bezier(0.2, 0, 0, 1);
 }
 
-h1, h2, h3 {
-  @apply font-display;
+@utility container {
+  max-width: 1340px;
 }
 
-h1 {
-  @apply text-brand-red;
-}
+@layer base {
+  h1, h2, h3 {
+    @apply font-display;
+  }
 
-h2, h3 {
-  @apply text-brand-purple text-2xl;
+  h2, h3 {
+    @apply text-brand-purple text-2xl;
+  }
+
+  h1 {
+    @apply text-brand-red mb-9 text-5xl md:text-6xl;
+  }
+
+  h2 {
+    @apply text-4xl md:text-5xl;
+  }
 }

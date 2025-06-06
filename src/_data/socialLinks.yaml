@@ -1,5 +1,7 @@
 socialItems:
-  - text: Test
+  - text: Linkedin
     url: /test
-  - text: Test 2
+  - text: Instagram
     url: /test-2
+  - text: Substack
+    url: /

@@ -1,13 +1,15 @@
 <section>
-    <div>
-        <h2>{{aboutTitle}}</h2>
-        <p>{{aboutSummary}}</p>
-        <a href="{{aboutLinkUrl}}" class="text-purple-600 hover:underline">{{aboutLinkText}}</a>
-    </div>
-
-    {% if aboutImage %}
+    <div class="container mx-auto">
         <div>
-            <img src="{{aboutImage}}" alt="" class="w-full max-w-2xl mt-4">
+            <h2>{{aboutTitle}}</h2>
+            <p>{{aboutSummary}}</p>
+            <a href="{{aboutLinkUrl}}" class="text-purple-600 hover:underline">{{aboutLinkText}}</a>
         </div>
-    {% endif %}
+
+        {% if aboutImage %}
+            <div>
+                <img src="{{aboutImage}}" alt="" class="w-full max-w-2xl mt-4">
+            </div>
+        {% endif %}
+    </div>
 </section>

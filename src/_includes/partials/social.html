@@ -1,9 +1,10 @@
-<div>
-    <ul>
+<div class="mt-9">
+    <ul class="flex items-center justify-center gap-4">
     {% for item in socialLinks.socialItems %}
         <li>
-            <a href="{{ item.url }}" target="_blank" class="inline-block mx-2 text-gray-500 hover:text-gray-700">
-                {{ item.text }}
+            <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" class="block bg-brand-yellow rounded-xl p-2 hover:bg-brand-purple transition-colors duration-300">
+                <img src="../../static/img/{{ item.text }}.svg" alt="">
+                <span class="sr-only">Find Claudia on {{ item.text }}</span>
             </a>
         </li>
     {% endfor %}
