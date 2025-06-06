@@ -215,6 +215,45 @@ collections:
             create: true
             options: ['Tags', 'created', 'from', 'config.yml']
 
+    - label: 'Services'
+      name: 'services'
+      folder: 'src/services'
+      create: true
+      fields:
+          - label: 'Title'
+            name: 'title'
+            widget: 'string'
+
+          - label: 'Card Image'
+            name: 'cardImage'
+            widget: 'image'
+
+          - label: 'Summary'
+            name: 'summary'
+            widget: 'markdown'
+
+          - label: 'Banner Image'
+            name: 'bannerImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Body'
+            name: 'body'
+            widget: 'markdown'
+
+    - label: 'Testimonials'
+      name: 'testimonials'
+      folder: 'src/testimonials'
+      create: true
+      fields:
+          - label: 'Source'
+            name: 'source'
+            widget: 'string'
+
+          - label: 'Body'
+            name: 'body'
+            widget: 'markdown'
+
     - label: 'Global'
       name: 'global'
       description: 'General site settings that are used across multiple pages. Note that social links added will appear in the homepage banner and footer.'

@@ -38,7 +38,7 @@
   }
 
   h2 {
-    @apply text-4xl md:text-5xl;
+    @apply text-4xl mb-7 md:text-5xl;
   }
 
   p {
@@ -49,7 +49,17 @@
     @apply underline font-medium text-current hover:text-brand-red transition-colors duration-300;
   }
 
+  a:focus-visible {
+    outline-offset: 0.25em;
+    outline-width: 0.25em;
+    outline-color: currentColor;
+  }
+
   .image-shadow {
     box-shadow: 5px 5px 0px 0px rgba(252, 162, 59, .25);
+  }
+
+  .btn {
+    @apply rounded-lg bg-brand-purple text-white font-display inline-block px-4 py-3 hover:bg-brand-red transition-colors duration-300;
   }
 }

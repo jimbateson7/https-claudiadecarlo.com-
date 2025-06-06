@@ -46,6 +46,13 @@ module.exports = function (eleventyConfig) {
     reloadDelay: 250,
   });
 
+  const now = new Date();
+
+  const services = (service) => service.date <= now && !service.data.draft;
+  eleventyConfig.addCollection('services', (collection) => {
+    return [...collection.getFilteredByGlob('./src/services/*.md').filter(services)].reverse();
+  });
+
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (outputPath.endsWith(".html")) {
