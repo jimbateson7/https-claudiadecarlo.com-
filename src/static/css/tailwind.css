@@ -46,7 +46,7 @@
   }
 
   a:not([class]) {
-    @apply underline font-bold text-current hover:text-brand-red transition-colors duration-300;
+    @apply underline font-medium text-current hover:text-brand-red transition-colors duration-300;
   }
 
   .image-shadow {

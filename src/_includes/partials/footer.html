@@ -7,10 +7,10 @@
         {% include "partials/social.html" %}
 
         {% if footerNavigation.footerItems %}
-            <ul class="flex gap-4 items-center mx-auto">
+            <ul class="inline-flex gap-4 items-center mx-auto mt-9">
                 {% for item in footerNavigation.footerItems %}
                     <li>
-                        <a @click="isOpen = false" class="underline" href="{{ item.url }}">{{ item.text }}</a>
+                        <a @click="isOpen = false" href="{{ item.url }}">{{ item.text }}</a>
                     </li>
                 {% endfor %}
             </ul>
