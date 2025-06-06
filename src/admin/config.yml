@@ -1,9 +1,6 @@
 backend:
-    name: git-gateway
-    branch: main
-    # Enable below lines for GitHub integration
-    # name: github
-    # repo: surjithctly/neat-starter
+    name: github
+    repo: jimbateson7/https-claudiadecarlo.com-
 
 publish_mode: editorial_workflow
 media_folder: 'src/static/img'
