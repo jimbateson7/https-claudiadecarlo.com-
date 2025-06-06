@@ -9,8 +9,8 @@
 }
 
 @theme {
-  --font-display: "bugaki", "serif";
-  --font-sans: "Inter", "sans-serif";
+  --font-display: "bugaki", serif;
+  --font-sans: "Inter", sans-serif;
 
   --color-brand-red: #cc2a24;
   --color-brand-purple: #552d62;
@@ -39,5 +39,17 @@
 
   h2 {
     @apply text-4xl md:text-5xl;
+  }
+
+  p {
+    @apply mb-4;
+  }
+
+  a:not([class]) {
+    @apply underline font-bold text-current hover:text-brand-red transition-colors duration-300;
+  }
+
+  .image-shadow {
+    box-shadow: 5px 5px 0px 0px rgba(252, 162, 59, .25);
   }
 }

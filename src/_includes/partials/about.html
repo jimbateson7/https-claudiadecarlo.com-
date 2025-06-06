@@ -1,14 +1,14 @@
-<section>
-    <div class="container mx-auto">
-        <div>
-            <h2>{{aboutTitle}}</h2>
+<section class="py-10">
+    <div class="container mx-auto md:flex gap-11">
+        <div class="md:max-w-1/4">
+            <h2 class="mb-10">{{aboutTitle}}</h2>
             <p>{{aboutSummary}}</p>
-            <a href="{{aboutLinkUrl}}" class="text-purple-600 hover:underline">{{aboutLinkText}}</a>
+            <a href="{{aboutLinkUrl}}">{{aboutLinkText}}</a>
         </div>
 
         {% if aboutImage %}
-            <div>
-                <img src="{{aboutImage}}" alt="" class="w-full max-w-2xl mt-4">
+            <div class="md:w-3/4">
+                <img src="{{aboutImage}}" alt="" class="w-full rounded-lg image-shadow" loading="lazy">
             </div>
         {% endif %}
     </div>
