@@ -2,12 +2,14 @@
     <div class="container mx-auto">
         <h2 class="text-white">{{testimonialsTitle}}</h2>
 
-        <ul class="flex gap-12 overflow-x-auto snap-x mt-16">
-            {% for testimonial in collections.testimonials %}
-                <li class="snap-center md:snap-start">
-                    {% include "partials/testimonialCard.html" %}
-                </li>
-            {% endfor %}
-        </ul>
+        <div class="overflow-x-auto snap-x snap-mandatory">
+            <ul class="flex gap-12 mt-16">
+                {% for testimonial in collections.testimonials %}
+                    <li class="snap-center md:snap-start">
+                        {% include "partials/testimonialCard.html" %}
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
     </div>
 </section>
