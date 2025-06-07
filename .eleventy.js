@@ -1,7 +1,6 @@
 const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const htmlmin = require("html-minifier");
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -31,16 +30,13 @@ module.exports = function (eleventyConfig) {
   // Copy Image Folder to /_site
   eleventyConfig.addPassthroughCopy("./src/static/img");
 
-  // Copy favicon to root of /_site
+  // Copy favicon folder
   eleventyConfig.addPassthroughCopy("./src/static/favicons");
 
   // Copy robots.txt
   eleventyConfig.addPassthroughCopy("./src/robots.txt");
 
-  // ✅ Watch partials for rebuilds
   eleventyConfig.addWatchTarget("./src/_includes/partials/");
-
-  // ✅ Optional: add reload delay to prevent premature reloads
   eleventyConfig.setBrowserSyncConfig({
     files: './_site/**/*',
     reloadDelay: 250,
@@ -62,20 +58,6 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("stripTrailingSlash", (url) => {
     return url.replace(/\/$/, "");
-  });
-
-  // Minify HTML
-  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
-    if (outputPath.endsWith(".html")) {
-      let minified = htmlmin.minify(content, {
-        useShortDoctype: true,
-        removeComments: true,
-        collapseWhitespace: true,
-      });
-      return minified;
-    }
-
-    return content;
   });
 
   return {
