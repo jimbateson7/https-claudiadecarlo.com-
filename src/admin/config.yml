@@ -242,9 +242,10 @@ collections:
       name: 'testimonials'
       folder: 'src/testimonials'
       create: true
+      slug: '{{fields.testimonialAuthor | slug}}'
       fields:
-          - label: 'Source'
-            name: 'source'
+          - label: 'Author'
+            name: 'testimonialAuthor'
             widget: 'string'
 
           - label: 'Body'

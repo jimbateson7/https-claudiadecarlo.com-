@@ -1,11 +1,11 @@
-<article class="rounded-lg border border-brand-purple/25 overflow-hidden max-w-[360px]">
+<article class="rounded-lg border border-brand-purple/25 overflow-hidden h-full flex flex-col max-w-[360px]">
     <img src="{{ service.data.cardImage }}" alt="" class="w-full h-56 object-cover">
 
-    <div class="p-6 flex flex-col">
+    <div class="p-6 flex flex-col flex-1">
         <h3 class="mb-4 text-balance">{{ service.data.title }}</h3>
         <p>{{ service.data.summary }}</p>
 
-        <a href="{{ service.url }}" class="btn btn-primary ml-auto mt-4">
+        <a href="{{ service.url }}" class="btn btn-primary ml-auto mt-auto">
             Find out more <span class="sr-only">about {{ service.data.title }}</span>
         </a>
     </div>

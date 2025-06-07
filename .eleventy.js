@@ -53,6 +53,14 @@ module.exports = function (eleventyConfig) {
     return [...collection.getFilteredByGlob('./src/services/*.md').filter(services)].reverse();
   });
 
+  eleventyConfig.addCollection('testimonials', (collection) => {
+    return collection
+      .getFilteredByGlob('./src/testimonials/*.md')
+      .filter((testimonial) => !testimonial.data.draft)
+      .reverse();
+  });
+  
+
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (outputPath.endsWith(".html")) {
