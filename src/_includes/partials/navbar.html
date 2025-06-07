@@ -19,10 +19,18 @@
 
         <div class="w-full flex-grow lg:flex lg:items-center lg:w-auto text-center " :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }" x-show.transition="true">
             {% if headerNavigation.headerItems %}
-                <ul class="pt-6 lg:pt-0 list-reset lg:flex justify-end flex-1 items-center">
+                <ul class="pt-6 lg:pt-0 list-reset lg:flex justify-end flex-1 gap-8 items-center">
                     {% for item in headerNavigation.headerItems %}
-                        <li class="nav__item mr-3">
-                            <a @click="isOpen = false" class="text-ml inline-block text-gray-500 no-underline hover:text-indigo-500 py-2 px-4" href="{{ item.url }}">{{ item.text }}</a>
+                        {% set currentUrl = page.url | stripTrailingSlash %}
+                        {% set navUrl = item.url | stripTrailingSlash %}                  
+
+                        <li>
+                            <a
+                                @click="isOpen = false"
+                                href="{{ item.url }}"
+                                class="no-underline font-display text-lg hover:underline underline-offset-2 decoration-2 hover:text-brand-red {% if currentUrl == navUrl %}text-brand-red underline underline-offset-2 decoration-2{% else %}text-brand-purple{% endif %}"
+                                aria-current="{% if currentUrl == navUrl %}page{% endif %}"
+                            >{{ item.text }}</a>
                         </li>
                     {% endfor %}
                 </ul>

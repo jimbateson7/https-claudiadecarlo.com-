@@ -59,7 +59,10 @@ module.exports = function (eleventyConfig) {
       .filter((testimonial) => !testimonial.data.draft)
       .reverse();
   });
-  
+
+  eleventyConfig.addFilter("stripTrailingSlash", (url) => {
+    return url.replace(/\/$/, "");
+  });
 
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
