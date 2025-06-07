@@ -22,11 +22,12 @@
 
 @utility container {
   max-width: 1340px;
+  padding-inline: 1rem;
 }
 
 @layer base {
   h1, h2, h3 {
-    @apply font-display;
+    @apply font-display text-balance;
   }
 
   h2, h3 {
@@ -34,7 +35,7 @@
   }
 
   h1 {
-    @apply text-brand-red mb-9 text-5xl md:text-6xl;
+    @apply text-brand-red mb-9 text-4xl md:text-6xl;
   }
 
   h2 {

@@ -23,7 +23,9 @@
   <body>
     {% include "./partials/navbar.html" %}
 
-    {{ content | safe }}
+    <main>
+      {{ content | safe }}
+    </main>
 
     {% include "./partials/footer.html" %}
 

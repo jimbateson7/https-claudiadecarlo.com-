@@ -1,10 +1,10 @@
-<section class="py-12 bg-brand-red text-white">
+<section class="py-6 md:py-12 bg-brand-red text-white">
     <div class="container mx-auto">
         <h2 class="text-white">{{testimonialsTitle}}</h2>
 
-        <ul class="flex gap-12 overflow-auto snap-x mt-16">
+        <ul class="flex gap-12 overflow-x-auto snap-x mt-16">
             {% for testimonial in collections.testimonials %}
-                <li class="snap-start">
+                <li class="snap-center md:snap-start">
                     {% include "partials/testimonialCard.html" %}
                 </li>
             {% endfor %}
