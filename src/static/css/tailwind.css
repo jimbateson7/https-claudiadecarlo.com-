@@ -72,7 +72,7 @@
     @apply text-xl font-medium lg:text-2xl;
   }
 
-  .page-content p {
+  .page-content p, li {
     @apply lg:text-lg;
   }
 }
