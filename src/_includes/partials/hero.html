@@ -3,7 +3,7 @@
 
     {% if bannerImage %}
         <div class="mt-6">
-            <img src="{{bannerImage}}" alt="" class="w-full rounded-lg image-shadow">
+            <img src="{{bannerImage}}" alt="" class="w-full rounded-lg image-shadow" loading="eager" fetchpriority="high">
         </div>
     {% endif %}
 </section>
