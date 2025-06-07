@@ -1,4 +1,5 @@
 ---
+layout: page.html
 title: 1:1 coaching and mentoring
 cardImage: /static/img/1747215352004.jpeg
 summary: Through coaching, emotional processing, and mindset work, I empower you

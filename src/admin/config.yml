@@ -222,6 +222,11 @@ collections:
       folder: 'src/services'
       create: true
       fields:
+          - label: 'Layout'
+            name: 'layout'
+            widget: 'hidden'
+            default: 'page.html'
+
           - label: 'Title'
             name: 'title'
             widget: 'string'
