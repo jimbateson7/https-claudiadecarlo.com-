@@ -1,7 +1,7 @@
 socialItems:
-    - text: Linkedin
-      url: /test
-    - text: Instagram
-      url: /test-2
-    - text: Substack
-      url: /
+  - text: Linkedin
+    url: https://www.linkedin.com/in/claudiadecarlo/
+  - text: Instagram
+    url: https://www.instagram.com/claudecarlo/
+  - text: Substack
+    url: https://solarpoweredcollective.substack.com/
