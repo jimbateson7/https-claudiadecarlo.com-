@@ -6,8 +6,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>
-      {{title}}
+      {% if path == "home" %}
+        Home - {{ siteSettings.author }}
+      {% else %}
+        {{ title }} - {{ siteSettings.author }}
+      {% endif %}
     </title>
+
+    {% set pageDesc = '' %}
+    
+    {% if metaDesc %}
+      {% set pageDesc = metaDesc %}
+    {% endif %}
+
+    <meta property="og:site_name" content="{{ siteTitle }}" />
+    <meta property="og:title" content="{{ pageTitle }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ currentUrl }}" />
+
+    {% if metaDesc %}
+      <meta name="description" content="{{ metaDesc }}" />
+      <meta name="twitter:description" content="{{ metaDesc }}" />
+      <meta property="og:description" content="{{ metaDesc }}" />
+    {% endif %}
 
     {% if description %}
       <meta name="description" content="{{description}}"/>
