@@ -154,7 +154,12 @@ collections:
                 required: false,
             }
 
-          - { label: 'Permalink Override', name: 'permalink', widget: 'string' }
+          - {
+                label: 'Permalink Override',
+                name: 'permalink',
+                widget: 'string',
+                required: false,
+            }
 
           - {
                 label: 'SEO Meta Title',

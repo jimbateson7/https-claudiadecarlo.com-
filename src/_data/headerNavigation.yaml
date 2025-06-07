@@ -1,7 +1,7 @@
 headerItems:
-    - text: How I help
-      url: /how-i-help
-    - text: About
-      url: /about
-    - text: Resources
-      url: /resources
+  - text: How I help
+    url: /how-i-help
+  - text: About
+    url: /about-me
+  - text: Resources
+    url: /resources

@@ -63,4 +63,16 @@
   .btn {
     @apply rounded-lg bg-brand-purple text-white font-display inline-block px-4 py-3 hover:bg-brand-red transition-colors duration-300;
   }
+
+  .page-content ul {
+    @apply list-disc pl-4 space-y-2 marker:text-brand-purple; 
+  }
+
+  .page-content > p:first-of-type {
+    @apply text-xl font-medium lg:text-2xl;
+  }
+
+  .page-content p {
+    @apply lg:text-lg;
+  }
 }
