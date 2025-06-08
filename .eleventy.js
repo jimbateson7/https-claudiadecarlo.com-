@@ -33,6 +33,9 @@ module.exports = function (eleventyConfig) {
   // Copy favicon folder
   eleventyConfig.addPassthroughCopy("./src/static/favicons");
 
+  // Copy fonts folder
+  eleventyConfig.addPassthroughCopy("./src/static/fonts");
+
   // Copy robots.txt
   eleventyConfig.addPassthroughCopy("./src/robots.txt");
 
