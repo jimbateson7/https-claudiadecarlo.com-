@@ -1,5 +1,5 @@
 <header class="w-full container mx-auto">
-    <nav class="flex items-center justify-center lg:justify-between flex-wrap p-6 lg:px-0 container mx-auto" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false" aria-label="Main">
+    <nav class="flex items-center justify-center lg:justify-between flex-wrap py-6" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false" aria-label="Main">
         <div class="flex items-center">
             <a href="/">
                 <img src="/static/img/logo.png" class="max-w-48 md:max-w-52" alt="Claudia de Carlo">
@@ -19,7 +19,7 @@
 
         <div class="w-full flex-grow lg:flex lg:items-center lg:w-auto lg:max-w-[625px]" :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }" x-show.transition="true" id="main-nav">
             {% if headerNavigation.headerItems %}
-                <ul class="pt-6 lg:pt-0 lg:flex flex-1 gap-8 items-center">
+                <ul class="pt-6 lg:pt-0 flex flex-1 gap-6 md:gap-8 items-center">
                     {% for item in headerNavigation.headerItems %}
                         {% set currentUrl = page.url | stripTrailingSlash %}
                         {% set navUrl = item.url | stripTrailingSlash %}                  

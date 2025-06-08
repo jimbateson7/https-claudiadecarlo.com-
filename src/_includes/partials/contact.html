@@ -1,5 +1,5 @@
 <section class="py-6 md:py-12">
-    <div class="container mx-aut flex flex-col md:flex-row gap-11">
+    <div class="container mx-auto flex flex-col md:flex-row md:gap-11">
         {% if contactImage %}
             <div class="order-2 mt-5 md:mt-0 md:order-1 md:w-3/4">
                 <img src="{{contactImage}}" alt="" class="w-full rounded-lg image-shadow" loading="lazy">
@@ -7,7 +7,7 @@
         {% endif %}
 
         <div class="order-1 md:order-2 md:max-w-1/4">
-            <h2 class="mb-10">{{contactTitle}}</h2>
+            <h2 class="md:mb-10">{{contactTitle}}</h2>
             <p>{{contactSummary}}</p>
             <a href="{{contactLinkUrl}}">{{contactLinkText}}</a>
         </div>
