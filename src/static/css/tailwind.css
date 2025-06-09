@@ -76,4 +76,16 @@
   .page-content p, li {
     @apply lg:text-lg;
   }
+
+  .page-content img {
+    @apply rounded-lg my-6;
+  }
+
+  .page-content blockquote {
+    @apply border-l-4 border-brand-red pl-4 font-display my-8;
+  }
+
+  .page-content blockquote p {
+   @apply text-2xl lg:text-4xl  my-8;
+  }
 }
