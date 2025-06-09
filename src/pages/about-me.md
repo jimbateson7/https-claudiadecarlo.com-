@@ -4,7 +4,7 @@ title: About me
 bannerImage: /static/img/about-image.jpg
 permalink: /about-me/
 ---
-Hey, I’m Clau 👋
+## Hey, I’m Clau 👋
 
 Just a regular girl who dared to believe she could transform her life ✨
 
