@@ -3,7 +3,16 @@
 @font-face {
   font-family: "bugaki";
   src: url("/static/fonts/bugaki.woff2") format("woff2");
-  font-weight: normal;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+
+}
+
+@font-face {
+  font-family: "work-sans";
+  src: url("/static/fonts/worksans.woff2") format("woff2");
+  font-weight: 400 500 700;
   font-style: normal;
   font-display: swap;
 
@@ -11,7 +20,7 @@
 
 @theme {
   --font-display: "bugaki", serif;
-  --font-sans: "Inter", sans-serif;
+  --font-sans: "work-sans", sans-serif;
 
   --color-brand-red: #cc2a24;
   --color-brand-purple: #552d62;
