@@ -79,7 +79,7 @@
   }
 
   .btn {
-    @apply rounded-lg bg-brand-purple text-white font-display inline-block px-4 py-3 hover:bg-brand-red transition-colors duration-300;
+    @apply rounded-lg bg-brand-purple text-white font-display inline-block px-5 py-2.5 hover:bg-brand-red transition-colors duration-300;
   }
 
   .page-content ul {

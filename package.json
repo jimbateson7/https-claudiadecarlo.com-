@@ -25,6 +25,7 @@
     "@11ty/eleventy-img": "^6.0.4",
     "@tailwindcss/postcss": "^4.1.8",
     "autoprefixer": "^10.4.2",
+    "markdown-it": "^14.1.0",
     "postcss": "^8.5.4",
     "tailwindcss": "^4.1.8"
   }
