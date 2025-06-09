@@ -1,5 +1,5 @@
-<section class="pt-6 pb-12">
-    <h1 class="font-bold lg:text-7xl">{{title}}</h1>
+<section class="pt-6 {% if bannerImage %}pb-12{% else %}pb-6{% endif %}">
+    <h1 class="font-bold lg:text-7xl {% if bannerImage %}mb-9{% else %}mb-0{% endif %}">{{title}}</h1>
 
     {% if bannerImage %}
         <div class="mt-6">
