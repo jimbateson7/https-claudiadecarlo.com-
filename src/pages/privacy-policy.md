@@ -16,7 +16,7 @@ We are committed to protecting your privacy. This Privacy Policy outlines how we
 collect, use, and safeguard your personal information in compliance with GDPR and
 applicable UK laws.
 
-## Information We Collect
+## Information we collect
 
 * Personal Information: If you contact us via our website, we may collect your name,
   email address, and phone number.
