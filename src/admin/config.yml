@@ -322,25 +322,6 @@ collections:
                         name: url
                         widget: string
 
-          - label: 'Quick Links'
-            name: 'links'
-            file: 'src/_data/quick-links.yaml'
-            fields:
-                - label: Nav Items
-                  name: links
-                  widget: list
-                  collapsed: false
-                  fields:
-                      - label: Title
-                        name: title
-                        widget: string
-                      - label: URL
-                        name: url
-                        widget: string
-                      - label: Description
-                        name: desc
-                        widget: string
-
           - label: 'Site Settings'
             name: 'siteSettings'
             file: 'src/_data/siteSettings.yaml'
