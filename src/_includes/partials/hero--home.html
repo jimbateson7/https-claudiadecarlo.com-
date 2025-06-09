@@ -1,6 +1,6 @@
 <section>
     <div class="container mx-auto flex flex-col gap-11 md:flex-row md:items-center">
-        <div class="text-center md:max-w-1/2">
+        <div class="text-center md:max-w-1/2 flex-shrink-0">
             <img src="{{avatarImage}}" alt="" class="rounded-full w-32 h-32 mt-8 mb-4 mx-auto md:mt-0" loading="eager" fetchpriority="high">
             <h1>{{title}}</h1>
             <h2 class="text-2xl text-balance">{{subtitle}}</h2>
@@ -9,7 +9,7 @@
         
         {% if heroImage %}
             <div>
-                <img src="{{heroImage}}" alt="" class="w-full rounded-lg image-shadow">
+                <img src="{{heroImage}}" alt="" class="w-full rounded-lg image-shadow" loading="eager" fetchpriority="high">
             </div>
         {% endif %}
     </div>
