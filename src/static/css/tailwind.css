@@ -27,12 +27,12 @@
 }
 
 @layer base {
-  h1, h2, h3 {
+  h1, h2, h3, h4 {
     @apply font-display text-balance;
   }
 
-  h2, h3 {
-    @apply text-brand-purple text-2xl;
+  h2, h3, h4 {
+    @apply text-brand-purple;
   }
 
   h1 {
@@ -41,6 +41,14 @@
 
   h2 {
     @apply text-4xl mb-7 md:text-5xl;
+  }
+
+  h3 {
+    @apply text-3xl;
+  }
+
+  h4 {
+    @apply text-2xl;
   }
 
   p {
