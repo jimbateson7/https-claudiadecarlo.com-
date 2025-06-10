@@ -1,0 +1,32 @@
+<article class="rounded-lg border border-brand-purple/25 overflow-hidden h-full flex flex-col min-w-80">
+    <img src="{{ post.data.cardImage }}" alt="" class="w-full h-64 object-cover" loading="lazy" />
+  
+    <div class="p-6 flex flex-col flex-1 min-w-0">
+        <h3 class="mb-4 text-pretty">
+          {{ post.data.title }}
+        </h3>
+
+        <div class="mb-3 flex items-center gap-4">
+          <div class="leading-6">
+            <time>
+              {{ post.date | readableDate }}
+            </time>
+          
+            <p class="mb-0">by <span class="font-medium text-brand-purple">{{ post.data.author }}</span></p>
+        </div>
+
+          <img src="{{ post.data.authorImage | default('/static/img/1747215352004.jpeg') }}" alt="" class="inline-block w-12 h-12 rounded-full" loading="lazy">
+        </div>
+
+        {% if post.data.description %}
+            <p class="text-lg mb-6">
+                {{ post.data.description }}
+            </p>
+        {% endif %}
+  
+        <a href="{{ post.url | url }}" class="btn btn-primary outline-brand-purple inline-flex mt-auto max-w-max">
+          Read article <span class="sr-only"> {{ post.data.title }}</span>
+        </a>
+    </div>
+  </article>
+  

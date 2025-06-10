@@ -83,7 +83,11 @@
   }
 
   .page-content ul {
-    @apply list-disc pl-4 space-y-2 marker:text-brand-purple; 
+    @apply list-disc pl-6 space-y-2 marker:text-brand-purple; 
+  }
+
+  .page-content ol {
+    @apply list-decimal pl-6 space-y-2 marker:text-brand-purple; 
   }
 
   .page-content > p:first-of-type {

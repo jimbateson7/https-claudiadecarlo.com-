@@ -1,6 +1,21 @@
 <section class="pt-6 {% if bannerImage %}pb-12{% else %}pb-6 lg:pb-12{% endif %}">
     <h1 class="font-bold lg:text-7xl text-balance max-w-prose {% if bannerImage %}mb-9{% else %}mb-0{% endif %}">{{title}}</h1>
 
+    {% if author %}
+        <div class="mb-3 flex items-center gap-4 mt-8">
+            <div class="leading-6 text-lg">
+                <time>
+                {{ date | readableDate }}
+                </time>
+
+                <p class="mb-0">by <span class="font-medium text-brand-purple">{{ author }}</span></p>
+            </div>
+
+            <img src="{{ post.data.authorImage | default('/static/img/1747215352004.jpeg') }}" alt="" class="inline-block w-20 h-20 rounded-full image-shadow" loading="lazy">
+        </div>
+    {% endif %}
+    
+
     {% if bannerImage %}
         <div class="mt-6">
             <img src="{{bannerImage}}" alt="" class="w-full rounded-lg image-shadow" loading="eager" fetchpriority="high">

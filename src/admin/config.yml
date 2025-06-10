@@ -198,13 +198,30 @@ collections:
             name: 'description'
             widget: 'string'
 
+          - label: 'Card Image'
+            name: 'cardImage'
+            widget: 'image'
+
+          - label: 'Banner Image'
+            name: 'bannerImage'
+            widget: 'image'
+            required: false
+
           - label: 'Author'
             name: 'author'
+            default: 'Claudia de Carlo'
             widget: 'string'
+
+          - label: 'Author Image'
+            name: 'authorImage'
+            widget: 'image'
+            default: '1747215352004.jpeg'
+            required: false
 
           - label: 'Publish Date'
             name: 'date'
             widget: 'datetime'
+            date_format: 'DD/MM/YYYY'
 
           - label: 'Body'
             name: 'body'
@@ -212,10 +229,8 @@ collections:
 
           - label: 'Tags'
             name: 'tags'
-            widget: 'select'
-            multiple: true
-            create: true
-            options: ['Tags', 'created', 'from', 'config.yml']
+            widget: 'list'
+            required: false
 
     - label: 'Services'
       name: 'services'

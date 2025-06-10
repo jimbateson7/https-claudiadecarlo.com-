@@ -5,3 +5,5 @@ headerItems:
     url: /about-me
   - text: Resources
     url: /resources
+  - text: Blog
+    url: /blog
