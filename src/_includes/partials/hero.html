@@ -3,18 +3,27 @@
 
     {% if author %}
         <div class="mb-3 flex items-center gap-4 mt-8">
-            <div class="leading-6 text-lg">
+            <div class="leading-6 text-lg max-w-2xs">
                 <time>
                 {{ date | readableDate }}
                 </time>
 
                 <p class="mb-0">by <span class="font-medium text-brand-purple">{{ author }}</span></p>
+
+                {% if tags %}
+                    <ul class="flex flex-wrap gap-2 mt-2.5">
+                        {% for tag in tags %}
+                            <li class="inline-block px-3 py-1 bg-brand-purple text-white rounded-lg text-sm font-medium hover:bg-brand-purple-dark transition-colors">
+                                {{ tag }}
+                            </li>
+                        {% endfor %}
+                        </ul>
+                {% endif %}
             </div>
 
-            <img src="{{ post.data.authorImage | default('/static/img/1747215352004.jpeg') }}" alt="" class="inline-block w-20 h-20 rounded-full image-shadow" loading="lazy">
+            <img src="{{ post.data.authorImage | default('/static/img/1747215352004.jpeg') }}" alt="" class="inline-block w-20 h-20 min-w-20 rounded-full image-shadow">
         </div>
     {% endif %}
-    
 
     {% if bannerImage %}
         <div class="mt-6">
