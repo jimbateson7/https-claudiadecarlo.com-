@@ -7,7 +7,7 @@
                 {{ siteSettings.subscribeSummary | markdown | safe }}
             </div>
 
-            <form class="mt-4" netlify name="subscribe" data-netlify-honeypot="bot-field">
+            <form class="mt-4" method="POST" netlify name="subscribe" data-netlify-honeypot="bot-field">
                 <div>
                     <label for="email" class="font-bold text-lg mb-4 block">Email address</label>
                 </div>
