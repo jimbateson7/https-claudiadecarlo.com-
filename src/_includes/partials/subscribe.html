@@ -8,6 +8,14 @@
             </div>
 
             <form class="mt-4" method="POST" netlify name="subscribe" data-netlify-honeypot="bot-field">
+                <!-- Hidden input that lets Netlify detect the form -->
+  <input type="hidden" name="form-name" value="subscribe" />
+
+  <!-- Honeypot field (hidden from users) -->
+  <p hidden>
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+  </p>
+  
                 <div>
                     <label for="email" class="font-bold text-lg mb-4 block">Email address</label>
                 </div>
