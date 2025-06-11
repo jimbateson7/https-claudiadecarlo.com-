@@ -1,0 +1,13 @@
+---
+layout: default
+tite: Thank you
+prism: true
+---
+
+<div class="container mx-auto">
+    {% include "./partials/hero.html" %}
+
+    <article class="max-w-[75ch] mx-auto space-y-5 first-[p]:text-lg page-content">
+        {{ content | safe }}
+    </article>
+</div>

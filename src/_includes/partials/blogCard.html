@@ -1,5 +1,7 @@
 <article class="rounded-lg border border-brand-purple/25 overflow-hidden h-full flex flex-col min-w-80">
-    <img src="{{ post.data.cardImage }}" alt="" class="w-full h-64 object-cover" loading="lazy" />
+    {% if post.data.cardImage %}
+      <img src="{{ post.data.cardImage }}" alt="" class="w-full h-64 object-cover" loading="lazy" />
+    {% endif %}
   
     <div class="p-6 flex flex-col flex-1 min-w-0">
         <h3 class="mb-4 text-pretty">

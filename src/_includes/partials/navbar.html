@@ -27,7 +27,7 @@
                             <a
                                 @click="isOpen = false"
                                 href="{{ item.url }}"
-                                class="no-underline font-display text-lg hover:underline underline-offset-2 decoration-2 hover:text-brand-red {% if currentUrl == navUrl %}text-brand-red underline underline-offset-2 decoration-2{% else %}text-brand-purple{% endif %}"
+                                class="no-underline font-display font-medium text-lg hover:underline underline-offset-2 decoration-2 hover:text-brand-red {% if currentUrl == navUrl %}text-brand-red underline underline-offset-2 decoration-2{% else %}text-brand-purple{% endif %}"
                                 aria-current="{% if currentUrl == navUrl %}page{% endif %}"
                             >{{ item.text }}</a>
                         </li>

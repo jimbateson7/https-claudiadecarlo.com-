@@ -3,8 +3,8 @@ title: To everyone who struggled with the heat at the London Marathon 2025
 description: I wrote this post on the TCS London Marathon 2025 Facebook group,
   and it was so well received, that it motivated me to start this collective so
   we can share more of this stuff.
-cardImage: /static/img/915ee597-fb43-469f-8b9e-9cb3499754d3_1247x1374.webp
-author: Claudia de Carlo
+cardImage: ""
+author: Claudia De Carlo
 date: 2025-05-07T07:35:52.857Z
 tags:
   - Running

@@ -6,7 +6,7 @@ summary: As a strategic business partner, I help elevate your ideas into
   high-impact outcomes by defining and materialising objectives, creating
   tactical plans, aligning the team, and establishing clear steps to reach your
   goals.
-bannerImage: /static/img/contact-image.jpg
+bannerImage: ""
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu odio quam. In vehicula lacinia laoreet. Nunc sagittis lacus quis neque volutpat rutrum dictum sed augue. Nullam ut dolor tincidunt, sagittis quam ut, aliquet ante. Nunc porttitor vehicula odio eu sagittis. Aenean dapibus ac nibh sed cursus. Cras ut ligula lectus. Aenean et ex id turpis aliquam sodales ac in magna. Sed vulputate at ex sed gravida.
 

@@ -6,6 +6,8 @@ publish_mode: editorial_workflow
 media_folder: 'src/static/img'
 public_folder: '/static/img'
 site_url: https://claudiadecarlo.com/
+display_url: https://claudiadecarlo.com
+logo_url: https://claudiadecarlo.com/img/3F6J-6VwmB-261.webp
 
 # Run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
@@ -201,6 +203,7 @@ collections:
           - label: 'Card Image'
             name: 'cardImage'
             widget: 'image'
+            required: false
 
           - label: 'Banner Image'
             name: 'bannerImage'
@@ -209,7 +212,7 @@ collections:
 
           - label: 'Author'
             name: 'author'
-            default: 'Claudia de Carlo'
+            default: 'Claudia De Carlo'
             widget: 'string'
 
           - label: 'Author Image'

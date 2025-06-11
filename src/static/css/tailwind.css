@@ -1,15 +1,6 @@
 @import "tailwindcss";
 
 @font-face {
-  font-family: "bugaki";
-  src: url("/static/fonts/bugaki.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-
-}
-
-@font-face {
   font-family: "work-sans";
   src: url("/static/fonts/worksans.woff2") format("woff2");
   font-weight: 400 500 700;
@@ -21,25 +12,7 @@
 @font-face {
   font-family: "lora";
   src: url("/static/fonts/Lora.woff2") format("woff2");
-  font-weight: 750;
-  font-style: normal;
-  font-display: swap;
-
-}
-
-@font-face {
-  font-family: "italiana";
-  src: url("/static/fonts/italiana.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-
-}
-
-@font-face {
-  font-family: "cormorant";
-  src: url("/static/fonts/Cormorant.woff2") format("woff2");
-  font-weight: 700;
+  font-weight: 750 500 550 400;
   font-style: normal;
   font-display: swap;
 
@@ -49,8 +22,8 @@
   --font-display: "lora", serif;
   --font-sans: "work-sans", sans-serif;
 
-  --color-brand-red: #cc2a24;
-  --color-brand-purple: #552d62;
+  --color-brand-red: #c74c49;
+  --color-brand-purple: #912c61;
   --color-brand-yellow: #fca23b;
 
   --ease-fluid: cubic-bezier(0.3, 0, 0, 1);

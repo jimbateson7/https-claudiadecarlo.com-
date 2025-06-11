@@ -1,11 +1,11 @@
 <section class="pt-6 {% if bannerImage %}pb-12{% else %}pb-6 lg:pb-12{% endif %}">
-    <h1 class="font-bold lg:text-7xl text-balance max-w-prose {% if bannerImage %}mb-9{% else %}mb-0{% endif %}">{{title}}</h1>
+    <h1 class="font-medium lg:text-7xl text-balance max-w-prose {% if bannerImage %}mb-9{% else %}mb-0{% endif %}">{{title}}</h1>
 
     {% if author %}
         <div class="mb-3 flex items-center gap-4 mt-8">
             <div class="leading-6 text-lg max-w-2xs">
                 <time>
-                {{ date | readableDate }}
+                    {{ date | readableDate }}
                 </time>
 
                 <p class="mb-0">by <span class="font-medium text-brand-purple">{{ author }}</span></p>
