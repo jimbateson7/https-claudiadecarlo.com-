@@ -62,6 +62,10 @@
       {{ content | safe }}
     </main>
 
+    {% if siteSettings.showSubscribeForm %}
+      {% include "./partials/subscribe.html" %}
+    {% endif %}
+
     {% include "./partials/footer.html" %}
 
     <script src="/static/js/alpine.js"></script>

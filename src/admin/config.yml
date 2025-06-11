@@ -353,3 +353,16 @@ collections:
                 - label: Email Address
                   name: email
                   widget: string
+                - label: Show Subscribe Form
+                  name: showSubscribeForm
+                  widget: boolean
+                  default: true
+                - label: Subscribe Heading
+                  name: subscribeHeading
+                  widget: string
+                - label: Subscribe Summary
+                  name: subscribeSummary
+                  widget: markdown
+                - label: Subscribe Button
+                  name: subscribeButton
+                  widget: string

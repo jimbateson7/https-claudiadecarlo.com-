@@ -1,0 +1,23 @@
+<section class="py-6 md:pt-12">
+    <div class="container mx-auto">
+        <div class="p-6 lg:p-11 bg-brand-yellow/25 rounded-lg">
+            <h2>{{ siteSettings.subscribeHeading }}</h2>
+
+            <div class="max-w-[85ch]">
+                {{ siteSettings.subscribeSummary | markdown | safe }}
+            </div>
+
+            <form class="mt-4" netlify name="subscribe" data-netlify-honeypot="bot-field">
+                <div>
+                    <label for="email" class="font-bold text-lg mb-4 block">Email address</label>
+                </div>
+
+                <div class="flex gap-4">
+                    <input type="email" id="email" name="email" class="lg:max-w-[400px] flex-1 p-2.5 rounded-lg bg-white border-3 border-brand-purple" required>
+
+                    <button type="submit" class="btn">{{ siteSettings.subscribeButton }}</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>

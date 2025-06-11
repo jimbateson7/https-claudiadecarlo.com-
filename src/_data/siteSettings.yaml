@@ -2,3 +2,10 @@ name: claudiadecarlo.com
 author: Claudia de Carlo
 url: https://claudiadecarlo.com/
 email: hello@claudiadecarlo.com
+showSubscribeForm: true
+subscribeHeading: Stay in touch
+subscribeSummary: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+  Voluptates illo tempora nemo esse debitis magni sed, nulla facere distinctio
+  maiores obcaecati sint nesciunt possimus labore rerum itaque. Quaerat,
+  perferendis vero!
+subscribeButton: Subscribe
