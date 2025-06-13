@@ -4,12 +4,15 @@ layout: blog
 
 <section>
     {% set postslist = collections.post %}
+    <div>
+        <h2 class="-mt-4 md:-mt-8 font-medium">Solar-Powered Collective</h2>
 
-    <ul class="grid gap-4 lg:gap-8 md:grid-cols-2">
-        {% for post in postslist | reverse %}
-            <li>
-                {% include "partials/blogCard.html" %}
-            </li>
-        {% endfor %}
-    </ul>
+        <ul class="grid gap-4 lg:gap-8 md:grid-cols-2">
+            {% for post in postslist | reverse %}
+                <li>
+                    {% include "partials/blogCard.html" %}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
 </section>
