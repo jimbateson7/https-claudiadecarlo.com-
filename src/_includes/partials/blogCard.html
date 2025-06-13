@@ -17,7 +17,7 @@
             <p class="mb-0">by <span class="font-medium text-brand-purple">{{ post.data.author }}</span></p>
         </div>
 
-          <img src="{{ post.data.authorImage | default('/static/img/1747215352004.jpeg') }}" alt="" class="inline-block w-12 h-12 rounded-full" loading="lazy">
+          <img src="{{ post.data.authorImage }}" alt="" class="inline-block w-12 h-12 rounded-full" loading="lazy">
         </div>
 
         {% if post.data.description %}

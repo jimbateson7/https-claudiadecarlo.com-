@@ -5,6 +5,7 @@ description: I wrote this post on the TCS London Marathon 2025 Facebook group,
   we can share more of this stuff.
 cardImage: ""
 author: Claudia De Carlo
+authorImage: /static/img/1747215352004.jpeg
 date: 2025-05-07T07:35:52.857Z
 tags:
   - Running

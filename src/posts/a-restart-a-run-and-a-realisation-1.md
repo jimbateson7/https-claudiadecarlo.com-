@@ -3,7 +3,8 @@ title: A Restart, a Run, and a Realisation
 description: The finish line was only the beginning.
 cardImage: ""
 author: Claudia De Carlo
-date: 2025-05-26T18:12:11.927Z
+authorImage: /static/img/1747215352004.jpeg
+date: 2025-05-26T08:29:56.691Z
 tags:
   - created
 ---
