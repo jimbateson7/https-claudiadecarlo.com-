@@ -1,9 +1,21 @@
 <figure class="min-w-80 md:min-w-[360px]">
+    <figcaption class="mb-6">
+        <div class="flex items-center gap-8 just">
+            <p class="text-lg font-display m-0">
+                <span class="block">{{ testimonial.data.testimonialAuthor }}</span>
+
+                {% if testimonial.data.testimonialAuthorLocation %}
+                    <span>{{ testimonial.data.testimonialAuthorLocation }}</span>
+                {% endif %}
+            </p>
+
+            {% if testimonial.data.testimonialAuthorImage %}
+                <img src="{{ testimonial.data.testimonialAuthorImage }}" alt="{{ testimonial.data.testimonialAuthor }}" class="w-16 h-16 rounded-full image-shadow" loading="lazy">
+            {% endif %}
+        </div>
+    </figcaption>
+
     <blockquote class="md:text-lg leading-[1.4] font-medium">
         {{ testimonial.templateContent | safe }}
     </blockquote>
-
-    <figcaption>
-        <p class="text-lg font-display">{{ testimonial.data.testimonialAuthor }}</p>
-    </figcaption>
 </figure>

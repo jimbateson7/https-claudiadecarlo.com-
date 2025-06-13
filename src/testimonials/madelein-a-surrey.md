@@ -1,5 +1,6 @@
 ---
-testimonialAuthor: Madelein A. - Surrey
+testimonialAuthor: Madelein A.
+testimonialAuthorLocation: Surrey
 ---
 As a professional woman whose career path has changed late in life it has been a very difficult period for me, and with Claudia’s guidance I have found a different way to move forward into a new career.
 

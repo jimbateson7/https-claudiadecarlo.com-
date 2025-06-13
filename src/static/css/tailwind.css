@@ -79,6 +79,10 @@
     box-shadow: 5px 5px 0px 0px rgba(252, 162, 59, .25);
   }
 
+  .card-shadow {
+    box-shadow: 5px 5px 0px 0px var(--color-brand-purple-light);
+  }
+
   .btn {
     @apply rounded-lg bg-brand-purple text-white font-display inline-block px-5 py-2.5 hover:bg-brand-red transition-colors duration-300;
   }

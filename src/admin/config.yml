@@ -276,6 +276,16 @@ collections:
             name: 'testimonialAuthor'
             widget: 'string'
 
+          - label: 'Author Location'
+            name: 'testimonialAuthorLocation'
+            widget: 'string'
+            required: false
+
+          - label: 'Author Image'
+            name: 'testimonialAuthorImage'
+            widget: 'image'
+            required: false
+
           - label: 'Body'
             name: 'body'
             widget: 'markdown'
