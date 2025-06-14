@@ -24,6 +24,10 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("dd LLL yyyy");
   });
 
+  eleventyConfig.addGlobalData("currentYear", () => {
+    return DateTime.now().toFormat("yyyy");
+  });
+
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 
   eleventyConfig.addPassthroughCopy({

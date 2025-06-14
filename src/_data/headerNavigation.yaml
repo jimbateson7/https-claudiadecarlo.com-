@@ -1,9 +1,9 @@
 headerItems:
-  - text: How I help
-    url: /how-i-help
   - text: About
     url: /about-me
-  - text: Resources
-    url: /resources
+  - text: Services
+    url: /how-i-help
+  - text: Success stories
+    url: /todo
   - text: Blog
     url: /blog

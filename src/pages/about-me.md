@@ -38,4 +38,6 @@ I’m also a…
 * Runner
 * Writer
 
-I’d love to meet you, let’s [book you in for a free discovery call](mailto:hello@claudiadecarlo.com) 💌
+I'd love to meet you. I offer a free 20 minute Discovery Call to walk through your needs and see whether we’re a good fit. \
+\
+[Email me](mailto:hello@claudiadecarlo.com) and I’ll let you know my availability.
