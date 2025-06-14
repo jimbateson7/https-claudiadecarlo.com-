@@ -11,8 +11,8 @@
         </div>
         
         {% if heroImage %}
-            <div>
-                <img src="{{heroImage}}" alt="" class="w-full rounded-lg image-shadow max-h-[700px]" loading="eager" fetchpriority="high">
+            <div class="lg:w-[625px]">
+                <img src="{{heroImage}}" width="625" alt="" class="object-cover w-full rounded-lg image-shadow max-h-[700px]" loading="eager" fetchpriority="high">
             </div>
         {% endif %}
     </div>
