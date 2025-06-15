@@ -131,6 +131,10 @@
   }
 
   .splide__arrow--prev {
-    @apply -left-8 rotate-180;
+    @apply -left-8;
+  }
+
+  .splide__arrow--prev svg {
+    @apply rotate-180;
   }
 }

@@ -3,8 +3,9 @@ layout: page.html
 title: 1:1 coaching and mentoring
 cardImage: /static/img/avatar-large.jpg
 summary: Through coaching, emotional processing, and mindset work, I empower you
-  to live with purpose, freedom, and clarity. You'll make empowered decisions
-  and step into your full potential every day.
+  to live with purpose, freedom, and clarity. You'll make empowered decisions
+  and step into your full potential, making aligned choices, for more freedom,
+  ease and joy.
 bannerImage: /static/img/about-image.jpg
 ---
 ## Heading 2
