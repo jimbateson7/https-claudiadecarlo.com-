@@ -3,10 +3,34 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const markdownIt = require("markdown-it");
+const esbuild = require('esbuild');
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyImageTransformPlugin);
   eleventyConfig.addPlugin(syntaxHighlight);
+
+  eleventyConfig.addTemplateFormats('js');
+
+  eleventyConfig.addExtension('js', {
+    outputFileExtension: 'js',
+    compile: async (content, path) => {
+      if (path !== './src/static/js/index.js') {
+        return;
+      }
+
+      return async () => {
+        let output = await esbuild.build({
+          target: 'es2020',
+          entryPoints: [path],
+          minify: true,
+          bundle: true,
+          write: false,
+        });
+
+        return output.outputFiles[0].text;
+      }
+    }
+  });
 
   const md = new markdownIt({
     html: true,
