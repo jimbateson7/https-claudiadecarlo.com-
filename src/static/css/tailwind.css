@@ -123,6 +123,7 @@
 
   .splide__arrow {
     @apply lg:absolute -right-8 top-1/2 -translate-y-1/2 p-2 rounded-full w-10 h-10 flex items-center justify-center bg-brand-purple-light;
+    box-shadow: 5px 5px 0px 0px rgba(252, 162, 59, .25);
   }
 
   .splide__arrow[disabled] {
