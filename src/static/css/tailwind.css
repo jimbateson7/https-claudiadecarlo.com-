@@ -137,4 +137,8 @@
   .splide__arrow--prev svg {
     @apply rotate-180;
   }
+
+  .splide__slide:not(.is-active) {
+    @apply h-0 lg:h-auto;
+  }
 }

@@ -8,7 +8,7 @@
     <div class="container mx-auto">
         <h2 class="font-medium">{{testimonialsTitle}}</h2>
 
-        <div class="px-2 md:px-11 mt-12 splide" aria-label="Testimonials Slider" data-splide='{ "perPage": 2, "gap": "3rem", "breakpoints": { "1023": { "perPage": 1 } } }''>
+        <div class="px-2 md:px-11 mt-12 splide" aria-label="Testimonials Slider" data-splide='{ autoHeight": true, "updateOnMove": true, "perPage": 2, "gap": "3rem", "breakpoints": { "1023": { "perPage": 1 } } }''>
             <div class="splide__track">
                 <ul class="md:mt-8 splide__list">
                     {% for testimonial in collections.testimonials %}
