@@ -18,7 +18,7 @@
 
         <div class="w-full flex-grow lg:flex lg:items-center lg:justify-end lg:w-auto lg:gap-12" :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }" x-show.transition="true" id="main-nav">
             {% if headerNavigation.headerItems %}
-                <ul class="pt-6 lg:pt-0 flex flex-1 gap-6 md:gap-8 items-center justify-between lg:justify-end">
+                <ul class="pt-6 lg:pt-0 flex flex-1 gap-6 md:gap-8 items-center justify-between lg:justify-end mb-0">
                     {% for item in headerNavigation.headerItems %}
                         {% set currentUrl = page.url | stripTrailingSlash %}
                         {% set navUrl = item.url | stripTrailingSlash %}                  
