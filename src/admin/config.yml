@@ -272,6 +272,11 @@ collections:
       create: true
       slug: '{{fields.testimonialAuthor | slug}}'
       fields:
+          - label: 'Layout'
+            name: 'layout'
+            widget: 'hidden'
+            default: 'page.html'
+
           - label: 'Author'
             name: 'testimonialAuthor'
             widget: 'string'

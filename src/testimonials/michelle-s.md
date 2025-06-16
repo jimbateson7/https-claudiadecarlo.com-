@@ -1,4 +1,5 @@
 ---
+layout: page.html
 testimonialAuthor: Michelle S.
 testimonialAuthorImage: /static/img/michelle.jpg
 quote: >-

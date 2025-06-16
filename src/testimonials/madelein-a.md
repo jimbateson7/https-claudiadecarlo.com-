@@ -1,4 +1,5 @@
 ---
+layout: page.html
 testimonialAuthor: Madelein A.
 testimonialAuthorImage: /static/img/madelein.jpg
 quote: >-

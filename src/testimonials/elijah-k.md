@@ -1,4 +1,5 @@
 ---
+layout: page.html
 testimonialAuthor: Elijah K.
 testimonialAuthorImage: /static/img/elijah.jpg
 quote: >-
