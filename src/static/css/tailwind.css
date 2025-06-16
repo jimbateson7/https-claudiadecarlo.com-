@@ -62,7 +62,7 @@
     @apply text-2xl;
   }
 
-  p {
+  p, ul, ol {
     @apply mb-4;
   }
 
@@ -89,7 +89,8 @@
     @apply rounded-lg bg-brand-purple text-white font-display inline-block px-5 py-2.5 hover:bg-brand-red transition-colors duration-300;
   }
 
-  .page-content ul {
+  .page-content ul,
+  .wysiwyg ul {
     @apply list-disc pl-6 space-y-2 marker:text-brand-purple; 
   }
 
@@ -101,7 +102,8 @@
     @apply text-xl font-medium lg:text-2xl;
   }
 
-  .page-content p, li {
+  .page-content p,
+  .page-content li {
     @apply lg:text-lg;
   }
 

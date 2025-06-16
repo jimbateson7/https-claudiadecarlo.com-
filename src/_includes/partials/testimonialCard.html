@@ -10,12 +10,18 @@
             </p>
 
             {% if testimonial.data.testimonialAuthorImage %}
-                <img src="{{ testimonial.data.testimonialAuthorImage }}" alt="{{ testimonial.data.testimonialAuthor }}" class="w-16 h-16 rounded-full image-shadow" loading="lazy">
+                <img src="{{ testimonial.data.testimonialAuthorImage }}" alt="{{ testimonial.data.testimonialAuthor }}" class="w-16 h-16 rounded-full object-cover image-shadow" loading="lazy">
             {% endif %}
         </div>
     </figcaption>
 
-    <blockquote class="text-lg leading-[1.4] font-medium">
-        {{ testimonial.templateContent | safe }}
+    <blockquote class="text-lg leading-[1.45]">
+        {{ testimonial.data.quote | markdown | safe }}
     </blockquote>
+
+    {% if testimonial.data.showStory %}
+        <a href="{{ testimonial.data.testimonialAuthorWebsite }}" class="btn mt-6">
+            Read success story <span class="sr-only">for {{ testimonial.data.testimonialAuthor }}</span>
+        </a>
+    {% endif %}
 </figure>

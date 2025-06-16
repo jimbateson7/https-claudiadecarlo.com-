@@ -286,9 +286,19 @@ collections:
             widget: 'image'
             required: false
 
+          - label: 'Quote'
+            name: 'quote'
+            widget: 'markdown'
+
+          - label: 'Show Story?'
+            name: 'showStory'
+            widget: 'boolean'
+            default: false
+
           - label: 'Body'
             name: 'body'
             widget: 'markdown'
+            required: false
 
     - label: 'Global'
       name: 'global'
