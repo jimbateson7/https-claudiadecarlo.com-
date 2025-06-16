@@ -69,7 +69,7 @@
       {{ content | safe }}
     </main>
 
-    {% if siteSettings.showSubscribeForm %}
+    {% if siteSettings.showSubscribeForm and not hideSubscribeForm %}
       {% include "./partials/subscribe.html" %}
     {% endif %}
 
