@@ -7,7 +7,7 @@
                 {{ siteSettings.subscribeSummary | markdown | safe }}
             </div>
 
-            <form class="mt-4" method="POST" netlify name="subscribe" data-netlify-honeypot="bot-field">
+            <form class="mt-4" action="/success" method="POST" netlify name="subscribe" data-netlify-honeypot="bot-field">
                 <input type="hidden" name="form-name" value="subscribe" />
 
                 <div hidden>
