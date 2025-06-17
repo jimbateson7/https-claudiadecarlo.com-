@@ -55,11 +55,11 @@
   }
 
   h3 {
-    @apply text-3xl;
+    @apply text-3xl mb-5;
   }
 
   h4 {
-    @apply text-2xl;
+    @apply text-2xl mb-3;
   }
 
   p, ul, ol {
