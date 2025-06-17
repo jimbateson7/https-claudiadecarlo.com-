@@ -98,10 +98,6 @@
     @apply list-decimal pl-6 space-y-2 marker:text-brand-purple; 
   }
 
-  .page-content > p:first-of-type {
-    @apply text-xl font-medium lg:text-2xl;
-  }
-
   .page-content p,
   .page-content li {
     @apply lg:text-lg;
