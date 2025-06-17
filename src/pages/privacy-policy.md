@@ -16,19 +16,11 @@ We are committed to protecting your privacy. This Privacy Policy outlines how we
 collect, use, and safeguard your personal information in compliance with GDPR and
 applicable UK laws.
 
-## Information we collect
-
-* Personal Information: If you contact us via our website, we may collect your name,
-  email address, and phone number.
-* Cookies: Our website uses cookies for analytics and marketing purposes to improve user experience and track website performance.
-
 ## How we use your information
 
 We use your personal data for the following purposes:
 
-* To respond to your enquiries or provide requested services.
 * To send updates, if you have opted in to receive them.
-* To analyse website traffic and improve the functionality of our website.
 
 ### Data sharing
 
@@ -86,4 +78,4 @@ SK9 5AF
 Helpline number: 0303 123 1113
 Website: https://www.ico.org.uk/make-a-complaint
 
-**Last Updated: February 2025**
+**Last Updated: 17th June 2025**
