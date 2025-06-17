@@ -1,4 +1,5 @@
 ---
+layout: default
 metaTitle: ""
 metaDesc: Transformation & Growth Through Self-Awareness
 avatarImage: /static/img/portrait-main-headshot-background-removed.png
@@ -6,11 +7,61 @@ title: Change starts with You
 subtitle: Rewire your mind, reclaim your power, and rewrite your story — to
   create a life rooted in joy, presence, and limitless possibility.
 heroImage: /static/img/home-hero.jpg
-servicesToShow: 3
+collageHeading: "My Approach: Reconnect with Yourself to Create Lasting Change"
 testimonialsTitle: What people say
 path: home
-layout: default
+collageSummary: >-
+  Everything begins with the relationship you have with yourself. 
+
+
+  My method integrates insights from psychology, neuroscience, behavioural science, mindfulness, and therapeutic tools to guide you on a transformative journey. Together, we explore, redefine, and dissolve limiting beliefs and patterns, moving toward a more fulfilling life.
+
+
+  At the core of my work are four main pillars, supported by six additional concepts that ensure holistic growth.
+
+
+  ### The 4 Core Pillars
+
+
+  #### Feel
+
+
+  Emotions are the gateway to understanding. By allowing yourself to fully experience them, we uncover the hidden limitations that hold you back. Your feelings offer important clues to areas needing growth and healing.
+
+
+  #### Heal
+
+
+  Once we identify the root cause of those emotions, I’ll guide you to nurture your inner self, helping you release old narratives and limiting beliefs. This process lessens the emotional grip they once had, allowing you to grow and move forward with more freedom and clarity.
+
+
+  #### Balance
+
+
+  True change happens through a mix of movement and stillness. Incorporating physical exercise, even something as simple as walking, together with mindfulness and meditation (even for the ones that believe they don’t have time), helps ground the body and mind. We’ll work to create harmony between action and reflection, allowing for steady, sustainable progress that feels natural over time.
+
+
+  #### Transform
+
+
+  As you integrate these practices, you’ll align more closely with your own values and deeper "Why." This leads to healthier choices in your career, relationships, and overall well-being—a transformation into the most authentic, empowered version of yourself.
+
+
+  ### The 5 Supporting Concepts:
+
+
+  * **Learn**: Every challenge is an opportunity to deepen your self-understanding and expand your knowledge. A step forward to freedom.
+
+  * **Harmony**: We aim to create balance in all aspects of life, leading to inner peace and a sense of well-being.
+
+  * **Rise**: As you heal and grow, you rise into a more resilient and empowered version of yourself.
+
+  * **Connect**: Building deeper connections with yourself and others fosters a richer, more meaningful life.
+
+  * **Growth**: At every stage, we focus on nurturing continuous growth, both personally and professionally.
+collageImage: /static/img/collage.jpg
 howIHelpTitle: Services
+servicesToShow: 3
 testimonialsToShow: 3
 aboutTitle: About me
 aboutSummary: >-
@@ -44,6 +95,16 @@ contactLinkUrl: mailto:hello@claudiadecarlo.com
 
 <div>  
 	{% include "./_includes/partials/hero--home.html" %}
+
+  <section class="py-8 md:py-12 lg:py-16">
+    <div class="container mx-auto">
+        <h2 class="font-medium">{{collageHeading}}</h2>
+
+        <p class="mt-4">{{ collageSummary | markdown | safe }}</p>
+
+        <img src="{{collageImage}}" alt="" class="mt-8 w-full h-auto object-cover rounded-lg shadow-lg">
+    </div>
+  </section>
 	
 	{% include "./_includes/partials/services.html" %}
 	{% include "./_includes/partials/testimonials.html" %}
