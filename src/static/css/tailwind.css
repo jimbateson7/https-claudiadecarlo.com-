@@ -39,7 +39,7 @@
 
 @layer base {
   h1, h2, h3, h4 {
-    @apply font-display text-balance;
+    @apply font-display text-pretty;
   }
 
   h2, h3, h4 {
