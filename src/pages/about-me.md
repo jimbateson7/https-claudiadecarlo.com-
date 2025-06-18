@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: About me
-bannerImage: /static/img/about-image.jpg
+bannerImage: /static/img/portrait-through-the-window.jpeg
 permalink: /about-me/
 ---
 ## Hey, I’m Clau 👋
