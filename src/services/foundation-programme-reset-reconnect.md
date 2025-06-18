@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: Foundation Programme Reset & Reconnect
-cardImage: /static/img/img_0519.jpeg
+cardImage: /static/img/img_0118-copy.jpeg
 summary: >-
   ## **Foundation Programme**
 
