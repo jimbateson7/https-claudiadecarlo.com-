@@ -1,5 +1,6 @@
 ---
 testimonialAuthor: Paulina K.
+testimonialAuthorLocation: London, UK
 testimonialAuthorImage: /static/img/paulina.jpg
 quote: >-
   I had the pleasure of being coached by Claudia. She has a unique ability to
