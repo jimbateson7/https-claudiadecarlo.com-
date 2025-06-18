@@ -1,6 +1,7 @@
 ---
 layout: page.html
 testimonialAuthor: Elijah K.
+testimonialAuthorLocation: North Yorkshire, UK
 testimonialAuthorImage: /static/img/elijah.jpg
 quote: >-
   I had the pleasure of working with Claudia as my coach, and I can’t recommend
