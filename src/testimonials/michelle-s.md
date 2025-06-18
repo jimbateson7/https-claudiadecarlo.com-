@@ -1,7 +1,7 @@
 ---
 layout: page.html
 testimonialAuthor: Michelle S.
-testimonialAuthorLocation: San Francisco
+testimonialAuthorLocation: San Francisco, US
 testimonialAuthorImage: /static/img/michelle.jpg
 quote: >-
   Claudia helped me achieve a goal that I no longer thought was possible. I was
