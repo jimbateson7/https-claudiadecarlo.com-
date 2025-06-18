@@ -9,7 +9,7 @@ quote: Claudia helped me value myself at work and position myself for a better
   with me - and I couldn’t believe this was possible until she showed me how.
 showStory: false
 ---
-**Ari’s Story: Remembering her worth**
+Ari’s Story: Remembering her worth
 
 Ari had been working as a dental technician for 12 years when she was offered a new opportunity within the same company - an administrative role that promised a refreshing change after over a decade in the same position.
 
