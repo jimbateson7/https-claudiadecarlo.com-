@@ -1,6 +1,6 @@
 ---
 layout: page.html
-testimonialAuthor: Aria M.
+testimonialAuthor: Ari M.
 testimonialAuthorLocation: Barcelona, Spain
 testimonialAuthorImage: /static/img/ariadna.jpg
 quote: Claudia helped me value myself at work and position myself for a better
