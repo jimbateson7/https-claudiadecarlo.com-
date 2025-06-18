@@ -1,7 +1,7 @@
 ---
 layout: page.html
 testimonialAuthor: Oscar M.
-testimonialAuthorLocation: Manchester
+testimonialAuthorLocation: Manchester, UK
 testimonialAuthorImage: /static/img/oscar.jpg
 quote: >-
   Thank you for the incredible transformation I can feel after our conversation.
