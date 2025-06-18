@@ -39,7 +39,7 @@ Inside **Reclaim Your Body With Your Mind**, you’ll:
 * Address the *emotional weight* that no diet plan touches.
 * Rebuild trust with your body and rewire your inner operating system.
 
+#### No shame. No restriction. No perfectionism.
 
-#### No shame. No restriction. No perfectionism.\
 \
 [Find out more](https://drive.google.com/file/d/1NL-GDrZWKjHOec8ocsVbfpcdYdj2dt9f/view?usp=drive_link)[](https://drive.google.com/file/d/1NL-GDrZWKjHOec8ocsVbfpcdYdj2dt9f/view?usp=drive_link)
