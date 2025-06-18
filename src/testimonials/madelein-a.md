@@ -1,6 +1,7 @@
 ---
 layout: page.html
 testimonialAuthor: Madelein A.
+testimonialAuthorLocation: Surrey
 testimonialAuthorImage: /static/img/madelein.jpg
 quote: >-
   As a professional woman whose career path has changed late in life it has been
