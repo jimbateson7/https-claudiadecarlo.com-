@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: Paying it forward
-cardImage: /static/img/homepage-hero.jpg
+cardImage: /static/img/img_0118-copy.jpeg
 summary: >-
   I know what it's like to deeply desire change but being limited by financial
   constraints. I’ve been blessed with a stubborn determination and found my way
