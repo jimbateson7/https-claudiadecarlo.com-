@@ -8,8 +8,7 @@ backend:
 publish_mode: editorial_workflow
 media_folder: 'src/static/img'
 public_folder: '/static/img'
-site_url: https://cldecarlo.netlify.app/
-display_url: https://claudiadecarlo.com
+site_url: https://cldecarlo.netlify.app
 
 # Run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
