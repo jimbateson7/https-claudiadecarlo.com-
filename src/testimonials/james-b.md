@@ -1,9 +1,8 @@
 ---
 layout: page.html
-order: 1
 testimonialAuthor: James B.
 testimonialAuthorLocation: North West, UK
-testimonialAuthorImage: /static/uploads/jim-2.jpeg
+testimonialAuthorImage: /static/img/jim-2.jpeg
 quote: >-
   Working with Claudia is great. She listens, is honest, empathetic and helps
   you celebrate little wins building towards your goal.
