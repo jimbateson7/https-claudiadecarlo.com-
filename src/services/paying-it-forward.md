@@ -15,4 +15,4 @@ This programme is for those who face financial challenges yet are deeply committ
 
 To be considered, please complete this application with details on your current challenges, aspirations, and commitment to growth.
 
-<a href="<https://docs.google.com/forms/d/e/1FAIpQLSdx71PoRmZ4WMGHAjoHBjKlFuL-8q97cH7qlyvW7dYaXjNKNg/viewform>" class="btn" target="_blank" rel="noopener noreferrer">Apply for the programme <span class="sr-only">opens in new tab</span></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdx71PoRmZ4WMGHAjoHBjKlFuL-8q97cH7qlyvW7dYaXjNKNg/viewform" class="btn" target="_blank" rel="noopener noreferrer">Apply for the programme <span class="sr-only">opens in new tab</span></a>
