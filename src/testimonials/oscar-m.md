@@ -14,7 +14,7 @@ quote: >-
   I truly value our sessions and Claudia’s wisdom and approach. She has an incredible ability to listen and understand. After our last session, life threw the usual challenges my way (going through some relationship challenges) and I was amazed at how differently I responded - I didn’t react! What shift! I highly recommend Claudia for anyone seeking deep and impactful transformation and wanting to see results in a short time.
 showStory: true
 ---
-## Oscar’s Story: From heartbreak to setting himself free.
+## Oscar’s Story: From heartbreak to setting himself free
 
 Oscar came to me in tears. His relationship was ending, and even though he hadn’t felt truly happy in it for a while, the thought of letting go brought up even more pain.
 
