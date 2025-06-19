@@ -1,8 +1,4 @@
-{% if collections.testimonials | length < 4 %}
-  {% set scrollPromptClass = 'lg:hidden' %}
-{% else %}
-  {% set scrollPromptClass = '' %}
-{% endif %}
+{% set orderedTestimonials = collections.testimonials | sort(attribute='data.order') %}
 
 <section class="py-8 md:py-16 bg-[url('/static/img/pattern.webp')] bg-brand-purple-light">
     <div class="container mx-auto">
@@ -11,7 +7,7 @@
         <div class="px-2 md:px-11 mt-12 splide" aria-label="Testimonials Slider" data-splide='{ "autoHeight": true, "updateOnMove": true, "perPage": 2, "gap": "3rem", "breakpoints": { "1023": { "perPage": 1 } } }''>
             <div class="splide__track">
                 <ul class="md:mt-8 splide__list">
-                    {% for testimonial in collections.testimonials | reverse %}
+                    {% for testimonial in orderedTestimonials %}
                         <li class="splide__slide">
                             {% include "partials/testimonialCard.html" %}
                         </li>

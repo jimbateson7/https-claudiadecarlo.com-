@@ -1,5 +1,6 @@
 ---
 layout: page.html
+order: 2
 testimonialAuthor: Ari M.
 testimonialAuthorLocation: Barcelona, Spain
 testimonialAuthorImage: /static/img/ariadna.jpg

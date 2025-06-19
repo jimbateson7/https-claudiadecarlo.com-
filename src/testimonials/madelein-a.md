@@ -1,5 +1,6 @@
 ---
 layout: page.html
+order: 7
 testimonialAuthor: Madelein A.
 testimonialAuthorLocation: Surrey, UK
 testimonialAuthorImage: /static/img/madelein.jpg

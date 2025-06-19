@@ -1,5 +1,6 @@
 ---
 layout: page.html
+order: 6
 testimonialAuthor: Michelle S.
 testimonialAuthorLocation: San Francisco, US
 testimonialAuthorImage: /static/img/michelle.jpg

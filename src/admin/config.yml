@@ -294,6 +294,11 @@ collections:
             widget: 'hidden'
             default: 'page.html'
 
+          - label: 'Order'
+            name: 'order'
+            widget: 'number'
+            min: 1
+
           - label: 'Author'
             name: 'testimonialAuthor'
             widget: 'string'
