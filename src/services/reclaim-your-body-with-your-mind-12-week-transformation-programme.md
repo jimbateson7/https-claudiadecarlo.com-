@@ -41,5 +41,9 @@ Inside **Reclaim Your Body With Your Mind**, you’ll:
 
 #### No shame. No restriction. No perfectionism.
 
-\
-[Find out more](https://drive.google.com/file/d/1NL-GDrZWKjHOec8ocsVbfpcdYdj2dt9f/view?usp=drive_link)[](https://drive.google.com/file/d/1NL-GDrZWKjHOec8ocsVbfpcdYdj2dt9f/view?usp=drive_link)
+<a href="https://drive.google.com/file/d/1NL-GDrZWKjHOec8ocsVbfpcdYdj2dt9f/view" class="btn" target="_blank" rel="noopener noreferrer">View the programme PDF <span class="sr-only">opens in new tab</span></a>
+
+
+
+
+[](https://drive.google.com/file/d/1NL-GDrZWKjHOec8ocsVbfpcdYdj2dt9f/view?usp=drive_link)
