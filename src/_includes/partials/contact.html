@@ -1,14 +1,14 @@
-<section class="py-8 md:py-12">
-    <div class="container mx-auto flex flex-col md:flex-row md:gap-11">
+<section class="pt-8 md:pt-12">
+    <div class="container mx-auto flex flex-col md:flex-row">
         {% if contactImage %}
-            <div class="order-2 mt-5 md:mt-0 md:order-1 md:w-3/4">
-                <img src="{{contactImage}}" alt="" class="w-full rounded-lg image-shadow" loading="lazy">
+            <div class="order-2 mt-5 md:mt-0 md:order-1 md:max-w-[625px]">
+                <img src="{{contactImage}}" alt="" class="w-full rounded-lg" loading="lazy">
             </div>
         {% endif %}
 
-        <div class="order-1 md:order-2 md:max-w-1/4">
+        <div class="order-1 md:order-2">
             <h2 class="font-medium md:mb-10">{{contactTitle}}</h2>
-            <p>{{contactSummary}}</p>
+            <p class="text-pretty">{{contactSummary}}</p>
             <a href="{{contactLinkUrl}}">{{contactLinkText}}</a>
         </div>
     </div>

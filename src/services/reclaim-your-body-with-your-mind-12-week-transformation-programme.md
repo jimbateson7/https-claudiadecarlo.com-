@@ -1,5 +1,6 @@
 ---
 layout: page.html
+order: 2
 title: "Reclaim your Body with your Mind: 12-Week Transformation programme"
 cardImage: /static/img/home-hero.jpg
 summary: >-
@@ -11,6 +12,7 @@ summary: >-
 
 
   [](https://drive.google.com/file/d/1NL-GDrZWKjHOec8ocsVbfpcdYdj2dt9f/view?usp=drive_link)
+showLink: true
 ---
 A transformational programme that helps people reconnect with their bodies, understand the emotional and subconscious roots of their habits, and build a new identity aligned with health and vitality - so that any weight released stays off, because it's no longer about punishment, willpower, or shame.
 

@@ -241,6 +241,11 @@ collections:
             widget: 'hidden'
             default: 'page.html'
 
+          - label: 'Order'
+            name: 'order'
+            widget: 'number'
+            min: 1
+
           - label: 'Title'
             name: 'title'
             widget: 'string'
@@ -258,9 +263,25 @@ collections:
             widget: 'image'
             required: false
 
+          - label: 'Show link?'
+            name: 'showLink'
+            widget: 'boolean'
+            default: true
+
+          - label: 'link Text'
+            name: 'linkText'
+            widget: 'string'
+            required: false
+
+          - label: 'Link URL'
+            name: 'linkUrl'
+            widget: 'string'
+            required: false
+
           - label: 'Body'
             name: 'body'
             widget: 'markdown'
+            required: false
 
     - label: 'Testimonials'
       name: 'testimonials'

@@ -1,5 +1,6 @@
 ---
 layout: page.html
+order: 4
 title: Workshops & Immersive Sessions
 cardImage: /static/img/huddle-event-group-.jpeg
 summary: >-
@@ -11,6 +12,7 @@ summary: >-
 
 
   Each session blends neuroscience, mindset work, and practical tools to meet you where you are, and move you forward with intention.
+showLink: true
 ---
 In-person or online experiences designed to spark insight, shift inner narratives, and awaken authentic action.
 
