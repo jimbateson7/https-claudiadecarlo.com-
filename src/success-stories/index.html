@@ -8,9 +8,7 @@ title: Success stories
     {% set postslist = collections.testimonials %}
 
     <div>
-        <h2 class="-mt-4 md:-mt-8 font-medium">How I've helped others.</h2>
-        
-        <ul class="grid gap-4 md:grid-cols-2 md:gap-12">
+        <ul class="grid gap-6 md:grid-cols-2 md:gap-12">
             {% for testimonial in postslist | reverse %}
                 <li>
                     {% include "partials/testimonialCard.html" %}

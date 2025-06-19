@@ -1,6 +1,10 @@
 <section class="pt-6 {% if bannerImage %}pb-12{% else %}pb-6 lg:pb-12{% endif %}">
     <h1 class="font-medium lg:text-7xl text-balance max-w-prose {% if bannerImage %}mb-9{% else %}mb-0{% endif %}">{{title}}</h1>
 
+    {% if subtitle %}
+        <h2>{{ subtitle }}</h2>
+    {% endif %}
+
     {% if author %}
         <div class="mb-3 flex items-center gap-4 mt-8">
             <div class="leading-6 text-lg max-w-2xs">
@@ -27,7 +31,7 @@
 
     {% if bannerImage %}
         <div class="mt-6">
-            <img src="{{bannerImage}}" alt="" class="w-full rounded-lg image-shadow" loading="eager" fetchpriority="high">
+            <img src="{{bannerImage}}" alt="" class="w-full max-h-[400px] md:max-h-[550px] rounded-lg image-shadow object-cover" loading="eager" fetchpriority="high">
         </div>
     {% endif %}
 </section>
