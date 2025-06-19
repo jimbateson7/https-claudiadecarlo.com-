@@ -1,5 +1,5 @@
 ---
-title: A Restart, a Run, and a Realisation
+title: A restart, a run, and a realisation
 description: The finish line was only the beginning.
 cardImage: ""
 author: Claudia De Carlo
