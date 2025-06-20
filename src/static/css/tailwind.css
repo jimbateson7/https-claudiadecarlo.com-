@@ -3,8 +3,8 @@
 
 @font-face {
   font-family: "jakarta-sans";
-  src: url("/static/fonts/jakaratasans.woff2") format("woff2");
-  font-weight: 400 500 700;
+  src: url("/static/fonts/jakartasans.woff2") format("woff2");
+  font-weight: 400 700;
   font-style: normal;
   font-display: swap;
 
@@ -13,7 +13,7 @@
 @font-face {
   font-family: "lora";
   src: url("/static/fonts/Lora.woff2") format("woff2");
-  font-weight: 750 500 550 400;
+  font-weight: 400 750;
   font-style: normal;
   font-display: swap;
 
