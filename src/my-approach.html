@@ -72,10 +72,13 @@ subtitle: Reconnect with Yourself to create lasting change
 
     <ul class="grid gap-4 md:grid-cols-2 md:gap-6">
       {% for pillar in pillars %}
-        <li class="rounded-xl bg-brand-purple text-white card-shadow p-6 pr-56 overflow-hidden relative">
-          <h3 class="text-white">{{ pillar.text }}</h3>
-          <div class="mb-0">{{ pillar.description | markdown | safe }}</</div>
-          <!-- <img src="/static/img/icons/{{ pillar.icon }}.svg" alt="{{ pillar.text }}" class="w-8 h-8 inline-block"> -->
+        <li class="rounded-xl nth-[3n+1]:bg-brand-purple nth-[1n+1]:bg-brand-yellow card-shadow p-6 lg:pr-44 overflow-hidden relative pillar-card">
+          <div class="relative z-10">
+            <h3>{{ pillar.text }}</h3>
+
+            {{ pillar.description | markdown | safe }}
+          </div>
+          <img src="/static/img/{{ pillar.icon }}.png" width="250" class="absolute bottom-0 right-0 translate-x-1/3 object-cover overflow-visible hidden lg:block" alt="">
         </li>
       {% endfor %}
     </ul>
@@ -84,7 +87,7 @@ subtitle: Reconnect with Yourself to create lasting change
   <section class="py-6">
     <h2>{{ conceptsHeading }}</h2>
 
-    <ol class="flex flex-wrap gap-4">
+    <ol class="flex flex-col flex-wrap gap-8 lg:flex-row lg:gap-4  concept-list">
       {% for concept in concepts %}
         <li class="mb-4 flex-1 flex-shrink-0">
           <h3>{{ concept.text }}</h3>
