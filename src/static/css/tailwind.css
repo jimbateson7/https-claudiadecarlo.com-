@@ -47,7 +47,7 @@
   }
 
   h1 {
-    @apply text-brand-red mb-9 text-5xl md:text-6xl;
+    @apply text-brand-red mb-9 text-4xl md:text-6xl leading-[1.25];
   }
 
   h2 {
