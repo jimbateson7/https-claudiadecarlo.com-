@@ -122,6 +122,91 @@ collections:
                 - label: 'Contact Link URL'
                   name: 'contactLinkUrl'
                   widget: 'string'
+
+          - name: 'myApproach'
+            label: 'My Approach'
+            delete: false
+            file: 'src/my-approach.html'
+            slug: '{{slug}}'
+            create: false
+            fields:
+                - label: 'Layout'
+                  name: 'layout'
+                  widget: 'hidden'
+                  default: 'layouts/njk.njk'
+
+                - label: 'SEO Meta Title'
+                  name: 'metaTitle'
+                  widget: 'string'
+                  required: false
+
+                - label: 'SEO Meta Description'
+                  name: 'metaDesc'
+                  widget: 'string'
+                  required: false
+
+                - label: 'Social Image'
+                  name: 'socialImage'
+                  widget: 'image'
+                  required: false
+
+                - label: 'Title'
+                  name: 'title'
+                  widget: 'string'
+
+                - label: 'Subtitle'
+                  name: 'subTitle'
+                  widget: 'string'
+
+                - label: 'Hero Image'
+                  name: 'heroImage'
+                  widget: 'image'
+
+                - label: 'Summary'
+                  name: 'summary'
+                  widget: 'markdown'
+
+                - label: 'Pillars Heading'
+                  name: 'pillarsHeading'
+                  widget: 'string'
+
+                - label: Pillars
+                  name: pillars
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: true
+                  max: 4
+                  fields:
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: Description
+                        name: description
+                        widget: markdown
+                      - label: 'Icon'
+                        name: icon
+                        widget: string
+
+                - label: 'Concepts Heading'
+                  name: 'conceptsHeading'
+                  widget: 'string'
+
+                - label: Concepts
+                  name: concepts
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: true
+                  max: 5
+                  fields:
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: Description
+                        name: description
+                        widget: markdown
+
     - name: 'static_pages'
       label: 'Static Pages'
       folder: 'src/pages'

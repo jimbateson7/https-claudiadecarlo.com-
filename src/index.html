@@ -7,77 +7,10 @@ title: Change starts with You
 subtitle: Rewire your mind, reclaim your power, and rewrite your story — to
   create a life rooted in joy, presence, and limitless possibility.
 heroImage: /static/img/home-hero.jpg
-collageHeading: "My Approach: Reconnect with Yourself to create lasting change"
+collageHeading: ""
 testimonialsTitle: What people say
 path: home
-collageSummary: >-
-  Everything begins with the relationship you have with yourself. 
-
-
-  My method integrates insights from psychology, neuroscience, behavioural science, mindfulness, and therapeutic tools to guide you on a transformative journey. Together, we explore, redefine, and dissolve limiting beliefs and patterns, moving toward a more fulfilling life.
-
-
-  At the core of my work are 4 main pillars, supported by 5 additional concepts that ensure holistic growth.
-
-
-  ### The 4 Core Pillars
-
-
-  #### Feel
-
-
-  Emotions are the gateway to understanding. By allowing yourself to fully experience them, we uncover the hidden limitations that hold you back. Your feelings offer important clues to areas needing growth and healing.
-
-
-  #### Heal
-
-
-  Once we identify the root cause of those emotions, I’ll guide you to nurture your inner self, helping you release old narratives and limiting beliefs. This process lessens the emotional grip they once had, allowing you to grow and move forward with more freedom and clarity.
-
-
-  #### Balance
-
-
-  Effective change happens through a mix of movement and stillness. Incorporating physical exercise, even something as simple as walking, together with mindfulness and meditation (even for the ones that believe they don’t have time), helps ground the body and mind. We’ll work to create harmony between action and reflection, allowing for steady, sustainable progress that feels natural over time.
-
-
-  #### Transform
-
-
-  As you integrate these practices, you’ll align more closely with your own values and deeper "Why." This leads to healthier choices in your career, relationships, and overall wellbeing - a transformation into the most authentic, empowered version of yourself.
-
-
-  ### The 5 Supporting Concepts
-
-
-  #### Learn
-
-
-  Every challenge is an opportunity to deepen your self-understanding and expand your knowledge. A step forward to freedom.
-
-
-  #### Harmony
-
-
-  We aim to create balance in all aspects of life, leading to inner peace and a sense of well-being.
-
-
-  #### Rise
-
-
-  As you heal and grow, you rise into a more resilient and empowered version of yourself.
-
-
-  #### Connect
-
-
-  Building deeper connections with yourself and others fosters a richer, more meaningful life.
-
-
-  #### Grow
-
-
-  At every stage, we focus on nurturing continuous growth, both personally and professionally.
+collageSummary: ""
 collageImage: ""
 howIHelpTitle: Services
 aboutTitle: About me
@@ -109,15 +42,17 @@ contactImage: /static/img/contact-image.jpg
 <div>  
 	{% include "./_includes/partials/hero--home.html" %}
 
-  <!-- <section class="pt-8 md:pt-12 lg:pt-16">
-    <div class="container mx-auto">
-        <h2 class="font-medium">{{collageHeading}}</h2>
+  {% if collageHeading %}
+    <section class="pt-8 md:pt-12 lg:pt-16">
+      <div class="container mx-auto">
+          <h2 class="font-medium">{{collageHeading}}</h2>
 
-        <p class="mt-4">{{ collageSummary | markdown | safe }}</p>
+          <p class="mt-4">{{ collageSummary | markdown | safe }}</p>
 
-        <img src="{{collageImage}}" alt="" class="mt-8 w-full h-auto object-cover rounded-lg shadow-lg">
-    </div>
-  </section> -->
+          <img src="{{collageImage}}" alt="" class="mt-8 w-full h-auto object-cover rounded-lg shadow-lg">
+      </div>
+    </section>
+  {% endif %}
 	
 	{% include "./_includes/partials/services.html" %}
 	{% include "./_includes/partials/testimonials.html" %}
