@@ -2,8 +2,8 @@
 @import "@splidejs/splide/css/core";
 
 @font-face {
-  font-family: "work-sans";
-  src: url("/static/fonts/worksans.woff2") format("woff2");
+  font-family: "jakarta-sans";
+  src: url("/static/fonts/jakaratasans.woff2") format("woff2");
   font-weight: 400 500 700;
   font-style: normal;
   font-display: swap;
@@ -21,7 +21,7 @@
 
 @theme {
   --font-display: "lora", serif;
-  --font-sans: "work-sans", sans-serif;
+  --font-sans: "jakarta-sans", sans-serif;
 
   --color-brand-red: #c74c49;
   --color-brand-purple: #912c61;
