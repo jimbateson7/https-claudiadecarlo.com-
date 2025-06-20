@@ -3,7 +3,7 @@
   
     <div class="p-6 flex flex-col flex-1 min-w-0">
       <h3 class="mb-4 text-balance">{{ service.data.title }}</h3>
-      <p class="leading-6">{{ service.data.summary | markdown | safe }}</p>
+      <div class="leading-[1.45]">{{ service.data.summary | markdown | safe }}</div>
         
       {% if service.data.showLink %}
         <a href="{{ service.data.linkUrl or service.url }}" class="btn btn-primary outline-brand-purple inline-flex mt-auto ml-auto max-w-max">
