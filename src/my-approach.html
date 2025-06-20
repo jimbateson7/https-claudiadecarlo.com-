@@ -65,29 +65,33 @@ subtitle: Reconnect with Yourself to create lasting change
 <div class="container mx-auto">
   {% include "./_includes/partials/hero.html" %}
 
-  {{ summary | markdown | safe }}
+  <div>{{ summary | markdown | safe }}</div>
 
-  <h2>{{ pillarsHeading }}</h2>
+  <section class="py-6">
+    <h2>{{ pillarsHeading }}</h2>
 
-  <ul>
-    {% for pillar in pillars %}
-      <li class="mb-6">
-        <h3 class="font-semibold text-lg">{{ pillar.text }}</h3>
-        <p>{{ pillar.description }}</p>
-        <!-- <img src="/static/img/icons/{{ pillar.icon }}.svg" alt="{{ pillar.text }}" class="w-8 h-8 inline-block"> -->
-      </li>
-    {% endfor %}
-  </ul>
+    <ul class="grid gap-4 md:grid-cols-2 md:gap-6">
+      {% for pillar in pillars %}
+        <li class="rounded-xl bg-brand-purple text-white card-shadow p-6 pr-56 overflow-hidden relative">
+          <h3 class="text-white">{{ pillar.text }}</h3>
+          <div class="mb-0">{{ pillar.description | markdown | safe }}</</div>
+          <!-- <img src="/static/img/icons/{{ pillar.icon }}.svg" alt="{{ pillar.text }}" class="w-8 h-8 inline-block"> -->
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
 
-  <h2>{{ conceptsHeading }}</h2>
+  <section class="py-6">
+    <h2>{{ conceptsHeading }}</h2>
 
-  <ul>
-    {% for concept in concepts %}
-      <li class="mb-4">
-        <h3 class="font-semibold text-lg">{{ concept.text }}</h3>
-        <p>{{ concept.description }}</p>
-      </li>
-    {% endfor %}
-  </ul>
+    <ol class="flex flex-wrap gap-4">
+      {% for concept in concepts %}
+        <li class="mb-4 flex-1 flex-shrink-0">
+          <h3>{{ concept.text }}</h3>
+          <p>{{ concept.description }}</p>
+        </li>
+      {% endfor %}
+    </ol>
+  </section>
 </div>
 
