@@ -158,8 +158,8 @@ collections:
                   name: 'subTitle'
                   widget: 'string'
 
-                - label: 'Hero Image'
-                  name: 'heroImage'
+                - label: 'Banner Image'
+                  name: 'bannerImage'
                   widget: 'image'
 
                 - label: 'Summary'
