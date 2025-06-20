@@ -69,6 +69,25 @@ subtitle: Reconnect with Yourself to create lasting change
 
   <h2>{{ pillarsHeading }}</h2>
 
+  <ul>
+    {% for pillar in pillars %}
+      <li class="mb-6">
+        <h3 class="font-semibold text-lg">{{ pillar.text }}</h3>
+        <p>{{ pillar.description }}</p>
+        <!-- <img src="/static/img/icons/{{ pillar.icon }}.svg" alt="{{ pillar.text }}" class="w-8 h-8 inline-block"> -->
+      </li>
+    {% endfor %}
+  </ul>
+
   <h2>{{ conceptsHeading }}</h2>
+
+  <ul>
+    {% for concept in concepts %}
+      <li class="mb-4">
+        <h3 class="font-semibold text-lg">{{ concept.text }}</h3>
+        <p>{{ concept.description }}</p>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
 
