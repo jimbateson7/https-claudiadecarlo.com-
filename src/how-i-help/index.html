@@ -5,11 +5,11 @@ title: Services
 
 <section>
     {% include "partials/hero.html" %}
-    {% set postslist = collections.services %}
+    {% set postslist = collections.services | sort(attribute='data.order') %}
 
     <div>
         <ul class="grid gap-4 md:grid-cols-3 md:gap-12">
-            {% for service in postslist | reverse %}
+            {% for service in postslist %}
                 <li>
                     {% include "partials/serviceCard.html" %}
                 </li>
