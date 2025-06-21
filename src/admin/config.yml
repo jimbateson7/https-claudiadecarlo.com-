@@ -2,13 +2,14 @@ backend:
     name: git-gateway
     repo: jimbateson7/https-claudiadecarlo.com-
     branch: main
-    identity_url: https://auth.decapbridge.com/sites/aa043450-492c-43bf-8038-58f6ea4501c3
+    identity_url: https://auth.decapbridge.com/sites/dbf9a222-86ae-41b0-b126-7fa01c460399
     gateway_url: https://gateway.decapbridge.com
 
 publish_mode: editorial_workflow
 media_folder: 'src/static/img'
 public_folder: '/static/img'
-site_url: https://cldecarlo.netlify.app
+logo_url: https://decapbridge.com/decapcms-with-bridge.svg
+site_url: https://claudiadecarlo.com
 
 # Run "npx netlify-cms-proxy-server" for local backend
 local_backend: true

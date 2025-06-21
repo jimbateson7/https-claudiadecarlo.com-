@@ -15,7 +15,7 @@ quote: >-
   I’m now back enjoying a running plan and when I find myself thinking negatively about myself, or not appreciating situations, a little Claudia pops up and reminds me to be kind to myself. I’ve lost a lot of physical and mental “weight” since starting to work with Claudia and shift the way I think about myself. It takes time and it can be hard after thinking a certain way for so long, but the work is paying off.
 showStory: true
 ---
-Jim’s Story: Running back to confidence
+## Jim’s Story: Running back to confidence
 
 Jim first saw me speak at a lightning talk last year. Something landed for him at that moment, he started following me on LinkedIn, and eventually reached out for support.
 

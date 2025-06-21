@@ -18,11 +18,11 @@ A transformational programme that helps people reconnect with their bodies, unde
 
 Ditch the weight rollercoaster and yo-yo dieting for good and finally unlock the secret to start getting your dream body in just 12 weeks, by using the power of your mind.
 
-### It’s not your body that’s stuck.
+## It’s not your body that’s stuck.
 
 It’s the story you’re still living from.
 
-### Transform your mindset, rewire your habits, and see the weight start to fall off naturally.
+## Transform your mindset, rewire your habits, and see the weight start to fall off naturally.
 
 You’ve got discipline.
 You show up.
@@ -33,7 +33,7 @@ But something’s keeping your body in lockdown mode.
 And it’s not what you're eating 
 It’s what you’ve been believing.
 
-### This programme is the missing piece.
+## This programme is the missing piece.
 
 Inside **Reclaim Your Body With Your Mind**, you’ll:
 
@@ -41,11 +41,8 @@ Inside **Reclaim Your Body With Your Mind**, you’ll:
 * Address the *emotional weight* that no diet plan touches.
 * Rebuild trust with your body and rewire your inner operating system.
 
-#### No shame. No restriction. No perfectionism.
+### No shame. No restriction. No perfectionism.
 
 <a href="https://drive.google.com/file/d/1NL-GDrZWKjHOec8ocsVbfpcdYdj2dt9f/view" class="btn" target="_blank" rel="noopener noreferrer">View the programme PDF <span class="sr-only">opens in new tab</span></a>
-
-
-
 
 [](https://drive.google.com/file/d/1NL-GDrZWKjHOec8ocsVbfpcdYdj2dt9f/view?usp=drive_link)

@@ -2,7 +2,7 @@
     <img src="{{ service.data.cardImage }}" alt="" class="w-full h-56 object-cover" loading="lazy" />
   
     <div class="p-6 flex flex-col flex-1 min-w-0">
-      <h3 class="mb-4 text-balance">{{ service.data.title }}</h3>
+      <h3 class="mb-4">{{ service.data.title }}</h3>
       <div class="leading-[1.45]">{{ service.data.summary | markdown | safe }}</div>
         
       {% if service.data.showLink %}

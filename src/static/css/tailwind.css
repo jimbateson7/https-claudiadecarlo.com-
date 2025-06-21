@@ -7,7 +7,6 @@
   font-weight: 400 700;
   font-style: normal;
   font-display: swap;
-
 }
 
 @font-face {
@@ -16,7 +15,6 @@
   font-weight: 400 750;
   font-style: normal;
   font-display: swap;
-
 }
 
 @theme {
@@ -90,7 +88,7 @@
   }
 
   .btn {
-    @apply rounded-lg bg-brand-purple text-white font-display inline-block px-5 py-2.5 hover:bg-brand-red transition-colors duration-300;
+    @apply rounded-lg bg-brand-purple text-white font-display font-medium inline-block px-5 py-2.5 hover:bg-brand-red transition-colors duration-300;
   }
 
   .page-content ul,

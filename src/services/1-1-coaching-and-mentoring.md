@@ -11,13 +11,13 @@ summary: >-
 
   \
 
-  Duration: 90 minutes
+  **Duration**: 90 minutes
 
 
-  Format: Online
+  **Format**: Online
 
 
-  Fee: £175
+  **Fee**: £175
 
 
   When: Once you’ve accepted the challenge to get to know yourself and change your reality from the inside out, get in touch and we’ll find a time slot.

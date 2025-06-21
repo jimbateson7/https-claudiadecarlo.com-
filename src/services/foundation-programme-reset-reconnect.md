@@ -11,7 +11,7 @@ summary: >-
   For those who are not quite ready for the full 90-day journey, but know something needs to shift.
 showLink: true
 ---
-### What It Does:
+## What It Does:
 
 * Helps you break the surface-level cycle of control and guilt.
 * Lays the neuroscience-based foundation for habit change.
@@ -21,23 +21,23 @@ showLink: true
 
 You don’t need to be “ready” for the full transformation. You just need a safe place to start.
 
-### Who It's For:
+## Who It's For:
 
 * You know the weight isn’t just physical.
 * You’ve tried diets and willpower - it didn’t work.
 * You feel disconnected, reactive, or out of sync with yourself.
 * You want clarity and momentum before committing to the full 90 days.
 
-### Includes:
+## Includes:
 
 * 3x private 1:1 sessions
 * Telegram group support for 21 days (or optional email check-ins if you want to keep it lighter)
 
-### Investment:
+## Investment:
 
-**Intro Offer:** **£376**
+**Intro Offer:** £376
 \
-**Full Value Price (after intro):** **£757**
+**Full Value Price (after intro):** £757
 
 **Option to upgrade into the 90-Day Signature Programme with discount applied** if you join within 10 days of completion.
 
