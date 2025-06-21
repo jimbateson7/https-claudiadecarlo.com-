@@ -65,7 +65,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/static/img");
   eleventyConfig.addPassthroughCopy("./src/static/favicons");
   eleventyConfig.addPassthroughCopy("./src/static/fonts");
-  eleventyConfig.addPassthroughCopy("./src/robots.txt");
 
   eleventyConfig.addWatchTarget("./src/_includes/partials/");
 
