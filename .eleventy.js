@@ -5,7 +5,6 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require("markdown-it");
 const esbuild = require('esbuild');
-const fs = require("fs");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyImageTransformPlugin);
@@ -57,18 +56,6 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 
-    // Determine environment
-    const isProduction = process.env.CONTEXT === "production";
-
-    eleventyConfig.on('eleventy.before', () => {
-      const srcPath = isProduction
-        ? "./src/robots-production.txt"
-        : "./src/robots-disallow.txt";
-      const destPath = "./src/robots.txt";
-  
-      fs.copyFileSync(srcPath, destPath);
-    });
-
   eleventyConfig.addPassthroughCopy({
     "./src/admin/config.yml": "./admin/config.yml",
     "./node_modules/alpinejs/dist/cdn.min.js": "./static/js/alpine.js",
@@ -104,7 +91,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("stripTrailingSlash", (url) => url.replace(/\/$/, ""));
 
   eleventyConfig.addFilter("dateToIso", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISODate(); // Outputs YYYY-MM-DD
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISODate();
   });
 
   eleventyConfig.addCollection("sitemapPages", (collectionApi) => {

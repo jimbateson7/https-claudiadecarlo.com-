@@ -1,11 +1,11 @@
 {
   "scripts": {
     "start": "npm-run-all --parallel css eleventy browsersync",
-    "eleventy": "eleventy --watch",
+    "eleventy": "eleventy --watch --no-incremental",
     "debug": "set DEBUG=* & eleventy",
     "css": "postcss src/static/css/tailwind.css --o _site/static/css/style.css --watch",
     "build": "cross-env NODE_ENV=production postcss src/static/css/tailwind.css --o _site/static/css/style.css && eleventy",
-    "browsersync": "browser-sync start --server _site --files _site --port 8080 --no-notify --no-open"
+    "browsersync": "browser-sync start --server _site --files '_site/**/*.html,_site/**/*.js,_site/**/*.css' --port 8080 --no-notify --no-open"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.0",
