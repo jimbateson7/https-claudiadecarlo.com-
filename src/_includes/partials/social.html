@@ -3,7 +3,7 @@
     {% for item in socialLinks.socialItems %}
         <li>
             <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" class="block bg-brand-yellow rounded-xl p-2 hover:bg-brand-purple transition-colors duration-300">
-                <img src="/static/img/{{ item.text }}.svg" alt="" eleventy:ignore>
+                <img src="/static/img/{{ item.text }}.svg" width="24" height="24" alt="" eleventy:ignore>
                 <span class="sr-only">Find Claudia on {{ item.text }}</span>
             </a>
         </li>
