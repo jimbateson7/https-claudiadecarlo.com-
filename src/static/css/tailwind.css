@@ -144,24 +144,46 @@
 }
 
 @layer components {
-  .pillar-card:nth-child(3n+1) {
+  .pillar-card:nth-child(odd) {
     background-color: var(--color-brand-purple);
     color: #fff;
   }
 
-  .pillar-card:nth-child(3n+1) h3 {
+  .pillar-card:nth-child(odd) h3 {
     color: #fff;
   }
 
-  .pillar-card:nth-child(3n+2),
-  .pillar-card:nth-child(3n+3) {
+  .pillar-card:nth-child(even),
+  .pillar-card:nth-child(even) {
     background-color: var(--color-brand-yellow);
     color: #000;
   }
 
-  .pillar-card:nth-child(3n+2) h3,
-  .pillar-card:nth-child(3n+3) h3 {
+  .pillar-card:nth-child(even) h3,
+  .pillar-card:nth-child(even) h3 {
     color: #000;
+  }
+
+  @media screen and (min-width: 768px) {
+    .pillar-card:nth-child(3n+1) {
+      background-color: var(--color-brand-purple);
+      color: #fff;
+    }
+  
+    .pillar-card:nth-child(3n+1) h3 {
+      color: #fff;
+    }
+  
+    .pillar-card:nth-child(3n+2),
+    .pillar-card:nth-child(3n+3) {
+      background-color: var(--color-brand-yellow);
+      color: #000;
+    }
+  
+    .pillar-card:nth-child(3n+2) h3,
+    .pillar-card:nth-child(3n+3) h3 {
+      color: #000;
+    }
   }
 
   .concept-list {
