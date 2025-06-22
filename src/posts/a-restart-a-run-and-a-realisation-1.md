@@ -7,6 +7,7 @@ authorImage: /static/uploads/1747215352004.jpeg
 date: 2025-05-26T08:29:56.691Z
 tags:
   - created
+showContactForm: true
 ---
 I created this Substack 4 weeks ago with one clear intention:\
 To share my story in a way that sparks transformation.\
@@ -17,7 +18,7 @@ Time flies when you’re having fun, yes - but also when you’re navigating cha
 
 And we all have them. It’s in the ability to move through them with meaning, and in how we relate to them, that we separate ourselves from suffering. I live by this quote inspired by Buddhist philosophy:
 
-> Pain is inevitable; suffering is optional.
+*Pain is inevitable; suffering is optional.*
 
 What also happened is that I got busy creating some programmes for my business –\
 something that was born alongside my desire to run the London Marathon, little over a year ago.
@@ -27,13 +28,10 @@ Six months ago, I was just beginning to train for the London Marathon – my fir
 
 As I embarked on this training, so much has happened:
 
-> My mother-in-law came to visit us in England and had to be hospitalised – she ended up living with us for 6 months.
->
-> My partner and I stepped into caregiving roles, while raising a young child.
->
-> Building a new business in the back of unexpected redundancy.
->
-> Facing relationship turbulence.
+* My mother-in-law came to visit us in England and had to be hospitalised – she ended up living with us for 6 months.
+* My partner and I stepped into caregiving roles, while raising a young child.
+* Building a new business in the back of unexpected redundancy.
+* Facing relationship turbulence.
 
 That’s one version of the story – the surface one.\
 But underneath, what was really happening was this:\
@@ -59,13 +57,13 @@ But more than that, it built momentum for a new life.
 
 Reflecting back now, almost one month after the marathon, here’s what I’ve noticed:
 
-> My energy is grounded – I feel recharged, not depleted
->
-> My nervous system and immune system feel stronger than ever
->
-> I crave movement - running is no longer a task, it’s part of who I am
->
-> Even when life feels messy, I bounce back faster – that’s resilience
+My energy is grounded – I feel recharged, not depleted
+
+My nervous system and immune system feel stronger than ever
+
+I crave movement - running is no longer a task, it’s part of who I am
+
+Even when life feels messy, I bounce back faster – that’s resilience
 
 A very dear friend recently said to me *“I saw you’ve run a marathon… I think people who run are perhaps escaping from something”*.\
 I paused and reflected, and for me, it’s been quite the opposite. Running has helped me come home to myself, to my body, my power, my truth.
