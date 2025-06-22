@@ -207,6 +207,10 @@ collections:
                       - label: Description
                         name: description
                         widget: markdown
+                - label: 'Show contact form?'
+                  name: 'showContactForm'
+                  widget: 'boolean'
+                  default: false
 
     - name: 'static_pages'
       label: 'Static Pages'
@@ -267,6 +271,11 @@ collections:
             }
 
           - { label: 'Body', name: 'body', widget: 'markdown' }
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
     - label: 'Blog'
       name: 'blog'
       folder: 'src/posts'
@@ -316,6 +325,11 @@ collections:
             name: 'tags'
             widget: 'list'
             required: false
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
 
     - label: 'Services'
       name: 'services'
@@ -369,6 +383,11 @@ collections:
             widget: 'markdown'
             required: false
 
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
+
     - label: 'Testimonials'
       name: 'testimonials'
       folder: 'src/testimonials'
@@ -412,6 +431,11 @@ collections:
             name: 'body'
             widget: 'markdown'
             required: false
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
 
     - label: 'Global'
       name: 'global'
@@ -501,4 +525,13 @@ collections:
                   widget: markdown
                 - label: Subscribe Button
                   name: subscribeButton
+                  widget: string
+                - label: 'Contact Form Heading'
+                  name: contactFormHeading
+                  widget: string
+                - label: 'Contact Form Summary'
+                  name: contactFormSummary
+                  widget: markdown
+                - label: 'Contact Form Button'
+                  name: contactFormButton
                   widget: string

@@ -74,6 +74,10 @@
       {% include "./partials/subscribe.html" %}
     {% endif %}
 
+    {% if showContactForm and path != "home" %}
+      {% include "./partials/quickContact.html" %}
+    {% endif %}
+
     {% include "./partials/footer.html" %}
 
     <script src="/static/js/alpine.js"></script>
