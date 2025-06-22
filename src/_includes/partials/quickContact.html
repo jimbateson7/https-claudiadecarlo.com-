@@ -7,8 +7,8 @@
                 {{ siteSettings.contactFormSummary | markdown | safe }}
             </div>
 
-            <form class="mt-4 max-w-3/4" action="/success" method="POST" netlify name="quickContact" data-netlify-honeypot="bot-field">
-                <input type="hidden" name="form-name" value="subscribe" />
+            <form class="mt-4 max-w-3/4" action="/success-contact" method="POST" netlify name="quickContact" data-netlify-honeypot="bot-field">
+                <input type="hidden" name="quickContact" value="quickContact" />
 
                 <div hidden>
                     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
