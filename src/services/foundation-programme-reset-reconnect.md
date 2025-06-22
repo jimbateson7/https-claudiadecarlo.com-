@@ -42,6 +42,6 @@ Beta price: £376\
 
 **Option to upgrade into the 12-week Reclaim your Body with your Mind programme with discount applied** if you join within 10 days of completion.\
 \
-I offer a *FREE Discovery Call* (a high-value coaching session in itself) to help you decide if this programme is the right fit for you.
+I offer a *FREE Discovery Call* - a high-value coaching session in itself - to help you decide if this programme is the right fit for you.
 
 <a href="https://calendar.app.google/LLyjWCa1pwD2bAUP9" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
