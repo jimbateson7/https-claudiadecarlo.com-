@@ -23,7 +23,8 @@ summary: >-
   When: Once you’ve accepted the challenge to get to know yourself and change your reality from the inside out, get in touch and we’ll find a time slot.
 
 
-  Tell me a little about your goal or challenge and some availability, and I’ll get back to you to arrange a free discovery call.
+  Use the form below to tell me a little about your goal or challenge and some availability, and I’ll get back to you to arrange a free discovery call.
 bannerImage: ""
 showLink: false
+showContactForm: true
 ---
