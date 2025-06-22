@@ -10,7 +10,7 @@ summary: >-
 
   For those who are not quite ready for the full 12-week journey, but know something needs to shift.
 showLink: true
-linkText: Book a Free Discovery Call
+linkText: Find out more
 showContactForm: false
 ---
 ### What it does
