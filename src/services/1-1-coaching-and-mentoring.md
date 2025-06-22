@@ -28,3 +28,4 @@ bannerImage: ""
 showLink: false
 showContactForm: true
 ---
+<a*href*="<https://calendar.google.com/calendar/u/0/appointments/AcZssZ0J04kpzT6FxKxzROIQFolomNm8smL45Sf7PbI=> " *rel*="noopener noreferrer" *class*="btn" *target*="_blank">{Book a Free Discovery Call} <span *class*="sr-only">opens in a new tab</span></a>
