@@ -42,8 +42,6 @@ But something’s keeping your body in lockdown mode. And it’s not what you're
 
 This programme is the missing piece. 
 
-
-
 **What if you could...?** 
 
 → Break out of identity loops that are keeping your results stuck. \
@@ -95,7 +93,6 @@ This programme is the missing piece. 
 👉 You want energy, strength, and clarity, not just smaller clothes. \
 👉 You’re ready to stop managing symptoms and finally feel free in your body. 
 
-### \
 As a result, you’ll experience 
 
 ✔️ A body you feel at home in: strong, energised, and finally aligned with who you are. 
@@ -109,8 +106,6 @@ As a result, you’ll experience 
 ✔️ The confidence to show up fully: in photos, relationships, and every room you walk into. 
 
 ✔️ An end to the “start again on Monday” cycle. For good. 
-
-
 
 ### My unique angle 
 
@@ -126,6 +121,7 @@ As a result, you’ll experience 
 Because your next-level body? It’s waiting for your next-level mindset to catch up. 
 
 ### \
+
 Why this works 
 
 Most programmes focus on doing or refraining. *This is about becoming.* 
@@ -173,6 +169,7 @@ I guide you in powerful mindset shifts and body-based practices to alchemise pai
 Implement daily practices that sustain your peace, power, and progress. This is where it sticks. 
 
 ### \
+
 Final Promise 
 
 This programme **is not for you if you’re looking for quick fixes.** 
