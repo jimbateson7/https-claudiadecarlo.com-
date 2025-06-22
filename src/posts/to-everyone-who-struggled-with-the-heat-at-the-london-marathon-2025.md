@@ -10,6 +10,7 @@ date: 2025-05-07T07:35:52.857Z
 tags:
   - Running
   - Wellbeing
+showContactForm: true
 ---
 One week before the marathon I started reading about the weather forecast in groups like this.
 
@@ -47,6 +48,8 @@ Whether it’s weather, people’s opinions, or uncertainty - do your best, be p
 
 Training our minds as much as our bodies changes everything!
 
-Same applies to being disappointed with oneself (for the time, the performance..), but that’s for another post ;)
+Same applies to being disappointed with oneself (for the time, the performance..), but that’s for another post ;)\
+\
+If this resonated with you, I’d love to hear from you - feel free to like, leave a comment, or share it with someone who might need it. 
 
 ![Screenshot of a facebook post I created after running the marathon. It has over one thousand likes and 158 comments.](/static/uploads/915ee597-fb43-469f-8b9e-9cb3499754d3_1247x1374.webp)
