@@ -14,7 +14,7 @@ summary: >-
   Each session blends coaching, neuroscience, mindset work, and practical tools to meet you where you are, and move you forward with intention.
 
 
-  I'd love to hear what you're looking to achieve. Let me know via the form below, and I'll get back to you to discuss.
+  I'd love to hear what you're looking to achieve. Let me know via the form below, and I'll get back to you to arrange a call.
 showLink: false
 showContactForm: true
 ---
