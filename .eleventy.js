@@ -113,6 +113,14 @@ module.exports = function(eleventyConfig) {
       </video>`;
   });
 
+  eleventyConfig.addPairedShortcode("button", function (link, content, isExternal = false) {
+    return `
+      <a href="${link}" class="btn" ${isExternal ? 'target="_blank" rel="noopener noreferrer"' : ''}>
+        ${content} ${isExternal ? '<span class="sr-only">(opens in a new tab)</span>' : ''} <span class="sr-only">(opens in a new tab)</span>
+        }
+      </a>`;
+  });
+
   return {
     dir: {
       input: "src",
