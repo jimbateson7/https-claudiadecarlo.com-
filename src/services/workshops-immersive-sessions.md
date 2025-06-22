@@ -15,7 +15,7 @@ summary: >-
 
 
   I'd love to hear what you're looking to achieve.
-showLink: false
+showLink: true
 linkText: Book a Free Discovery Call
 showContactForm: true
 ---
