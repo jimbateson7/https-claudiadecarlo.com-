@@ -3,8 +3,9 @@ layout: page.html
 title: About me
 bannerImage: /static/uploads/portrait-through-the-window.jpeg
 permalink: /about-me/
+showContactForm: false
 ---
-## Hey, I’m Clau 👋
+## Hey, I’m Clau 
 
 Just a regular girl who dared to believe she could transform her life ✨
 
@@ -18,9 +19,11 @@ I’ve been obsessed with personal growth since I was a teenager, and now I guid
 
 With my support, clients experience:
 
-* 🧠 Freedom - from limiting beliefs and unconscious scripts
-* 💪 Empowerment - through conscious choices and emotional intelligence
-* 🌿 Alignment - with who they truly are, and the life they want to create
+🧠 Freedom - from limiting beliefs and unconscious scripts
+
+💪 Empowerment - through conscious choices and emotional intelligence
+
+🌿 Alignment - with who they truly are, and the life they want to create
 
 I’m an ordinary girl who knows she’s extraordinary - and I believe you are too.\
 You just need to believe it... and be brave enough to dream big.
@@ -38,6 +41,6 @@ I’m also a…
 * Runner
 * Writer
 
-I'd love to meet you. I offer a free 20 minute Discovery Call to walk through your needs and see whether we’re a good fit. \
+I'd love to meet you. I offer a free Discovery Call to walk through your needs and see whether we’re a good fit. \
 \
-[Email me](mailto:hello@claudiadecarlo.com) and I’ll let you know my availability.
+Book a Free Discovery Call:<https://calendar.google.com/calendar/u/0/appointments/AcZssZ0J04kpzT6FxKxzROIQFolomNm8smL45Sf7PbI=>
