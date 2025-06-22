@@ -7,9 +7,8 @@ summary: >-
   Through coaching, emotional processing, and mindset work, I empower you to
   live with purpose, freedom, and clarity. You'll make empowered decisions and
   step into your full potential, making aligned choices, for more freedom, ease
-  and joy.\
+  and joy.
 
-  \
 
   **Duration**: 90 minutes
 
@@ -20,7 +19,7 @@ summary: >-
   **Fee**: £175
 
 
-  When: Once you’ve accepted the challenge to get to know yourself and change your reality from the inside out, get in touch and we’ll find a time slot.
+  **When**: Once you’ve accepted the challenge to get to know yourself and change your reality from the inside out, get in touch and we’ll find a time slot.
 
 
   Use the form below to tell me a little about your goal or challenge and some availability, and I’ll get back to you to arrange a free discovery call.
@@ -30,4 +29,4 @@ linkText: Book a Free Discovery Call
 linkUrl: ""
 showContactForm: true
 ---
-[a\*href\*="<https://calendar.google.com/calendar/u/0/appointments/AcZssZ0J04kpzT6FxKxzROIQFolomNm8smL45Sf7PbI=](a*href*="<https://calendar.google.com/calendar/u/0/appointments/AcZssZ0J04kpzT6FxKxzROIQFolomNm8smL45Sf7PbI=) " *rel*="noopener noreferrer" *class*="btn" *target*="_blank">{Book a Free Discovery Call} <span *class*="sr-only">opens in a new tab</span></a>
+<a href="https://calendar.app.google/LLyjWCa1pwD2bAUP9" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
