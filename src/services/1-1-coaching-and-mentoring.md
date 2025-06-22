@@ -25,7 +25,9 @@ summary: >-
 
   Use the form below to tell me a little about your goal or challenge and some availability, and I’ll get back to you to arrange a free discovery call.
 bannerImage: ""
-showLink: false
+showLink: true
+linkText: Book a Free Discovery Call
+linkUrl: ""
 showContactForm: true
 ---
-<a*href*="<https://calendar.google.com/calendar/u/0/appointments/AcZssZ0J04kpzT6FxKxzROIQFolomNm8smL45Sf7PbI=> " *rel*="noopener noreferrer" *class*="btn" *target*="_blank">{Book a Free Discovery Call} <span *class*="sr-only">opens in a new tab</span></a>
+[a\*href\*="<https://calendar.google.com/calendar/u/0/appointments/AcZssZ0J04kpzT6FxKxzROIQFolomNm8smL45Sf7PbI=](a*href*="<https://calendar.google.com/calendar/u/0/appointments/AcZssZ0J04kpzT6FxKxzROIQFolomNm8smL45Sf7PbI=) " *rel*="noopener noreferrer" *class*="btn" *target*="_blank">{Book a Free Discovery Call} <span *class*="sr-only">opens in a new tab</span></a>
