@@ -8,7 +8,20 @@ summary: >-
   and build momentum toward lasting transformation.
 
 
-  For those who are not quite ready for the full 12-week journey, but know something needs to shift.
+  For those who are not quite ready for the full 12-week journey, but know something needs to shift.\
+
+  \
+
+  You know the weight isn’t just physical.
+
+
+  You’ve tried diets and willpower - it didn’t work.
+
+
+  You feel disconnected, reactive, or out of sync with yourself.
+
+
+  You want clarity and momentum before committing to the full 12-week programme.
 showLink: true
 linkText: Find out more
 showContactForm: false
@@ -28,10 +41,8 @@ You don’t need to be “ready” for the full transformation. You just need a 
 * You know the weight isn’t just physical.
 * You’ve tried diets and willpower - it didn’t work.
 * You feel disconnected, reactive, or out of sync with yourself.
-* You want clarity and momentum before committing to the full 90 days.
-
-### Includes
-
+* You want clarity and momentum before committing to the full 12-week programme.
+* ### Includes
 * 3x private 1:1 coaching sessions
 * Telegram group support for 21 days (or optional email check-ins if you want to keep it lighter)
 
