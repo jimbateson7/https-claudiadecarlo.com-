@@ -13,11 +13,9 @@ Claudia De Carlois the data controller and we are responsible for your personal 
 
 We are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information in compliance with GDPR and  applicable UK laws. 
 
-Information We Collect 
+## Information We Collect 
 
 • Personal Information: If you contact us via our website, we may collect your name,  email address, and phone number. 
-
-• Cookies: Our website uses cookies for analytics and marketing purposes to  improve user experience and track website performance. 
 
 ## How we use your information
 
@@ -25,9 +23,7 @@ We use your personal data for the following purposes: 
 
 • To respond to your enquiries or provide requested services. 
 
-• To send updates, if you have opted in to receive them. 
-
-• To analyse website traffic and improve the functionality of our website. 
+• To send updates, if you have opted in to receive them.
 
 ### Data sharing
 
@@ -60,8 +56,6 @@ Under GDPR, you have the right to: 
 • Request the deletion of your data.
 
 To exercise these rights, contact us at hello@claudiadecarlo.com 
-
-
 
 ## Contact
 
