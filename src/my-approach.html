@@ -85,14 +85,14 @@ subtitle: Reconnect with Yourself to create lasting change
     </ul>
   </section>
 
-  <section class="py-6">
+  <section class="pt-6">
     <h2>{{ conceptsHeading }}</h2>
 
     <ol class="flex flex-col flex-wrap gap-8 lg:flex-row lg:gap-4  concept-list">
       {% for concept in concepts %}
         <li class="mb-4 flex-1 flex-shrink-0">
           <h3>{{ concept.text }}</h3>
-          <p>{{ concept.description }}</p>
+          <p class="mb-0">{{ concept.description }}</p>
         </li>
       {% endfor %}
     </ol>
