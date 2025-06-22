@@ -3,7 +3,7 @@ title: "When things don’t go our way: A different kind of response"
 description: Didn't get a place in the London marathon 2026? Here's a reframe
 author: Claudia De Carlo
 authorImage: /static/uploads/1747215352004.jpeg
-date: 22/06/2025
+date: 2025-06-22T08:20:56.066Z
 showContactForm: true
 ---
 Last week, the London marathon ballot results came out, and it’s very likely you didn’t get a place.
