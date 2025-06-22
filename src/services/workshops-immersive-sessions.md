@@ -14,7 +14,9 @@ summary: >-
   Each session blends coaching, neuroscience, mindset work, and practical tools to meet you where you are, and move you forward with intention.
 
 
-  I'd love to hear what you're looking to achieve. Let me know via the form below, and I'll get back to you to arrange a call.
+  I'd love to hear what you're looking to achieve.
 showLink: false
+linkText: Book a Free Discovery Call
 showContactForm: true
 ---
+<a href="https://calendar.app.google/LLyjWCa1pwD2bAUP9" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
