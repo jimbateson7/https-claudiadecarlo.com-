@@ -48,7 +48,7 @@ Whether it’s weather, people’s opinions, or uncertainty - do your best, be p
 
 Training our minds as much as our bodies changes everything!
 
-Same applies to being disappointed with oneself (for the time, the performance..), but that’s for another post 😉\
+Same applies to being disappointed with oneself (for the time, the performance..), but that’s for another post ;)\
 \
 If this resonated with you, I’d love to hear from you - feel free to like, leave a comment, or share it with someone who might need it. 
 
