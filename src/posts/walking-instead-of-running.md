@@ -40,4 +40,6 @@ With love,
 
 Clau 🌿
 
-P.S. If the London Marathon 2026 is calling you, [Whizz Kidz](https://www.whizz-kidz.org.uk/) has places - and they’re amazing. Highly recommend them.
+P.S. If the London Marathon 2026 is calling you, [Whizz Kidz](https://www.whizz-kidz.org.uk/) has places - and they’re amazing. Highly recommend them.\
+\
+If this resonated with you, I’d love to hear from you - feel free to like, leave a comment, or share it with someone who might need it.
