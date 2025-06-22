@@ -207,10 +207,12 @@ collections:
                       - label: Description
                         name: description
                         widget: markdown
+
                 - label: 'Show contact form?'
                   name: 'showContactForm'
                   widget: 'boolean'
                   default: false
+                  required: false
 
     - name: 'static_pages'
       label: 'Static Pages'
@@ -276,6 +278,8 @@ collections:
             name: 'showContactForm'
             widget: 'boolean'
             default: false
+            required: false
+
     - label: 'Blog'
       name: 'blog'
       folder: 'src/posts'
@@ -330,6 +334,7 @@ collections:
             name: 'showContactForm'
             widget: 'boolean'
             default: false
+            required: false
 
     - label: 'Services'
       name: 'services'
@@ -387,6 +392,7 @@ collections:
             name: 'showContactForm'
             widget: 'boolean'
             default: false
+            required: false
 
     - label: 'Testimonials'
       name: 'testimonials'
@@ -436,6 +442,7 @@ collections:
             name: 'showContactForm'
             widget: 'boolean'
             default: false
+            required: false
 
     - label: 'Global'
       name: 'global'
