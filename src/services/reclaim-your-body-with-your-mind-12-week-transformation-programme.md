@@ -12,7 +12,7 @@ summary: >-
 
 
   [](https://drive.google.com/file/d/1NL-GDrZWKjHOec8ocsVbfpcdYdj2dt9f/view?usp=drive_link)
-showLink: false
+showLink: true
 showContactForm: false
 ---
 Ditch the weight rollercoaster and yo-yo dieting for good. 
