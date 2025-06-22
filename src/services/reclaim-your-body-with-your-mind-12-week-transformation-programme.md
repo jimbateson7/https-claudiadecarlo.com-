@@ -8,7 +8,22 @@ summary: >-
   and identity-based weight struggles.
 
 
-  A transformational programme that helps people reconnect with their bodies, understand the emotional and subconscious roots of their habits, and build a new identity aligned with health and vitality - so that any weight released stays off, because it's no longer about punishment, willpower, or shame.
+  A transformational programme that helps people reconnect with their bodies, understand the emotional and subconscious roots of their habits, and build a new identity aligned with health and vitality - so that any weight released stays off, because it's no longer about punishment, willpower, or shame.\
+
+  \
+
+  In just 12 weeks, use the power of your mind to finally unlock the path to your dream body. 
+
+
+  It's no longer about punishment, willpower, or shame. 
+
+
+  But first things first:
+
+
+  It’s not your body that’s stuck. \
+
+  It’s the story you’re still living from.
 showLink: true
 showContactForm: false
 ---
@@ -16,17 +31,7 @@ showContactForm: false
 
 A transformational programme to help you reconnect with your body, understand the emotional and subconscious roots of your habits, and build a new identity aligned with health and vitality, so that any weight released stays off.
 
-**In just 12 weeks,** use the power of your mind to finally unlock the path to your dream body. 
-
-**It's no longer about punishment, willpower, or shame.** 
-
-But first things first:
-
-It’s not your body that’s stuck.
-
-### It’s the story you’re still living from. 
-
-Through this programme, I’ll guide you to: \
+**Through this programme, I’ll guide you to:** \
 \
 → Transform your mindset\
 → Rewire your habits\
