@@ -120,9 +120,7 @@ As a result, you’ll experience 
 
 Because your next-level body? It’s waiting for your next-level mindset to catch up. 
 
-### \
-
-Why this works 
+### Why this works 
 
 Most programmes focus on doing or refraining. *This is about becoming.* 
 
@@ -168,9 +166,7 @@ I guide you in powerful mindset shifts and body-based practices to alchemise pai
 
 Implement daily practices that sustain your peace, power, and progress. This is where it sticks. 
 
-### \
-
-Final Promise 
+### Final Promise 
 
 This programme **is not for you if you’re looking for quick fixes.** 
 
