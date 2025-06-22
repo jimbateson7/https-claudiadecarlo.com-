@@ -1,8 +1,12 @@
 ---
 title: Walking instead of running
+description: The past 18 months have been filled with endings, upheaval, and
+  deep identity shifts - many happening all at once. Some transitions arrive
+  gently. Others crack your life open.
 author: Claudia De Carlo
 authorImage: /static/uploads/1747215352004.jpeg
 date: 2025-06-10T08:20:56.066Z
+showContactForm: true
 ---
 The past 18 months have been filled with endings, upheaval, and deep identity shifts - many happening all at once.
 
@@ -12,13 +16,13 @@ I read today:
 
 ![Photograph from a page in a book. The text reads "This is a little harsh, but...they were supposed to hurt you."."](/static/uploads/0f364311-afe1-4d4e-ba8b-6bdc4acc3086_4032x3024.webp)
 
-> “… And you were supposed to sit in your pain for a while.
->
-> This isn't because you deserve it; it's not a form of punishment.
->
-> The only way that you could shake off that old version of you, the version that actually thought the bare minimum could ever be considered effort.
->
-> You needed this pain to wake you up, because otherwise you would never grow and become the person you're supposed to be. Remember, growth often starts with discomfort.”
+*“… And you were supposed to sit in your pain for a while.*
+
+*This isn't because you deserve it; it's not a form of punishment.*
+
+*The only way that you could shake off that old version of you, the version that actually thought the bare minimum could ever be considered effort.*
+
+*You needed this pain to wake you up, because otherwise you would never grow and become the person you're supposed to be. Remember, growth often starts with discomfort.”*
 
 I’m still here, committed to my path more than ever. But right now, I’m walking instead of running.
 
