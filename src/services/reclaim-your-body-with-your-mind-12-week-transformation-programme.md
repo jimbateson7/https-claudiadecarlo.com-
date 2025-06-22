@@ -150,66 +150,60 @@ This is for those ready to stop struggling and **start transforming from the ins
 
 **If you...** 
 
-Are tired of starting over
+→ Are tired of starting over\
+→ Have done diets but feel disconnected from your body\
+→ Are exercising but not getting the results you want\
+→ Want to feel at home in yourself, no more feeling like you’re escaping \
+→ Are open to exploring emotions, mindset, and movement together 
 
-Have done diets but feel disconnected from your body
-
-Are exercising but not getting the results you want
-
-Want to feel at home in yourself, no more feeling like you’re escaping Are open to exploring emotions, mindset, and movement together 
-
-RECLAIM YOUR BODY WITH YOUR MIND 
+### RECLAIM YOUR BODY WITH YOUR MIND 
 
 The programme in a nutshell 
 
-Phase 1: Self-knowledge
+**Phase 1: Self-knowledge**
 
 Identify wounds, shadows, and limiting beliefs of your ego. Learn to be a curious observer without identifying. 
 
-Phase 2: Guided process
+**Phase 2: Guided process**
 
 I guide you in powerful mindset shifts and body-based practices to alchemise pain into strength. 
 
-Phase 3: Integration
+**Phase 3: Integration**
 
 Implement daily practices that sustain your peace, power, and progress. This is where it sticks. 
 
-\*Until you make the unconscious conscious,
+### \
+Final Promise 
 
-it will direct your life and you will call it fate.” - C.G. Jung* 
+This programme **is not for you if you’re looking for quick fixes.** 
 
-RECLAIM YOUR BODY WITH YOUR MIND Final Promise 
+This journey requires **radical responsibility** and the courage to face and sit with difficult emotions (don’t worry, you’ll learn how to do it with support and skill) 
 
-This programme is not for you if you’re looking for quick fixes. 
+This is a **deeply transformational programme**. It's about uncovering who you truly are, releasing what’s been holding you back, and tapping into your full power so you can experience more vitality, groundedness, freedom, and joy. 
 
-This journey requires radical responsibility and the courage to face and sit with difficult emotions (don’t worry, you’ll learn how to do it with support and skill) 
-
-This is a deeply transformational programme. It's about uncovering who you truly are, releasing what’s been holding you back, and tapping into your full power so you can experience more vitality, groundedness, freedom, and joy. 
-
-It blends a science-backed framework for habit formation, leverages the neuroplasticity of the brain, and teaches you the foundations of emotional mastery. 
+It blends a **science-backed framework** for habit formation, leverages the neuroplasticity of the brain, and teaches you the foundations of emotional mastery. 
 
 The promise is not that you will lose weight. 
 
-You’ll lose what’s been weighing you down ...The body will follow! 
+**You’ll lose what’s been weighing you down** \
+\
+**...The body will follow!** 
 
-No more wobbling, you will actually crave healthy habits. 
+**No more wobbling, you will actually crave healthy habits.** 
 
-RECLAIM YOUR BODY WITH YOUR MIND 
+### RECLAIM YOUR BODY WITH YOUR MIND 
 
-Includes 
+### **Includes** 
 
-✔️ Bespoke coaching programme
-
-✔️ 12x private 1:1 sessions (60-90 minutes)
-
-✔️ 12 weeks of support via Telegram voice/text
-
+✔️ Bespoke coaching programme\
+✔️ 12x private 1:1 sessions\
+✔️ 12 weeks of support via Telegram voice/text\
 ✔️ Option to continue on a monthly retainer fee, guiding you until you feel comfortable that the habit is established. 
 
-Investment
+### **Investment**
 
-Beta price: £977 
-
+**🚀 Beta price: £977** \
+\
 (*Full launch price: £1,969*)
 
 I offer a *FREE Discovery Call* (a high-value coaching session in itself) to help you decide if this programme is the right fit for you. 
@@ -226,4 +220,4 @@ I stand behind my experience and ability to hold safe, transformative space for 
 
 My mission is to help elevate human consciousness. 
 
-Because when we begin making aligned choices, the ripple effect touches every part of our lives, and everyone around us.
+Because when we begin making aligned choices, the ripple effect touches every part of our lives, and everyone around us. ✨
