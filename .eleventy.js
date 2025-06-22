@@ -62,7 +62,7 @@ module.exports = function(eleventyConfig) {
     "./node_modules/prismjs/themes/prism-tomorrow.css": "./static/css/prism-tomorrow.css",
   });
 
-  eleventyConfig.addPassthroughCopy("./src/static/img");
+  eleventyConfig.addPassthroughCopy("./src/static/uploads");
   eleventyConfig.addPassthroughCopy("./src/static/favicons");
   eleventyConfig.addPassthroughCopy("./src/static/fonts");
 
@@ -74,6 +74,7 @@ module.exports = function(eleventyConfig) {
   });
 
   const now = new Date();
+
   const services = (service) => service.date <= now && !service.data.draft;
 
   eleventyConfig.addCollection("services", (collection) => {
@@ -87,12 +88,6 @@ module.exports = function(eleventyConfig) {
       .reverse();
   });
 
-  eleventyConfig.addFilter("stripTrailingSlash", (url) => url.replace(/\/$/, ""));
-
-  eleventyConfig.addFilter("dateToIso", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISODate();
-  });
-
   eleventyConfig.addCollection("sitemapPages", (collectionApi) => {
     return collectionApi.getAll().filter(page => {
       if (!page.url) return false;
@@ -102,6 +97,20 @@ module.exports = function(eleventyConfig) {
       if (page.data && page.data.draft) return false;
       return true;
     });
+  });
+
+  eleventyConfig.addFilter("stripTrailingSlash", (url) => url.replace(/\/$/, ""));
+
+  eleventyConfig.addFilter("dateToIso", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISODate();
+  });
+
+  eleventyConfig.addPairedShortcode("video", function (content, src) {
+    return `
+      <video class="aspect-video mx-auto w-full image-shadow rounded-lg" controls>
+        <source src="${src}" type="video/mp4">
+        ${content || "Your browser does not support the video tag."}
+      </video>`;
   });
 
   return {

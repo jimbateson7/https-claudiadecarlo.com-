@@ -3,7 +3,7 @@ title: A restart, a run, and a realisation
 description: The finish line was only the beginning.
 cardImage: ""
 author: Claudia De Carlo
-authorImage: /static/img/1747215352004.jpeg
+authorImage: /static/uploads/1747215352004.jpeg
 date: 2025-05-26T08:29:56.691Z
 tags:
   - created
@@ -86,4 +86,4 @@ Let’s keep running – forward, inward, and together. 🌱
 
 If this resonated with you, I’d love to hear from you – feel free to like, leave a comment, or share it with someone who might need it. 🌱
 
-![](/static/img/16c64063-de8f-45e5-a87e-8f8869c78f6e_3088x2316.webp)
+![](/static/uploads/16c64063-de8f-45e5-a87e-8f8869c78f6e_3088x2316.webp)

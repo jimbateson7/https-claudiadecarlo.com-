@@ -5,7 +5,7 @@ description: I wrote this post on the TCS London Marathon 2025 Facebook group,
   we can share more of this stuff.
 cardImage: ""
 author: Claudia De Carlo
-authorImage: /static/img/1747215352004.jpeg
+authorImage: /static/uploads/1747215352004.jpeg
 date: 2025-05-07T07:35:52.857Z
 tags:
   - Running
@@ -49,4 +49,4 @@ Training our minds as much as our bodies changes everything!
 
 Same applies to being disappointed with oneself (for the time, the performance..), but that’s for another post ;)
 
-![Screenshot of a facebook post I created after running the marathon. It has over one thousand likes and 158 comments.](/static/img/915ee597-fb43-469f-8b9e-9cb3499754d3_1247x1374.webp)
+![Screenshot of a facebook post I created after running the marathon. It has over one thousand likes and 158 comments.](/static/uploads/915ee597-fb43-469f-8b9e-9cb3499754d3_1247x1374.webp)

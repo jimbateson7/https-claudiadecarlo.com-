@@ -2,7 +2,7 @@
 layout: page.html
 order: 3
 title: Foundation Programme Reset & Reconnect
-cardImage: /static/img/img_0118-copy.jpeg
+cardImage: /static/uploads/img_0118-copy.jpeg
 summary: >-
   A powerful 21-Day jumpstart to reclaim your energy, reconnect with your body,
   and build momentum toward lasting transformation.

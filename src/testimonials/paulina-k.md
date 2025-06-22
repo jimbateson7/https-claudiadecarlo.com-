@@ -2,7 +2,7 @@
 order: 4
 testimonialAuthor: Paulina K.
 testimonialAuthorLocation: London, UK
-testimonialAuthorImage: /static/img/paulina.jpg
+testimonialAuthorImage: /static/uploads/paulina.jpg
 quote: >-
   I had the pleasure of being coached by Claudia. She has a unique ability to
   reframe and challenge beliefs that are not serving you. With her support, I

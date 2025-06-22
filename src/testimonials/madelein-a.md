@@ -3,7 +3,7 @@ layout: page.html
 order: 7
 testimonialAuthor: Madelein A.
 testimonialAuthorLocation: Surrey, UK
-testimonialAuthorImage: /static/img/madelein.jpg
+testimonialAuthorImage: /static/uploads/madelein.jpg
 quote: >-
   As a professional woman whose career path has changed late in life it has been
   a very difficult period for me, and with Claudia’s guidance I have found a

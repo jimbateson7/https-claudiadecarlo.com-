@@ -6,8 +6,8 @@ backend:
     gateway_url: https://gateway.decapbridge.com
 
 publish_mode: editorial_workflow
-media_folder: 'src/static/img'
-public_folder: '/static/img'
+media_folder: 'src/static/uploads'
+public_folder: '/static/uploads'
 logo_url: https://decapbridge.com/decapcms-with-bridge.svg
 site_url: https://claudiadecarlo.com
 

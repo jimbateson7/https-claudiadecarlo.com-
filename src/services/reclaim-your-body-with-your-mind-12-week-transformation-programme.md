@@ -2,7 +2,7 @@
 layout: page.html
 order: 2
 title: "Reclaim your Body with your Mind: 12-Week Transformation programme"
-cardImage: /static/img/home-hero.jpg
+cardImage: /static/uploads/home-hero.jpg
 summary: >-
   A full mind-body reset to end the cycle of emotional eating, disconnection,
   and identity-based weight struggles.

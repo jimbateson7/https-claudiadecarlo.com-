@@ -2,7 +2,7 @@
 layout: page.html
 order: 4
 title: Workshops & Immersive Sessions
-cardImage: /static/img/huddle-event-group-.jpeg
+cardImage: /static/uploads/huddle-event-group-.jpeg
 summary: >-
   In-person or online experiences designed to spark insight, shift inner
   narratives, and awaken authentic action.

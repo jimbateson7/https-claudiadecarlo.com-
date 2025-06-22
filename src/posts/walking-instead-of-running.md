@@ -1,7 +1,7 @@
 ---
 title: Walking instead of running
 author: Claudia De Carlo
-authorImage: /static/img/1747215352004.jpeg
+authorImage: /static/uploads/1747215352004.jpeg
 date: 2025-06-10T08:20:56.066Z
 ---
 The past 18 months have been filled with endings, upheaval, and deep identity shifts - many happening all at once.
@@ -10,7 +10,7 @@ Some transitions arrive gently. Others crack your life open.
 
 I read today:
 
-![Photograph from a page in a book. The text reads "This is a little harsh, but...they were supposed to hurt you."."](/static/img/0f364311-afe1-4d4e-ba8b-6bdc4acc3086_4032x3024.webp)
+![Photograph from a page in a book. The text reads "This is a little harsh, but...they were supposed to hurt you."."](/static/uploads/0f364311-afe1-4d4e-ba8b-6bdc4acc3086_4032x3024.webp)
 
 > “… And you were supposed to sit in your pain for a while.
 >
