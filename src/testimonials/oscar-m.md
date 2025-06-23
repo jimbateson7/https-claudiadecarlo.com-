@@ -16,11 +16,11 @@ quote: >-
 showStory: true
 showContactForm: false
 ---
-## {% video "/static/uploads/test-video.mp4" %}{% endvideo %}
+{% video "/static/uploads/Oscar testimonial (reduced).mp4" %}{% endvideo %}
 
 ## Oscar’s story: From heartbreak to setting himself free
 
-Oscar came to me in tears. His relationship was ending, and even though he hadn’t felt truly happy in it for a while, the thought of letting go brought up even more pain.
+Oscar came to me in tears. His relationship was ending, and even though he hadn’t felt truly happy in it for a while, the thought of letting go brought up even more pain. 
 
 He felt low, confused, and humiliated after a series of difficult events with his partner. He was trying to hold together something that deep down, he already knew wasn’t right for him.
 
