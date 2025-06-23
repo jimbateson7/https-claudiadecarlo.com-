@@ -16,7 +16,7 @@ quote: >-
 showStory: true
 showContactForm: false
 ---
-## Oscar’s Story: From heartbreak to setting himself free
+## Oscar’s story: From heartbreak to setting himself free
 
 Oscar came to me in tears. His relationship was ending, and even though he hadn’t felt truly happy in it for a while, the thought of letting go brought up even more pain.
 
@@ -41,3 +41,8 @@ This is what’s possible, even with just a few sessions of deep, intentional wo
 Thank you, Oscar, for allowing me to walk alongside you during this turning point. I’m so proud of the way you’re stepping into this new chapter, with clarity, self-respect, and heart.
 
 — Claudia
+
+
+
+
+<a href="https://calendar.app.google/LLyjWCa1pwD2bAUP9" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
