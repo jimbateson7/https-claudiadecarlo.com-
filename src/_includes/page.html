@@ -11,6 +11,6 @@ prism: true
     {% include "./partials/hero.html" %}
 
     <article class="max-w-[75ch] mx-auto space-y-5 first-[p]:text-lg page-content">
-        {{ content | safe }}
+        {{ content | markdown | safe }}
     </article>
 </div>

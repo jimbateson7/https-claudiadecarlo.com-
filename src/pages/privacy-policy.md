@@ -5,7 +5,7 @@ bannerImage: ""
 permalink: /privacy-policy/
 showContactForm: true
 ---
-This privacy notice provides you with details of how we collect and process your  personal data through your use of our site claudiadecarlo.com 
+This privacy notice provides you with details of how we collect and process your  personal data through your use of our site claudiadecarlo.com
 
 By providing us with your data, you warrant to us that you are over 18 years of age. 
 
