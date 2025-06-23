@@ -27,7 +27,7 @@ summary: >-
 showLink: true
 showContactForm: false
 ---
-### Ditch the weight rollercoaster and yo-yo dieting for good
+## Ditch the weight rollercoaster and yo-yo dieting for good
 
 A transformational programme to help you reconnect with your body, understand the emotional and subconscious roots of your habits, and build a new identity aligned with health and vitality, so that any weight released stays off.
 
@@ -55,7 +55,7 @@ This programme is the missing piece. 
 
 **No shame. No restriction. No perfectionism.** 
 
-### High-Value Outcomes 
+## High-Value Outcomes 
 
 ✔️ Release the weight that doesn’t belong to you anymore - physically, emotionally, and energetically. 
 
@@ -81,7 +81,7 @@ This programme is the missing piece. 
 
 ✔️ Reduce stress and anxiety by becoming more centred and less dependent on external circumstances. 
 
-### You will 
+## You will 
 
 → Shift from reacting to people and circumstances, to co-creating the life you want. \
 → Let go of using food, drinking or restriction to manage emotions. \
@@ -91,7 +91,7 @@ This programme is the missing piece. 
 
 **... and your body will follow!** 
 
-### This is for you if 
+## This is for you if 
 
 👉 You’re performing at a high level, but feel disconnected from your body. \
 👉 You’ve tried everything... except going to the root.\
@@ -112,7 +112,7 @@ As a result, you’ll experience 
 
 ✔️ An end to the “start again on Monday” cycle. For good. 
 
-### My unique angle 
+## My unique angle 
 
 → Movement is the entry point, not the goal.\
 → Focus on embodiment, clarity, and healing - not just discipline. \
@@ -125,7 +125,7 @@ As a result, you’ll experience 
 
 Because your next-level body? It’s waiting for your next-level mindset to catch up. 
 
-### Why this works 
+## Why this works 
 
 Most programmes focus on doing or refraining. *This is about becoming.* 
 
@@ -137,7 +137,7 @@ Most programmes focus on doing or refraining. *This is about becoming.* 
 
 **Until you meet and integrate these parts, your body will keep protecting you - even through weight.** 
 
-### You 
+## You 
 
 👉 Are tired of starting over\
 👉 Are doing “all the right things” but not seeing results\
@@ -155,7 +155,7 @@ This is for those ready to stop struggling and **start transforming from the ins
 → Want to feel at home in yourself, no more feeling like you’re escaping \
 → Are open to exploring emotions, mindset, and movement together 
 
-### RECLAIM YOUR BODY WITH YOUR MIND 
+## Reclaim your body with your mind
 
 The programme in a nutshell 
 
@@ -171,7 +171,7 @@ I guide you in powerful mindset shifts and body-based practices to alchemise pai
 
 Implement daily practices that sustain your peace, power, and progress. This is where it sticks. 
 
-### Final Promise 
+## Final Promise 
 
 This programme **is not for you if you’re looking for quick fixes.** 
 
@@ -189,26 +189,22 @@ The promise is not that you will lose weight. 
 
 **No more wobbling, you will actually crave healthy habits.** 
 
-### RECLAIM YOUR BODY WITH YOUR MIND 
+### Reclaim your body with your mind 
 
-### **Includes** 
+## Includes 
 
 ✔️ Bespoke coaching programme\
 ✔️ 12x private 1:1 sessions\
 ✔️ 12 weeks of support via Telegram voice/text\
 ✔️ Option to continue on a monthly retainer fee, guiding you until you feel comfortable that the habit is established. 
 
-### **Investment**
+## Investment
 
 **🚀 Beta price: £977** \
 \
 (*Full launch price: £1,969*)
 
-I offer a *FREE Discovery Call* (a high-value coaching session in itself) to help you decide if this programme is the right fit for you. 
-
-<BOOK A FREE DISCOVERY CALL>
-
-Is this for me? 
+### Is this for me? 
 
 If you’ve resonated with what you’ve read so far, there’s a good chance this is exactly what you’ve been looking for. 
 
