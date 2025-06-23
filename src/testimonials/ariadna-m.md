@@ -11,7 +11,7 @@ quote: Claudia helped me value myself at work and position myself for a better
 showStory: true
 showContactForm: true
 ---
-## Ari’s Story: Remembering her worth
+## Ari’s story: Remembering her worth
 
 Ari had been working as a dental technician for 12 years when she was offered a new opportunity within the same company - an administrative role that promised a refreshing change after over a decade in the same position.
 
@@ -32,3 +32,7 @@ What I admire most about Ari is her willingness to do the inner work. Her growth
 Ari, I’m so proud of you. Keep walking with that quiet power, and never lose sight of your value.
 
 — Claudia
+
+
+
+<a href="https://calendar.app.google/LLyjWCa1pwD2bAUP9" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
