@@ -26,7 +26,7 @@ summary: >-
 bannerImage: ""
 showLink: true
 linkText: Book a Free Discovery Call
-linkUrl: ""
+linkUrl: https://calendar.app.google/LLyjWCa1pwD2bAUP9
 showContactForm: true
 ---
 <a href="https://calendar.app.google/LLyjWCa1pwD2bAUP9" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
