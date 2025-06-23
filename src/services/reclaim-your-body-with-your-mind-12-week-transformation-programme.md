@@ -218,4 +218,4 @@ Because when we begin making aligned choices, the ripple effect touches every pa
 \
 I offer a *FREE Discovery Call* - a high-value coaching session in itself - to help you decide if this programme is the right fit for you.
 
-<a href="https://calendar.app.google/LLyjWCa1pwD2bAUP9" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>

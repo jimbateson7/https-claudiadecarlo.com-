@@ -26,7 +26,7 @@ summary: >-
 bannerImage: ""
 showLink: true
 linkText: Book a Free Discovery Call
-linkUrl: https://calendar.app.google/LLyjWCa1pwD2bAUP9
+linkUrl: https://claudiadecarlo.zohobookings.eu/#/240577000000038054
 showContactForm: true
 ---
-<a href="https://calendar.app.google/LLyjWCa1pwD2bAUP9" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>

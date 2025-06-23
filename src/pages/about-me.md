@@ -43,4 +43,4 @@ I’m also a…
 
 I'd love to meet you. I offer a free Discovery Call to walk through your needs and see whether we’re a good fit.
 
-<a href="https://calendar.app.google/LLyjWCa1pwD2bAUP9" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
