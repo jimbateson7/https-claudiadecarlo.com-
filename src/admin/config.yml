@@ -384,6 +384,12 @@ collections:
             widget: 'string'
             required: false
 
+          - label: 'Is Link External?'
+            name: 'isLinkExternal'
+            widget: 'boolean'
+            default: false
+            required: false
+
           - label: 'Body'
             name: 'body'
             widget: 'markdown'
