@@ -18,7 +18,7 @@ summary: >-
 
   To be considered, please send me an email to register your interest and I'll be in touch[](mailto:hello@claudiadecarlo.com)
 showLink: true
-linkText: hello@claudiadecarlo.com
+linkText: Email me
 linkUrl: mailto:hello@claudiadecarlo.com
 showContactForm: true
 ---
