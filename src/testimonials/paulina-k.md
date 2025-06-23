@@ -12,4 +12,5 @@ quote: >-
 
   She helped me turn that clarity into action, with practical and grounded steps that felt both manageable and motivating - never overwhelming, always aligned with what truly matters to me. I highly recommend Claudia as a coach - especially if you want to work on your limiting beliefs and unlearn behaviours and habits that no longer serve you.
 showStory: false
+showContactForm: true
 ---
