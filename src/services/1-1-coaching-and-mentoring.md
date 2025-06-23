@@ -4,10 +4,10 @@ order: 1
 title: 1:1 coaching and mentoring
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
-  Through coaching, emotional processing, and mindset work, I empower you to
-  live with purpose, freedom, and clarity. You'll make empowered decisions and
-  step into your full potential, making aligned choices, for more freedom, ease
-  and joy.
+  Through coaching, emotional processing, and mindset work, I help you live with
+  purpose, freedom, and clarity. You'll begin making confident, aligned
+  decisions and step into your full potential, creating more ease, joy, and flow
+  in your life.
 
 
   **Duration**: 90 minutes
