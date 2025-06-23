@@ -319,7 +319,8 @@ collections:
           - label: 'Publish Date'
             name: 'date'
             widget: 'datetime'
-            date_format: 'DD/MM/YYYY'
+            date_format: 'DD/MM/YYYY' # display format
+            format: 'YYYY-MM-DDTHH:mm:ss.SSSZ' # saved format
 
           - label: 'Body'
             name: 'body'
