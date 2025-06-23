@@ -16,7 +16,7 @@ quote: >-
 showStory: true
 showContactForm: false
 ---
-{% video "/static/uploads/Oscar testimonial (reduced).mp4" %}{% endvideo %}
+{% video "/static/uploads/oscar-testimonial-reduced-.mp4" %}{% endvideo %}
 
 ## Oscar’s story: From heartbreak to setting himself free
 
