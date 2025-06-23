@@ -3,7 +3,7 @@ layout: page.html
 order: 1
 testimonialAuthor: James B.
 testimonialAuthorLocation: North West, UK
-testimonialAuthorImage: /static/uploads/jim-2.jpeg
+testimonialAuthorImage: /static/img/jim-2.jpeg
 quote: >-
   Working with Claudia is great. She listens, is honest, empathetic and helps
   you celebrate little wins building towards your goal.
@@ -14,6 +14,7 @@ quote: >-
 
   I’m now back enjoying a running plan and when I find myself thinking negatively about myself, or not appreciating situations, a little Claudia pops up and reminds me to be kind to myself. I’ve lost a lot of physical and mental “weight” since starting to work with Claudia and shift the way I think about myself. It takes time and it can be hard after thinking a certain way for so long, but the work is paying off.
 showStory: true
+showContactForm: false
 ---
 ## Jim’s Story: Running back to confidence
 
@@ -34,3 +35,7 @@ Jim already had what it took. He just needed the right support to reconnect with
 Jim, I’m proud of how you showed up for yourself. You did the work, and it shows. I’m excited to see what comes next for you.
 
 — Claudia
+
+
+
+<a href="https://calendar.app.google/LLyjWCa1pwD2bAUP9" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
