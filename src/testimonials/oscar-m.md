@@ -16,9 +16,9 @@ quote: >-
 showStory: true
 showContactForm: false
 ---
-{% video "/static/uploads/oscar-testimonial-reduced-.mp4" %}{% endvideo %}
-
 ## Oscar’s story: From heartbreak to setting himself free
+
+{% video "/static/uploads/oscar-testimonial-reduced-.mp4" %}{% endvideo %}
 
 Oscar came to me in tears. His relationship was ending, and even though he hadn’t felt truly happy in it for a while, the thought of letting go brought up even more pain. 
 
