@@ -16,7 +16,7 @@ summary: >-
   This programme is for those who face financial challenges yet are deeply committed to personal growth and transformation.
 
 
-  To be considered, please send me an email to register your interest and I'll be in touch[](mailto:hello@claudiadecarlo.com)
+  To be considered, please send me an email to register your interest and I'll be in touch.
 showLink: true
 linkText: Email me
 linkUrl: mailto:hello@claudiadecarlo.com
