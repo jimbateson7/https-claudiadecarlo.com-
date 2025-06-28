@@ -50,7 +50,6 @@ if (footerPath) {
       }
     });
   
-    // Step 1: Initial state
     gsap.set(footerPath, {
       drawSVG: '0%',
       y: 200,
@@ -61,7 +60,7 @@ if (footerPath) {
     tl.to(footerPath, {
       drawSVG: '100%',
       y: 0,
-      duration: 3.5,
+      duration: 2.5,
       ease: 'power2.out'
     });
 
@@ -69,5 +68,27 @@ if (footerPath) {
       fill: 'var(--color-brand-yellow)',
       duration: 1,
       ease: 'power2.out'
-    }, '+=0.2');
-}  
+    }, '+=0.15');
+}
+
+// My approach
+gsap.fromTo('.js-pillar-decoration',
+    {
+      opacity: 0,
+      x: 0
+    },
+    {
+      opacity: 1,
+      x: 80,
+      duration: 1,
+      stagger: 0.3,
+      scrollTrigger: {
+        trigger: '.js-pillars',
+        start: 'top 80%',
+        toggleActions: 'play none none none',
+        once: true
+      }
+    }
+  );
+  
+  
