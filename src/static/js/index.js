@@ -72,10 +72,12 @@ if (footerPath) {
 }
 
 // My approach
+
+if (document.querySelector('.js-pillar-decoration')) {
 gsap.fromTo('.js-pillar-decoration',
     {
       opacity: 0,
-      x: 0
+      x: 40
     },
     {
       opacity: 1,
@@ -90,5 +92,4 @@ gsap.fromTo('.js-pillar-decoration',
       }
     }
   );
-  
-  
+}
