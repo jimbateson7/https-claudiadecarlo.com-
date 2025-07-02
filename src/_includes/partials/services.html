@@ -4,7 +4,7 @@
     <div class="container mx-auto">
         <h2 class="font-medium text-brand-purple md:text-5xl">{{howIHelpTitle}}</h2>
 
-        <div class="px-2 md:px-11 mt-12 splide" aria-label="Services Slider" data-splide='{ "autoHeight": true, "updateOnMove": true, "perPage": 3, "gap": "3rem", "breakpoints": { "1023": { "perPage": 1 } } }''>
+        <div class="px-2 md:px-11 mt-12 splide" data-splide='{ "autoHeight": true, "updateOnMove": true, "perPage": 3, "gap": "3rem", "breakpoints": { "1023": { "perPage": 1 } } }'>
             <div class="splide__track">
                 <ul class="md:mt-8 splide__list">
                     {% for service in orderedServices %}
