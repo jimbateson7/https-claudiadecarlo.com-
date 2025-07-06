@@ -2,11 +2,9 @@
 layout: page.html
 title: Rueda de la Vida
 permalink: /ruedavida/
-socialImage: /static/uploads/rueda-de-la-vida.jpg
+socialImage: ""
 showContactForm: true
 ---
-# Rueda de la Vida
-
 **Tomar conciencia es el primer paso.**
 
 ## ¿Qué es la Rueda de la Vida?
@@ -14,6 +12,8 @@ showContactForm: true
 La Rueda de la Vida es una herramienta simple pero poderosa para mirar tu vida con más claridad. Te permite evaluar cómo te sentís en diferentes áreas clave y detectar **desequilibrios, vacíos o zonas olvidadas** que están afectando tu bienestar general.
 
 La idea no es juzgarte, sino **tomar conciencia** desde un lugar amoroso. Para poder crear una visión expansiva y coherente, primero necesitás saber **desde dónde estás partiendo**.
+
+![](/static/uploads/la_rueda_de_la_vida_para_que_sirve_4761_1_600.webp)
 
 ### **Instrucciones**
 
@@ -24,7 +24,7 @@ La idea no es juzgarte, sino **tomar conciencia** desde un lugar amoroso. Para p
 
 ### **Áreas de tu vida a evaluar**
 
-![](/static/uploads/rueda-de-la-vida.jpg)
+![]()
 
 **Área**
 
