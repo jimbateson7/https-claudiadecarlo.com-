@@ -1,7 +1,7 @@
 ---
 layout: page.html
-title: Resources
-permalink: /recursos/
+title: Recursos
+permalink: /resources/
 showContactForm: true
 ---
 # Taller Tablero de Visión (versión Español)
