@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: Rueda de la Vida
-permalink: /rueda_de_la_vida/
+permalink: /ruedavida/
 socialImage: /static/uploads/rueda-de-la-vida.jpg
 showContactForm: true
 ---
