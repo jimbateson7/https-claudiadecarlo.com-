@@ -5,9 +5,13 @@ subTitle: Notas complementarias al taller
 permalink: /tablerovision/
 showContactForm: true
 ---
-El primer paso -y fundamental- es realizar el ejercicio escrito (si es a mano mejor) y luego el collage (este último es opcional)
+> La intención es la semilla 🌱
 
-## La intención es la semilla 🌱
+# Preparación 
+
+Estas son notas complementarias al taller Tablero de Visión.
+
+El primer paso -y fundamental- es realizar el ejercicio escrito (si es a mano mejor) y luego el collage (este último es opcional)
 
 Antes de crear tu tablero, necesitás plantar una semilla clara: **tu intención.**
 
