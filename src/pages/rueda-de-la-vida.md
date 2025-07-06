@@ -5,7 +5,7 @@ permalink: /ruedavida/
 socialImage: ""
 showContactForm: true
 ---
-> Tomar conciencia es el primer paso
+> *Tomar conciencia es el primer paso*
 
 # ¿Qué es la Rueda de la Vida?
 
