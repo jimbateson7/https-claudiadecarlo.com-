@@ -1,10 +1,12 @@
 ---
 layout: page.html
-title: Rueda de la Vida
+title: Recursos
 permalink: /ruedavida/
 socialImage: ""
 showContactForm: true
 ---
+# **Rueda de la Vida**
+
 **Tomar conciencia es el primer paso.**
 
 ## ¿Qué es la Rueda de la Vida?
