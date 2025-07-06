@@ -1,7 +1,7 @@
 ---
 layout: page.html
-title: Taller Tablero de Visión
-subTitle: Notas complementarias del taller
+title: Tablero de Visión
+subTitle: Notas complementarias al taller
 permalink: /tablerovision/
 showContactForm: true
 ---
@@ -150,4 +150,6 @@ El momento siempre es perfecto.
 
 Y aunque a veces parezca que retrocedemos, si seguimos con claridad, intención y alineación… lo mágico aparece.
 
-Si tenés cualquier duda o consulta, podés enviarme un mail a hello@claudiadecarlo.com, o un mensaje en el formulario abajo. Que lo disfrutes!
+💌 
+
+Si tenés cualquier duda o consulta, o si querés compartir tu progreso, podés enviarme un mail a hello@claudiadecarlo.com, o un mensaje en el formulario abajo. Que lo disfrutes!
