@@ -2,155 +2,108 @@
 layout: page.html
 title: Rueda de la Vida
 permalink: /rueda_de_la_vida/
+socialImage: /static/uploads/rueda-de-la-vida.jpg
 showContactForm: true
 ---
-# Taller Tablero de Visión (versión Español)
+# Rueda de la Vida
 
-Notas complementarias del taller.
+**Tomar conciencia es el primer paso.**
 
-El primer paso -y fundamental- es realizar el ejercicio escrito (si es a mano mejor) y luego el collage (este último es opcional)
+## ¿Qué es la Rueda de la Vida?
 
-## La intención es la semilla 🌱
+La Rueda de la Vida es una herramienta simple pero poderosa para mirar tu vida con más claridad. Te permite evaluar cómo te sentís en diferentes áreas clave y detectar **desequilibrios, vacíos o zonas olvidadas** que están afectando tu bienestar general.
 
-Antes de crear tu tablero, necesitás plantar una semilla clara: **tu intención.**
+La idea no es juzgarte, sino **tomar conciencia** desde un lugar amoroso. Para poder crear una visión expansiva y coherente, primero necesitás saber **desde dónde estás partiendo**.
 
-La intención es lo que da origen a tu **visión**. Es esa energía interna, sutil pero poderosa, que impulsa todo lo demás.
+### **Instrucciones**
 
-Como una semilla que contiene dentro suyo todo el potencial de un árbol, **tu intención guarda en sí misma la dirección y el propósito de tu visión**.
+1. Leé cada una de las áreas y ponete una nota del **1 al 10**, siendo 1 = nada satisfecha y 10 = completamente satisfecha.
+2. Marcá el número dentro del círculo o anotá la puntuación en la tabla.
+3. Reflexioná: ¿Qué áreas necesitan atención? ¿Qué cambios deseás?
+4. Luego podrás usar esto como base para crear tu tablero de visión o intenciones del mes/año.
 
-Sin intención, es como querer cosechar sin haber sembrado.
 
-Tu visión tiene que **estar alineada con tu intención**.
+### **Áreas de tu vida a evaluar**
 
-Preguntate:
 
- ¿Qué deseo realmente experimentar en mi vida?
+**Área**
 
-¿Qué quiero cultivar?
+**Puntaje (1–10)**
 
-¿Desde dónde nace este deseo?
+**¿Cómo me siento en esta área de mi vida? ¿Qué me gustaría cambiar o mejorar?**
 
-## Cómo escribir tu visión
+💛 **Amor (pareja o amor propio)**
 
-💫 Escribí tu visión en **Presente, Positivo y Primera persona**.
+¿Me siento amada, elegida, acompañada? ¿Me amo, me escucho, me trato con ternura?
 
-Tiene que emocionarte, expandirte el pecho, hacerte sonreír con solo imaginarla.
+🏡 **Familia**
 
-No se trata solo de “lo que quiero tener”, sino de **cómo quiero sentirme** cuando eso sea parte de mi vida.
+¿Cómo es mi vínculo con mi familia de origen o familia elegida? ¿Hay armonía, conexión, límites sanos?
 
-💫 Si todavía no sabés exactamente qué querés, **conectá con las emociones**:
+👯‍♀️ **Amigos**
 
- ¿Cómo me quiero sentir? ¿Liviana? ¿Segura? ¿Libre? ¿Creativa?
+¿Tengo relaciones que me nutren, me inspiran, me hacen reír? ¿Me siento acompañada y libre de ser yo?
 
- **La emoción es el puente más poderoso hacia la manifestación**.
+📚 **Desarrollo personal**
 
-💫 Evitá dejar espacios importantes en blanco: Lo que no definimos con intención, lo dejamos al azar o a la confusión. Cuando creás tu visión, es muy común enfocarte en **lo que más deseás** (como un viaje, un nuevo hogar, un proyecto…), pero dejar fuera detalles que en la práctica son esenciales.
+¿Estoy creciendo, aprendiendo, sanando, expandiéndome? ¿Estoy invirtiendo tiempo en conocerme y evolucionar?
 
-Eso crea “espacios en blanco” que pueden generar ruido, estrés o incluso sabotear tu manifestación.
+🎨 **Ocio y disfrute**
 
-Por ejemplo:
+¿Estoy disfrutando la vida? ¿Me permito descansar, jugar, explorar, crear sin obligación?
 
-Querés irte de viaje sola con tu pareja, y lo escribís o visualizás. Pero en tu mente aparece la duda: “¿Y los niños con quién se quedan?”.
+🎯 **Profesión y propósito**
 
-Si no definiste eso, tu cuerpo no puede relajarse del todo con la imagen del viaje, y esa emoción de expansión se corta.
+¿Me siento realizada con lo que hago? ¿Mi trabajo está alineado con lo que valoro y deseo aportar?
 
-No es para volverse loca con los detalles, pero sí para asegurarte de que **todo esté contenido y resuelto emocionalmente**.
+🧘‍♀️ **Salud y bienestar**
 
-Visualizar esas piezas te ayuda a que tu cuerpo y tu mente sientan **seguridad, certeza y expansión**.
+¿Cómo me siento en mi cuerpo, energía y estado emocional? ¿Estoy cuidándome de forma integral?
 
-👉 **Lo que no definís, lo deja tu subconsciente en modo preocupación**.
+💰 **Dinero y abundancia**
 
-Aunque sea con palabras generales, aseguráte de incluir todas las áreas que son significativas para vos.
+¿Me siento segura, libre y merecedora? ¿Puedo cubrir mis necesidades y vivir en expansión?
 
-Y sobre todo, tené en claro el **para qué**.
+**Reflexiones**
 
-*¿Para qué quiero esto? ¿Qué me va a permitir vivir, experimentar, compartir, dar o recibir?*
+✍️ **¿Qué áreas tienen puntuaciones más bajas?**
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-A veces, sin darnos cuenta, deseamos lo que los demás tienen o lo que “parece exitoso”.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Volvé a vos. A lo verdadero y alineado con *vos*.
+✍️ **¿Qué patrón noto? (¿Hay algo que estoy descuidando o sobrecargando?)**
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cuando sembramos una semilla, no estamos todos los días desenterrándola para ver si ya creció.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-La regamos, le damos luz, y confiamos en el proceso. Lo mismo pasa con tu visión.
+✍️ **¿Qué necesito cambiar o cultivar para sentirme más alineada?**
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Después de escribirla y crearla, practicá el desapego.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Enfocate en el qué, pero soltá el ***cómo*** y el ***cuándo***.
+**🌱 Desde esta claridad...**
 
-Esa confianza es muy importante para que la energía fluya.
+Elegí 1 o 2 áreas que quieras **enfocar y nutrir conscientemente** en este próximo ciclo. Pueden ser las que tengan menor puntaje, o las que intuitivamente sientas más urgentes.
 
-## Las claves
+✍️ **Mi intención de foco está en:**
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1. Coherencia: que lo que pensás, sentís y hacés estén alineados.
-2. Desapego: confiá en que lo que es para vos llegará en el momento justo.
-3. Certeza: no sé cómo ni cuándo, pero sé que lo voy a lograr.
-4. Gratitud: mirá tu visión con emoción, satisfacción y reconocimiento hacia vos misma. 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-   Decí: *Hecho está. Lo suelto.* ✨
+✍️ **Lo que deseo experimentar/sentir ahí es:**
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Recordá
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-👉 No te enfoques sólo en el dinero, sino en lo que representa.\
-👉 Este no es un tablero de “cosas”, es un tablero de emociones.\
-👉 Soñá en grande, y evitá palabras como “no”, “nunca”, “sin”. Por ejemplo: no digas *“quiero dejar de sentirme insegura”, decí “me siento segura y en paz”.*
+**Ritual sugerido**
 
-## El trabajo profundo
+Después de completar tu rueda, podés hacer un pequeño ritual simbólico:
 
-Si querés una visión expansiva y verdadera, primero hacé el trabajo interior:
+* Prender una vela con intención
+* Escribir una afirmación tipo: *“Estoy lista para darle luz a esta área de mi vida”*
+* Dibujar tu propia rueda, coloreándola según cómo se siente ahora y cómo querés que se sienta
 
-### 1. Hacer consciente lo inconsciente
 
-Ir al pasado y detectar de dónde vienen las creencias que hoy te limitan.
+**Final**
 
-### 2. Desafiarlas
-
-¿Qué tan real es que.. *no valgo, que soy demasiado, que no puedo*…?
-
-Escribí cada una y cuestionala.
-
-### 3. Reprogramar
-
-Elegite. Ponete primero.
-
-Si me elijo, también elijo mejor mi entorno, mis hábitos, mis acciones.
-
-**🙌 Recordá: manifestamos lo que toleramos y lo (nos creemos) que somos.**
-
-Si tenemos mente de escasez, manifestamos escasez.
-
-Necesitamos elevar nuestra energía, sentirnos abundantes, valiosas y merecedoras antes de ver resultados externos.
-
-## ¿Por qué funciona esto?
-
-Cuando visualizás con claridad y emoción, activás el *Sistema de Activación Reticular*, que es como el radar interno del cerebro. Es lo que nos da el foco.
-
-Eso hace que empieces a notar oportunidades, ideas y caminos que antes no veías. Tu mente y tu cuerpo trabajan para llevarte ahí.
-
-Por eso es tan importante invertir en tu crecimiento personal y en conocer qué hay en tu subconsciente (la sombra). También porque ahi no solo esta lo que suprimimos, estan nuestros talentos mejor guardados, los que también suprimimos por vergüenza o porque alguien nos dijo que no ibamos a llegar a nada con eso (alguna pasión artística, por ejemplo)
-
-## Ritual 
-
-Hacé este ejercicio en un espacio que se sienta abundante para vos.
-
-Puede ser en una cafetería que te inspire, o en casa, con una vela, música suave, y ropa cómoda.
-
-Lo importante es que te sientas relajada, abierta, y conectada.
-
-Las imágenes, texturas (incluso olores y sabores) **invocan emociones**, por eso son tan poderosas para anclar tu visión. 
-
-Hacer el collage y verlo a diario (como fondo de pantalla o colgado en la pared) puede ayudarte a mantener viva la energía de tu intención.
-
-Pero no es imprescindible. También puedes hacer el ejercicio por escrito y **guardarlo en un lugar especial**. Lo importante no es lo visual en sí, sino **lo que sentís mientras escribís y visualizás**.
-
-Todos tus sueños, objetivos o lo que quieras manifestar, puede cambiar a lo largo de tiempo! Y lo hacemos a medidas que crecemos y nos expandimos, asi que no te preocupes si cambias de opinión, volves a hacer el ejercicio de escribir y visualizar y lo incluís.
-
-## Final
-
-Confío en que todo llega cuando tiene que llegar.
-
-El momento siempre es perfecto.
-
-Y aunque a veces parezca que retrocedemos, si seguimos con claridad, intención y alineación… lo mágico aparece.
-
-Si tenés cualquier duda o consulta, podés enviarme un mail a hello@claudiadecarlo.com, o un mensaje en el formulario abajo. Que lo disfrutes!
+La Rueda de la Vida es un espejo amable que te ayuda a ver dónde estás parada para que puedas caminar más consciente, más liviana y más alineada.
