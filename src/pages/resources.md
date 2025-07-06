@@ -1,13 +1,10 @@
 ---
 layout: page.html
-title: Recursos
-permalink: /resources/
+title: Taller Tablero de Visión
+subTitle: Notas complementarias del taller
+permalink: /tablerovision/
 showContactForm: true
 ---
-# Taller Tablero de Visión (versión Español)
-
-Notas complementarias del taller.
-
 El primer paso -y fundamental- es realizar el ejercicio escrito (si es a mano mejor) y luego el collage (este último es opcional)
 
 ## La intención es la semilla 🌱
