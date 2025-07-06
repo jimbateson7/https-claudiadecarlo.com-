@@ -153,15 +153,4 @@ El momento siempre es perfecto.
 
 Y aunque a veces parezca que retrocedemos, si seguimos con claridad, intención y alineación… lo mágico aparece.
 
-Si tenés cualquier duda o consulta, podés enviarme un mail a hello@claudiadecarlo.com, o un mensaje en el formulario abajo, y contarme que tal te va!\
-\
-Formulario:
-
-*Nombre*\
-*Apellido*\
-*Direccion de correo*\
-*Telefono*\
-*y en el ultimo campo me escribis.*
-
-Clau\
-🙌 😘
+Si tenés cualquier duda o consulta, podés enviarme un mail a hello@claudiadecarlo.com, o un mensaje en el formulario abajo. Que lo disfrutes!
