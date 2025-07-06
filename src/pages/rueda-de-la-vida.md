@@ -2,7 +2,7 @@
 layout: page.html
 title: Rueda de la Vida
 permalink: /ruedavida/
-socialImage: /static/uploads/rueda-de-la-vida.jpg
+socialImage: ""
 showContactForm: true
 ---
 # Rueda de la Vida
@@ -15,6 +15,8 @@ La Rueda de la Vida es una herramienta simple pero poderosa para mirar tu vida c
 
 La idea no es juzgarte, sino **tomar conciencia** desde un lugar amoroso. Para poder crear una visión expansiva y coherente, primero necesitás saber **desde dónde estás partiendo**.
 
+![](/static/uploads/la_rueda_de_la_vida_para_que_sirve_4761_1_600.webp)
+
 ### **Instrucciones**
 
 1. Leé cada una de las áreas y ponete una nota del **1 al 10**, siendo 1 = nada satisfecha y 10 = completamente satisfecha.
@@ -24,7 +26,7 @@ La idea no es juzgarte, sino **tomar conciencia** desde un lugar amoroso. Para p
 
 ### **Áreas de tu vida a evaluar**
 
-![](/static/uploads/rueda-de-la-vida.jpg)
+![]()
 
 **Área**
 
