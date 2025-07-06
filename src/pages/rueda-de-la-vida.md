@@ -6,8 +6,8 @@ socialImage: ""
 showContactForm: true
 ---
 > Tomar conciencia es el primer paso
->
-> # ¿Qué es la Rueda de la Vida?
+
+# ¿Qué es la Rueda de la Vida?
 
 La Rueda de la Vida es una herramienta simple pero poderosa para mirar tu vida con más claridad. Te permite evaluar cómo te sentís en diferentes áreas clave y detectar **desequilibrios, vacíos o zonas olvidadas** que están afectando tu bienestar general.
 
@@ -103,6 +103,6 @@ Después de completar tu rueda, podés hacer un pequeño ritual simbólico:
 
 La Rueda de la Vida es un espejo amable que te ayuda a ver dónde estás parada para que puedas caminar más consciente, más liviana y más alineada.
 
+💌 
 
-
-💌 Si tenés cualquier duda o consulta, podés enviarme un mail a hello@claudiadecarlo.com, o un mensaje en el formulario abajo. Que lo disfrutes!
+Si tenés cualquier duda o consulta, o si querés compartir tu progreso, podés enviarme un mail a hello@claudiadecarlo.com, o un mensaje en el formulario abajo. Que lo disfrutes!
