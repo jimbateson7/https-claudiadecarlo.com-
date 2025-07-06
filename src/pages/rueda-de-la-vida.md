@@ -22,9 +22,9 @@ La idea no es juzgarte, sino **tomar conciencia** desde un lugar amoroso. Para p
 3. Reflexioná: ¿Qué áreas necesitan atención? ¿Qué cambios deseás?
 4. Luego podrás usar esto como base para crear tu tablero de visión o intenciones del mes/año.
 
-
 ### **Áreas de tu vida a evaluar**
 
+![](/static/uploads/rueda-de-la-vida.jpg)
 
 **Área**
 
@@ -102,7 +102,6 @@ Después de completar tu rueda, podés hacer un pequeño ritual simbólico:
 * Prender una vela con intención
 * Escribir una afirmación tipo: *“Estoy lista para darle luz a esta área de mi vida”*
 * Dibujar tu propia rueda, coloreándola según cómo se siente ahora y cómo querés que se sienta
-
 
 **Final**
 
