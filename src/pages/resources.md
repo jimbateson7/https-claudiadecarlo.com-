@@ -54,7 +54,7 @@ Querés irte de viaje sola con tu pareja, y lo escribís o visualizás. Pero en 
 
 Si no definiste eso, tu cuerpo no puede relajarse del todo con la imagen del viaje, y esa emoción de expansión se corta.
 
-No es para volverse loca con los detalles, pero sí para asegurarte de que \*\*todo esté contenido y resuelto emocionalmente\*\*.
+No es para volverse loca con los detalles, pero sí para asegurarte de que **todo esté contenido y resuelto emocionalmente**.
 
 Visualizar esas piezas te ayuda a que tu cuerpo y tu mente sientan **seguridad, certeza y expansión**.
 
@@ -68,7 +68,7 @@ Y sobre todo, tené en claro el **para qué**.
 
 A veces, sin darnos cuenta, deseamos lo que los demás tienen o lo que “parece exitoso”.
 
-Volvé a vos. A lo verdadero y alineado con \*vos\*.
+Volvé a vos. A lo verdadero y alineado con *vos*.
 
 Cuando sembramos una semilla, no estamos todos los días desenterrándola para ver si ya creció.
 
@@ -83,11 +83,8 @@ Esa confianza es muy importante para que la energía fluya.
 ## Las claves
 
 1. Coherencia: que lo que pensás, sentís y hacés estén alineados.
-
 2. Desapego: confiá en que lo que es para vos llegará en el momento justo.
-
 3. Certeza: no sé cómo ni cuándo, pero sé que lo voy a lograr.
-
 4. Gratitud: mirá tu visión con emoción, satisfacción y reconocimiento hacia vos misma. 
 
    Decí: *Hecho está. Lo suelto.* ✨
@@ -104,19 +101,19 @@ Si querés una visión expansiva y verdadera, primero hacé el trabajo interior:
 
 ### 1. Hacer consciente lo inconsciente
 
-\    Ir al pasado y detectar de dónde vienen las creencias que hoy te limitan.
+Ir al pasado y detectar de dónde vienen las creencias que hoy te limitan.
 
 ### 2. Desafiarlas
 
-\    ¿Qué tan real es que.. \*no valgo, que soy demasiado, que no puedo\*…?
+¿Qué tan real es que.. *no valgo, que soy demasiado, que no puedo*…?
 
-\    Escribí cada una y cuestionala.
+Escribí cada una y cuestionala.
 
 ### 3. Reprogramar
 
-\    Elegite. Ponete primero.
+Elegite. Ponete primero.
 
-\    Si me elijo, también elijo mejor mi entorno, mis hábitos, mis acciones.
+Si me elijo, también elijo mejor mi entorno, mis hábitos, mis acciones.
 
 **🙌 Recordá: manifestamos lo que toleramos y lo (nos creemos) que somos.**
 
@@ -156,4 +153,15 @@ El momento siempre es perfecto.
 
 Y aunque a veces parezca que retrocedemos, si seguimos con claridad, intención y alineación… lo mágico aparece.
 
-Podes enviarme un mail o un mensaje y contarme que tal te va!
+Si tenés cualquier duda o consulta, podés enviarme un mail a hello@claudiadecarlo.com, o un mensaje en el formulario abajo, y contarme que tal te va!\
+\
+Formulario:
+
+*Nombre*\
+*Apellido*\
+*Direccion de correo*\
+*Telefono*\
+*y en el ultimo campo me escribis.*
+
+Clau\
+🙌 😘
