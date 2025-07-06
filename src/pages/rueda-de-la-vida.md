@@ -1,15 +1,13 @@
 ---
 layout: page.html
-title: Recursos
+title: Rueda de la Vida
 permalink: /ruedavida/
 socialImage: ""
 showContactForm: true
 ---
-# **Rueda de la Vida**
-
-**Tomar conciencia es el primer paso.**
-
-## ¿Qué es la Rueda de la Vida?
+> Tomar conciencia es el primer paso
+>
+> # ¿Qué es la Rueda de la Vida?
 
 La Rueda de la Vida es una herramienta simple pero poderosa para mirar tu vida con más claridad. Te permite evaluar cómo te sentís en diferentes áreas clave y detectar **desequilibrios, vacíos o zonas olvidadas** que están afectando tu bienestar general.
 
@@ -27,10 +25,6 @@ La idea no es juzgarte, sino **tomar conciencia** desde un lugar amoroso. Para p
 ### **Áreas de tu vida a evaluar**
 
 ![]()
-
-**Área**
-
-**Puntaje (1–10)**
 
 **¿Cómo me siento en esta área de mi vida? ¿Qué me gustaría cambiar o mejorar?**
 
@@ -108,3 +102,7 @@ Después de completar tu rueda, podés hacer un pequeño ritual simbólico:
 **Final**
 
 La Rueda de la Vida es un espejo amable que te ayuda a ver dónde estás parada para que puedas caminar más consciente, más liviana y más alineada.
+
+
+
+💌 Si tenés cualquier duda o consulta, podés enviarme un mail a hello@claudiadecarlo.com, o un mensaje en el formulario abajo. Que lo disfrutes!
