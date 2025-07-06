@@ -2,6 +2,7 @@
 layout: page.html
 title: Resources
 permalink: /resources/
+showContactForm: true
 ---
 # Taller Tablero de Visión (versión Español)
 
