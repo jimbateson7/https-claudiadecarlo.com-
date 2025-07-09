@@ -1,7 +1,6 @@
 ---
 layout: page.html
 title: Ejercicio de Valores
-permalink: /valores/
 socialImage: ""
 showContactForm: true
 ---

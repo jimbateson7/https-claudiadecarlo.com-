@@ -2,7 +2,6 @@
 layout: page.html
 title: Privacy policy
 bannerImage: ""
-permalink: /privacy-policy/
 showContactForm: true
 ---
 This privacy notice provides you with details of how we collect and process your  personal data through your use of our site claudiadecarlo.com

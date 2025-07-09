@@ -1,10 +1,10 @@
 <section class="py-8">
     <div class="container mx-auto">
         <div class="p-6 lg:p-11 bg-brand-yellow/25 rounded-lg card-shadow">
-            <h2 class="font-medium text-brand-purple md:text-5xl">{{ siteSettings.contactFormHeading }}</h2>
+            <h2 class="font-medium text-brand-purple md:text-5xl">{{ settings.contactFormHeading }}</h2>
 
             <div class="max-w-[85ch] wysiwyg">
-                {{ siteSettings.contactFormSummary | markdown | safe }}
+                {{ settings.contactFormSummary | markdown | safe }}
             </div>
 
             <form class="mt-4 lg:max-w-3/4" action="/success-contact" method="POST" netlify name="quickContact" data-netlify-honeypot="bot-field">
@@ -50,7 +50,7 @@
                         <label class="pl-1 py-1 font-medium" for="privacy">By submitting this form, you agree to our <a href="/privacy-policy">privacy policy</a></label>
                     </div>
 
-                    <button type="submit" class="mt-6 btn min-h-[50px] w-full md:max-w-max focus-visible:outline-brand-purple">{{ siteSettings.contactFormButton }}</button>
+                    <button type="submit" class="mt-6 btn min-h-[50px] w-full md:max-w-max focus-visible:outline-brand-purple">{{ settings.contactFormButton }}</button>
                 </div>
             </form>
         </div>

@@ -1,3 +1,10 @@
+{% set lang = locale or 'en' %}
+
+{% set settings = siteSettings[lang] %}
+{% set nav = headerNavigation[lang] %}
+{% set footer = footerNavigation[lang] %}
+{% set socials = socialLinks[lang] %}
+
 <!DOCTYPE html>
 <html lang="en">
   <head>

@@ -5,6 +5,7 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require("markdown-it");
 const esbuild = require('esbuild');
+const path = require("path");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyImageTransformPlugin);
@@ -73,20 +74,61 @@ module.exports = function(eleventyConfig) {
     reloadDelay: 250,
   });
 
+  eleventyConfig.addGlobalData("eleventyComputed", {
+    permalink: (data) => {
+      // Use explicit permalink if already set
+      if (data.permalink) return data.permalink;
+  
+      // Detect language from input file path (adjust these to your folders)
+      if (data.page && data.page.inputPath) {
+        if (data.page.inputPath.includes(`${path.sep}en${path.sep}`)) {
+          // prefix English pages with /en/
+          return `/en${data.page.filePathStem}/`;
+        }
+        if (data.page.inputPath.includes(`${path.sep}es${path.sep}`)) {
+          // prefix Spanish pages with /es/
+          return `/es${data.page.filePathStem}/`;
+        }
+      }
+  
+      // Default fallback — no prefix
+      return data.page.filePathStem + "/";
+    }
+  });
+
   const now = new Date();
 
   const services = (service) => service.date <= now && !service.data.draft;
 
-  eleventyConfig.addCollection("services", (collection) => {
-    return [...collection.getFilteredByGlob("./src/services/*.md").filter(services)].reverse();
+  eleventyConfig.addCollection("services_en", (collection) => {
+    return [...collection.getFilteredByGlob("./src/en/services/*.md").filter(services)].reverse();
   });
 
-  eleventyConfig.addCollection("testimonials", (collection) => {
+  eleventyConfig.addCollection("services_es", (collection) => {
+    return [...collection.getFilteredByGlob("./src/es/services/*.md").filter(services)].reverse();
+  });
+
+  eleventyConfig.addCollection("testimonials_en", (collection) => {
     return collection
-      .getFilteredByGlob("./src/testimonials/*.md")
+      .getFilteredByGlob("./src/en/testimonials/*.md")
       .filter((testimonial) => !testimonial.data.draft)
       .reverse();
   });
+
+  eleventyConfig.addCollection("testimonials_es", (collection) => {
+    return collection
+      .getFilteredByGlob("./src/es/testimonials/*.md")
+      .filter((testimonial) => !testimonial.data.draft)
+      .reverse();
+  });
+
+  eleventyConfig.addCollection("posts_en", (collection) =>
+    collection.getFilteredByGlob("./src/en/posts/*.md")
+  );
+  
+  eleventyConfig.addCollection("posts_es", (collection) =>
+    collection.getFilteredByGlob("./src/es/posts/*.md")
+  );
 
   eleventyConfig.addCollection("sitemapPages", (collectionApi) => {
     return collectionApi.getAll().filter(page => {

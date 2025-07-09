@@ -11,541 +11,237 @@ public_folder: '/static/uploads'
 logo_url: https://decapbridge.com/decapcms-with-bridge.svg
 site_url: https://claudiadecarlo.com
 
-# Run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
 
 collections:
-    - name: 'pages'
-      label: 'Pages'
+    # Pages - English
+    - name: 'pages_en'
+      label: 'Pages (English)'
       files:
-          - name: 'home'
+          - name: 'home_en'
             label: 'Homepage'
             delete: false
-            file: 'src/index.html'
+            file: 'src/en/index.html'
             slug: '{{slug}}'
             create: false
             fields:
-                - label: 'Layout'
-                  name: 'layout'
-                  widget: 'hidden'
-                  default: 'layouts/njk.njk'
+                - { label: 'Title', name: 'title', widget: 'string' }
+                - { label: 'Body', name: 'body', widget: 'markdown' }
 
-                - label: 'SEO Meta Title'
-                  name: 'metaTitle'
-                  widget: 'string'
-                  required: false
-
-                - label: 'SEO Meta Description'
-                  name: 'metaDesc'
-                  widget: 'string'
-                  required: false
-
-                - label: 'Social Image'
-                  name: 'socialImage'
-                  widget: 'image'
-                  required: false
-
-                - label: 'Avatar Image'
-                  name: 'avatarImage'
-                  widget: 'image'
-
-                - label: 'Title'
-                  name: 'title'
-                  widget: 'string'
-
-                - label: 'Subtitle'
-                  name: 'subtitle'
-                  widget: 'string'
-
-                - label: 'Hero Image'
-                  name: 'heroImage'
-                  widget: 'image'
-
-                - label: 'Collage Heading'
-                  name: 'collageHeading'
-                  widget: 'string'
-                  required: false
-
-                - label: 'Collage Summary'
-                  name: 'collageSummary'
-                  widget: 'markdown'
-                  required: false
-
-                - label: 'Collage Image'
-                  name: 'collageImage'
-                  widget: 'image'
-                  required: false
-
-                - label: 'How I help Title'
-                  name: 'howIHelpTitle'
-                  widget: 'string'
-
-                - label: 'Testimonials Title'
-                  name: 'testimonialsTitle'
-                  widget: 'string'
-
-                - label: About Title
-                  name: 'aboutTitle'
-                  widget: 'string'
-
-                - label: About Summary
-                  name: 'aboutSummary'
-                  widget: 'markdown'
-
-                - label: About Image
-                  name: 'aboutImage'
-                  widget: 'image'
-
-                - label: 'About Link Text'
-                  name: 'aboutLinkText'
-                  widget: 'string'
-
-                - label: 'About Link URL'
-                  name: 'aboutLinkUrl'
-                  widget: 'string'
-
-                - label: Contact Title
-                  name: 'contactTitle'
-                  widget: 'string'
-
-                - label: Contact Summary
-                  name: 'contactSummary'
-                  widget: 'markdown'
-
-                - label: Contact Image
-                  name: 'contactImage'
-                  widget: 'image'
-
-                - label: 'Contact Link Text'
-                  name: 'contactLinkText'
-                  widget: 'string'
-
-                - label: 'Contact Link URL'
-                  name: 'contactLinkUrl'
-                  widget: 'string'
-
-          - name: 'myApproach'
+          - name: 'myApproach_en'
             label: 'My Approach'
             delete: false
-            file: 'src/my-approach.html'
+            file: 'src/en/my-approach.html'
             slug: '{{slug}}'
             create: false
             fields:
-                - label: 'Layout'
-                  name: 'layout'
-                  widget: 'hidden'
-                  default: 'layouts/njk.njk'
+                - { label: 'Title', name: 'title', widget: 'string' }
+                - { label: 'Body', name: 'body', widget: 'markdown' }
 
-                - label: 'SEO Meta Title'
-                  name: 'metaTitle'
-                  widget: 'string'
-                  required: false
+    # Pages - Spanish
+    - name: 'pages_es'
+      label: 'Pages (Spanish)'
+      files:
+          - name: 'home_es'
+            label: 'Homepage'
+            delete: false
+            file: 'src/es/index.html'
+            slug: '{{slug}}'
+            create: false
+            fields:
+                - { label: 'Title', name: 'title', widget: 'string' }
+                - { label: 'Body', name: 'body', widget: 'markdown' }
 
-                - label: 'SEO Meta Description'
-                  name: 'metaDesc'
-                  widget: 'string'
-                  required: false
+          - name: 'myApproach_es'
+            label: 'My Approach'
+            delete: false
+            file: 'src/es/my-approach.html'
+            slug: '{{slug}}'
+            create: false
+            fields:
+                - { label: 'Title', name: 'title', widget: 'string' }
+                - { label: 'Body', name: 'body', widget: 'markdown' }
 
-                - label: 'Social Image'
-                  name: 'socialImage'
-                  widget: 'image'
-                  required: false
-
-                - label: 'Title'
-                  name: 'title'
-                  widget: 'string'
-
-                - label: 'Subtitle'
-                  name: 'subTitle'
-                  widget: 'string'
-
-                - label: 'Banner Image'
-                  name: 'bannerImage'
-                  widget: 'image'
-
-                - label: 'Summary'
-                  name: 'summary'
-                  widget: 'markdown'
-
-                - label: 'Pillars Heading'
-                  name: 'pillarsHeading'
-                  widget: 'string'
-
-                - label: Pillars
-                  name: pillars
-                  widget: list
-                  allow_add: true
-                  allow_delete: true
-                  collapsed: true
-                  max: 4
-                  fields:
-                      - label: Title
-                        name: text
-                        widget: string
-                      - label: Description
-                        name: description
-                        widget: markdown
-                      - label: 'Icon'
-                        name: icon
-                        widget: string
-
-                - label: 'Concepts Heading'
-                  name: 'conceptsHeading'
-                  widget: 'string'
-
-                - label: Concepts
-                  name: concepts
-                  widget: list
-                  allow_add: true
-                  allow_delete: true
-                  collapsed: true
-                  max: 5
-                  fields:
-                      - label: Title
-                        name: text
-                        widget: string
-                      - label: Description
-                        name: description
-                        widget: markdown
-
-                - label: 'Show contact form?'
-                  name: 'showContactForm'
-                  widget: 'boolean'
-                  default: false
-                  required: false
-
-    - name: 'static_pages'
-      label: 'Static Pages'
-      folder: 'src/pages'
+    # Static Pages - English
+    - name: 'static_pages_en'
+      label: 'Static Pages (English)'
+      folder: 'src/en/pages'
       slug: '{{slug}}'
       preview_path: 'pages/{{slug}}'
       create: true
       fields:
-          - {
-                label: 'Layout',
-                name: 'layout',
-                widget: 'hidden',
-                default: 'page.html',
-            }
-
           - { label: 'Title', name: 'title', widget: 'string' }
-
-          - {
-                label: 'Subtitle',
-                name: 'subTitle',
-                widget: 'string',
-                required: false,
-            }
-
-          - {
-                label: 'Banner Image',
-                name: 'bannerImage',
-                widget: 'image',
-                required: false,
-            }
-
-          - {
-                label: 'Permalink Override',
-                name: 'permalink',
-                widget: 'string',
-                required: false,
-            }
-
-          - {
-                label: 'SEO Meta Title',
-                name: 'metaTitle',
-                widget: 'string',
-                required: false,
-            }
-
-          - {
-                label: 'SEO Meta Description',
-                name: 'metaDesc',
-                widget: 'string',
-                required: false,
-            }
-
-          - {
-                label: 'Social Image',
-                name: 'socialImage',
-                widget: 'image',
-                required: false,
-            }
-
           - { label: 'Body', name: 'body', widget: 'markdown' }
 
-          - label: 'Show contact form?'
-            name: 'showContactForm'
-            widget: 'boolean'
-            default: false
-            required: false
+    # Static Pages - Spanish
+    - name: 'static_pages_es'
+      label: 'Static Pages (Spanish)'
+      folder: 'src/es/pages'
+      slug: '{{slug}}'
+      preview_path: 'pages/{{slug}}'
+      create: true
+      fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
 
-    - label: 'Blog'
-      name: 'blog'
-      folder: 'src/posts'
+    # Blog - English
+    - label: 'Blog (English)'
+      name: 'blog_en'
+      folder: 'src/en/posts'
       create: true
       editor:
           preview: false
       fields:
-          - label: 'Title'
-            name: 'title'
-            widget: 'string'
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
 
-          - label: 'Description'
-            name: 'description'
-            widget: 'string'
-            required: false
+    # Blog - Spanish
+    - label: 'Blog (Spanish)'
+      name: 'blog_es'
+      folder: 'src/es/posts'
+      create: true
+      editor:
+          preview: false
+      fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
 
-          - label: 'Card Image'
-            name: 'cardImage'
-            widget: 'image'
-            required: false
-
-          - label: 'Banner Image'
-            name: 'bannerImage'
-            widget: 'image'
-            required: false
-
-          - label: 'Author'
-            name: 'author'
-            default: 'Claudia De Carlo'
-            widget: 'string'
-
-          - label: 'Author Image'
-            name: 'authorImage'
-            widget: 'image'
-            required: false
-
-          - label: 'Publish Date'
-            name: 'date'
-            widget: 'datetime'
-            date_format: 'DD/MM/YYYY' # display format
-            format: 'YYYY-MM-DDTHH:mm:ss.SSSZ' # saved format
-
-          - label: 'Body'
-            name: 'body'
-            widget: 'markdown'
-
-          - label: 'Tags'
-            name: 'tags'
-            widget: 'list'
-            required: false
-
-          - label: 'Show contact form?'
-            name: 'showContactForm'
-            widget: 'boolean'
-            default: false
-            required: false
-
-    - label: 'Services'
-      name: 'services'
-      folder: 'src/services'
+    # Services - English
+    - label: 'Services (English)'
+      name: 'services_en'
+      folder: 'src/en/services'
       create: true
       fields:
-          - label: 'Layout'
-            name: 'layout'
-            widget: 'hidden'
-            default: 'page.html'
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'markdown' }
 
-          - label: 'Order'
-            name: 'order'
-            widget: 'number'
-            min: 1
+    # Services - Spanish
+    - label: 'Services (Spanish)'
+      name: 'services_es'
+      folder: 'src/es/services'
+      create: true
+      fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'markdown' }
 
-          - label: 'Title'
-            name: 'title'
-            widget: 'string'
-
-          - label: 'Card Image'
-            name: 'cardImage'
-            widget: 'image'
-
-          - label: 'Summary'
-            name: 'summary'
-            widget: 'markdown'
-
-          - label: 'Banner Image'
-            name: 'bannerImage'
-            widget: 'image'
-            required: false
-
-          - label: 'Show link?'
-            name: 'showLink'
-            widget: 'boolean'
-            default: true
-
-          - label: 'link Text'
-            name: 'linkText'
-            widget: 'string'
-            required: false
-
-          - label: 'Link URL'
-            name: 'linkUrl'
-            widget: 'string'
-            required: false
-
-          - label: 'Is Link External?'
-            name: 'isLinkExternal'
-            widget: 'boolean'
-            default: false
-            required: false
-
-          - label: 'Body'
-            name: 'body'
-            widget: 'markdown'
-            required: false
-
-          - label: 'Show contact form?'
-            name: 'showContactForm'
-            widget: 'boolean'
-            default: false
-            required: false
-
-    - label: 'Testimonials'
-      name: 'testimonials'
-      folder: 'src/testimonials'
+    # Testimonials - English
+    - label: 'Testimonials (English)'
+      name: 'testimonials_en'
+      folder: 'src/en/testimonials'
       create: true
       slug: '{{fields.testimonialAuthor | slug}}'
       fields:
-          - label: 'Layout'
-            name: 'layout'
-            widget: 'hidden'
-            default: 'page.html'
+          - { label: 'Author', name: 'testimonialAuthor', widget: 'string' }
+          - { label: 'Body', name: 'testimonialBody', widget: 'markdown' }
 
-          - label: 'Order'
-            name: 'order'
-            widget: 'number'
-            min: 1
+    # Testimonials - Spanish
+    - label: 'Testimonials (Spanish)'
+      name: 'testimonials_es'
+      folder: 'src/es/testimonials'
+      create: true
+      slug: '{{fields.testimonialAuthor | slug}}'
+      fields:
+          - { label: 'Author', name: 'testimonialAuthor', widget: 'string' }
+          - { label: 'Body', name: 'testimonialBody', widget: 'markdown' }
 
-          - label: 'Author'
-            name: 'testimonialAuthor'
-            widget: 'string'
-
-          - label: 'Author Location'
-            name: 'testimonialAuthorLocation'
-            widget: 'string'
-            required: false
-
-          - label: 'Author Image'
-            name: 'testimonialAuthorImage'
-            widget: 'image'
-            required: false
-
-          - label: 'Quote'
-            name: 'quote'
-            widget: 'markdown'
-
-          - label: 'Show Story?'
-            name: 'showStory'
-            widget: 'boolean'
-            default: false
-
-          - label: 'Body'
-            name: 'body'
-            widget: 'markdown'
-            required: false
-
-          - label: 'Show contact form?'
-            name: 'showContactForm'
-            widget: 'boolean'
-            default: false
-            required: false
-
-    - label: 'Global'
-      name: 'global'
-      description: 'General site settings that are used across multiple pages. Note that social links added will appear in the homepage banner and footer.'
+    # Global Data - English
+    - label: 'Global (English)'
+      name: 'global_en'
       editor:
           preview: false
       files:
           - label: 'Header Navigation'
             name: 'headerNavigation'
-            file: 'src/_data/headerNavigation.yaml'
+            file: 'src/en/_data/headerNavigation.yaml'
             fields:
-                - label: Header Nav Items
-                  name: headerItems
-                  widget: list
-                  allow_add: true
-                  allow_delete: true
-                  collapsed: false
+                - label: 'Links'
+                  name: 'links'
+                  widget: 'list'
                   fields:
-                      - label: Title
-                        name: text
-                        widget: string
-                      - label: URL
-                        name: url
-                        widget: string
+                      - { label: 'Label', name: 'label', widget: 'string' }
+                      - { label: 'URL', name: 'url', widget: 'string' }
 
           - label: 'Footer Navigation'
             name: 'footerNavigation'
-            file: 'src/_data/footerNavigation.yaml'
+            file: 'src/en/_data/footerNavigation.yaml'
             fields:
-                - label: Footer Nav Items
-                  name: footerItems
-                  widget: list
-                  allow_add: true
-                  allow_delete: true
-                  collapsed: false
+                - label: 'Links'
+                  name: 'links'
+                  widget: 'list'
                   fields:
-                      - label: Title
-                        name: text
-                        widget: string
-                      - label: URL
-                        name: url
-                        widget: string
+                      - { label: 'Label', name: 'label', widget: 'string' }
+                      - { label: 'URL', name: 'url', widget: 'string' }
 
           - label: 'Social Links'
             name: 'socialLinks'
-            file: 'src/_data/socialLinks.yaml'
+            file: 'src/en/_data/socialLinks.yaml'
             fields:
-                - label: Social Items
-                  name: socialItems
-                  widget: list
-                  allow_add: true
-                  allow_delete: true
-                  collapsed: false
+                - label: 'Links'
+                  name: 'links'
+                  widget: 'list'
                   fields:
-                      - label: Title
-                        name: text
-                        widget: string
-                      - label: URL
-                        name: url
-                        widget: string
+                      - {
+                            label: 'Platform',
+                            name: 'platform',
+                            widget: 'string',
+                        }
+                      - { label: 'URL', name: 'url', widget: 'string' }
 
           - label: 'Site Settings'
             name: 'siteSettings'
-            file: 'src/_data/siteSettings.yaml'
+            file: 'src/en/_data/siteSettings.yaml'
             fields:
-                - label: Name
-                  name: name
-                  widget: string
-                - label: Author
-                  name: author
-                  widget: string
-                - label: URL
-                  name: url
-                  widget: string
-                - label: Email Address
-                  name: email
-                  widget: string
-                - label: Show Subscribe Form
-                  name: showSubscribeForm
-                  widget: boolean
-                  default: true
-                - label: Subscribe Heading
-                  name: subscribeHeading
-                  widget: string
-                - label: Subscribe Summary
-                  name: subscribeSummary
-                  widget: markdown
-                - label: Subscribe Button
-                  name: subscribeButton
-                  widget: string
-                - label: 'Contact Form Heading'
-                  name: contactFormHeading
-                  widget: string
-                - label: 'Contact Form Summary'
-                  name: contactFormSummary
-                  widget: markdown
-                - label: 'Contact Form Button'
-                  name: contactFormButton
-                  widget: string
+                - { label: 'Site Title', name: 'title', widget: 'string' }
+                - { label: 'Tagline', name: 'tagline', widget: 'string' }
+
+    # Global Data - Spanish
+    - label: 'Global (Spanish)'
+      name: 'global_es'
+      editor:
+          preview: false
+      files:
+          - label: 'Header Navigation'
+            name: 'headerNavigation'
+            file: 'src/es/_data/headerNavigation.yaml'
+            fields:
+                - label: 'Links'
+                  name: 'links'
+                  widget: 'list'
+                  fields:
+                      - { label: 'Label', name: 'label', widget: 'string' }
+                      - { label: 'URL', name: 'url', widget: 'string' }
+
+          - label: 'Footer Navigation'
+            name: 'footerNavigation'
+            file: 'src/es/_data/footerNavigation.yaml'
+            fields:
+                - label: 'Links'
+                  name: 'links'
+                  widget: 'list'
+                  fields:
+                      - { label: 'Label', name: 'label', widget: 'string' }
+                      - { label: 'URL', name: 'url', widget: 'string' }
+
+          - label: 'Social Links'
+            name: 'socialLinks'
+            file: 'src/es/_data/socialLinks.yaml'
+            fields:
+                - label: 'Links'
+                  name: 'links'
+                  widget: 'list'
+                  fields:
+                      - {
+                            label: 'Platform',
+                            name: 'platform',
+                            widget: 'string',
+                        }
+                      - { label: 'URL', name: 'url', widget: 'string' }
+
+          - label: 'Site Settings'
+            name: 'siteSettings'
+            file: 'src/es/_data/siteSettings.yaml'
+            fields:
+                - { label: 'Site Title', name: 'title', widget: 'string' }
+                - { label: 'Tagline', name: 'tagline', widget: 'string' }

@@ -1,5 +1,7 @@
 ---
 layout: default
+locale: en
+permalink: /en/
 metaTitle: ""
 metaDesc: Transformation & Growth through Self-Awareness
 avatarImage: /static/uploads/portrait-main-headshot-background-removed.png
@@ -41,7 +43,7 @@ contactImage: /static/uploads/contact-image.jpg
 ---
 
 <div>  
-	{% include "./_includes/partials/hero--home.html" %}
+	{% include "partials/hero--home.html" %}
 
   {% if collageHeading %}
     <section class="pt-8 md:pt-12 lg:pt-16">
@@ -55,8 +57,8 @@ contactImage: /static/uploads/contact-image.jpg
     </section>
   {% endif %}
 	
-	{% include "./_includes/partials/services.html" %}
-	{% include "./_includes/partials/testimonials.html" %}
-	{% include "./_includes/partials/about.html" %}
-	{% include "./_includes/partials/contact.html" %}
+	{% include "partials/services.html" %}
+	{% include "partials/testimonials.html" %}
+	{% include "partials/about.html" %}
+	{% include "partials/contact.html" %}
 </div>

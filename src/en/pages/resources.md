@@ -2,7 +2,6 @@
 layout: page.html
 title: Tablero de Visión
 subTitle: Notas complementarias al taller
-permalink: /tablerovision/
 showContactForm: true
 ---
 > *La intención es el punto de partida de todo sueño. Es el poder creativo que cumple todos nuestros deseos. — Deepak Chopra*
