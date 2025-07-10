@@ -3,6 +3,7 @@ layout: page.html
 title: About me
 bannerImage: /static/uploads/portrait-through-the-window.jpeg
 showContactForm: true
+permalink: /es/about-me/
 ---
 ## Hey, I’m Clau 
 

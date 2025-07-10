@@ -1,7 +1,7 @@
 <header class="w-full container mx-auto">
     <nav class="flex items-center justify-center lg:justify-between flex-wrap py-8" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false" aria-label="Main">
         <div class="flex items-center">
-            <a href="/">
+            <a href="/{{ lang }}/">
                 {% include "partials/logo.html" %}
                 <span class="sr-only">Claudia De Carlo home</span>
             </a>
@@ -18,34 +18,47 @@
         </button>
 
         <div class="w-full flex-grow lg:flex lg:items-center lg:justify-end lg:w-auto lg:gap-12" :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }" x-show.transition="true" id="main-nav">
-            {% if headerNavigation.headerItems %}
-                <ul class="pt-6 lg:pt-0 flex flex-col flex-1 gap-6 md:flex-row md:gap-8 md:items-center md:justify-between lg:justify-end mb-0">
-                    {% for item in headerNavigation.headerItems %}
+            <ul class="pt-6 lg:pt-0 flex flex-col flex-1 gap-6 md:flex-row md:gap-8 md:items-center md:justify-between lg:justify-end mb-0">
+                {% for item in nav.headerItems %}
+                    {% if item.finalUrl %}
                         {% set currentUrl = page.url | stripTrailingSlash %}
-                        {% set navUrl = item.url | stripTrailingSlash %}                  
-
                         <li>
                             <a
-                                @click="isOpen = false"
-                                href="{{ item.url }}"
-                                class="no-underline font-display font-medium text-lg hover:underline underline-offset-2 decoration-2 hover:text-brand-red {% if currentUrl == navUrl %}text-brand-red underline underline-offset-2 decoration-2{% else %}text-brand-purple{% endif %}"
-                                aria-current="{% if currentUrl == navUrl %}page{% endif %}"
+                                href="{{ item.finalUrl }}"
+                                class="no-underline font-display font-medium text-lg hover:underline underline-offset-2 decoration-2 hover:text-brand-red {% if currentUrl == item.finalUrl %}text-brand-red underline underline-offset-2 decoration-2{% else %}text-brand-purple{% endif %}"
+                                aria-current="{% if currentUrl == item.finalUrl %}page{% endif %}"
                             >{{ item.text }}</a>
                         </li>
-                    {% endfor %}
-                </ul>
-            {% endif %}
+                    {% endif %}
+                {% endfor %}
+            </ul>
 
-            <a href="mailto:{{ siteSettings.email }}" class="mt-8 flex items-center font-medium justify-start gap-1.5 ml-auto hover:underline lg:mt-0">
+            <a href="mailto:{{ settings.email }}" class="mt-8 flex items-center font-medium justify-start gap-1.5 ml-auto hover:underline lg:mt-0">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 574.14 383.27" width="35" aria-hidden="true" focusable="false">
                     <path fill="var(--color-brand-purple)" d="M570.33,14.78l3.8-.25c-.09-5.86-2.75-9.18-4.96-10.93-5-3.96-13.44-4.65-25-2.09l-188.55,38.94C245.08,63.28,134.55,86.12,23.95,108.92l-.58.13c-7.96,1.73-19.99,4.34-22.97,13.64l-.1.41c-2.29,11.24,9.35,17.57,17.06,21.75l1.71.93c17.36,9.26,35.1,18.53,52.25,27.48,25.97,13.56,52.83,27.58,78.7,41.76,5.83,3.7,9.59,8.56,11.42,14.52,6.09,29.05,11.31,58.83,16.35,87.64,2.42,13.86,4.85,27.73,7.38,41.58.87,4.85,1.89,9.96,3.81,14.3,2,4.8,5.09,7.94,9.2,9.32,4.94,1.67,10.98.56,17.59-3.27,22.52-14.05,44.83-29.19,66.4-43.83l12.15-8.24c6.45-4.24,12.99-8.69,20.16-8.48,5.23.06,10.51,2.8,14.87,5.41,9.58,6.17,19.08,12.45,28.59,18.73,18.79,12.42,38.22,25.26,58.09,37.1,4.79,2.55,8.78,3.47,12.05,3.47,3.48,0,6.13-1.04,8.03-2.26,6.59-4.15,9.94-13.09,12.64-20.27l.6-1.59c16-43.43,32.03-86.85,48.06-130.26,24.82-67.22,49.64-134.44,74.38-201.79,1.69-5.01,2.45-8.96,2.36-12.42l-3.81.09ZM187.29,226.73c.2-5.25,3-9.27,8.65-12.57,67.79-35.37,140.8-73.23,227.94-118.24-32.5,25.14-65.99,49.73-98.62,73.68-26.48,19.45-53.86,39.55-80.31,59.65-5.97,4.46-11.68,8.96-15.87,14.83-4.26,5.79-6.65,12.43-8.61,18.75-2.28,7.39-4.51,14.84-6.75,22.33-3.4,11.34-6.91,23.07-10.57,34.49-.13-.55-.26-1.17-.39-1.85-3.47-18.94-6.84-37.93-10.2-56.91l-4.38-24.61c-.52-3-1.06-6.46-.89-9.55ZM224.45,336.51c3.24-10.86,6.55-21.69,9.86-32.54,2.54-8.33,5.09-16.66,7.68-25.24,1.15-3.62,2.73-8.57,5.21-10.2.66-.39,1.37-.57,2.15-.57,2.32,0,5.16,1.58,8.47,3.59l9.8,6.32c5.42,3.51,10.88,7.04,16.3,10.52l1.47.99c2.65,1.76,6.27,4.18,6.55,6.4-.02.57-.56,2.15-4.77,5.19-12.65,8.51-25.35,16.88-37.99,25.2-6.53,4.3-13.03,8.59-19.26,12.72-.46.26-1.02.6-1.65.98-1.04.63-3.44,2.1-4.97,2.63.03-1.04.29-2.86,1.15-5.99ZM261.11,249.24c0-.41.26-1.97,3.83-4.94,53.76-39.59,108.41-79.53,161.27-118.15,34.93-25.52,69.85-51.04,104.59-76.51.41-.27.93-.63,1.52-1.05.83-.58,2.52-1.77,3.99-2.62-.18.77-.46,1.77-.87,3.03-19.61,53.36-39.35,106.68-59.09,160-16.21,43.79-32.43,87.59-48.58,131.42-.83,2.28-3.37,9.22-6.14,10.82-2.94,1.72-6.66-.27-11.11-2.97-20.03-13.1-40.18-26.08-60.32-39.05-28.41-18.3-57.8-37.23-86.06-55.99-2.78-2.25-3.02-3.53-3.02-3.86l-3.81.09,3.81-.2ZM183.41,192.45c-10.95,5.51-19.79,2.89-29.8-2.79-20.76-10.99-41.55-21.92-62.34-32.86-13.31-7-26.62-13.99-39.86-20.98l-.49-.27c-.96-.52-3.34-1.82-4.85-2.95,1.47-.58,3.97-1.32,7.82-2.06,57.7-11.84,115.18-23.7,172.55-35.54,81.16-16.75,164.97-34.04,247.41-50.87-111.26,56.96-203.78,104.2-290.44,148.32Z"/>
                 </svg>
 
-                <span translate="no">{{ siteSettings.email }}</span>
+                <span translate="no">{{ settings.email }}</span>
             </a>
 
-            <a href="/en{{ page.url | replace('/es', '') }}">English</a>
-            <a href="/es{{ page.url | replace('/en', '') }}">Español</a>
+            {# Language Switcher #}
+            <div class="mt-8 lg:mt-0 ml-4">
+                <select id="language-switcher" class="border rounded px-2 py-1">
+                    <option value="/en{{ page.url | replace('/es', '') }}"{% if lang == 'en' %} selected{% endif %}>English</option>
+                    <option value="/es{{ page.url | replace('/en', '') }}"{% if lang == 'es' %} selected{% endif %}>Español</option>
+                </select>
+            </div>
+
+            <script>
+                document.addEventListener('DOMContentLoaded', function() {
+                    var select = document.getElementById('language-switcher');
+                    if (select) {
+                        select.addEventListener('change', function() {
+                            window.location.href = this.value;
+                        });
+                    }
+                });
+            </script>
         </div>
     </nav>
 </header>

@@ -1,7 +1,7 @@
 backend:
     name: git-gateway
     repo: jimbateson7/https-claudiadecarlo.com-
-    branch: main
+    branch: feat/translations
     identity_url: https://auth.decapbridge.com/sites/dbf9a222-86ae-41b0-b126-7fa01c460399
     gateway_url: https://gateway.decapbridge.com
 

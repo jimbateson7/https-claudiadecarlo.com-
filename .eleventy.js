@@ -74,27 +74,49 @@ module.exports = function(eleventyConfig) {
     reloadDelay: 250,
   });
 
-  eleventyConfig.addGlobalData("eleventyComputed", {
-    permalink: (data) => {
-      // Use explicit permalink if already set
-      if (data.permalink) return data.permalink;
-  
-      // Detect language from input file path (adjust these to your folders)
-      if (data.page && data.page.inputPath) {
-        if (data.page.inputPath.includes(`${path.sep}en${path.sep}`)) {
-          // prefix English pages with /en/
-          return `/en${data.page.filePathStem}/`;
+  const path = require("path");
+
+eleventyConfig.addGlobalData("eleventyComputed", {
+  permalink: (data) => {
+    if (data.permalink) return data.permalink;
+
+    if (data.page && data.page.inputPath) {
+      const inputPath = data.page.inputPath;
+      let filePathStem = data.page.filePathStem; // e.g. "/en/404" or "/es/about"
+
+      if (inputPath.includes(`${path.sep}en${path.sep}`)) {
+        // Remove leading /en from filePathStem
+        if (filePathStem.startsWith("/en")) {
+          filePathStem = filePathStem.slice(3); // remove "/en"
         }
-        if (data.page.inputPath.includes(`${path.sep}es${path.sep}`)) {
-          // prefix Spanish pages with /es/
-          return `/es${data.page.filePathStem}/`;
-        }
+        return `/en${filePathStem}/`;
       }
-  
-      // Default fallback — no prefix
-      return data.page.filePathStem + "/";
+      if (inputPath.includes(`${path.sep}es${path.sep}`)) {
+        // Remove leading /es from filePathStem
+        if (filePathStem.startsWith("/es")) {
+          filePathStem = filePathStem.slice(3); // remove "/es"
+        }
+        return `/es${filePathStem}/`;
+      }
+    }
+
+    // Default fallback — no prefix
+    return data.page.filePathStem + "/";
+  }
+});
+
+  // Add computed locale detection based on file path
+  eleventyConfig.addGlobalData("eleventyComputed", {
+    locale: (data) => {
+      if (data.locale) return data.locale;
+      if (data.page && data.page.inputPath) {
+        if (data.page.inputPath.includes(`${path.sep}es${path.sep}`)) return "es";
+        if (data.page.inputPath.includes(`${path.sep}en${path.sep}`)) return "en";
+      }
+      return "en";
     }
   });
+
 
   const now = new Date();
 
