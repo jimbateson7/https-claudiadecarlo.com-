@@ -895,6 +895,30 @@ collections:
             default: false
             required: false
 
+    # Global Data - Both
+    - label: 'Global (Both)'
+      name: 'global_both'
+      editor:
+          preview: false
+      files:
+          - label: 'Social Links'
+            name: 'socialLinks'
+            file: 'src/_data/socialLinks.yaml'
+            fields:
+                - label: Social Items
+                  name: socialItems
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: false
+                  fields:
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: URL
+                        name: url
+                        widget: string
+
     # Global Data - English
     - label: 'Global (English)'
       name: 'global_en'
@@ -925,24 +949,6 @@ collections:
             fields:
                 - label: Footer Nav Items
                   name: footerItems
-                  widget: list
-                  allow_add: true
-                  allow_delete: true
-                  collapsed: false
-                  fields:
-                      - label: Title
-                        name: text
-                        widget: string
-                      - label: URL
-                        name: url
-                        widget: string
-
-          - label: 'Social Links'
-            name: 'socialLinks'
-            file: 'src/_data/en/socialLinks.yaml'
-            fields:
-                - label: Social Items
-                  name: socialItems
                   widget: list
                   allow_add: true
                   allow_delete: true
@@ -1024,24 +1030,6 @@ collections:
             fields:
                 - label: Footer Nav Items
                   name: footerItems
-                  widget: list
-                  allow_add: true
-                  allow_delete: true
-                  collapsed: false
-                  fields:
-                      - label: Title
-                        name: text
-                        widget: string
-                      - label: URL
-                        name: url
-                        widget: string
-
-          - label: 'Social Links'
-            name: 'socialLinks'
-            file: 'src/_data/es/socialLinks.yaml'
-            fields:
-                - label: Social Items
-                  name: socialItems
                   widget: list
                   allow_add: true
                   allow_delete: true

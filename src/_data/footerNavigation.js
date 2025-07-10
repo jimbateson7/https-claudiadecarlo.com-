@@ -8,7 +8,27 @@ function loadYAML(filePath) {
   return yaml.load(file);
 }
 
+function prefixUrl(url, lang) {
+  if (!url) return url;
+  if (url.startsWith('http') || url.startsWith('/en') || url.startsWith('/es')) return url;
+  if (url.startsWith('/')) return `/${lang}${url}`;
+  return `/${lang}/${url}`;
+}
+
+function processFooter(footer, lang) {
+  return {
+    ...footer,
+    footerItems: footer.footerItems.map(item => ({
+      ...item,
+      finalUrl: prefixUrl(item.url, lang)
+    }))
+  };
+}
+
+const enFooter = loadYAML("./en/footerNavigation.yaml");
+const esFooter = loadYAML("./es/footerNavigation.yaml");
+
 module.exports = {
-  en: loadYAML("./en/footerNavigation.yaml"),
-  es: loadYAML("./es/footerNavigation.yaml"),
+  en: processFooter(enFooter, 'en'),
+  es: processFooter(esFooter, 'es')
 };

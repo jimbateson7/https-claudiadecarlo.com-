@@ -41,7 +41,6 @@
                 <span translate="no">{{ settings.email }}</span>
             </a>
 
-            {# Language Switcher #}
             <div class="mt-8 lg:mt-0 ml-4">
                 <select id="language-switcher" class="border rounded px-2 py-1">
                     <option value="/en{{ page.url | replace('/es', '') }}"{% if lang == 'en' %} selected{% endif %}>English</option>
