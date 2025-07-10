@@ -156,45 +156,94 @@ collections:
             name: 'headerNavigation'
             file: 'src/_data/en/headerNavigation.yaml'
             fields:
-                - label: 'Links'
-                  name: 'links'
-                  widget: 'list'
+                - label: Header Nav Items
+                  name: headerItems
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: false
                   fields:
-                      - { label: 'Label', name: 'label', widget: 'string' }
-                      - { label: 'URL', name: 'url', widget: 'string' }
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: URL
+                        name: url
+                        widget: string
 
           - label: 'Footer Navigation'
             name: 'footerNavigation'
             file: 'src/_data/en/footerNavigation.yaml'
             fields:
-                - label: 'Links'
-                  name: 'links'
-                  widget: 'list'
+                - label: Footer Nav Items
+                  name: footerItems
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: false
                   fields:
-                      - { label: 'Label', name: 'label', widget: 'string' }
-                      - { label: 'URL', name: 'url', widget: 'string' }
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: URL
+                        name: url
+                        widget: string
 
           - label: 'Social Links'
             name: 'socialLinks'
             file: 'src/_data/en/socialLinks.yaml'
             fields:
-                - label: 'Links'
-                  name: 'links'
-                  widget: 'list'
+                - label: Social Items
+                  name: socialItems
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: false
                   fields:
-                      - {
-                            label: 'Platform',
-                            name: 'platform',
-                            widget: 'string',
-                        }
-                      - { label: 'URL', name: 'url', widget: 'string' }
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: URL
+                        name: url
+                        widget: string
 
           - label: 'Site Settings'
             name: 'siteSettings'
             file: 'src/_data/en/siteSettings.yaml'
             fields:
-                - { label: 'Site Title', name: 'title', widget: 'string' }
-                - { label: 'Tagline', name: 'tagline', widget: 'string' }
+                - label: Name
+                  name: name
+                  widget: string
+                - label: Author
+                  name: author
+                  widget: string
+                - label: URL
+                  name: url
+                  widget: string
+                - label: Email Address
+                  name: email
+                  widget: string
+                - label: Show Subscribe Form
+                  name: showSubscribeForm
+                  widget: boolean
+                  default: true
+                - label: Subscribe Heading
+                  name: subscribeHeading
+                  widget: string
+                - label: Subscribe Summary
+                  name: subscribeSummary
+                  widget: markdown
+                - label: Subscribe Button
+                  name: subscribeButton
+                  widget: string
+                - label: 'Contact Form Heading'
+                  name: contactFormHeading
+                  widget: string
+                - label: 'Contact Form Summary'
+                  name: contactFormSummary
+                  widget: markdown
+                - label: 'Contact Form Button'
+                  name: contactFormButton
+                  widget: string
 
     # Global Data - Spanish
     - label: 'Global (Spanish)'
@@ -206,42 +255,91 @@ collections:
             name: 'headerNavigation'
             file: 'src/_data/es/headerNavigation.yaml'
             fields:
-                - label: 'Links'
-                  name: 'links'
-                  widget: 'list'
+                - label: Header Nav Items
+                  name: headerItems
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: false
                   fields:
-                      - { label: 'Label', name: 'label', widget: 'string' }
-                      - { label: 'URL', name: 'url', widget: 'string' }
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: URL
+                        name: url
+                        widget: string
 
           - label: 'Footer Navigation'
             name: 'footerNavigation'
             file: 'src/_data/es/footerNavigation.yaml'
             fields:
-                - label: 'Links'
-                  name: 'links'
-                  widget: 'list'
+                - label: Footer Nav Items
+                  name: footerItems
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: false
                   fields:
-                      - { label: 'Label', name: 'label', widget: 'string' }
-                      - { label: 'URL', name: 'url', widget: 'string' }
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: URL
+                        name: url
+                        widget: string
 
           - label: 'Social Links'
             name: 'socialLinks'
             file: 'src/_data/es/socialLinks.yaml'
             fields:
-                - label: 'Links'
-                  name: 'links'
-                  widget: 'list'
+                - label: Social Items
+                  name: socialItems
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: false
                   fields:
-                      - {
-                            label: 'Platform',
-                            name: 'platform',
-                            widget: 'string',
-                        }
-                      - { label: 'URL', name: 'url', widget: 'string' }
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: URL
+                        name: url
+                        widget: string
 
           - label: 'Site Settings'
             name: 'siteSettings'
             file: 'src/_data/es/siteSettings.yaml'
             fields:
-                - { label: 'Site Title', name: 'title', widget: 'string' }
-                - { label: 'Tagline', name: 'tagline', widget: 'string' }
+                - label: Name
+                  name: name
+                  widget: string
+                - label: Author
+                  name: author
+                  widget: string
+                - label: URL
+                  name: url
+                  widget: string
+                - label: Email Address
+                  name: email
+                  widget: string
+                - label: Show Subscribe Form
+                  name: showSubscribeForm
+                  widget: boolean
+                  default: true
+                - label: Subscribe Heading
+                  name: subscribeHeading
+                  widget: string
+                - label: Subscribe Summary
+                  name: subscribeSummary
+                  widget: markdown
+                - label: Subscribe Button
+                  name: subscribeButton
+                  widget: string
+                - label: 'Contact Form Heading'
+                  name: contactFormHeading
+                  widget: string
+                - label: 'Contact Form Summary'
+                  name: contactFormSummary
+                  widget: markdown
+                - label: 'Contact Form Button'
+                  name: contactFormButton
+                  widget: string
