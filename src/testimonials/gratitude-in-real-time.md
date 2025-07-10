@@ -2,7 +2,7 @@
 layout: page.html
 order: 5
 testimonialAuthor: Gratitude in real time
-testimonialAuthorImage: /static/uploads/screenshot-2025-07-10-at-15.44.50.png
+testimonialAuthorImage: /static/uploads/heal.svg
 quote: >-
   Screenshots from real conversations, where clients and readers shared how my
   work touched their lives 💌
