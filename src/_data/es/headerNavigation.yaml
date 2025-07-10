@@ -1,11 +1,11 @@
 headerItems:
-    - text: About meolio
-      url: /about-me
-    - text: My approach
-      url: /my-approach
-    - text: Services
-      url: /services
-    - text: Success stories
-      url: /success-stories
-    - text: Blog
-      url: /blog
+  - text: Acerca de mí
+    url: /about-me
+  - text: Mi enfoque
+    url: /my-approach
+  - text: Servicios
+    url: /services
+  - text: Historias de éxito
+    url: /success-stories
+  - text: Blog
+    url: /blog
