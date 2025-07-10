@@ -25,8 +25,104 @@ collections:
             slug: '{{slug}}'
             create: false
             fields:
-                - { label: 'Title', name: 'title', widget: 'string' }
-                - { label: 'Body', name: 'body', widget: 'markdown' }
+                - label: 'Layout'
+                  name: 'layout'
+                  widget: 'hidden'
+                  default: 'layouts/njk.njk'
+
+                - label: 'SEO Meta Title'
+                  name: 'metaTitle'
+                  widget: 'string'
+                  required: false
+
+                - label: 'SEO Meta Description'
+                  name: 'metaDesc'
+                  widget: 'string'
+                  required: false
+
+                - label: 'Social Image'
+                  name: 'socialImage'
+                  widget: 'image'
+                  required: false
+
+                - label: 'Avatar Image'
+                  name: 'avatarImage'
+                  widget: 'image'
+
+                - label: 'Title'
+                  name: 'title'
+                  widget: 'string'
+
+                - label: 'Subtitle'
+                  name: 'subtitle'
+                  widget: 'string'
+
+                - label: 'Hero Image'
+                  name: 'heroImage'
+                  widget: 'image'
+
+                - label: 'Collage Heading'
+                  name: 'collageHeading'
+                  widget: 'string'
+                  required: false
+
+                - label: 'Collage Summary'
+                  name: 'collageSummary'
+                  widget: 'markdown'
+                  required: false
+
+                - label: 'Collage Image'
+                  name: 'collageImage'
+                  widget: 'image'
+                  required: false
+
+                - label: 'How I help Title'
+                  name: 'howIHelpTitle'
+                  widget: 'string'
+
+                - label: 'Testimonials Title'
+                  name: 'testimonialsTitle'
+                  widget: 'string'
+
+                - label: About Title
+                  name: 'aboutTitle'
+                  widget: 'string'
+
+                - label: About Summary
+                  name: 'aboutSummary'
+                  widget: 'markdown'
+
+                - label: About Image
+                  name: 'aboutImage'
+                  widget: 'image'
+
+                - label: 'About Link Text'
+                  name: 'aboutLinkText'
+                  widget: 'string'
+
+                - label: 'About Link URL'
+                  name: 'aboutLinkUrl'
+                  widget: 'string'
+
+                - label: Contact Title
+                  name: 'contactTitle'
+                  widget: 'string'
+
+                - label: Contact Summary
+                  name: 'contactSummary'
+                  widget: 'markdown'
+
+                - label: Contact Image
+                  name: 'contactImage'
+                  widget: 'image'
+
+                - label: 'Contact Link Text'
+                  name: 'contactLinkText'
+                  widget: 'string'
+
+                - label: 'Contact Link URL'
+                  name: 'contactLinkUrl'
+                  widget: 'string'
 
           - name: 'myApproach_en'
             label: 'My Approach'
@@ -35,8 +131,88 @@ collections:
             slug: '{{slug}}'
             create: false
             fields:
-                - { label: 'Title', name: 'title', widget: 'string' }
-                - { label: 'Body', name: 'body', widget: 'markdown' }
+                - label: 'Layout'
+                  name: 'layout'
+                  widget: 'hidden'
+                  default: 'layouts/njk.njk'
+
+                - label: 'SEO Meta Title'
+                  name: 'metaTitle'
+                  widget: 'string'
+                  required: false
+
+                - label: 'SEO Meta Description'
+                  name: 'metaDesc'
+                  widget: 'string'
+                  required: false
+
+                - label: 'Social Image'
+                  name: 'socialImage'
+                  widget: 'image'
+                  required: false
+
+                - label: 'Title'
+                  name: 'title'
+                  widget: 'string'
+
+                - label: 'Subtitle'
+                  name: 'subTitle'
+                  widget: 'string'
+
+                - label: 'Banner Image'
+                  name: 'bannerImage'
+                  widget: 'image'
+
+                - label: 'Summary'
+                  name: 'summary'
+                  widget: 'markdown'
+
+                - label: 'Pillars Heading'
+                  name: 'pillarsHeading'
+                  widget: 'string'
+
+                - label: Pillars
+                  name: pillars
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: true
+                  max: 4
+                  fields:
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: Description
+                        name: description
+                        widget: markdown
+                      - label: 'Icon'
+                        name: icon
+                        widget: string
+
+                - label: 'Concepts Heading'
+                  name: 'conceptsHeading'
+                  widget: 'string'
+
+                - label: Concepts
+                  name: concepts
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: true
+                  max: 5
+                  fields:
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: Description
+                        name: description
+                        widget: markdown
+
+                - label: 'Show contact form?'
+                  name: 'showContactForm'
+                  widget: 'boolean'
+                  default: false
+                  required: false
 
     # Pages - Spanish
     - name: 'pages_es'
@@ -49,8 +225,104 @@ collections:
             slug: '{{slug}}'
             create: false
             fields:
-                - { label: 'Title', name: 'title', widget: 'string' }
-                - { label: 'Body', name: 'body', widget: 'markdown' }
+                - label: 'Layout'
+                  name: 'layout'
+                  widget: 'hidden'
+                  default: 'layouts/njk.njk'
+
+                - label: 'SEO Meta Title'
+                  name: 'metaTitle'
+                  widget: 'string'
+                  required: false
+
+                - label: 'SEO Meta Description'
+                  name: 'metaDesc'
+                  widget: 'string'
+                  required: false
+
+                - label: 'Social Image'
+                  name: 'socialImage'
+                  widget: 'image'
+                  required: false
+
+                - label: 'Avatar Image'
+                  name: 'avatarImage'
+                  widget: 'image'
+
+                - label: 'Title'
+                  name: 'title'
+                  widget: 'string'
+
+                - label: 'Subtitle'
+                  name: 'subtitle'
+                  widget: 'string'
+
+                - label: 'Hero Image'
+                  name: 'heroImage'
+                  widget: 'image'
+
+                - label: 'Collage Heading'
+                  name: 'collageHeading'
+                  widget: 'string'
+                  required: false
+
+                - label: 'Collage Summary'
+                  name: 'collageSummary'
+                  widget: 'markdown'
+                  required: false
+
+                - label: 'Collage Image'
+                  name: 'collageImage'
+                  widget: 'image'
+                  required: false
+
+                - label: 'How I help Title'
+                  name: 'howIHelpTitle'
+                  widget: 'string'
+
+                - label: 'Testimonials Title'
+                  name: 'testimonialsTitle'
+                  widget: 'string'
+
+                - label: About Title
+                  name: 'aboutTitle'
+                  widget: 'string'
+
+                - label: About Summary
+                  name: 'aboutSummary'
+                  widget: 'markdown'
+
+                - label: About Image
+                  name: 'aboutImage'
+                  widget: 'image'
+
+                - label: 'About Link Text'
+                  name: 'aboutLinkText'
+                  widget: 'string'
+
+                - label: 'About Link URL'
+                  name: 'aboutLinkUrl'
+                  widget: 'string'
+
+                - label: Contact Title
+                  name: 'contactTitle'
+                  widget: 'string'
+
+                - label: Contact Summary
+                  name: 'contactSummary'
+                  widget: 'markdown'
+
+                - label: Contact Image
+                  name: 'contactImage'
+                  widget: 'image'
+
+                - label: 'Contact Link Text'
+                  name: 'contactLinkText'
+                  widget: 'string'
+
+                - label: 'Contact Link URL'
+                  name: 'contactLinkUrl'
+                  widget: 'string'
 
           - name: 'myApproach_es'
             label: 'My Approach'
@@ -59,8 +331,88 @@ collections:
             slug: '{{slug}}'
             create: false
             fields:
-                - { label: 'Title', name: 'title', widget: 'string' }
-                - { label: 'Body', name: 'body', widget: 'markdown' }
+                - label: 'Layout'
+                  name: 'layout'
+                  widget: 'hidden'
+                  default: 'layouts/njk.njk'
+
+                - label: 'SEO Meta Title'
+                  name: 'metaTitle'
+                  widget: 'string'
+                  required: false
+
+                - label: 'SEO Meta Description'
+                  name: 'metaDesc'
+                  widget: 'string'
+                  required: false
+
+                - label: 'Social Image'
+                  name: 'socialImage'
+                  widget: 'image'
+                  required: false
+
+                - label: 'Title'
+                  name: 'title'
+                  widget: 'string'
+
+                - label: 'Subtitle'
+                  name: 'subTitle'
+                  widget: 'string'
+
+                - label: 'Banner Image'
+                  name: 'bannerImage'
+                  widget: 'image'
+
+                - label: 'Summary'
+                  name: 'summary'
+                  widget: 'markdown'
+
+                - label: 'Pillars Heading'
+                  name: 'pillarsHeading'
+                  widget: 'string'
+
+                - label: Pillars
+                  name: pillars
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: true
+                  max: 4
+                  fields:
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: Description
+                        name: description
+                        widget: markdown
+                      - label: 'Icon'
+                        name: icon
+                        widget: string
+
+                - label: 'Concepts Heading'
+                  name: 'conceptsHeading'
+                  widget: 'string'
+
+                - label: Concepts
+                  name: concepts
+                  widget: list
+                  allow_add: true
+                  allow_delete: true
+                  collapsed: true
+                  max: 5
+                  fields:
+                      - label: Title
+                        name: text
+                        widget: string
+                      - label: Description
+                        name: description
+                        widget: markdown
+
+                - label: 'Show contact form?'
+                  name: 'showContactForm'
+                  widget: 'boolean'
+                  default: false
+                  required: false
 
     # Static Pages - English
     - name: 'static_pages_en'
@@ -70,8 +422,64 @@ collections:
       preview_path: 'pages/{{slug}}'
       create: true
       fields:
+          - {
+                label: 'Layout',
+                name: 'layout',
+                widget: 'hidden',
+                default: 'page.html',
+            }
+
           - { label: 'Title', name: 'title', widget: 'string' }
+
+          - {
+                label: 'Subtitle',
+                name: 'subTitle',
+                widget: 'string',
+                required: false,
+            }
+
+          - {
+                label: 'Banner Image',
+                name: 'bannerImage',
+                widget: 'image',
+                required: false,
+            }
+
+          - {
+                label: 'Permalink Override',
+                name: 'permalink',
+                widget: 'string',
+                required: false,
+            }
+
+          - {
+                label: 'SEO Meta Title',
+                name: 'metaTitle',
+                widget: 'string',
+                required: false,
+            }
+
+          - {
+                label: 'SEO Meta Description',
+                name: 'metaDesc',
+                widget: 'string',
+                required: false,
+            }
+
+          - {
+                label: 'Social Image',
+                name: 'socialImage',
+                widget: 'image',
+                required: false,
+            }
+
           - { label: 'Body', name: 'body', widget: 'markdown' }
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
+            required: false
 
     # Static Pages - Spanish
     - name: 'static_pages_es'
@@ -81,8 +489,64 @@ collections:
       preview_path: 'pages/{{slug}}'
       create: true
       fields:
+          - {
+                label: 'Layout',
+                name: 'layout',
+                widget: 'hidden',
+                default: 'page.html',
+            }
+
           - { label: 'Title', name: 'title', widget: 'string' }
+
+          - {
+                label: 'Subtitle',
+                name: 'subTitle',
+                widget: 'string',
+                required: false,
+            }
+
+          - {
+                label: 'Banner Image',
+                name: 'bannerImage',
+                widget: 'image',
+                required: false,
+            }
+
+          - {
+                label: 'Permalink Override',
+                name: 'permalink',
+                widget: 'string',
+                required: false,
+            }
+
+          - {
+                label: 'SEO Meta Title',
+                name: 'metaTitle',
+                widget: 'string',
+                required: false,
+            }
+
+          - {
+                label: 'SEO Meta Description',
+                name: 'metaDesc',
+                widget: 'string',
+                required: false,
+            }
+
+          - {
+                label: 'Social Image',
+                name: 'socialImage',
+                widget: 'image',
+                required: false,
+            }
+
           - { label: 'Body', name: 'body', widget: 'markdown' }
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
+            required: false
 
     # Blog - English
     - label: 'Blog (English)'
@@ -92,9 +556,55 @@ collections:
       editor:
           preview: false
       fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: 'Title'
+            name: 'title'
+            widget: 'string'
+
+          - label: 'Description'
+            name: 'description'
+            widget: 'string'
+            required: false
+
+          - label: 'Card Image'
+            name: 'cardImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Banner Image'
+            name: 'bannerImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Author'
+            name: 'author'
+            default: 'Claudia De Carlo'
+            widget: 'string'
+
+          - label: 'Author Image'
+            name: 'authorImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Publish Date'
+            name: 'date'
+            widget: 'datetime'
+            date_format: 'DD/MM/YYYY' # display format
+            format: 'YYYY-MM-DDTHH:mm:ss.SSSZ' # saved format
+
+          - label: 'Body'
+            name: 'body'
+            widget: 'markdown'
+
+          - label: 'Tags'
+            name: 'tags'
+            widget: 'list'
+            required: false
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
+            required: false
 
     # Blog - Spanish
     - label: 'Blog (Spanish)'
@@ -104,9 +614,55 @@ collections:
       editor:
           preview: false
       fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: 'Title'
+            name: 'title'
+            widget: 'string'
+
+          - label: 'Description'
+            name: 'description'
+            widget: 'string'
+            required: false
+
+          - label: 'Card Image'
+            name: 'cardImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Banner Image'
+            name: 'bannerImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Author'
+            name: 'author'
+            default: 'Claudia De Carlo'
+            widget: 'string'
+
+          - label: 'Author Image'
+            name: 'authorImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Publish Date'
+            name: 'date'
+            widget: 'datetime'
+            date_format: 'DD/MM/YYYY' # display format
+            format: 'YYYY-MM-DDTHH:mm:ss.SSSZ' # saved format
+
+          - label: 'Body'
+            name: 'body'
+            widget: 'markdown'
+
+          - label: 'Tags'
+            name: 'tags'
+            widget: 'list'
+            required: false
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
+            required: false
 
     # Services - English
     - label: 'Services (English)'
@@ -114,8 +670,64 @@ collections:
       folder: 'src/en/services'
       create: true
       fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Description', name: 'description', widget: 'markdown' }
+          - label: 'Layout'
+            name: 'layout'
+            widget: 'hidden'
+            default: 'page.html'
+
+          - label: 'Order'
+            name: 'order'
+            widget: 'number'
+            min: 1
+
+          - label: 'Title'
+            name: 'title'
+            widget: 'string'
+
+          - label: 'Card Image'
+            name: 'cardImage'
+            widget: 'image'
+
+          - label: 'Summary'
+            name: 'summary'
+            widget: 'markdown'
+
+          - label: 'Banner Image'
+            name: 'bannerImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Show link?'
+            name: 'showLink'
+            widget: 'boolean'
+            default: true
+
+          - label: 'link Text'
+            name: 'linkText'
+            widget: 'string'
+            required: false
+
+          - label: 'Link URL'
+            name: 'linkUrl'
+            widget: 'string'
+            required: false
+
+          - label: 'Is Link External?'
+            name: 'isLinkExternal'
+            widget: 'boolean'
+            default: false
+            required: false
+
+          - label: 'Body'
+            name: 'body'
+            widget: 'markdown'
+            required: false
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
+            required: false
 
     # Services - Spanish
     - label: 'Services (Spanish)'
@@ -123,8 +735,64 @@ collections:
       folder: 'src/es/services'
       create: true
       fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Description', name: 'description', widget: 'markdown' }
+          - label: 'Layout'
+            name: 'layout'
+            widget: 'hidden'
+            default: 'page.html'
+
+          - label: 'Order'
+            name: 'order'
+            widget: 'number'
+            min: 1
+
+          - label: 'Title'
+            name: 'title'
+            widget: 'string'
+
+          - label: 'Card Image'
+            name: 'cardImage'
+            widget: 'image'
+
+          - label: 'Summary'
+            name: 'summary'
+            widget: 'markdown'
+
+          - label: 'Banner Image'
+            name: 'bannerImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Show link?'
+            name: 'showLink'
+            widget: 'boolean'
+            default: true
+
+          - label: 'link Text'
+            name: 'linkText'
+            widget: 'string'
+            required: false
+
+          - label: 'Link URL'
+            name: 'linkUrl'
+            widget: 'string'
+            required: false
+
+          - label: 'Is Link External?'
+            name: 'isLinkExternal'
+            widget: 'boolean'
+            default: false
+            required: false
+
+          - label: 'Body'
+            name: 'body'
+            widget: 'markdown'
+            required: false
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
+            required: false
 
     # Testimonials - English
     - label: 'Testimonials (English)'
@@ -133,8 +801,49 @@ collections:
       create: true
       slug: '{{fields.testimonialAuthor | slug}}'
       fields:
-          - { label: 'Author', name: 'testimonialAuthor', widget: 'string' }
-          - { label: 'Body', name: 'testimonialBody', widget: 'markdown' }
+          - label: 'Layout'
+            name: 'layout'
+            widget: 'hidden'
+            default: 'page.html'
+
+          - label: 'Order'
+            name: 'order'
+            widget: 'number'
+            min: 1
+
+          - label: 'Author'
+            name: 'testimonialAuthor'
+            widget: 'string'
+
+          - label: 'Author Location'
+            name: 'testimonialAuthorLocation'
+            widget: 'string'
+            required: false
+
+          - label: 'Author Image'
+            name: 'testimonialAuthorImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Quote'
+            name: 'quote'
+            widget: 'markdown'
+
+          - label: 'Show Story?'
+            name: 'showStory'
+            widget: 'boolean'
+            default: false
+
+          - label: 'Body'
+            name: 'body'
+            widget: 'markdown'
+            required: false
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
+            required: false
 
     # Testimonials - Spanish
     - label: 'Testimonials (Spanish)'
@@ -143,8 +852,49 @@ collections:
       create: true
       slug: '{{fields.testimonialAuthor | slug}}'
       fields:
-          - { label: 'Author', name: 'testimonialAuthor', widget: 'string' }
-          - { label: 'Body', name: 'testimonialBody', widget: 'markdown' }
+          - label: 'Layout'
+            name: 'layout'
+            widget: 'hidden'
+            default: 'page.html'
+
+          - label: 'Order'
+            name: 'order'
+            widget: 'number'
+            min: 1
+
+          - label: 'Author'
+            name: 'testimonialAuthor'
+            widget: 'string'
+
+          - label: 'Author Location'
+            name: 'testimonialAuthorLocation'
+            widget: 'string'
+            required: false
+
+          - label: 'Author Image'
+            name: 'testimonialAuthorImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Quote'
+            name: 'quote'
+            widget: 'markdown'
+
+          - label: 'Show Story?'
+            name: 'showStory'
+            widget: 'boolean'
+            default: false
+
+          - label: 'Body'
+            name: 'body'
+            widget: 'markdown'
+            required: false
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
+            required: false
 
     # Global Data - English
     - label: 'Global (English)'
