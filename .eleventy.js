@@ -102,25 +102,20 @@ eleventyConfig.addGlobalData("eleventyComputed", {
 
     // Default fallback — no prefix
     return data.page.filePathStem + "/";
+  },
+  locale: (data) => {
+    if (data.locale) return data.locale;
+    if (data.page && data.page.inputPath) {
+      if (data.page.inputPath.includes(`${path.sep}es${path.sep}`)) return "es";
+      if (data.page.inputPath.includes(`${path.sep}en${path.sep}`)) return "en";
+    }
+    return "en";
   }
 });
 
-  // Add computed locale detection based on file path
-  eleventyConfig.addGlobalData("eleventyComputed", {
-    locale: (data) => {
-      if (data.locale) return data.locale;
-      if (data.page && data.page.inputPath) {
-        if (data.page.inputPath.includes(`${path.sep}es${path.sep}`)) return "es";
-        if (data.page.inputPath.includes(`${path.sep}en${path.sep}`)) return "en";
-      }
-      return "en";
-    }
-  });
-
-
   const now = new Date();
 
-  const services = (service) => service.date <= now && !service.data.draft;
+  const services = (service) => (!service.date || service.date <= now) && !service.data.draft;
 
   eleventyConfig.addCollection("services_en", (collection) => {
     return [...collection.getFilteredByGlob("./src/en/services/*.md").filter(services)].reverse();

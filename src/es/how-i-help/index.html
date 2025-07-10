@@ -6,7 +6,7 @@ permalink: /es/services/
 
 <section>
     {% include "partials/hero.html" %}
-    {% set postslist = collections.services | sort(attribute='data.order') %}
+    {% set postslist = collections.services_es | sort(attribute='data.order') %}
 
     <div>
         <ul class="grid gap-4 md:grid-cols-3 md:gap-12">

@@ -32,6 +32,17 @@
     <meta property="og:title" content="{{ pageTitle }}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ currentUrl }}" />
+    
+    <!-- Language alternatives for SEO -->
+    {% if locale == 'en' %}
+      <link rel="alternate" hreflang="en" href="{{ page.url }}" />
+      <link rel="alternate" hreflang="es" href="{{ page.url | replace('/en/', '/es/') }}" />
+      <link rel="alternate" hreflang="x-default" href="{{ page.url }}" />
+    {% elif locale == 'es' %}
+      <link rel="alternate" hreflang="en" href="{{ page.url | replace('/es/', '/en/') }}" />
+      <link rel="alternate" hreflang="es" href="{{ page.url }}" />
+      <link rel="alternate" hreflang="x-default" href="{{ page.url | replace('/es/', '/en/') }}" />
+    {% endif %}
 
     {% if metaDesc %}
       <meta name="description" content="{{ metaDesc }}" />
