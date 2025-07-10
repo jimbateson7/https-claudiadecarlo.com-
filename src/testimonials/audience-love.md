@@ -8,14 +8,6 @@ quote: >-
   and my ❤️
 
 
-  Screenshots from real conversations, where clients and readers shared how my work touched their lives 💌
-
-
-
-
-
-
-
   ![](/static/uploads/testimonial-screenshot_2.png)
 showStory: false
 showContactForm: true
