@@ -3,7 +3,7 @@
         <div class="flex items-center gap-4">
             <label class="text-sm" for="language-switcher">{{ settings.languageSwitcherLabel }}</label>
 
-            <select id="language-switcher" class="border-b-2 border-brand-purple p-2">
+            <select id="language-switcher" class="border-b-2 border-brand-purple p-2 text-brand-purple">
                 <option value="/en{{ page.url | replace('/es/', '/') | replace('/en/', '/') }}"{% if lang == 'en' %} selected{% endif %}>English</option>
                 <option value="/es{{ page.url | replace('/en/', '/') | replace('/es/', '/') }}"{% if lang == 'es' %} selected{% endif %}>Español</option>
             </select>
