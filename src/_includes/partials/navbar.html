@@ -1,4 +1,15 @@
 <header class="w-full container mx-auto">
+    <div class="flex justify-end">
+        <div class="flex items-center gap-4">
+            <label class="text-sm" for="language-switcher">{{ settings.languageSwitcherLabel }}</label>
+
+            <select id="language-switcher" class="border-b-2 border-brand-purple p-2">
+                <option value="/en{{ page.url | replace('/es/', '/') | replace('/en/', '/') }}"{% if lang == 'en' %} selected{% endif %}>English</option>
+                <option value="/es{{ page.url | replace('/en/', '/') | replace('/es/', '/') }}"{% if lang == 'es' %} selected{% endif %}>Español</option>
+            </select>
+        </div>
+    </div>
+
     <nav class="flex items-center justify-center lg:justify-between flex-wrap py-8" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false" aria-label="Main">
         <div class="flex items-center">
             <a href="/{{ lang }}/">
@@ -40,24 +51,6 @@
 
                 <span translate="no">{{ settings.email }}</span>
             </a>
-
-            <div class="mt-8 lg:mt-0 ml-4">
-                <select id="language-switcher" class="border rounded px-2 py-1">
-                    <option value="/en{{ page.url | replace('/es', '') }}"{% if lang == 'en' %} selected{% endif %}>English</option>
-                    <option value="/es{{ page.url | replace('/en', '') }}"{% if lang == 'es' %} selected{% endif %}>Español</option>
-                </select>
-            </div>
-
-            <script>
-                document.addEventListener('DOMContentLoaded', function() {
-                    var select = document.getElementById('language-switcher');
-                    if (select) {
-                        select.addEventListener('change', function() {
-                            window.location.href = this.value;
-                        });
-                    }
-                });
-            </script>
         </div>
     </nav>
 </header>

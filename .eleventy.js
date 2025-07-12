@@ -12,29 +12,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
 
-  eleventyConfig.addTemplateFormats('js');
-
-  eleventyConfig.addExtension('js', {
-    outputFileExtension: 'js',
-    compile: async (content, path) => {
-      if (path !== './src/static/js/index.js') {
-        return;
-      }
-
-      return async () => {
-        let output = await esbuild.build({
-          target: 'es2020',
-          entryPoints: [path],
-          minify: true,
-          bundle: true,
-          write: false,
-        });
-
-        return output.outputFiles[0].text;
-      }
-    }
-  });
-
   const md = new markdownIt({
     html: true,
     breaks: true,
@@ -66,6 +43,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/static/uploads");
   eleventyConfig.addPassthroughCopy("./src/static/favicons");
   eleventyConfig.addPassthroughCopy("./src/static/fonts");
+  // Note: JS files are handled by esbuild via npm script, not passthrough
 
   eleventyConfig.addWatchTarget("./src/_includes/partials/");
 
@@ -83,6 +61,11 @@ eleventyConfig.addGlobalData("eleventyComputed", {
     if (data.page && data.page.inputPath) {
       const inputPath = data.page.inputPath;
       let filePathStem = data.page.filePathStem; // e.g. "/en/404" or "/es/about"
+
+      // Skip language prefixing for admin files
+      if (inputPath.includes(`${path.sep}admin${path.sep}`)) {
+        return data.page.filePathStem + "/";
+      }
 
       if (inputPath.includes(`${path.sep}en${path.sep}`)) {
         // Remove leading /en from filePathStem

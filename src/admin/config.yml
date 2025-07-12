@@ -999,6 +999,12 @@ collections:
                 - label: 'Contact Form Button'
                   name: contactFormButton
                   widget: string
+                - label: 'Language Switcher Label'
+                  name: languageSwitcherLabel
+                  widget: string
+                - label: 'Footer Text'
+                  name: footerText
+                  widget: string
 
     # Global Data - Spanish
     - label: 'Global (Spanish)'
@@ -1079,4 +1085,10 @@ collections:
                   widget: markdown
                 - label: 'Contact Form Button'
                   name: contactFormButton
+                  widget: string
+                - label: 'Language Switcher Label'
+                  name: languageSwitcherLabel
+                  widget: string
+                - label: 'Footer Text'
+                  name: footerText
                   widget: string
