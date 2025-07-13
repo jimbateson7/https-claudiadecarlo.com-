@@ -987,6 +987,9 @@ collections:
                 - label: Subscribe Summary
                   name: subscribeSummary
                   widget: markdown
+                - label: Subscribe Label
+                  name: subscribeLabel
+                  widget: string
                 - label: Subscribe Button
                   name: subscribeButton
                   widget: string
@@ -1074,6 +1077,9 @@ collections:
                 - label: Subscribe Summary
                   name: subscribeSummary
                   widget: markdown
+                - label: Subscribe Label
+                  name: subscribeLabel
+                  widget: string
                 - label: Subscribe Button
                   name: subscribeButton
                   widget: string
