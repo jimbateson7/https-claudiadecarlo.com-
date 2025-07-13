@@ -1,84 +1,72 @@
 ---
 layout: page.html
 title: Privacy policy
-permalink: /es/privacy-policy/
 bannerImage: ""
+permalink: /es/privacy-policy/
 showContactForm: true
 ---
-This privacy notice provides you with details of how we collect and process your  personal data through your use of our site claudiadecarlo.com
+Este aviso de privacidad le proporciona detalles de cómo recopilamos y procesamos sus datos personales a través de su uso de nuestro sitio claudiadecarlo.com
 
-By providing us with your data, you warrant to us that you are over 18 years of age. 
+Al facilitarnos sus datos, usted nos garantiza que es mayor de 18 años.
 
-Claudia De Carlois the data controller and we are responsible for your personal  data (referred to as “we”, “us” or “our” in this privacy notice). 
+Claudia De Carlois es el controlador de datos y somos responsables de sus datos personales (en este aviso de privacidad, denominados “nosotros”, “nos” o “nuestro”).
 
-We are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information in compliance with GDPR and  applicable UK laws. 
+Nos comprometemos a proteger su privacidad. Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos su información personal de conformidad con el RGPD y la legislación aplicable del Reino Unido.
 
-## Information We Collect 
+## Información que recopilamos
 
-• Personal Information: If you contact us via our website, we may collect your name,  email address, and phone number. 
+• Información personal: si se comunica con nosotros a través de nuestro sitio web, podemos recopilar su nombre, dirección de correo electrónico y número de teléfono.
 
-## How we use your information
+## Cómo usamos su información
 
-We use your personal data for the following purposes: 
+Utilizamos sus datos personales para los siguientes fines:
 
-• To respond to your enquiries or provide requested services. 
+• Para responder a sus consultas o proporcionarle los servicios solicitados.
 
-• To send updates, if you have opted in to receive them.
+• Para enviar actualizaciones, si ha optado por recibirlas.
 
-### Data sharing
+### Intercambio de datos
 
-We only share your personal data with third parties under the following conditions: 
+Solo compartimos sus datos personales con terceros bajo las siguientes condiciones:
 
-• When we have explicitly discussed it with you and obtained your consent. • If collaborating with business partners, suppliers and service providers to  deliver agreed-upon services. 
+• Cuando lo hayamos discutido explícitamente con usted y obtenido su consentimiento. • Si colaboramos con socios comerciales, proveedores y prestadores de servicios para prestar los servicios acordados.
 
-Outside these circumstances, we do not share your personal data with third parties. 
+Fuera de estas circunstancias, no compartimos sus datos personales con terceros.
 
-### Data selling or renting
+### Venta o alquiler de datos
 
-We do not sell or rent your personal data to anyone.
+No vendemos ni alquilamos sus datos personales a nadie.
 
-### Data Security and Retention
+### Seguridad y retención de datos
 
-Your data is hosted on secure platforms. These providers implement industry-
-standard measures to protect your information.
+Sus datos se alojan en plataformas seguras. Estos proveedores implementan medidas estándar del sector para proteger su información.
 
-We retain your data only for as long as necessary to fulfil the purposes outlined
-above or as required by law.
+Conservamos sus datos solo durante el tiempo que sea necesario para cumplir los fines descritos anteriormente o según lo requiera la ley.
 
-## Your rights
+## Sus derechos
 
-Under GDPR, you have the right to: 
+Según el RGPD, usted tiene derecho a:
 
-• Access your personal data. 
+• Acceder a sus datos personales.
 
-• Request corrections to your data. 
+• Solicitar correcciones a sus datos.
 
-• Request the deletion of your data.
+• Solicitar la supresión de sus datos.
 
-To exercise these rights, contact us at hello@claudiadecarlo.com 
+Para ejercer estos derechos contáctenos en hello@claudiadecarlo.com
 
-## Contact
+## Contacto
 
-If you have any questions or concerns about this Privacy Policy, please reach out via
-email at hello@claudiadecarlo.com
+Si tiene alguna pregunta o inquietud sobre esta Política de privacidad, comuníquese con nosotros por correo electrónico a hello@claudiadecarlo.com
 
-## How to complain
+## Cómo presentar una queja
 
-If you have any concerns about our use of your personal data, you can make a
-complaint to us using the contact details at the top of this privacy notice.
-If you remain unhappy with how we’ve used your data after raising a complaint with
-us, you can also complain to the ICO.
+Si tiene alguna inquietud sobre el uso que hacemos de sus datos personales, puede presentar una queja utilizando los datos de contacto que aparecen al inicio de este aviso de privacidad. Si, tras presentar una queja, sigue insatisfecho con el uso que hemos hecho de sus datos, también puede presentar una queja ante la ICO.
 
-The ICO’s address:
+La dirección de la ICO:
 
-Information Commissioner’s Office
-Wycliffe House
-Water Lane
-Wilmslow
-Cheshire
-SK9 5AF
+Oficina del Comisionado de Información Wycliffe House Water Lane Wilmslow Cheshire SK9 5AF
 
-Helpline number: 0303 123 1113
-Website: https://www.ico.org.uk/make-a-complaint
+Número de la línea de ayuda: 0303 123 1113 Sitio web: https://www.ico.org.uk/make-a-complaint
 
-**Last Updated: 22nd June 2025**
+**Última actualización: 22 de junio de 2025**
