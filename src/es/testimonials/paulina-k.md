@@ -4,13 +4,13 @@ testimonialAuthor: Paulina K.
 testimonialAuthorLocation: London, UK
 testimonialAuthorImage: /static/uploads/paulina.jpg
 quote: >-
-  I had the pleasure of being coached by Claudia. She has a unique ability to
-  reframe and challenge beliefs that are not serving you. With her support, I
-  was able to shift from “I should” to “I want”- a powerful change that helped
-  me articulate what I really want, rather than what I feel I should be doing.
+  Tuve el placer de recibir coaching de Claudia. Tiene una capacidad única para
+  replantear y desafiar creencias que no te ayudan. Con su apoyo, logré pasar
+  del "debería" al "quiero", un cambio poderoso que me ayudó a expresar lo que
+  realmente quiero, en lugar de lo que siento que debería estar haciendo.
 
 
-  She helped me turn that clarity into action, with practical and grounded steps that felt both manageable and motivating - never overwhelming, always aligned with what truly matters to me. I highly recommend Claudia as a coach - especially if you want to work on your limiting beliefs and unlearn behaviours and habits that no longer serve you.
+  Me ayudó a convertir esa claridad en acción, con pasos prácticos y fundamentados que me resultaron manejables y motivadores; nunca abrumadores, siempre alineados con lo que realmente me importa. Recomiendo ampliamente a Claudia como coach, especialmente si quieres trabajar con tus creencias limitantes y desaprender comportamientos y hábitos que ya no te sirven.
 showStory: false
 showContactForm: true
 ---

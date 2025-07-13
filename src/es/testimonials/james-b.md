@@ -5,14 +5,14 @@ testimonialAuthor: James B.
 testimonialAuthorLocation: North West, UK
 testimonialAuthorImage: /static/uploads/jim-2.jpeg
 quote: >-
-  Working with Claudia is great. She listens, is honest, empathetic and helps
-  you celebrate little wins building towards your goal.
+  Trabajar con Claudia es genial. Escucha, es honesta, empática y te ayuda a
+  celebrar los pequeños logros que te ayudan a alcanzar tu objetivo.
 
 
-  When I started working with Claudia, I was filled with anxiety, self-confidence and self-worth issues. I had fallen out of love with running and training, always telling myself I couldn’t do it again, or I’d start another time.
+  Cuando empecé a trabajar con Claudia, estaba llena de ansiedad y tenía problemas de autoestima. Había perdido el interés por correr y entrenar, y siempre me decía que no podía volver a hacerlo o que empezaría otra vez.
 
 
-  I’m now back enjoying a running plan and when I find myself thinking negatively about myself, or not appreciating situations, a little Claudia pops up and reminds me to be kind to myself. I’ve lost a lot of physical and mental “weight” since starting to work with Claudia and shift the way I think about myself. It takes time and it can be hard after thinking a certain way for so long, but the work is paying off.
+  Ahora he vuelto a disfrutar de un plan para correr y, cuando me descubro pensando mal de mí misma o no valoro las situaciones, Claudia me recuerda que debo ser amable conmigo misma. He perdido mucho peso físico y mental desde que empecé a trabajar con Claudia y a cambiar mi forma de pensar sobre mí misma. Lleva tiempo y puede ser difícil después de pensar de cierta manera durante tanto tiempo, pero el esfuerzo está dando sus frutos.
 showStory: true
 showContactForm: false
 ---

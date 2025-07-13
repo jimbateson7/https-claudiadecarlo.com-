@@ -5,14 +5,14 @@ testimonialAuthor: Madelein A.
 testimonialAuthorLocation: Surrey, UK
 testimonialAuthorImage: /static/uploads/madelein.jpg
 quote: >-
-  As a professional woman whose career path has changed late in life it has been
-  a very difficult period for me, and with Claudia’s guidance I have found a
-  different way to move forward into a new career.
+  Como mujer profesional cuyo camino profesional cambió tarde en la vida, ha
+  sido un período muy difícil para mí, y con la orientación de Claudia encontré
+  una forma diferente de avanzar hacia una nueva carrera.
 
 
-  We don’t always see where we are, and getting back onto our own path, to move into a positive direction is amazing, especially when we get ourselves into a situation where we cannot see ourselves as worthy or even good enough to do something new to expand our own ideas of  who we are.
+  No siempre vemos dónde estamos, y volver a nuestro propio camino, para avanzar en una dirección positiva es maravilloso, especialmente cuando nos encontramos en una situación en la que no podemos vernos como dignos o incluso lo suficientemente buenos para hacer algo nuevo para expandir nuestras propias ideas de quiénes somos.
 
 
-  Claudia’s help has been tremendous. Thank you for new possibilities.
+  La ayuda de Claudia ha sido enorme. Gracias por las nuevas posibilidades.
 showStory: false
 ---

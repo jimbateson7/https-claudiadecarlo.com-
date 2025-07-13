@@ -1,6 +1,7 @@
 ---
 layout: page.html
 title: Privacy policy
+permalink: /es/privacy-policy/
 bannerImage: ""
 showContactForm: true
 ---

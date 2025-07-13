@@ -5,14 +5,15 @@ testimonialAuthor: Oscar M.
 testimonialAuthorLocation: Manchester, UK
 testimonialAuthorImage: /static/uploads/oscar.jpg
 quote: >-
-  Thank you for the incredible transformation I can feel after our conversation.
-  In just two hours, I felt a profound shift in my mindset. I’m more empowered,
-  at peace, and even physically lighter. The burdens I once carried seem to have
-  lifted, leaving me with a renewed sense of freedom and clarity. I am so
-  grateful for this experience!
+  Gracias por la increíble transformación que siento después de nuestra
+  conversación. En tan solo dos horas, sentí un cambio profundo en mi
+  mentalidad. Me siento más empoderada, en paz e incluso físicamente más ligera.
+  Las cargas que antes llevaba parecen haberse aliviado, dejándome con una
+  renovada sensación de libertad y claridad. ¡Estoy muy agradecida por esta
+  experiencia!
 
 
-  I truly value our sessions and Claudia’s wisdom and approach. She has an incredible ability to listen and understand. After our last session, life threw the usual challenges my way (going through some relationship challenges) and I was amazed at how differently I responded - I didn’t react! What shift! I highly recommend Claudia for anyone seeking deep and impactful transformation and wanting to see results in a short time.
+  Valoro muchísimo nuestras sesiones y la sabiduría y el enfoque de Claudia. Tiene una increíble capacidad para escuchar y comprender. Después de nuestra última sesión, la vida me planteó los desafíos habituales (algunos problemas en mi relación) y me sorprendió lo diferente que reaccioné: ¡no reaccioné! ¡Qué cambio! Recomiendo ampliamente a Claudia a cualquiera que busque una transformación profunda e impactante y quiera ver resultados rápidamente.
 showStory: true
 showContactForm: false
 ---

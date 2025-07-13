@@ -4,10 +4,11 @@ order: 3
 testimonialAuthor: Ari M.
 testimonialAuthorLocation: Barcelona, Spain
 testimonialAuthorImage: /static/uploads/ariadna.jpg
-quote: Claudia helped me value myself at work and position myself for a better
-  job opportunity where I was recognised financially, had my working hours
-  protected, and was acknowledged for the tasks I carry out. The change started
-  with me - and I couldn’t believe this was possible until she showed me how.
+quote: Claudia me ayudó a valorarme en el trabajo y a prepararme para una mejor
+  oportunidad laboral donde recibía reconocimiento económico, mis horas de
+  trabajo estaban protegidas y era reconocida por las tareas que realizaba. El
+  cambio empezó conmigo, y no podía creer que fuera posible hasta que me mostró
+  cómo.
 showStory: true
 showContactForm: true
 ---
