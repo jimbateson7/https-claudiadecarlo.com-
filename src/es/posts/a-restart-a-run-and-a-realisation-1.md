@@ -1,6 +1,6 @@
 ---
-title: A restart, a run, and a realisation
-description: The finish line was only the beginning.
+title: Un reinicio, una carrera y una constatación
+description: La meta fue sólo el comienzo.
 cardImage: ""
 author: Claudia De Carlo
 authorImage: /static/uploads/1747215352004.jpeg
@@ -9,91 +9,91 @@ tags:
   - created
 showContactForm: true
 ---
-I created this Substack 4 weeks ago with one clear intention:\
-\
-To share my story in a way that sparks transformation.\
-To reach many, while still creating space for deep connection.\
-To inspire you to let go of what no longer serves, so you can move toward what truly matters.
+Creé este Substack hace 4 semanas con una clara intención:
 
-Time flies when you’re having fun, yes - but also when you’re navigating challenges.
+compartir mi historia de una manera que impulse la transformación.
+Para llegar a muchos, a la vez que se crea un espacio para una conexión profunda.
+Para inspirarte a soltar lo que ya no te sirve, para que puedas avanzar hacia lo que realmente importa.
 
-And we all have them. It’s in the ability to move through them with meaning, and in how we relate to them, that we separate ourselves from suffering. I live by this quote inspired by Buddhist philosophy:
+El tiempo vuela cuando te diviertes, sí, pero también cuando enfrentas desafíos.
 
-*Pain is inevitable; suffering is optional.*
+Y todos los tenemos. Es en la capacidad de afrontarlos con sentido, y en cómo nos relacionamos con ellos, que nos separamos del sufrimiento. Vivo según esta cita inspirada en la filosofía budista:
 
-What also happened is that I got busy creating some programmes for my business -\
-something that was born alongside my desire to run the London Marathon, little over a year ago.
+*El dolor es inevitable; el sufrimiento es opcional.*
 
-During today’s run, as I was running exactly through these fields in Barcelona, I had a moment of clarity:\
-Six months ago, I was just beginning to train for the London Marathon - my first ever, and I had no idea how it would go.
+Lo que también pasó es que me puse a crear algunos programas para mi negocio,
+algo que nació junto con mi deseo de correr el Maratón de Londres, hace poco más de un año.
 
-As I embarked on this training, so much has happened:
+Durante la carrera de hoy, mientras corría exactamente por estos campos de Barcelona, tuve un momento de claridad:
+hace seis meses, estaba empezando a entrenar para el Maratón de Londres (mi primero) y no tenía idea de cómo iría.
 
-* My mother-in-law came to visit us in England and had to be hospitalised - she ended up living with us for 6 months.
-* My partner and I stepped into caregiving roles, while raising a young child.
-* Building a new business in the back of unexpected redundancy.
-* Facing relationship turbulence.
+Al embarcarme en esta formación, sucedieron muchas cosas:
 
-That’s one version of the story - the surface one.\
-\
-But underneath, what was really happening was this:\
-\
-*A spiritual awakening. A deep identity shift. A rebirth.*\
-I had made a decision: to live on my own terms.\
-\
-And that meant letting go of old patterns, self-doubt, people-pleasing, and self-sacrifice.\
-Everything felt chaotic, raw and uncertain.\
-\
-And yet - I stayed committed to one thing: becoming this new version of me.\
-\
-The one that knows what’s good for her: creating, connecting, moving.\
-\
-It became my anchor. My promise to myself.\
-\
-I remember one cold, rainy morning.\
-My son had a fever and had to stay home from school. My relative was recovering from surgery.\
-My old self would have stayed, sacrificed, and swallowed her own needs.\
-\
-But not this time.\
-\
-I paused and asked myself: *What do I need, too?*\
-\
-They were fine - one watching TV, the other on her phone - *“Text me if there’s an emergency”* (both totally capable)\
-\
-So I laced up my shoes and went for that 5K.\
-That run marked a pivotal moment: *I’m committed to the woman I’m becoming.*
+* Mi suegra vino a visitarnos a Inglaterra y tuvo que ser hospitalizada; terminó viviendo con nosotros durante 6 meses.
+* Mi pareja y yo asumimos roles de cuidadores mientras criábamos a un niño pequeño.
+* Construir un nuevo negocio a raíz de un despido inesperado.
+* Enfrentando la turbulencia en las relaciones.
 
-Training and running the marathon helped me build resilience.\
-But more than that, it built momentum for a new life.
+Esa es una versión de la historia, la superficial.
 
-Reflecting back now, almost one month after the marathon, here’s what I’ve noticed:
+Pero en el fondo, lo que realmente estaba sucediendo era esto:
 
-My energy is grounded - I feel recharged, not depleted
+*Un despertar espiritual. Un profundo cambio de identidad. Un renacimiento.*
+Había tomado una decisión: vivir en mis propios términos.
 
-My nervous system and immune system feel stronger than ever
+Y eso significaba dejar atrás viejos patrones, dudas sobre mí misma, complacer a los demás y autosacrificio.
+Todo se sentía caótico, crudo e incierto.
 
-I crave movement - running is no longer a task, it’s part of who I am
+Y, sin embargo, seguía comprometida con una cosa: convertirme en esta nueva versión de mí.
 
-Even when life feels messy, I bounce back faster – that’s resilience
+La que sabe lo que es bueno para ella: crear, conectar, moverse.
 
-A very dear friend recently said to me *“I saw you’ve run a marathon… I think people who run are perhaps escaping from something”*.\
-\
-I paused and reflected, and for me, it’s been quite the opposite. Running has helped me come home to myself, to my body, my power, my truth.
+Se convirtió en mi ancla. Mi promesa a mí misma.
 
-I’m so excited about what’s been possible through my new decision, that I wanted to share what I’ve created in the last 2 weeks.\
-\
-I’ve started a *Weekly Reframe* on LinkedIn - a space to reflect on the emotional and mental shifts that help us move forward, even when life feels messy.
+Recuerdo una mañana fría y lluviosa.
+Mi hijo tenía fiebre y tuvo que quedarse en casa sin ir a la escuela. Mi pariente se estaba recuperando de una cirugía.
+Mi antiguo yo se habría quedado, se habría sacrificado y se habría tragado sus propias necesidades.
 
-Every Friday at 1PM UK, I go live and share an insight based on a real, anonymous challenge someone has sent me - from life transitions, self-doubt or sumply feeling stuck.
+Pero no esta vez.
 
-Replay the [first episode here](https://lnkd.in/eFTfdqhY).\
-Want to submit a challenge for the next Reframe? You can [share it anonymously here](https://docs.google.com/forms/d/e/1FAIpQLScn12WMqpxSwN4Yebm-DJ4xJyZjD-Hj6NzjBErMgHpaEd6Blg/viewform).\
-And if you’d like to join me live - [connect with me on LinkedIn here](https://www.linkedin.com/in/claudiadecarlo/).
+Hice una pausa y me pregunté:  *¿Qué necesito yo también?*
 
-Thanks for reading. It means a lot.
+Estaban bien, una viendo la televisión, la otra en su teléfono: *"Envíame un mensaje de texto si hay una emergencia"*  (ambas totalmente capaces).
 
-Let’s keep running - forward, inward, and together. 🌱
+Así que me até los cordones de los zapatos y fui por esos 5K.
+Esa carrera marcó un momento crucial:  *estoy comprometida con la mujer en la que me estoy convirtiendo.*
 
-If this resonated with you, I’d love to hear from you - feel free to like, leave a comment, or share it with someone who might need it. 
+Entrenar y correr el maratón me ayudó a desarrollar resiliencia.
+Pero más que eso, me dio impulso para una nueva vida.
+
+Al reflexionar ahora, casi un mes después del maratón, esto es lo que he notado:
+
+Mi energía está arraigada: me siento recargada, no agotada.
+
+Mi sistema nervioso y mi sistema inmunológico se sienten más fuertes que nunca.
+
+Anhelo el movimiento: correr ya no es una tarea, es parte de lo que soy.
+
+Incluso cuando la vida parece desordenada, me recupero más rápido: eso es resiliencia.
+
+Un querido amigo me dijo hace poco:  *«Vi que has corrido un maratón... Creo que quienes corren quizás están escapando de algo»* .
+
+Me detuve a reflexionar, y para mí ha sido todo lo contrario. Correr me ha ayudado a encontrarme conmigo mismo, con mi cuerpo, con mi poder, con mi verdad.
+
+Estoy tan emocionada por lo que he logrado con mi nueva decisión que quería compartir lo que he creado en las últimas dos semanas.
+
+He creado un  *Reencuadre Semanal*  en LinkedIn, un espacio para reflexionar sobre los cambios emocionales y mentales que nos ayudan a seguir adelante, incluso cuando la vida se siente complicada.
+
+Todos los viernes a la 1:00 p. m. (hora del Reino Unido), salgo en vivo y comparto una idea basada en un desafío real y anónimo que alguien me envió, desde transiciones de vida, dudas sobre uno mismo o simplemente sentirse estancado.
+
+Vuelve a ver el  [primer episodio aquí](https://lnkd.in/eFTfdqhY) .
+¿Quieres proponer un reto para el próximo Reframe? Puedes  [compartirlo anónimamente aquí](https://docs.google.com/forms/d/e/1FAIpQLScn12WMqpxSwN4Yebm-DJ4xJyZjD-Hj6NzjBErMgHpaEd6Blg/viewform) .
+Y si quieres unirte a mí en directo,  [conéctate conmigo en LinkedIn aquí](https://www.linkedin.com/in/claudiadecarlo/) .
+
+Gracias por leer. Significa mucho para mí.
+
+Sigamos corriendo: hacia adelante, hacia adentro y juntos. 🌱
+
+Si esto te resonó, me encantaría saber de ti: no dudes en darle Me gusta, dejar un comentario o compartirlo con alguien que pueda necesitarlo.
 
 ![](/static/uploads/16c64063-de8f-45e5-a87e-8f8869c78f6e_3088x2316.webp)

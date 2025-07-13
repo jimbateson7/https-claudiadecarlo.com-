@@ -16,26 +16,24 @@ quote: >-
 showStory: true
 showContactForm: false
 ---
-## Jim’s Story: Running back to confidence
+## La historia de Jim: Recuperando la confianza
 
-Jim first saw me speak at a lightning talk last year. Something landed for him at that moment, he started following me on LinkedIn, and eventually reached out for support.
+Jim me vio por primera vez en una charla relámpago el año pasado. En ese momento, algo le impactó; empezó a seguirme en LinkedIn y finalmente me contactó para pedirme ayuda.
 
-He was struggling with social anxiety. He hadn’t passed probation in his previous role, which had come shortly after a redundancy. His confidence was low, and he felt disconnected from himself, especially from the part of him that used to run ultra-marathons and speak in public with ease.
+Sufría de ansiedad social. No había superado el periodo de prueba en su puesto anterior, que se produjo poco después de un despido. Tenía poca confianza en sí mismo y se sentía desconectado de sí mismo, especialmente de la parte que solía correr ultramaratones y hablar en público con facilidad.
 
-Over a couple of months working together, things began to shift.
+Después de un par de meses de trabajar juntos, las cosas empezaron a cambiar.
 
-He started to rebuild his self-belief. He got back into running. He began to feel stronger, more grounded, and more like himself again. 
+Empezó a recuperar la confianza en sí mismo. Volvió a correr. Empezó a sentirse más fuerte, más centrado y más él mismo.
 
-And then, he signed a new job contract!
+¡Y luego firmó un nuevo contrato de trabajo!
 
-He stepped back into public speaking. He went from avoiding breakout rooms in online events - worried he might be kicked out or not know what to say - to giving presentations and applying for new speaking gigs.
+Volvió a hablar en público. Pasó de evitar las salas de reuniones en eventos en línea, preocupado por si lo expulsaban o por no saber qué decir, a dar presentaciones y solicitar nuevas oportunidades como conferenciante.
 
-Jim already had what it took. He just needed the right support to reconnect with his strength and move forward with clarity.
+Jim ya tenía lo necesario. Solo necesitaba el apoyo adecuado para reconectar con su fuerza y seguir adelante con claridad.
 
-Jim, I’m proud of how you showed up for yourself. You did the work, and it shows. I’m excited to see what comes next for you.
+Jim, estoy orgulloso de cómo te presentaste. Hiciste el trabajo, y se nota. Tengo ganas de ver qué te depara el futuro.
 
 — Claudia
 
-
-
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Reserve una llamada de descubrimiento gratuita <span class="sr-only">se abre en una nueva pestaña</span></a>

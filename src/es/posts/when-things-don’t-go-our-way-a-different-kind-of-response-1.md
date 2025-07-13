@@ -1,95 +1,100 @@
 ---
-title: "When things don’t go our way: A different kind of response"
-description: Didn't get a place in the London marathon 2026? Here's a reframe
+title: "Cuando las cosas no salen como queremos: una respuesta diferente"
+description: ¿No conseguiste una plaza en el Maratón de Londres 2026? Aquí
+  tienes una nueva forma de organizarte.
 author: Claudia De Carlo
 authorImage: /static/uploads/1747215352004.jpeg
 date: 2025-06-22T08:20:56.066Z
 showContactForm: true
 ---
-Last week, the London marathon ballot results came out, and it’s very likely you didn’t get a place.
+La semana pasada salieron los resultados de la votación para el maratón de Londres y es muy probable que no hayas conseguido un lugar.
 
-I’m surprised and saddened to read that people are getting disappointed at the “rejection” of not getting a place.
+Me sorprende y entristece leer que la gente se está decepcionando por el “rechazo” de no conseguir plaza.
 
-It’s not rejection - it’s a raffle.
+No es un rechazo: es un sorteo.
 
-Over 1.1 million people entered, and only about 1.5% got in.
+Participaron más de 1,1 millones de personas, y solo alrededor del 1,5% logró entrar.
 
-If you didn’t, it’s not personal. It’s just numbers.
+Si no lo hiciste, no es personal. Son solo números.
 
-The more we accept it when something doesn’t go the way we’d like it to be, the easier we can move on from the dragging feeling of failure.
+Cuanto más aceptemos que algo no salga como nos gustaría, más fácil nos resultará superar esa sensación persistente de fracaso.
 
-Yes, emotions like disappointment, frustration, even discouragement are valid, but don’t let it define your next step.
+Sí, emociones como la decepción, la frustración, incluso el desánimo son válidas, pero no dejes que definan tu próximo paso.
 
-Let me invite you to ask yourself:
+Permíteme invitarte a que te preguntes:
 
-Why did you want to run the London marathon -for many- again?
+¿Por qué quisiste volver a correr el Maratón de Londres -para muchos-?
 
-If your *Why* for London is so important, you can get a charity place. There are charities still welcoming runners.
+Si tu  *propósito*  en Londres es tan importante, puedes conseguir una plaza en una organización benéfica. Todavía hay organizaciones benéficas que aceptan corredores.
 
-This is what happened to me last year. By the time I became aware of the amazing experience that it would be to run the London marathon (my first ever), the ballot had closed, but my opportunity was not lost, and I chose a charity to do it through.
+Esto fue lo que me pasó el año pasado. Para cuando supe que sería una experiencia increíble correr el maratón de Londres (mi primera vez), la convocatoria ya había cerrado, pero no perdí mi oportunidad y elegí una organización benéfica para hacerlo.
 
-I admit, it was double the work training *and* raising money, but it was well worth it!
+Lo admito, fue el doble de trabajo, capacitación  *y*  recaudación de fondos, ¡pero valió la pena!
 
-If your *Why* is about the running itself, there are countless other marathons to sign up for.
+Si tu  *"por qué"*  es correr en sí, hay innumerables otros maratones en los que inscribirte.
 
-I recently watched a [TEDx Talk by Maria Nemeth: “Would it be ok if life got easier?” ](https://www.ted.com/talks/maria_nemeth_would_it_be_ok_with_you_if_life_got_easier)and I found it fitting.
+Hace poco vi una  [charla TEDx de Maria Nemeth: “¿Estaría bien si la vida fuera más fácil?” ](https://www.ted.com/talks/maria_nemeth_would_it_be_ok_with_you_if_life_got_easier) y me pareció muy acertada.
 
-Maria invites us to see ourselves from the perspective of ontology vs psychology. Here the difference:
+María nos invita a vernos desde la perspectiva de la ontología frente a la psicología. Aquí la diferencia:
 
-Psychology often asks:
+La psicología a menudo pregunta:
 
-*“Why do I feel this way?”*
+*“¿Por qué me siento así?”*
 
-*“Where did this pattern come from?”*
+*“¿De dónde salió este patrón?”*
 
-*“What needs healing from my past?”*
+*“¿Qué necesita sanación de mi pasado?”*
 
-It focuses on understanding, processing, and sometimes fixing the self - often by looking backwards.
+Se centra en comprender, procesar y, a veces, arreglar el yo, a menudo mirando hacia atrás.
 
-This can be incredibly useful for healing and making sense of our inner world.
+Esto puede ser increíblemente útil para sanar y dar sentido a nuestro mundo interior.
 
-But sometimes, we get stuck there - always trying to solve or improve ourselves before taking action.
+Pero a veces nos quedamos estancados allí, siempre tratando de resolver o mejorar antes de tomar acción.
 
-Ontology, on the other hand, is the study of *being*.
+La ontología, por otro lado, es el estudio del  *ser* .
 
-It asks:
+Se pregunta:
 
-*“Who am I choosing to be right now?”*
+*“¿Quién elijo ser ahora mismo?”*
 
-*“What’s possible if I step into that version of me today?”*
+*“¿Qué es posible si me convierto en esa versión de mí hoy?”*
 
-Maria also invites us to turn our attention to making a contribution.
+María también nos invita a centrar nuestra atención en hacer un aporte.
 
-It takes guts to turn your attention away from complaints and toward contribution, but you’re only one decision away.
+Se necesita coraje para desviar la atención de las quejas y dirigirla hacia la contribución, pero sólo hay una decisión que tomar.
 
-One of the exercises she shares in her talk is simple, yet powerful:
+Uno de los ejercicios que comparte en su charla es simple, pero poderoso:
 
-1. Choose a person you admire.
-2. Name the qualities you see in them: the ones you deeply respect or are inspired by.
-3. Now realise: those qualities are within *you*.
+1. Elige una persona que admires.
+2. Nombra las cualidades que ves en ellos: aquellas que respetas profundamente o que te inspiran.
+3. Ahora date cuenta: esas cualidades están dentro de  
 
-Go act like that person.
+   *ti*
 
-Let those qualities lead your next decision, even if it’s something as small as how you show up today.
+    .
 
-That’s how we begin to shift from stuckness to possibility.
+Ve y actúa como esa persona.
 
-What could contributing look like right now?
+Deja que esas cualidades guíen tu próxima decisión, incluso si se trata de algo tan pequeño como tu forma de actuar hoy.
 
-* Maybe it’s signing up to volunteer at the London marathon 2026.
-* Maybe it’s supporting a friend training for another race.
-* Maybe it’s running for pleasure, and being more present for your loved ones, or a dream project you’ve not started yet.
+Así es como empezamos a pasar del estancamiento a la posibilidad.
 
-After crossing the finish line last April, I said to myself “I’m never doing this again”, and 2 days after, as the pain eased off, I signed up for the ballot.
+¿Cómo podría ser la contribución en este momento?
 
-I’m one of the 98.5% of people that didn’t get in.
+* Tal vez sea inscribirse como voluntario para el maratón de Londres de 2026.
+* Quizás esté apoyando a un amigo que está entrenando para otra carrera.
+* Quizás sea correr por placer y estar más presente para tus seres queridos, o un proyecto soñado que aún no has comenzado.
 
-I’m enjoying simply *being*, running to stay active as part of my cross-training, and putting my focus on my dream project: writing my books.
+Después de cruzar la meta el pasado mes de abril, me dije a mí mismo: “No volveré a hacer esto nunca más”, y dos días después, cuando el dolor disminuyó, me inscribí en la votación.
 
-I might see you next April if I decide to sign up for volunteering.
+Soy uno del 98,5% de personas que no entraron.
 
-Keep smiling,
+Disfruto simplemente  *de ser* , de correr para mantenerme activo como parte de mi entrenamiento cruzado y de concentrarme en mi proyecto soñado: escribir mis libros.
 
-Clau\
-\
-If this resonated with you, I’d love to hear from you - feel free to like, leave a comment, or share it with someone who might need it.
+Podría verte el próximo abril si decido apuntarme al voluntariado.
+
+Sigue sonriendo,
+
+Clau
+
+Si esto te resonó, me encantaría saber de ti: no dudes en darle Me gusta, dejar un comentario o compartirlo con alguien que pueda necesitarlo.

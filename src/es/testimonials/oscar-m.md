@@ -17,32 +17,32 @@ quote: >-
 showStory: true
 showContactForm: false
 ---
-## Oscar’s story: From heartbreak to setting himself free
+## La historia de Oscar: Del desamor a la liberación
 
 {% video "/static/uploads/oscar-testimonial-reduced-.mp4" %}{% endvideo %}
 
-Oscar came to me in tears. His relationship was ending, and even though he hadn’t felt truly happy in it for a while, the thought of letting go brought up even more pain. 
+Oscar vino a mí llorando. Su relación estaba terminando, y aunque hacía tiempo que no se sentía verdaderamente feliz, la idea de separarse le causaba aún más dolor.
 
-He felt low, confused, and humiliated after a series of difficult events with his partner. He was trying to hold together something that deep down, he already knew wasn’t right for him.
+Se sentía deprimido, confundido y humillado tras una serie de situaciones difíciles con su pareja. Intentaba mantener a flote algo que, en el fondo, ya sabía que no era adecuado para él.
 
-In our very first session, we uncovered where the real pain was coming from - not just the breakup, but an old wound that had been silently shaping his choices.
+En nuestra primera sesión, descubrimos de dónde provenía el verdadero dolor: no solo la ruptura, sino una vieja herida que había estado moldeando silenciosamente sus decisiones.
 
-We shifted from a victim mindset to one of self-worth and clarity. He began to see that he was allowed to choose what (and who) he lets into his life.
+Pasamos de una mentalidad de víctima a una de autoestima y claridad. Empezó a comprender que podía elegir qué (y a quién) dejaba entrar en su vida.
 
-He realised he was done settling. The relationship didn’t reflect the kind of love he truly wanted. He’d been staying out of habit, fear, and comfort. But something clicked: this wasn’t what he deserved.
+Se dio cuenta de que ya no se conformaba. La relación no reflejaba el tipo de amor que realmente deseaba. Se había quedado por costumbre, miedo y comodidad. Pero algo hizo clic: esto no era lo que merecía.
 
-He felt a huge sense of relief.
+Sintió una enorme sensación de alivio.
 
-Together, we brought hidden patterns to the surface: those subconscious beliefs that had kept him stuck. Once they were seen, they began to loosen their grip.
+Juntos, sacamos a la luz patrones ocultos: esas creencias subconscientes que lo habían mantenido atrapado. Al descubrirlas, empezaron a perder su control.
 
-Oscar began to *choose* himself.
+Oscar comenzó a *elegirse* a sí mismo.
 
-He’s an enthusiastic, passionate man who had been settling for frustration and emotional struggle, trying to hold together a relationship that had long lost its essence.
+Es un hombre entusiasta y apasionado que se había conformado con la frustración y la lucha emocional, tratando de mantener unida una relación que hacía tiempo que había perdido su esencia.
 
-This is what’s possible, even with just a few sessions of deep, intentional work. Oscar already had the answers inside him. He just needed someone to hold space for him, and  help him untangle the knot of thoughts and emotions keeping him stuck.
+Esto es posible, incluso con solo unas pocas sesiones de trabajo profundo e intencional. Oscar ya tenía las respuestas dentro de sí. Solo necesitaba a alguien que le diera espacio y le ayudara a desenredar el nudo de pensamientos y emociones que lo bloqueaba.
 
-Thank you, Oscar, for allowing me to walk alongside you during this turning point. I’m so proud of the way you’re stepping into this new chapter, with clarity, self-respect, and heart.
+Gracias, Oscar, por permitirme acompañarte en este momento crucial. Estoy muy orgulloso de cómo estás afrontando este nuevo capítulo con claridad, respeto por ti mismo y corazón.
 
 — Claudia
 
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Reserve una llamada de descubrimiento gratuita <span class="sr-only">se abre en una nueva pestaña</span></a>

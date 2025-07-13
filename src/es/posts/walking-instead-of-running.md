@@ -1,45 +1,45 @@
 ---
-title: Walking instead of running
-description: The past 18 months have been filled with endings, upheaval, and
-  deep identity shifts - many happening all at once. Some transitions arrive
-  gently. Others crack your life open.
+title: Caminar en lugar de correr
+description: Los últimos 18 meses han estado llenos de finales, trastornos y
+  profundos cambios de identidad, muchos de ellos a la vez. Algunas transiciones
+  llegan con suavidad. Otras te abren la vida.
 author: Claudia De Carlo
 authorImage: /static/uploads/1747215352004.jpeg
 date: 2025-06-10T08:20:56.066Z
 showContactForm: true
 ---
-The past 18 months have been filled with endings, upheaval, and deep identity shifts - many happening all at once.
+Los últimos 18 meses han estado llenos de finales, trastornos y profundos cambios de identidad, muchos de ellos ocurridos al mismo tiempo.
 
-Some transitions arrive gently. Others crack your life open.
+Algunas transiciones llegan con suavidad. Otras te abren la vida.
 
-I read today:
+Leí hoy:
 
 ![Photograph from a page in a book. The text reads "This is a little harsh, but...they were supposed to hurt you."."](/static/uploads/0f364311-afe1-4d4e-ba8b-6bdc4acc3086_4032x3024.webp)
 
-*“… And you were supposed to sit in your pain for a while.*
+*“…Y se suponía que debías sentarte en tu dolor por un rato.*
 
-*This isn't because you deserve it; it's not a form of punishment.*
+*No es que lo merezcas, no es una forma de castigo.*
 
-*The only way that you could shake off that old version of you, the version that actually thought the bare minimum could ever be considered effort.*
+*La única forma de poder deshacerse de esa vieja versión de usted, la versión que realmente pensaba que lo mínimo podía considerarse esfuerzo.*
 
-*You needed this pain to wake you up, because otherwise you would never grow and become the person you're supposed to be. Remember, growth often starts with discomfort.”*
+*Necesitabas este dolor para despertar, porque de lo contrario nunca crecerías ni te convertirías en la persona que se supone que eres. Recuerda, el crecimiento a menudo comienza con incomodidad.*
 
-I’m still here, committed to my path more than ever. But right now, I’m walking instead of running.
+Sigo aquí, más comprometido que nunca con mi camino. Pero ahora mismo, camino en lugar de correr.
 
-I need grounding before I continue building
+Necesito una conexión a tierra antes de seguir construyendo.
 
-A strong house needs a solid foundation.
+Una casa fuerte necesita una base sólida.
 
-I haven’t abandoned this newsletter - I’ve just been listening to my nervous system ask for tenderness, not pressure.
+No he abandonado este boletín; simplemente he estado escuchando a mi sistema nervioso pedir ternura, no presión.
 
-I’ll be back, slowly.
+Regresaré, lentamente.
 
-I realised that if I’m working on my self-esteem - and I encourage others to do the same - then honouring this stage is invaluable, even if the progress feels slow.
+Me di cuenta de que si estoy trabajando en mi autoestima (y animo a otros a hacer lo mismo), entonces honrar esta etapa es invaluable, incluso si el progreso parece lento.
 
-With love,
+Con amor,
 
 Clau 🌿
 
-P.S. If the London Marathon 2026 is calling you, [Whizz Kidz](https://www.whizz-kidz.org.uk/) has places - and they’re amazing. Highly recommend them.\
-\
-If this resonated with you, I’d love to hear from you - feel free to like, leave a comment, or share it with someone who might need it.
+PD: Si el Maratón de Londres 2026 te llama, [Whizz Kidz](https://www.whizz-kidz.org.uk/)  tiene lugares increíbles. Los recomiendo muchísimo.
+
+Si te ha llamado la atención, me encantaría saber tu opinión. Dale a "me gusta", deja un comentario o compártelo con alguien que pueda necesitarlo.

@@ -12,28 +12,26 @@ quote: Claudia me ayudó a valorarme en el trabajo y a prepararme para una mejor
 showStory: true
 showContactForm: true
 ---
-## Ari’s story: Remembering her worth
+## La historia de Ari: Recordando su valor
 
-Ari had been working as a dental technician for 12 years when she was offered a new opportunity within the same company - an administrative role that promised a refreshing change after over a decade in the same position.
+Ari había estado trabajando como técnico dental durante 12 años cuando le ofrecieron una nueva oportunidad dentro de la misma empresa: un puesto administrativo que prometía un cambio refrescante después de más de una década en el mismo puesto.
 
-She welcomed the shift, but stepping into a new field brought uncertainty. She felt unprepared, unsupported, and alone. Her manager kept postponing 121 meetings, and her colleague -more experienced in the role- was unhelpful, possibly trying to make her "earn her place." There was no real guidance, no resources offered by the company, and she had to study and train herself in her own time.
+Acogió con agrado el cambio, pero entrar en un nuevo campo le trajo incertidumbre. Se sentía desprevenida, sin apoyo y sola. Su gerente posponía 121 reuniones constantemente, y su colega, con más experiencia en el puesto, no la ayudaba, posiblemente intentando que se ganara su puesto. No recibió orientación real ni recursos por parte de la empresa, y tuvo que estudiar y formarse por su cuenta.
 
-Despite her best efforts, frustration started to build. She was giving so much of herself, but receiving very little in return. That’s when she reached out to me.
+A pesar de sus mejores esfuerzos, la frustración empezó a crecer. Daba tanto de sí misma, pero recibía muy poco a cambio. Fue entonces cuando me contactó.
 
-In our sessions, we began to explore what was really going on beneath the surface. Ari realised she was constantly seeking validation outside of herself - waiting for someone else to see her, value her, and acknowledge all that she was bringing. But the truth was: she wasn’t valuing *herself*.
+En nuestras sesiones, comenzamos a explorar lo que realmente ocurría bajo la superficie. Ari se dio cuenta de que buscaba constantemente la validación fuera de sí misma, esperando que alguien más la viera, la valorara y reconociera todo lo que aportaba. Pero la verdad era que no se valoraba *a sí misma* .
 
-Once that clicked, everything began to change.
+Una vez que eso hizo clic, todo empezó a cambiar.
 
-She started taking aligned action: speaking up, setting boundaries, and standing tall in her own worth. And people around her responded. The energy shifted. But more importantly, *she* shifted.
+Empezó a actuar con coherencia: alzar la voz, establecer límites y defender su propio valor. Y quienes la rodeaban respondieron. La energía cambió. Pero lo más importante, *ella* cambió.
 
-Eventually, Ari made a powerful choice. She realised that this new role, without proper support or a healthy environment, wasn’t where she wanted to stay. She returned to her original position - this time with a raise and a more welcoming team.
+Finalmente, Ari tomó una decisión crucial. Se dio cuenta de que este nuevo puesto, sin el apoyo adecuado ni un entorno saludable, no era el lugar donde quería quedarse. Regresó a su puesto original, esta vez con un aumento y un equipo más acogedor.
 
-What I admire most about Ari is her willingness to do the inner work. Her growth wasn’t about the role within the company - it was about remembering who she inherently is, and what she deserves.
+Lo que más admiro de Ari es su disposición a trabajar internamente. Su crecimiento no se basó en su puesto dentro de la empresa, sino en recordar quién es en esencia y lo que merece.
 
-Ari, I’m so proud of you. Keep walking with that quiet power, and never lose sight of your value.
+Ari, estoy muy orgullosa de ti. Sigue caminando con esa fuerza silenciosa y nunca pierdas de vista tu valor.
 
 — Claudia
 
-
-
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Reserve una llamada de descubrimiento gratuita <span class="sr-only">se abre en una nueva pestaña</span></a>

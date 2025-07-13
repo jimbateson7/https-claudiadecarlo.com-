@@ -1,6 +1,6 @@
 ---
 layout: page.html
-title: Privacy policy
+title: Política de privacidad
 bannerImage: ""
 permalink: /es/privacy-policy/
 showContactForm: true

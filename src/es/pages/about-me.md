@@ -1,46 +1,46 @@
 ---
 layout: page.html
-title: About me
+title: Sobre mí
 bannerImage: /static/uploads/portrait-through-the-window.jpeg
-showContactForm: true
 permalink: /es/about-me/
+showContactForm: true
 ---
-## Hey, I’m Clau 
+## Hola, soy Clau.
 
-Just a regular girl who dared to believe she could transform her life ✨
+Solo una chica normal que se atrevió a creer que podía transformar su vida ✨
 
-Through curiosity, courage, and a deep commitment to growth, I’ve moved through trauma, health challenges, and difficult diagnoses. I believed it was possible - and made it happen.
+Gracias a la curiosidad, la valentía y un profundo compromiso con el crecimiento personal, he superado traumas, problemas de salud y diagnósticos difíciles. Creí que era posible y lo hice realidad.
 
-Now, I help others do the same.
+Ahora ayudo a otros a hacer lo mismo.
 
-My approach gets to the root of what’s holding you back, blending mindset, neuroscience, emotional and nervous system regulation, and spirituality - grounded in self-awareness and practical tools - so you can face life with new eyes. For more freedom. More purpose. More joy.
+Mi enfoque llega a la raíz de lo que te frena, combinando mentalidad, neurociencia, regulación emocional y del sistema nervioso, y espiritualidad, con base en la autoconciencia y herramientas prácticas, para que puedas afrontar la vida con nuevos ojos. Para más libertad. Más propósito. Más alegría.
 
-I’ve been obsessed with personal growth since I was a teenager, and now I guide others to experience the transformation that self-awareness makes possible.
+He estado obsesionado con el crecimiento personal desde que era adolescente, y ahora guío a otros a experimentar la transformación que la autoconciencia hace posible.
 
-With my support, clients experience:
+Con mi apoyo, los clientes experimentan:
 
-🧠 Freedom - from limiting beliefs and unconscious scripts
+🧠 Libertad – de creencias limitantes y guiones inconscientes
 
-💪 Empowerment - through conscious choices and emotional intelligence
+💪 Empoderamiento – a través de elecciones conscientes e inteligencia emocional
 
-🌿 Alignment - with who they truly are, and the life they want to create
+🌿 Alineación: con quiénes realmente son y la vida que quieren crear.
 
-I’m an ordinary girl who knows she’s extraordinary - and I believe you are too.\
-You just need to believe it... and be brave enough to dream big.
+Soy una chica normal que sabe que es extraordinaria, y creo que tú también lo eres.
+Solo necesitas creerlo... y ser lo suficientemente valiente para soñar en grande.
 
-I’m also a…
+Yo también soy un…
 
-* Certified Coach
-* Mental Health First Aider
-* Cambridge CELTA Teacher
-* Mum to a curious young boy
-* Neurodivergent woman
-* Lifelong learner
-* Wanderluster
-* Polyglot
-* Runner
-* Writer
+* Coach certificado
+* Primeros auxilios en salud mental
+* Profesor de CELTA de Cambridge
+* Mamá de un niño curioso
+* Mujer neurodivergente
+* Aprendiz de por vida
+* Pasión por los viajes
+* Polígloto
+* Corredor
+* Escritor
 
-I'd love to meet you. I offer a free Discovery Call to walk through your needs and see whether we’re a good fit.
+Me encantaría conocerte. Ofrezco una llamada de descubrimiento gratuita para analizar tus necesidades y ver si somos compatibles.
 
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Reserve una llamada de descubrimiento gratuita <span class="sr-only">se abre en una nueva pestaña</span></a>

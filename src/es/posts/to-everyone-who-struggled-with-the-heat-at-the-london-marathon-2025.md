@@ -1,8 +1,8 @@
 ---
-title: To everyone who struggled with the heat at the London Marathon 2025
-description: I wrote this post on the TCS London Marathon 2025 Facebook group,
-  and it was so well received, that it motivated me to start this collective so
-  we can share more of this stuff.
+title: Para todos los que lucharon contra el calor en el Maratón de Londres 2025
+description: Escribí esta publicación en el grupo de Facebook TCS London
+  Marathon 2025 y fue tan bien recibida que me motivó a iniciar este colectivo
+  para que podamos compartir más de este material.
 cardImage: ""
 author: Claudia De Carlo
 authorImage: /static/uploads/1747215352004.jpeg
@@ -12,44 +12,44 @@ tags:
   - Wellbeing
 showContactForm: true
 ---
-One week before the marathon I started reading about the weather forecast in groups like this.
+Una semana antes del maratón comencé a leer sobre el pronóstico del tiempo en grupos como este.
 
-Nerves started to kick in because I’d been there before. At the Manchester 10k in 2023, I felt like I was running through fire. I nearly fainted. It was only 10k and it felt brutal. That x4?? Didn’t even want to think about it.
+Empecé a sentirme nervioso porque ya había pasado por eso. En los 10k de Manchester de 2023, sentí que corría entre fuego. Casi me desmayo. Solo eran 10k y fue brutal. ¿Eso x4? Ni siquiera quería pensarlo.
 
-I love this quote “don’t let past hurt inform future fear”
+Me encanta esta cita: “No dejes que el dolor del pasado condicione el miedo al futuro”.
 
-So I stopped reading messages where people were worrying about it.
+Así que dejé de leer mensajes donde la gente se preocupaba por ello.
 
-And said to myself: stop pre-occupying your mind with what’s out of your control.
+Y me dije a mí mismo: deja de preocupar tu mente con lo que está fuera de tu control.
 
-What did I do?
+¿Qué hice?
 
-1. Bought a good running cap at the expo.
-2. Visualised myself as being solar-powered.
-3. Went through every single one of the showers on the course - and saw rainbows.
-4. Stayed on top of hydration + gel plan.
-5. Fuelled up properly in the days before.
+1. Compré una buena gorra para correr en la exposición.
+2. Me visualicé funcionando con energía solar.
+3. Pasé por cada una de las duchas del recorrido y vi arcoíris.
+4. Se mantuvo al tanto del plan de hidratación + gel.
+5. Me llené de combustible adecuadamente en los días anteriores.
 
-I promise, it worked amazingly for me.
+Lo prometo, funcionó increíblemente para mí.
 
-No heat stroke.
+Sin insolación.
 
-No hitting “the wall.”
+No chocar contra “la pared”.
 
-Steady pace, lots of high fives… party vibe and mental calm. Soaked it all in - ok, I got a blister ;)
+Ritmo constante, muchos choques de manos... ambiente festivo y tranquilidad. Lo disfruté al máximo... bueno, ¡me salió una ampolla! ;)
 
-Yes, it was hard. Yes, those last miles hurt AF.
+Sí, fue duro. Sí, esos últimos kilómetros dolieron muchísimo.
 
-But fear didn’t run the show. I did.
+Pero el miedo no lo controlaba todo. Yo sí.
 
-We waste so much energy worrying about things we can’t change.
+Desperdiciamos tanta energía preocupándonos por cosas que no podemos cambiar.
 
-Whether it’s weather, people’s opinions, or uncertainty - do your best, be present and enjoy!
+Ya sea el clima, las opiniones de la gente o la incertidumbre, ¡haz lo mejor que puedas, estate presente y disfruta!
 
-Training our minds as much as our bodies changes everything!
+¡Entrenar nuestra mente tanto como nuestro cuerpo lo cambia todo!
 
-Same applies to being disappointed with oneself (for the time, the performance..), but that’s for another post ;)\
-\
-If this resonated with you, I’d love to hear from you - feel free to like, leave a comment, or share it with someone who might need it. 
+Lo mismo se aplica a estar decepcionado de uno mismo (por el momento, el desempeño...), pero eso es para otra publicación ;)
+
+Si esto resonó contigo, me encantaría saber de ti: no dudes en darle "Me gusta", dejar un comentario o compartirlo con alguien que pueda necesitarlo.
 
 ![Screenshot of a facebook post I created after running the marathon. It has over one thousand likes and 158 comments.](/static/uploads/915ee597-fb43-469f-8b9e-9cb3499754d3_1247x1374.webp)
