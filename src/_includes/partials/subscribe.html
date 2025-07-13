@@ -11,7 +11,7 @@
                 {% endif %}
             </div>
 
-            <form class="mt-4 md:max-w-1/3" action="/success" method="POST" netlify name="subscribe" data-netlify-honeypot="bot-field">
+            <form class="mt-4 md:max-w-1/3" action="/{{ locale }}/success" method="POST" netlify name="subscribe" data-netlify-honeypot="bot-field">
                 <input type="hidden" name="subscribe" value="subscribe" />
 
                 <div hidden>

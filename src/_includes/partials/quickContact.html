@@ -7,7 +7,7 @@
                 {{ settings.contactFormSummary | markdown | safe }}
             </div>
 
-            <form class="mt-4 lg:max-w-3/4" action="/success-contact" method="POST" netlify name="quickContact" data-netlify-honeypot="bot-field">
+            <form class="mt-4 lg:max-w-3/4" action="/{{ locale }}/success-contact" method="POST" netlify name="quickContact" data-netlify-honeypot="bot-field">
                 <input type="hidden" name="quickContact" value="quickContact" />
 
                 <div hidden>
