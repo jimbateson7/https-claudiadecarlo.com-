@@ -87,7 +87,10 @@ eleventyConfig.addGlobalData("eleventyComputed", {
     return data.page.filePathStem + "/";
   },
   locale: (data) => {
+    // Front matter locale takes absolute precedence - don't override if already set
     if (data.locale) return data.locale;
+    
+    // Fallback to path-based detection only if no front matter locale
     if (data.page && data.page.inputPath) {
       if (data.page.inputPath.includes(`${path.sep}es${path.sep}`)) return "es";
       if (data.page.inputPath.includes(`${path.sep}en${path.sep}`)) return "en";
