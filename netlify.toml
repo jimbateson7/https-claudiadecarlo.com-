@@ -2,16 +2,30 @@
   publish = "_site"
   command = "npm run build"
 
-# Redirect all non-language-prefixed URLs to English version
+# Redirect root to English
+[[redirects]]
+  from = "/"
+  to = "/en/"
+  status = 301
+  force = true
+
+# Redirect only non-language-prefixed URLs to English
 [[redirects]]
   from = "/:path"
   to = "/en/:path"
   status = 301
   force = true
+  # Exclude if already starts with en/ or es/ (handled by next rules)
 
-# Handle root redirect specifically
+# Prevent double /en/en/ or /es/es/
 [[redirects]]
-  from = "/"
-  to = "/en/"
+  from = "/en/en/*"
+  to = "/en/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/es/es/*"
+  to = "/es/:splat"
   status = 301
   force = true
