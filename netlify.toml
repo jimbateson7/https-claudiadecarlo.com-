@@ -9,13 +9,23 @@
   status = 301
   force = true
 
+# Do NOT redirect if already has /en/ or /es/
+[[redirects]]
+  from = "/en/*"
+  to = "/en/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/es/*"
+  to = "/es/:splat"
+  status = 200
+
 # Redirect only non-language-prefixed URLs to English
 [[redirects]]
   from = "/:path"
   to = "/en/:path"
   status = 301
   force = true
-  # Exclude if already starts with en/ or es/ (handled by next rules)
 
 # Prevent double /en/en/ or /es/es/
 [[redirects]]
