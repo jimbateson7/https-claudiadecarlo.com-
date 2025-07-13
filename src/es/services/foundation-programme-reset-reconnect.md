@@ -1,28 +1,28 @@
 ---
 layout: page.html
 order: 3
-title: Reset & Reconnect
+title: Restablecer y reconectar
 cardImage: /static/uploads/img_0118-copy.jpeg
 summary: >-
-  A powerful 21-Day jumpstart to reclaim your energy, reconnect with your body,
-  and build momentum toward lasting transformation.
+  Un poderoso comienzo de 21 días para recuperar tu energía, reconectarte con tu
+  cuerpo y generar impulso hacia una transformación duradera.
 
 
-  For those who are not quite ready for the full 12-week journey, but know something needs to shift.
+  Para aquellos que aún no están preparados para el viaje completo de 12 semanas, pero saben que algo debe cambiar.
 
 
-  You know the weight isn’t just physical.
+  Sabes que el peso no es sólo físico.
 
 
-  You’ve tried diets and willpower - it didn’t work.
+  Has probado dietas y fuerza de voluntad, pero no han funcionado.
 
 
-  You feel disconnected, reactive, or out of sync with yourself.
+  Te sientes desconectado, reactivo o desincronizado contigo mismo.
 
 
-  You want clarity and momentum before committing to the full 12-week programme.
+  Necesitas claridad y empuje antes de comprometerte con el programa completo de 12 semanas.
 showLink: true
-linkText: Find out more
+linkText: Descubra más
 showContactForm: false
 ---
 ## What it does

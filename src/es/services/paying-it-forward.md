@@ -1,24 +1,24 @@
 ---
 layout: page.html
 order: 5
-title: Paying it forward
+title: Pagando por adelantado
 cardImage: /static/uploads/img_0054cropped.jpeg
 summary: >-
-  I know what it's like to deeply desire change but being limited by financial
-  constraints. I’ve been blessed with a stubborn determination and found my way
-  to reach the support of others, sometimes available thanks through their
-  generosity. 
+  Sé lo que es desear profundamente un cambio, pero estar limitado por las
+  limitaciones económicas. He tenido la suerte de tener una determinación tenaz
+  y he encontrado la manera de conseguir el apoyo de otros, a veces disponible
+  gracias a su generosidad.
 
 
-  As a way to pay it forward, I'm offering reduced rate coaching or mentoring sessions to help someone else on their journey.
+  Como una forma de retribuir, ofrezco sesiones de coaching o tutoría a tarifa reducida para ayudar a otra persona en su camino.
 
 
-  This programme is for those who face financial challenges yet are deeply committed to personal growth and transformation.
+  Este programa es para aquellos que enfrentan desafíos financieros pero están profundamente comprometidos con el crecimiento y la transformación personal.
 
 
-  To be considered, please send me an email to register your interest and I'll be in touch.
+  Para ser considerado, envíeme un correo electrónico para registrar su interés y me pondré en contacto con usted.
 showLink: true
-linkText: Email me
+linkText: Envíame un correo electrónico
 linkUrl: mailto:hello@claudiadecarlo.com
 showContactForm: true
 ---

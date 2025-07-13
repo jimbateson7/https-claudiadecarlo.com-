@@ -1,34 +1,33 @@
 ---
 layout: page.html
 order: 1
-title: 1:1 coaching and mentoring
+title: Coaching y mentoría 1:1
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
-  Through coaching, emotional processing, and mindset work, I help you live with
-  purpose, freedom, and clarity. 
+  A través del coaching, el procesamiento emocional y el trabajo de mentalidad,
+  te ayudo a vivir con propósito, libertad y claridad.
 
 
-  You'll begin making confident, aligned decisions and step into your full potential, creating more ease, joy, and flow in your life.
+  Comenzarás a tomar decisiones seguras y alineadas y alcanzarás tu máximo potencial, creando más facilidad, alegría y fluidez en tu vida.
 
 
-  **Duration**: 90 minutes
+  **Duración** : 90 minutos
 
 
-  **Format**: Online
+  **Formato** : En línea
 
 
-  **Fee**: £175
+  **Tarifa** : £175
 
 
-  **When**: Once you’ve accepted the challenge to get to know yourself and change your reality from the inside out, get in touch and we’ll find a time slot.
+  **Cuándo** : Una vez que hayas aceptado el reto de conocerte a ti mismo y cambiar tu realidad desde adentro hacia afuera, ponte en contacto con nosotros y encontraremos un horario.
 
 
-  Use the form below to tell me a little about your goal or challenge and some availability, and I’ll get back to you to arrange a free discovery call.
+  Utilice el formulario a continuación para contarme un poco sobre su objetivo o desafío y su disponibilidad, y me comunicaré con usted para organizar una llamada de descubrimiento gratuita.
 bannerImage: ""
 showLink: true
-linkText: Book a Free Discovery Call
+linkText: Reserve una llamada de descubrimiento gratuita
 linkUrl: https://claudiadecarlo.zohobookings.eu/#/240577000000038054
 isLinkExternal: true
 showContactForm: true
 ---
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>

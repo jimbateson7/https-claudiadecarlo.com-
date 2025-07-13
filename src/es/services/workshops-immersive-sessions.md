@@ -1,24 +1,23 @@
 ---
 layout: page.html
 order: 4
-title: Workshops & Immersive Sessions
+title: Talleres y sesiones inmersivas
 cardImage: /static/uploads/huddle-event-group-.jpeg
 summary: >-
-  In-person or online experiences designed to spark insight, shift inner
-  narratives, and awaken authentic action.
+  Experiencias presenciales o en línea diseñadas para generar conocimiento,
+  cambiar narrativas internas y despertar acciones auténticas.
 
 
-  Whether you’re an individual, a group, or a team, these sessions are crafted to foster self-awareness, emotional clarity, and embodied alignment - with space for creativity, vision, and growth.
+  Ya sea que se trate de un individuo, un grupo o un equipo, estas sesiones están diseñadas para fomentar la autoconciencia, la claridad emocional y la alineación encarnada, con espacio para la creatividad, la visión y el crecimiento.
 
 
-  Each session blends coaching, neuroscience, mindset work, and practical tools to meet you where you are, and move you forward with intention.
+  Cada sesión combina coaching, neurociencia, trabajo de mentalidad y herramientas prácticas para encontrarte donde estás y hacerte avanzar con intención.
 
 
-  I'd love to hear what you're looking to achieve.
+  Me encantaría saber qué estás buscando lograr.
 showLink: true
-linkText: Book a Free Discovery Call
+linkText: Reserve una llamada de descubrimiento gratuita
 linkUrl: https://claudiadecarlo.zohobookings.eu/#/240577000000038054
 isLinkExternal: true
 showContactForm: true
 ---
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>

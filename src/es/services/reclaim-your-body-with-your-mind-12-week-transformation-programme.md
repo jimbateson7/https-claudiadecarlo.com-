@@ -1,29 +1,28 @@
 ---
 layout: page.html
 order: 2
-title: Reclaim your Body with your Mind
+title: Recupera tu cuerpo con tu mente
 cardImage: /static/uploads/home-hero.jpg
 summary: >-
-  A full mind-body reset to end the cycle of emotional eating, disconnection,
-  and identity-based weight struggles.
+  Un reinicio completo de mente y cuerpo para poner fin al ciclo de alimentación
+  emocional, desconexión y luchas de peso basadas en la identidad.
 
 
-  A **transformational programme** that helps people reconnect with their bodies, understand the emotional and subconscious roots of their habits, and build a new identity aligned with health and vitality - **so that any weight released stays off**, because it's no longer about punishment, willpower, or shame.\
-
-  \
-
-  **In just 12 weeks, use the power of your mind to finally unlock the path to your dream body.** 
+  Un **programa transformacional** que ayuda a las personas a reconectar con su cuerpo, comprender las raíces emocionales y subconscientes de sus hábitos y construir una nueva identidad alineada con la salud y la vitalidad, **para que el peso perdido no se recupere** , porque ya no se trata de castigo, fuerza de voluntad ni vergüenza.
 
 
-  It's no longer about punishment, willpower, or shame. 
+  **En tan solo 12 semanas, usa el poder de tu mente para finalmente descubrir el camino hacia el cuerpo de tus sueños.**
 
 
-  But first things first:
+  Ya no se trata de castigo, de fuerza de voluntad o de vergüenza.
 
 
-  It’s not your body that’s stuck. \
+  Pero primero lo primero:
 
-  **It’s the story you’re still living from.**
+
+  No es tu cuerpo lo que está atascado.
+
+  **Es la historia que aún vives.**
 showLink: true
 showContactForm: false
 ---
