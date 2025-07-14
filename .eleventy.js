@@ -150,6 +150,13 @@ eleventyConfig.addGlobalData("eleventyComputed", {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISODate();
   });
 
+  eleventyConfig.addFilter("localizedDate", (dateObj, locale = "en") => {
+    if (!dateObj) return "";
+    return DateTime.fromJSDate(dateObj, { zone: "utc" })
+      .setLocale(locale)
+      .toLocaleString(DateTime.DATE_FULL);
+  });
+
   eleventyConfig.addPairedShortcode("video", function (content, src) {
     return `
       <video class="aspect-video mx-auto w-full image-shadow rounded-lg" controls>

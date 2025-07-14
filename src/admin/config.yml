@@ -53,7 +53,7 @@ collections:
                   widget: 'string'
 
                 - label: 'Subtitle'
-                  name: 'subtitle'
+                  name: 'subTitle'
                   widget: 'string'
 
                 - label: 'Hero Image'
@@ -253,7 +253,7 @@ collections:
                   widget: 'string'
 
                 - label: 'Subtitle'
-                  name: 'subtitle'
+                  name: 'subTitle'
                   widget: 'string'
 
                 - label: 'Hero Image'

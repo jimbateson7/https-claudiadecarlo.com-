@@ -11,10 +11,16 @@
         <div class="mb-3 flex items-center gap-4">
           <div class="leading-6">
             <time>
-              {{ post.date | readableDate }}
+              {{ post.date | localizedDate(locale) }}
             </time>
           
-            <p class="mb-0">by <span class="font-medium text-brand-purple">{{ post.data.author }}</span></p>
+            <p class="mb-0">
+              {% if locale == 'es' %}
+                por
+              {% else %}
+                by
+              {% endif %}
+              <span class="font-medium text-brand-purple">{{ post.data.author }}</span></p>
         </div>
 
           <img src="{{ post.data.authorImage }}" alt="" class="inline-block w-12 h-12 rounded-full" loading="lazy">
@@ -27,7 +33,11 @@
         {% endif %}
   
         <a href="{{ post.url | url }}" class="btn btn-primary outline-brand-purple inline-flex mt-auto max-w-max">
-          Read article <span class="sr-only"> {{ post.data.title }}</span>
+          {% if locale == 'es' %}
+            Leer artículo <span class="sr-only"> {{ post.data.title }}</span>
+          {% else %}
+            Read article <span class="sr-only"> {{ post.data.title }}</span>
+          {% endif %}
         </a>
     </div>
   </article>
