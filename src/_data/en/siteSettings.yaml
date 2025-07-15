@@ -28,6 +28,12 @@ contactFormHeading: Have a question or feel called to connect?
 contactFormSummary: Whether you're curious about working together, want to
   explore an idea, or simply need clarity on something you’ve seen here, I’d
   love to hear from you. Fill in the form below and I’ll be in touch soon.
+contactFormFirstNameLabel: First name
+contactFormLastNameLabel: Surname
+contactFormEmailLabel: Email address
+contactFormTelephoneLabel: Telephone number
+contactFormMessageLabel: How do you feel I may be able to help?
+contactFormMessageHelper: You don't need to go into full detail here, just a brief description is fine.
 contactFormButton: Submit
 languageSwitcherLabel: Select language
 footerText: All rights reserved

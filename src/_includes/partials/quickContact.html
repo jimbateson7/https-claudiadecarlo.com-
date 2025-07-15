@@ -16,38 +16,38 @@
 
                 <div class="flex flex-col md:flex-row gap-6 mb-6">
                     <div class="flex-1">
-                        <label for="firstName" class="font-bold text-lg mb-2.5 block">First name</label>
+                        <label for="firstName" class="font-bold text-lg mb-2.5 block">{{ settings.contactFormFirstNameLabel }}</label>
                         <input type="text" id="firstName" name="firstName" class="w-full flex-1 p-2.5 rounded-lg bg-white border-3 border-brand-purple" required>
                     </div>
 
                     <div class="flex-1">
-                        <label for="surname" class="font-bold text-lg mb-2.5 block">Surname</label>
+                        <label for="surname" class="font-bold text-lg mb-2.5 block">{{ settings.contactFormLastNameLabel }}</label>
                         <input type="text" id="surname" name="surname" class="w-full flex-1 p-2.5 rounded-lg bg-white border-3 border-brand-purple" required>
                     </div>
                 </div>
 
                 <div class="flex flex-col md:flex-row gap-6 mb-6">
                     <div class="flex-1">
-                        <label for="email" class="font-bold text-lg mb-2.5 block">Email address</label>
+                        <label for="email" class="font-bold text-lg mb-2.5 block">{{ settings.contactFormEmailLabel }}</label>
                         <input type="email" id="email" name="email" class="w-full flex-1 p-2.5 rounded-lg bg-white border-3 border-brand-purple" autocomplete="email" required>
                     </div>
 
                     <div class="flex-1">
-                        <label for="phoneNumber" class="font-bold text-lg mb-2.5 block">Phone number</label>
+                        <label for="phoneNumber" class="font-bold text-lg mb-2.5 block">{{ settings.contactFormTelephoneLabel }}</label>
                         <input type="tel" inputmode="tel" pattern="^\+?[0-9\s\-().]{7,}$" id="phoneNumber" name="phoneNumber" class="w-full flex-1 p-2.5 rounded-lg bg-white border-3 border-brand-purple" autocomplete="tel" required>
                     </div>
                 </div>
 
                 <div class="my-6 w-full">
-                    <label for="message" class="font-bold text-lg mb-2.5 block">How do you feel I may be able to help?</label>
-                    <p class="my-2">You don't need to go into full detail here, just a brief description is fine.</p>
+                    <label for="message" class="font-bold text-lg mb-2.5 block">{{ settings.contactFormMessageLabel }}</label>
+                    <p class="my-2">{{ settings.contactFormMessageHelper }}</p>
                     <textarea rows="4" id="message" name="message" class="w-full flex-1 p-2.5 rounded-lg bg-white border-3 border-brand-purple" required></textarea>
                 </div>
 
                 <div class="flex-col md:flex-row gap-4 mt-4 items-start">
                     <div class="flex gap-2 relative">
                         <input type="checkbox" name="privacy" class="w-9 h-9 border-3 border-brand-purple rounded-lg" id="privacy" required>
-                        
+
                         {% if locale == 'es' %}
                             <label class="pl-1 py-1 font-medium" for="privacy">Al enviar este formulario, aceptas nuestra <a href="/privacy-policy">política de privacidad</a></label>
                         {% else %}

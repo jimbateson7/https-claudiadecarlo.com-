@@ -999,6 +999,24 @@ collections:
                 - label: 'Contact Form Summary'
                   name: contactFormSummary
                   widget: markdown
+                - label: 'Contact Form First Name Label'
+                  name: contactFormFirstNameLabel
+                  widget: string
+                - label: 'Contact Form Last Name Label'
+                  name: contactFormLastNameLabel
+                  widget: string
+                - label: 'Contact Form Email Label'
+                  name: contactFormEmailLabel
+                  widget: string
+                - label: 'Contact Form Telephone Label'
+                  name: contactFormTelephoneLabel
+                  widget: string
+                - label: 'Contact Form Message Label'
+                  name: contactFormMessageLabel
+                  widget: string
+                - label: 'Contact Form Message Helper'
+                  name: contactFormMessageHelper
+                  widget: string
                 - label: 'Contact Form Button'
                   name: contactFormButton
                   widget: string
@@ -1089,6 +1107,24 @@ collections:
                 - label: 'Contact Form Summary'
                   name: contactFormSummary
                   widget: markdown
+                - label: 'Contact Form First Name Label'
+                  name: contactFormFirstNameLabel
+                  widget: string
+                - label: 'Contact Form Last Name Label'
+                  name: contactFormLastNameLabel
+                  widget: string
+                - label: 'Contact Form Email Label'
+                  name: contactFormEmailLabel
+                  widget: string
+                - label: 'Contact Form Telephone Label'
+                  name: contactFormTelephoneLabel
+                  widget: string
+                - label: 'Contact Form Message Label'
+                  name: contactFormMessageLabel
+                  widget: string
+                - label: 'Contact Form Message Helper'
+                  name: contactFormMessageHelper
+                  widget: string
                 - label: 'Contact Form Button'
                   name: contactFormButton
                   widget: string

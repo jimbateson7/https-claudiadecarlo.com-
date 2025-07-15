@@ -27,6 +27,12 @@ contactFormSummary: Si tienes curiosidad por colaborar, quieres explorar una
   idea o simplemente necesitas aclarar algo que has visto aquí, me encantaría
   saber de ti. Completa el formulario a continuación y me pondré en contacto
   contigo pronto.
+contactFormFirstNameLabel: Nombre
+contactFormLastNameLabel: Apellido
+contactFormEmailLabel: Correo electrónico
+contactFormTelephoneLabel: Número de teléfono
+contactFormMessageLabel: ¿Cómo crees que podría ayudarte?
+contactFormMessageHelper: No necesitas entrar en muchos detalles aquí, una breve descripción está bien.
 contactFormButton: Entregar
 languageSwitcherLabel: Seleccionar idioma
 footerText: Todos los derechos reservados
