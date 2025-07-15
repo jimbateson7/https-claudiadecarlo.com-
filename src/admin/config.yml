@@ -1,10 +1,11 @@
 backend:
     name: git-gateway
     repo: jimbateson7/https-claudiadecarlo.com-
-    branch: feat/translations
+    branch: main
     identity_url: https://auth.decapbridge.com/sites/dbf9a222-86ae-41b0-b126-7fa01c460399
     gateway_url: https://gateway.decapbridge.com
 
+publish_mode: editorial_workflow
 media_folder: 'src/static/uploads'
 public_folder: '/static/uploads'
 logo_url: https://decapbridge.com/decapcms-with-bridge.svg
