@@ -5,6 +5,20 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 gsap.registerPlugin(DrawSVGPlugin, ScrollTrigger);
 
+// Language selector
+
+document.addEventListener('DOMContentLoaded', function() {
+  const select = document.getElementById('language-switcher');
+  if (select) {
+      select.addEventListener('change', function() {
+          window.location.href = this.value;
+      });
+  } else {
+      console.log('Language switcher not found on this page');
+  }
+});
+
+
 // Instantiate Splide for all elements with the class 'splide'
 
 document.addEventListener( 'DOMContentLoaded', function() {

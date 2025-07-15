@@ -1,0 +1,102 @@
+---
+heroImage: /static/uploads/collage.jpg
+layout: default
+metaTitle: Mi enfoque
+metaDesc: Reconéctate contigo mismo para crear un cambio duradero
+title: Mi enfoque
+subTitle: Reconéctate contigo mismo para crear un cambio duradero
+bannerImage: /static/uploads/collage.jpg
+summary: >-
+  Todo comienza con la relación que tienes contigo mismo.
+
+
+  Mi método integra perspectivas de la psicología, la neurociencia, las ciencias del comportamiento, la atención plena y herramientas terapéuticas para guiarte en un viaje transformador. Juntos, exploramos, redefinimos y disolvemos creencias y patrones limitantes, avanzando hacia una vida más plena.
+
+
+  En el centro de mi trabajo hay 4 pilares principales, respaldados por 5 conceptos adicionales que garantizan un crecimiento holístico.
+pillarsHeading: Los 4 pilares fundamentales
+pillars:
+  - text: Sentir
+    description: Las emociones son la puerta de entrada a la comprensión. Al
+      permitirte experimentarlas plenamente, descubrimos las limitaciones
+      ocultas que te frenan. Tus sentimientos ofrecen pistas importantes sobre
+      áreas que necesitan crecimiento y sanación.
+    icon: feel
+  - text: Sanar
+    description: Una vez que identifiquemos la causa raíz de esas emociones, te
+      guiaré para que nutras tu ser interior, ayudándote a liberar viejas
+      narrativas y creencias limitantes. Este proceso reduce el control
+      emocional que antes ejercían, permitiéndote crecer y avanzar con mayor
+      libertad y claridad.
+    icon: heal
+  - text: Balance
+    description: Un cambio efectivo se logra combinando movimiento y quietud.
+      Incorporar ejercicio físico, incluso algo tan sencillo como caminar, junto
+      con mindfulness y meditación (incluso para quienes creen que no tienen
+      tiempo), ayuda a conectar cuerpo y mente. Trabajaremos para crear armonía
+      entre la acción y la reflexión, permitiendo un progreso constante y
+      sostenible que se sienta natural con el tiempo.
+    icon: balance
+  - text: Transformar
+    description: 'Al integrar estas prácticas, te conectarás más con tus propios
+      valores y con un "porqué" más profundo. Esto te llevará a tomar decisiones
+      más saludables en tu carrera, tus relaciones y tu bienestar general: una
+      transformación hacia la versión más auténtica y empoderada de ti mismo.'
+    icon: transform
+conceptsHeading: Los 5 conceptos de apoyo
+concepts:
+  - text: Aprender
+    description: Cada desafío es una oportunidad para profundizar tu autocomprensión
+      y ampliar tus conocimientos. Un paso hacia la libertad
+  - text: Armonía
+    description: Nuestro objetivo es crear equilibrio en todos los aspectos de la
+      vida, conduciendo a la paz interior y a una sensación de bienestar.
+  - text: Elevar
+    description: A medida que sanas y creces, te conviertes en una versión más
+      resiliente y empoderada de ti mismo.
+  - text: Conectar
+    description: Establecer conexiones más profundas con uno mismo y con los demás
+      fomenta una vida más rica y significativa.
+  - text: Crecer
+    description: En cada etapa, nos centramos en fomentar el crecimiento continuo,
+      tanto personal como profesional.
+showContactForm: true
+locale: es
+---
+
+<div class="container mx-auto">
+  {% include "partials/hero.html" %}
+
+  <div>{{ summary | markdown | safe }}</div>
+
+  <section class="py-6">
+    <h2>{{ pillarsHeading }}</h2>
+
+    <ul class="grid gap-4 md:grid-cols-2 md:gap-6 js-pillars">
+      {% for pillar in pillars %}
+        <li class="rounded-xl card-shadow p-6 lg:pr-44 overflow-hidden relative pillar-card">
+          <div class="relative z-10">
+            <h3>{{ pillar.text }}</h3>
+
+            {{ pillar.description | markdown | safe }}
+          </div>
+
+          <img src="/static/uploads/{{ pillar.icon }}.svg" width="250" class="absolute bottom-0 right-0 translate-x-1/3 object-cover hidden lg:block lg:opacity-0 {% if loop.index == 4 %}w-[320px]{% endif %} js-pillar-decoration" alt="" eleventy:ignore>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="pt-6">
+    <h2>{{ conceptsHeading }}</h2>
+
+    <ol class="flex flex-col flex-wrap gap-8 lg:flex-row lg:gap-4  concept-list">
+      {% for concept in concepts %}
+        <li class="mb-4 flex-1 flex-shrink-0">
+          <h3>{{ concept.text }}</h3>
+          <p class="mb-0">{{ concept.description }}</p>
+        </li>
+      {% endfor %}
+    </ol>
+  </section>
+</div>

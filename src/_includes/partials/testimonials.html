@@ -1,4 +1,4 @@
-{% set orderedTestimonials = collections.testimonials | sort(attribute='data.order') %}
+{% set orderedTestimonials = collections['testimonials_' + locale] | sort(attribute='data.order') %}
 
 <section class="py-8 md:py-16 bg-[url('/static/uploads/pattern.webp')] bg-brand-purple-light">
     <div class="container mx-auto">

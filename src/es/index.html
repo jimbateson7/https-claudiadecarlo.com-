@@ -1,0 +1,64 @@
+---
+layout: default
+metaTitle: ""
+metaDesc: Transformation & Growth through Self-Awareness
+avatarImage: /static/uploads/portrait-main-headshot-background-removed.png
+title: El cambio empieza contigo
+subtitle: Reconfigura tu mente, recupera tu poder y reescribe tu historia para
+  crear una vida basada en la alegría, la presencia y posibilidades ilimitadas a
+  través de Coaching y Mentoría 1:1.
+heroImage: /static/uploads/home-hero.jpg
+collageHeading: ""
+testimonialsTitle: Lo que dice la gente
+path: home
+collageSummary: ""
+collageImage: ""
+howIHelpTitle: Servicios
+aboutTitle: Acerca de mí
+aboutSummary: >-
+  Comencé este negocio guiado por el alma para convertir décadas de crecimiento
+  personal en una transformación poderosa para otros.
+
+
+  Tras años inmersa en mi desarrollo personal, no fue hasta mediados de los 40 que todo encajó. Los avances llegaron... ¡y lo cambiaron todo! Ojalá lo hubiera sabido antes.
+
+
+  Ahora mi misión es ayudar a otros a construir la relación más importante de todas: la que tienen consigo mismos.
+
+
+  Porque cuando eso cambia, todo cambia.
+aboutImage: /static/uploads/about-image.jpg
+aboutLinkText: Leer más sobre Claudia
+aboutLinkUrl: /es/about-me
+contactTitle: " Ponte en contacto con nosotros"
+contactSummary: ¿Te comprometes a generar un impacto positivo para personas,
+  organizaciones y comunidades? Hablemos para impulsar un cambio significativo.
+contactImage: /static/uploads/contact-image.jpg
+contactLinkText: Envíame un correo electrónico
+permalink: /es/
+testimonialsToShow: 3
+contactLinkUrl: mailto:hello@claudiadecarlo.com
+servicesToShow: 3
+locale: es
+---
+
+<div>  
+	{% include "partials/hero--home.html" %}
+
+  {% if collageHeading %}
+    <section class="pt-8 md:pt-12 lg:pt-16">
+      <div class="container mx-auto">
+          <h2 class="font-medium">{{collageHeading}}</h2>
+
+          <p class="mt-4">{{ collageSummary | markdown | safe }}</p>
+
+          <img src="{{collageImage}}" alt="" class="mt-8 w-full h-auto object-cover rounded-lg shadow-lg">
+      </div>
+    </section>
+  {% endif %}
+	
+	{% include "partials/services.html" %}
+	{% include "partials/testimonials.html" %}
+	{% include "partials/about.html" %}
+	{% include "partials/contact.html" %}
+</div>

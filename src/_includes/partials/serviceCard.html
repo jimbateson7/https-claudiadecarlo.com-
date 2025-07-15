@@ -10,7 +10,11 @@
           {% if service.data.linkText %}
             {{ service.data.linkText }}
           {% else %}
-            Find out more <span class="sr-only">about {{ service.data.title }}</span>
+            {% if locale == 'es' %}
+              Más información <span class="sr-only">sobre {{ service.data.title }}</span>
+            {% else %}
+              Find out more <span class="sr-only">about {{ service.data.title }}</span>
+            {% endif %}
           {% endif %}
         </a>
       {% endif %}
