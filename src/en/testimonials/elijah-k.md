@@ -1,6 +1,6 @@
 ---
 layout: page.html
-order: 5
+order: 8
 testimonialAuthor: Elijah K.
 testimonialAuthorLocation: North Yorkshire, UK
 testimonialAuthorImage: /static/uploads/elijah.jpg

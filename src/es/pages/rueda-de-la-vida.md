@@ -1,6 +1,7 @@
 ---
 layout: page.html
 title: Rueda de la Vida
+permalink: /ruedavida/
 socialImage: ""
 showContactForm: true
 ---
