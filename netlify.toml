@@ -2,6 +2,17 @@
   publish = "_site"
   command = "npm run build"
 
+# Allow direct access to /admin and /admin/* (no language redirect)
+[[redirects]]
+  from = "/admin"
+  to = "/admin"
+  status = 200
+
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/:splat"
+  status = 200
+
 # Redirect root to English
 [[redirects]]
   from = "/"
