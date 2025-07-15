@@ -47,7 +47,12 @@
                 <div class="flex-col md:flex-row gap-4 mt-4 items-start">
                     <div class="flex gap-2 relative">
                         <input type="checkbox" name="privacy" class="w-9 h-9 border-3 border-brand-purple rounded-lg" id="privacy" required>
-                        <label class="pl-1 py-1 font-medium" for="privacy">By submitting this form, you agree to our <a href="/privacy-policy">privacy policy</a></label>
+                        
+                        {% if locale == 'es' %}
+                            <label class="pl-1 py-1 font-medium" for="privacy">Al enviar este formulario, aceptas nuestra <a href="/privacy-policy">política de privacidad</a></label>
+                        {% else %}
+                            <label class="pl-1 py-1 font-medium" for="privacy">By submitting this form, you agree to our <a href="/privacy-policy">privacy policy</a></label>
+                        {% endif %}
                     </div>
 
                     <button type="submit" class="mt-6 btn min-h-[50px] w-full md:max-w-max focus-visible:outline-brand-purple">{{ settings.contactFormButton }}</button>
