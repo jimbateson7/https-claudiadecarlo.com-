@@ -26,195 +26,195 @@ summary: >-
 showLink: true
 showContactForm: false
 ---
-## Ditch the weight rollercoaster and yo-yo dieting for good
+## Abandone la montaña rusa del peso y las dietas yo-yo para siempre
 
-A transformational programme to help you reconnect with your body, understand the emotional and subconscious roots of your habits, and build a new identity aligned with health and vitality, so that any weight released stays off.
+Un programa transformacional para ayudarte a reconectarte con tu cuerpo, entender las raíces emocionales y subconscientes de tus hábitos y construir una nueva identidad alineada con la salud y la vitalidad, para que cualquier peso liberado permanezca.
 
-**Through this programme, I’ll guide you to:** \
-\
-→ Transform your mindset\
-→ Rewire your habits\
-→ Watch the weight begin to fall off naturally 
+**A través de este programa, te guiaré a:**
 
-I hear you. 
+→ Transformar tu mentalidad
+→ Reconfigurar tus hábitos
+→ Ver cómo el peso comienza a caer naturalmente
 
-You’ve tried everything.
+Te escucho.
 
-But something’s keeping your body in lockdown mode. And it’s not what you're eating.
+Ya lo has probado todo.
 
-**It’s what you’ve been believing.**
+Pero algo mantiene tu cuerpo en modo de confinamiento. Y no es lo que comes.
 
-This programme is the missing piece. 
+**Es lo que has estado creyendo.**
 
-**What if you could...?** 
+Este programa es la pieza que falta.
 
-→ Break out of identity loops that are keeping your results stuck. \
-→ Address the emotional weight that no diet plan touches.\
-→ Rebuild trust with your body and rewire your inner operating system. 
+**¿Qué pasaría si pudieras...?**
 
-**No shame. No restriction. No perfectionism.** 
+→ Rompe con los círculos de identidad que impiden que tus resultados se estanquen.
+→ Aborda el peso emocional que ningún plan de dieta alivia.
+→ Reconstruye la confianza en tu cuerpo y reconfigura tu sistema operativo interno.
 
-## High-Value Outcomes 
+**Sin vergüenza. Sin restricciones. Sin perfeccionismo.**
 
-✔️ Release the weight that doesn’t belong to you anymore - physically, emotionally, and energetically. 
+## Resultados de alto valor
 
-✔️ Align your physical body with the successful, powerful person you already are. 
+✔️ Libera el peso que ya no te pertenece: física, emocional y energéticamente.
 
-✔️ Build unshakeable habits from the inside out - no more binge eating, no more self-sabotage. 
+✔️ Alinea tu cuerpo físico con la persona exitosa y poderosa que ya eres.
 
-✔️ Feel at peace in your own skin - so good, you no longer obsess over “fixing” yourself. 
+✔️ Construya hábitos inquebrantables desde adentro hacia afuera: no más atracones, no más autosabotaje.
 
-✔️ No diets, no sacrifices - simply good, aligned choices. 
+✔️ Siéntete en paz contigo mismo: eso es tan bueno que ya no te obsesionarás por "arreglarte".
 
-✔️ Shift from being reactive to proactive. No more emotional eating, no more compensation to ease the emotional pain. 
+✔️ Sin dietas, sin sacrificios: simplemente elecciones buenas y alineadas.
 
-✔️ Move from victim to co-creator. As you shed old patterns, you step into your gifts - and naturally release people and circumstances that no longer serve you. 
+✔️ Pasa de ser reactivo a ser proactivo. No más comer emocionalmente ni más compensación para aliviar el dolor emocional.
 
-✔️ Master your attention and interpretation of events, and therefore, your emotional response to them. 
+✔️ Pasa de ser víctima a ser cocreador. Al desprenderte de viejos patrones, te abres a tus dones y, naturalmente, liberas a las personas y circunstancias que ya no te sirven.
 
-✔️ Stop feeding intrusive thoughts and start cultivating mental peace. 
+✔️ Domina tu atención e interpretación de los acontecimientos, y por tanto, tu respuesta emocional ante ellos.
 
-✔️ Learn to become the observer behind your thoughts - the consciousness behind them. 
+✔️ Deja de alimentar pensamientos intrusivos y comienza a cultivar la paz mental.
 
-✔️ Build unstoppable self-confidence. 
+✔️ Aprende a convertirte en el observador detrás de tus pensamientos: la conciencia detrás de ellos.
 
-✔️ Reduce stress and anxiety by becoming more centred and less dependent on external circumstances. 
+✔️ Desarrolla una confianza en ti mismo imparable.
 
-## You will 
+✔️ Reduce el estrés y la ansiedad volviéndose más centrado y menos dependiente de las circunstancias externas.
 
-→ Shift from reacting to people and circumstances, to co-creating the life you want. \
-→ Let go of using food, drinking or restriction to manage emotions. \
-→ Tap into your essence and start expressing your true self - physically, emotionally, and energetically. \
-→ Stop chasing weight loss and start embodying well-being. \
-→ Wake up feeling connected, proud, and light - in every sense. 
+## Vas a
 
-**... and your body will follow!** 
+→ Deja de reaccionar ante las personas y las circunstancias para cocrear la vida que deseas. 
+→ Deja de usar la comida, la bebida o las restricciones para gestionar tus emociones. 
+→ Conecta con tu esencia y empieza a expresar tu verdadero yo: física, emocional y energéticamente. 
+→ Deja de perseguir la pérdida de peso y empieza a vivir el bienestar.
+→ Despierta sintiéndote conectado, orgulloso y ligero, en todos los sentidos.
 
-## This is for you if 
+**...y tu cuerpo te seguirá!**
 
-👉 You’re performing at a high level, but feel disconnected from your body. \
-👉 You’ve tried everything... except going to the root.\
-👉 You want energy, strength, and clarity, not just smaller clothes. \
-👉 You’re ready to stop managing symptoms and finally feel free in your body. 
+## Esto es para ti si
 
-As a result, you’ll experience 
+👉Estás rindiendo a un alto nivel, pero te sientes desconectado de tu cuerpo. 
+👉Lo has intentado todo... menos ir a la raíz.
+👉Quieres energía, fuerza y claridad, no solo ropa más pequeña.
+👉Estás listo para dejar de controlar los síntomas y finalmente sentirte libre en tu cuerpo.
 
-✔️ A body you feel at home in: strong, energised, and finally aligned with who you are. 
+Como resultado, experimentarás
 
-✔️ Eating and movement that feel natural, joyful, and completely sustainable - no more forcing habits and tedious rules. 
+✔️ Un cuerpo en el que te sientes como en casa: fuerte, lleno de energía y finalmente alineado con quién eres.
 
-✔️ Emotional freedom from the patterns that have kept you stuck - so the weight actually stays off. 
+✔️ Alimentación y movimiento que se sienten naturales, alegres y completamente sostenibles: no más hábitos forzados y reglas tediosas.
 
-✔️ A calm, regulated nervous system that supports lasting change (bye self-sabotage). 
+✔️ Libertad emocional de los patrones que te han mantenido estancado, por lo que el peso realmente se mantiene bajo.
 
-✔️ The confidence to show up fully: in photos, relationships, and every room you walk into. 
+✔️ Un sistema nervioso tranquilo y regulado que favorece un cambio duradero (adiós autosabotaje).
 
-✔️ An end to the “start again on Monday” cycle. For good. 
+✔️ La confianza de presentarse plenamente: en fotografías, en relaciones y en cada habitación en la que entras.
 
-## My unique angle 
+✔️ Fin del ciclo de "empezar de nuevo el lunes". Para siempre.
 
-→ Movement is the entry point, not the goal.\
-→ Focus on embodiment, clarity, and healing - not just discipline. \
-→ Uses neuroscience, visualisation techniques, and somatic tools to make it sustainable and holistic.\
-→ Weight loss becomes a byproduct of alignment, not the obsession. \
-→ No diets, no sacrifices. \
-→ This isn’t just fitness. 
+## Mi ángulo único
 
-**This is a Full-Person Transformation** 
+→ El movimiento es el punto de partida, no la meta.
+→ Enfoque en la encarnación, la claridad y la sanación, no solo en la disciplina.
+→ Utiliza la neurociencia, técnicas de visualización y herramientas somáticas para hacerlo sostenible y holístico.
+→ La pérdida de peso se convierte en una consecuencia de la alineación, no en una obsesión.
+→ Sin dietas ni sacrificios.
+→ Esto no es solo fitness.
 
-Because your next-level body? It’s waiting for your next-level mindset to catch up. 
+**Esta es una transformación de persona completa**
 
-## Why this works 
+¿Porque tu cuerpo de otro nivel? Está esperando a que tu mentalidad de otro nivel lo alcance.
 
-Most programmes focus on doing or refraining. *This is about becoming.* 
+## ¿Por qué funciona esto?
 
-**It addresses what most skip** 
+La mayoría de los programas se centran en hacer o abstenerse. *Se trata de convertirse.*
 
-→ The inner child who needed soothing.\
-→ The ego coping mechanism that led to control or avoidance. \
-→ The identity that’s been trying to stay safe, not thrive. 
+**Aborda lo que la mayoría pasa por alto**
 
-**Until you meet and integrate these parts, your body will keep protecting you - even through weight.** 
+→ El niño interior que necesitaba consuelo.
+→ El mecanismo de afrontamiento del ego que lo llevó al control o la evasión.
+→ La identidad que ha estado tratando de mantenerse a salvo, no de prosperar.
 
-## You 
+**Hasta que conozcas e integres estas partes, tu cuerpo seguirá protegiéndote, incluso a través del peso.**
 
-👉 Are tired of starting over\
-👉 Are doing “all the right things” but not seeing results\
-👉 Feel the weight is not just physical - you know it feels like you’re dragging yourself around\
-👉 Want peace, not perfection\
-👉 Know it’s time to go deeper - not work harder. 
+## Tú
 
-This is for those ready to stop struggling and **start transforming from the inside out.** 
+👉 Estás cansado de empezar de nuevo
+👉 Estás haciendo "todo lo correcto" pero no ves resultados
+👉 Sientes que el peso no es solo físico: sabes que se siente como si te estuvieras arrastrando
+👉 Quieres paz, no perfección
+👉 Sabes que es hora de ir más profundo, no de trabajar más duro.
 
-**If you...** 
+Esto es para aquellos que están listos para dejar de luchar y **comenzar a transformarse de adentro hacia afuera.**
 
-→ Are tired of starting over\
-→ Have done diets but feel disconnected from your body\
-→ Are exercising but not getting the results you want\
-→ Want to feel at home in yourself, no more feeling like you’re escaping \
-→ Are open to exploring emotions, mindset, and movement together 
+**Si usted...**
 
-## Reclaim your body with your mind
+→ Estás cansado de empezar de nuevo
+→ Has hecho dietas pero te sientes desconectado de tu cuerpo
+→ Estás haciendo ejercicio pero no obtienes los resultados que quieres
+→ Quieres sentirte en casa contigo mismo, no sentir que te estás escapando
+→ Estás abierto a explorar emociones, mentalidad y movimiento juntos
 
-The programme in a nutshell 
+## Recupera tu cuerpo con tu mente
 
-**Phase 1: Self-knowledge**
+El programa en pocas palabras
 
-Identify wounds, shadows, and limiting beliefs of your ego. Learn to be a curious observer without identifying. 
+**Fase 1: Autoconocimiento**
 
-**Phase 2: Guided process**
+Identifica las heridas, las sombras y las creencias limitantes de tu ego. Aprende a ser un observador curioso sin identificarte.
 
-I guide you in powerful mindset shifts and body-based practices to alchemise pain into strength. 
+**Fase 2: Proceso guiado**
 
-**Phase 3: Integration**
+Te guío en poderosos cambios de mentalidad y prácticas corporales para transformar el dolor en fuerza.
 
-Implement daily practices that sustain your peace, power, and progress. This is where it sticks. 
+**Fase 3: Integración**
 
-## Final Promise 
+Implementa prácticas diarias que mantengan tu paz, tu poder y tu progreso. Aquí es donde se consolida.
 
-This programme **is not for you if you’re looking for quick fixes.** 
+## Promesa final
 
-This journey requires **radical responsibility** and the courage to face and sit with difficult emotions (don’t worry, you’ll learn how to do it with support and skill) 
+Este programa **no es para ti si buscas soluciones rápidas.**
 
-This is a **deeply transformational programme**. It's about uncovering who you truly are, releasing what’s been holding you back, and tapping into your full power so you can experience more vitality, groundedness, freedom, and joy. 
+Este viaje requiere **responsabilidad radical** y el coraje de enfrentar y sentarse con emociones difíciles (no te preocupes, aprenderás a hacerlo con apoyo y habilidad).
 
-It blends a **science-backed framework** for habit formation, leverages the neuroplasticity of the brain, and teaches you the foundations of emotional mastery. 
+Este es un **programa profundamente transformador** . Se trata de descubrir quién eres realmente, liberar lo que te ha estado frenando y acceder a todo tu potencial para que puedas experimentar más vitalidad, conexión con la naturaleza, libertad y alegría.
 
-The promise is not that you will lose weight. 
+Combina un **marco respaldado por la ciencia** para la formación de hábitos, aprovecha la neuroplasticidad del cerebro y le enseña los fundamentos del dominio emocional.
 
-**You’ll lose what’s been weighing you down** \
-\
-**...The body will follow!** 
+La promesa no es que perderás peso.
 
-**No more wobbling, you will actually crave healthy habits.** 
+**Perderás lo que te ha estado pesando**
 
-### Reclaim your body with your mind 
+**... ¡El cuerpo seguirá!**
 
-## Includes 
+**No más tambaleos, realmente anhelarás hábitos saludables.**
 
-✔️ Bespoke coaching programme\
-✔️ 12x private 1:1 sessions\
-✔️ 12 weeks of support via Telegram voice/text\
-✔️ Option to continue on a monthly retainer fee, guiding you until you feel comfortable that the habit is established. 
+### Recupera tu cuerpo con tu mente
 
-## Investment
+## Incluye
 
-**🚀 Beta price: £977** \
-\
-(*Full launch price: £1,969*)
+✔️ Programa de coaching personalizado
+✔️ 12 sesiones privadas 1:1
+✔️ 12 semanas de soporte vía voz/texto de Telegram
+✔️ Opción de continuar con una tarifa de retención mensual, guiándote hasta que te sientas cómodo de que el hábito está establecido.
 
-### Is this for me? 
+## Inversión
 
-If you’ve resonated with what you’ve read so far, there’s a good chance this is exactly what you’ve been looking for. 
+**Precio de la versión beta: £977** 
 
-This is a non-gender specific programme, because what we all need is human connection, to feel seen and heard. 
+( *precio de lanzamiento completo: £1969* )
 
-I stand behind my experience and ability to hold safe, transformative space for you, no matter your gender. 
+### ¿Esto es para mí?
 
-My mission is to help elevate human consciousness. 
+Si lo que has leído hasta ahora te ha resultado útil, es muy probable que esto sea exactamente lo que estabas buscando.
 
-Because when we begin making aligned choices, the ripple effect touches every part of our lives, and everyone around us. ✨\
-\
-I offer a *FREE Discovery Call* - a high-value coaching session in itself - to help you decide if this programme is the right fit for you.
+Este es un programa no específico de género, porque lo que todos necesitamos es conexión humana, sentirnos vistos y escuchados.
 
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+Respaldo mi experiencia y capacidad para brindar un espacio seguro y transformador para usted, sin importar su género.
+
+Mi misión es ayudar a elevar la conciencia humana.
+
+Porque cuando empezamos a tomar decisiones alineadas, el efecto dominó toca cada parte de nuestras vidas y a todos los que nos rodean. ✨
+
+Ofrezco una  *llamada de descubrimiento GRATUITA*  , una sesión de coaching de alto valor en sí misma, para ayudarte a decidir si este programa es adecuado para ti.
+
+<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Reserve una llamada de descubrimiento gratuita <span class="sr-only">se abre en una nueva pestaña</span></a>

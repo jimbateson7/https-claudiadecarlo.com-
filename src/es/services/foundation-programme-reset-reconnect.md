@@ -25,35 +25,35 @@ showLink: true
 linkText: Descubra más
 showContactForm: false
 ---
-## What it does
+## Qué hace
 
-* Helps you break the surface-level cycle of control and guilt.
-* Lays the neuroscience-based foundation for habit change.
-* Starts to reconnect you with your body, not from pressure, but from presence.
-* Helps you experience early wins so you're not overwhelmed or stuck in all-or-nothing thinking.
-* Brings awareness to emotional triggers and subconscious patterns with tools you can start applying right away.
+* Le ayuda a romper el ciclo superficial de control y culpa.
+* Sienta las bases basadas en la neurociencia para el cambio de hábitos.
+* Comienza a reconectarte con tu cuerpo, no desde la presión, sino desde la presencia.
+* Te ayuda a experimentar victorias tempranas para que no te sientas abrumado ni estancado en el pensamiento de todo o nada.
+* Concientiza sobre los desencadenantes emocionales y los patrones subconscientes con herramientas que puedes comenzar a aplicar de inmediato.
 
-You don’t need to be “ready” for the full transformation. You just need a safe place to start.
+No necesitas estar "listo" para la transformación completa. Solo necesitas un punto de partida seguro.
 
-## Who it's for
+## Para quién es
 
-* You know the weight isn’t just physical.
-* You’ve tried diets and willpower - it didn’t work.
-* You feel disconnected, reactive, or out of sync with yourself.
-* You want clarity and momentum before committing to the full 12-week programme.
+* Sabes que el peso no es sólo físico.
+* Has probado dietas y fuerza de voluntad, pero no han funcionado.
+* Te sientes desconectado, reactivo o desincronizado contigo mismo.
+* Necesitas claridad y empuje antes de comprometerte con el programa completo de 12 semanas.
 
-## Includes
+## Incluye
 
-* 3x private 1:1 coaching sessions
-* Telegram group support for 21 days (or optional email check-ins if you want to keep it lighter)
+* 3 sesiones privadas de coaching 1:1
+* Soporte grupal de Telegram durante 21 días (o registros por correo electrónico opcionales si desea que sea más liviano)
 
-## Investment
+## Inversión
 
-Beta price: £376\
-(*Full launch price: £*757)
+Precio de la versión beta: £376
+(*Precio de lanzamiento completo: £757)
 
-**Option to upgrade into the 12-week Reclaim your Body with your Mind programme with discount applied** if you join within 10 days of completion.\
-\
-I offer a *FREE Discovery Call* - a high-value coaching session in itself - to help you decide if this programme is the right fit for you.
+**Opción de actualizar al programa de 12 semanas "Recupera tu Cuerpo con tu Mente" con descuento** si te inscribes dentro de los 10 días posteriores a su finalización.
 
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+Ofrezco una  *llamada de descubrimiento gratuita*  (una sesión de coaching de gran valor) para ayudarte a decidir si este programa es adecuado para ti.
+
+<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Reserve una llamada de descubrimiento gratuita <span class="sr-only">se abre en una nueva pestaña</span></a>
