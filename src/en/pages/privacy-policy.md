@@ -1,8 +1,8 @@
 ---
 layout: page.html
 title: Privacy policy
-permalink: /en/privacy-policy/
 bannerImage: ""
+permalink: /en/privacy-policy/
 showContactForm: true
 ---
 This privacy notice provides you with details of how we collect and process your  personal data through your use of our site claudiadecarlo.com
@@ -21,15 +21,15 @@ We are committed to protecting your privacy. This Privacy Policy outlines how we
 
 We use your personal data for the following purposes: 
 
-• To respond to your enquiries or provide requested services. 
-
-• To send updates, if you have opted in to receive them.
+* To respond to your enquiries or provide requested services. 
+* To send updates, if you have opted in to receive them.
 
 ### Data sharing
 
 We only share your personal data with third parties under the following conditions: 
 
-• When we have explicitly discussed it with you and obtained your consent. • If collaborating with business partners, suppliers and service providers to  deliver agreed-upon services. 
+* When we have explicitly discussed it with you and obtained your consent.
+* If collaborating with business partners, suppliers and service providers to  deliver agreed-upon services. 
 
 Outside these circumstances, we do not share your personal data with third parties. 
 
@@ -49,11 +49,9 @@ above or as required by law.
 
 Under GDPR, you have the right to: 
 
-• Access your personal data. 
-
-• Request corrections to your data. 
-
-• Request the deletion of your data.
+* Access your personal data. 
+* Request corrections to your data. 
+* Request the deletion of your data.
 
 To exercise these rights, contact us at hello@claudiadecarlo.com 
 
