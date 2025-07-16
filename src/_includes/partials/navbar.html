@@ -33,11 +33,28 @@
                 {% for item in nav.headerItems %}
                     {% if item.finalUrl %}
                         {% set currentUrl = page.url | stripTrailingSlash %}
+                        {% set blogSection1 = '/' + lang + '/blog' %}
+                        {% set blogSection2 = '/' + lang + '/posts' %}
+                        {% set isBlogActive = page.url and item.url == '/blog' and (
+                            page.url | startswith(blogSection1) or
+                            page.url | startswith(blogSection2)
+                        ) %}
+                        {% set servicesSection = '/' + lang + '/services' %}
+                        {% set isServicesActive = page.url and item.url == '/services' and (page.url | startswith(servicesSection)) %}
+                        {% set resourcesSection = '/' + lang + '/resources' %}
+                        {% set isResourcesActive = page.url and item.url == '/resources' and (page.url | startswith(resourcesSection)) %}
                         <li>
                             <a
                                 href="{{ item.finalUrl }}"
-                                class="no-underline font-display font-medium text-lg hover:underline underline-offset-2 decoration-2 hover:text-brand-red {% if currentUrl == item.finalUrl %}text-brand-red underline underline-offset-2 decoration-2{% else %}text-brand-purple{% endif %}"
-                                aria-current="{% if currentUrl == item.finalUrl %}page{% endif %}"
+                                class="no-underline font-display font-medium text-lg hover:underline underline-offset-2 decoration-2 hover:text-brand-red 
+                                {% if isBlogActive or isServicesActive or isResourcesActive %}
+                                    text-brand-red underline underline-offset-2 decoration-2
+                                {% elif currentUrl == item.finalUrl %}
+                                    text-brand-red underline underline-offset-2 decoration-2
+                                {% else %}
+                                    text-brand-purple
+                                {% endif %}"
+                                aria-current="{% if isBlogActive or isServicesActive or isResourcesActive or currentUrl == item.finalUrl %}page{% endif %}"
                             >{{ item.text }}</a>
                         </li>
                     {% endif %}

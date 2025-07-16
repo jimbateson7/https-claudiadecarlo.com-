@@ -1,0 +1,19 @@
+---
+layout: resources
+showContactForm: true
+permalink: /en/resources/
+---
+
+<section>
+    {% set postslist = collections.resources_en %}
+    
+    <div>
+        <ul class="grid gap-4 lg:gap-8 md:grid-cols-2">
+            {% for post in postslist | reverse %}
+                <li>
+                    {% include "partials/blogCard.html" %}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</section>

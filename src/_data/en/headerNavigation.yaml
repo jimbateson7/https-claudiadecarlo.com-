@@ -1,11 +1,13 @@
 headerItems:
-    - text: About me
-      url: /about-me
-    - text: My approach
-      url: /my-approach
-    - text: Services
-      url: /services
-    - text: Success stories
-      url: /success-stories
-    - text: Blog
-      url: /blog
+  - text: About me
+    url: /about-me
+  - text: My approach
+    url: /my-approach
+  - text: Services
+    url: /services
+  - text: Success stories
+    url: /success-stories
+  - text: Blog
+    url: /blog
+  - text: Resources
+    url: /resources

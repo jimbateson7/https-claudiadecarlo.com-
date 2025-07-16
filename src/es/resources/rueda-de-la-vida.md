@@ -1,8 +1,8 @@
 ---
-layout: page.html
 title: Rueda de la Vida
-permalink: /ruedavida/
-socialImage: ""
+author: Claudia De Carlo
+authorImage: /static/uploads/1747215352004.jpeg
+date: 2025-07-16T10:04:00.000+01:00
 showContactForm: true
 ---
 > *Tomar conciencia es el primer paso*
