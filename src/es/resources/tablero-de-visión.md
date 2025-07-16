@@ -8,7 +8,7 @@ showContactForm: true
 ---
 > *La intención es el punto de partida de todo sueño. Es el poder creativo que cumple todos nuestros deseos. — Deepak Chopra*
 
-# Preparación
+## Preparación
 
 Estas son notas complementarias al taller Tablero de Visión.
 
@@ -131,7 +131,7 @@ Eso hace que empieces a notar oportunidades, ideas y caminos que antes no veías
 
 Por eso es tan importante invertir en tu crecimiento personal y en conocer qué hay en tu subconsciente (la sombra). También porque ahi no solo esta lo que suprimimos, estan nuestros talentos mejor guardados, los que también suprimimos por vergüenza o porque alguien nos dijo que no ibamos a llegar a nada con eso (alguna pasión artística, por ejemplo)
 
-## Ritual 
+## Ritual
 
 Hacé este ejercicio en un espacio que se sienta abundante para vos.
 
