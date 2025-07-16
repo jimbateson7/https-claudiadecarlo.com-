@@ -28,8 +28,8 @@
             <span class="sr-only" x-text="isOpen ? 'Close navigation' : 'Open navigation'"></span>
         </button>
 
-        <div class="w-full flex-grow lg:flex lg:items-center lg:justify-end lg:w-auto lg:gap-12" :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }" x-show.transition="true" id="main-nav">
-            <ul class="pt-6 lg:pt-0 flex flex-col flex-1 gap-6 md:flex-row md:gap-8 md:items-center md:justify-between lg:justify-end mb-0">
+        <div class="w-full flex-grow lg:flex lg:items-center lg:justify-end lg:w-auto lg:gap-6" :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }" x-show.transition="true" id="main-nav">
+            <ul class="pt-6 lg:pt-0 flex flex-col flex-1 gap-6 md:flex-row md:items-center md:justify-between lg:justify-end mb-0">
                 {% for item in nav.headerItems %}
                     {% if item.finalUrl %}
                         {% set currentUrl = page.url | stripTrailingSlash %}
