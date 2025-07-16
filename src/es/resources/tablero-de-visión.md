@@ -1,8 +1,9 @@
 ---
-layout: page.html
 title: Tablero de Visión
 subTitle: Notas complementarias al taller
-permalink: /tablerovision/
+author: Claudia De Carlo
+authorImage: /static/uploads/1747215352004.jpeg
+date: 2025-07-16T10:04:00.000+01:00
 showContactForm: true
 ---
 > *La intención es el punto de partida de todo sueño. Es el poder creativo que cumple todos nuestros deseos. — Deepak Chopra*

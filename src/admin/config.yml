@@ -664,6 +664,122 @@ collections:
             default: false
             required: false
 
+    # Resources - English
+    - label: 'Resources (English)'
+      name: 'resources_en'
+      folder: 'src/en/resources'
+      create: true
+      editor:
+          preview: false
+      fields:
+          - label: 'Title'
+            name: 'title'
+            widget: 'string'
+
+          - label: 'Description'
+            name: 'description'
+            widget: 'string'
+            required: false
+
+          - label: 'Card Image'
+            name: 'cardImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Banner Image'
+            name: 'bannerImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Author'
+            name: 'author'
+            default: 'Claudia De Carlo'
+            widget: 'string'
+
+          - label: 'Author Image'
+            name: 'authorImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Publish Date'
+            name: 'date'
+            widget: 'datetime'
+            date_format: 'DD/MM/YYYY' # display format
+            format: 'YYYY-MM-DDTHH:mm:ss.SSSZ' # saved format
+
+          - label: 'Body'
+            name: 'body'
+            widget: 'markdown'
+
+          - label: 'Tags'
+            name: 'tags'
+            widget: 'list'
+            required: false
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
+            required: false
+
+    # Resources - Spanish
+    - label: 'Resources (Spanish)'
+      name: 'resources_es'
+      folder: 'src/es/resources'
+      create: true
+      editor:
+          preview: false
+      fields:
+          - label: 'Title'
+            name: 'title'
+            widget: 'string'
+
+          - label: 'Description'
+            name: 'description'
+            widget: 'string'
+            required: false
+
+          - label: 'Card Image'
+            name: 'cardImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Banner Image'
+            name: 'bannerImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Author'
+            name: 'author'
+            default: 'Claudia De Carlo'
+            widget: 'string'
+
+          - label: 'Author Image'
+            name: 'authorImage'
+            widget: 'image'
+            required: false
+
+          - label: 'Publish Date'
+            name: 'date'
+            widget: 'datetime'
+            date_format: 'DD/MM/YYYY' # display format
+            format: 'YYYY-MM-DDTHH:mm:ss.SSSZ' # saved format
+
+          - label: 'Body'
+            name: 'body'
+            widget: 'markdown'
+
+          - label: 'Tags'
+            name: 'tags'
+            widget: 'list'
+            required: false
+
+          - label: 'Show contact form?'
+            name: 'showContactForm'
+            widget: 'boolean'
+            default: false
+            required: false
+
     # Services - English
     - label: 'Services (English)'
       name: 'services_en'

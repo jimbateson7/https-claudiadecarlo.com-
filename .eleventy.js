@@ -1,11 +1,9 @@
-const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
+const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require("markdown-it");
-const esbuild = require('esbuild');
-const path = require("path");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyImageTransformPlugin);
@@ -43,7 +41,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/static/uploads");
   eleventyConfig.addPassthroughCopy("./src/static/favicons");
   eleventyConfig.addPassthroughCopy("./src/static/fonts");
-  // Note: JS files are handled by esbuild via npm script, not passthrough
 
   eleventyConfig.addWatchTarget("./src/_includes/partials/");
 
@@ -133,6 +130,14 @@ eleventyConfig.addGlobalData("eleventyComputed", {
     collection.getFilteredByGlob("./src/es/posts/*.md")
   );
 
+  eleventyConfig.addCollection("resources_en", (collection) =>
+    collection.getFilteredByGlob("./src/en/resources/*.md")
+  );
+  
+  eleventyConfig.addCollection("resources_es", (collection) =>
+    collection.getFilteredByGlob("./src/es/resources/*.md")
+  );
+
   eleventyConfig.addCollection("sitemapPages", (collectionApi) => {
     return collectionApi.getAll().filter(page => {
       if (!page.url) return false;
@@ -170,6 +175,11 @@ eleventyConfig.addGlobalData("eleventyComputed", {
       <a href="${link}" class="btn" ${isExternal ? 'target="_blank" rel="noopener noreferrer"' : ''}>
         ${content}${isExternal ? ' <span class="sr-only">(opens in a new tab)</span>' : ''}
       </a>`;
+  });
+
+  eleventyConfig.addFilter("startswith", function(str, prefix) {
+    if (!str || !prefix) return false;
+    return str.startsWith(prefix);
   });
 
   return {

@@ -1,8 +1,9 @@
 ---
-layout: page.html
 title: Ejercicio de Valores
-permalink: /valores/
 socialImage: ""
+author: Claudia De Carlo
+authorImage: /static/uploads/1747215352004.jpeg
+date: 2025-07-16T10:03:00.000+01:00
 showContactForm: true
 ---
 > *Conectarte con lo que realmente importa es el primer paso para crear una vida alineada, plena y feliz.*
