@@ -7,7 +7,7 @@ showContactForm: true
 ---
 > *Tomar conciencia es el primer paso*
 
-# ¿Qué es la Rueda de la Vida?
+## ¿Qué es la Rueda de la Vida?
 
 La Rueda de la Vida es una herramienta simple pero poderosa para mirar tu vida con más claridad. Te permite evaluar cómo te sentís en diferentes áreas clave y detectar **desequilibrios, vacíos o zonas olvidadas** que están afectando tu bienestar general.
 
@@ -15,16 +15,14 @@ La idea no es juzgarte, sino **tomar conciencia** desde un lugar amoroso. Para p
 
 ![](/static/uploads/la_rueda_de_la_vida_para_que_sirve_4761_1_600.webp)
 
-### **Instrucciones**
+## Instrucciones
 
 1. Leé cada una de las áreas y ponete una nota del **1 al 10**, siendo 1 = nada satisfecha y 10 = completamente satisfecha.
 2. Marcá el número dentro del círculo o anotá la puntuación en la tabla.
 3. Reflexioná: ¿Qué áreas necesitan atención? ¿Qué cambios deseás?
 4. Luego podrás usar esto como base para crear tu tablero de visión o intenciones del mes/año.
 
-### **Áreas de tu vida a evaluar**
-
-![]()
+## Áreas de tu vida a evaluar
 
 **¿Cómo me siento en esta área de mi vida? ¿Qué me gustaría cambiar o mejorar?**
 
@@ -91,7 +89,7 @@ Elegí 1 o 2 áreas que quieras **enfocar y nutrir conscientemente** en este pr�
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Ritual sugerido**
+### Ritual sugerido
 
 Después de completar tu rueda, podés hacer un pequeño ritual simbólico:
 
@@ -99,7 +97,7 @@ Después de completar tu rueda, podés hacer un pequeño ritual simbólico:
 * Escribir una afirmación tipo: *“Estoy lista para darle luz a esta área de mi vida”*
 * Dibujar tu propia rueda, coloreándola según cómo se siente ahora y cómo querés que se sienta
 
-**Final**
+### Final
 
 La Rueda de la Vida es un espejo amable que te ayuda a ver dónde estás parada para que puedas caminar más consciente, más liviana y más alineada.
 
