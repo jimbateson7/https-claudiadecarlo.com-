@@ -10,7 +10,7 @@
         </div>
     </div>
 
-    <nav class="flex items-center justify-center lg:justify-between flex-wrap py-8" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false" aria-label="Main">
+    <nav class="flex items-center justify-center lg:justify-between flex-wrap pt-6 pb-8" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false" aria-label="Main">
         <div class="flex items-center">
             <a href="/{{ lang }}/">
                 {% include "partials/logo.html" %}
