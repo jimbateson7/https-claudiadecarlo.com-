@@ -9,27 +9,27 @@ Este aviso de privacidad le proporciona detalles de cómo recopilamos y procesam
 
 Al facilitarnos sus datos, usted nos garantiza que es mayor de 18 años.
 
-Claudia De Carlois es el controlador de datos y somos responsables de sus datos personales (en este aviso de privacidad, denominados “nosotros”, “nos” o “nuestro”).
+Claudia De Carlo is es el controlador de datos y somos responsables de sus datos personales (en este aviso de privacidad, denominados “nosotros”, “nos” o “nuestro”).
 
 Nos comprometemos a proteger su privacidad. Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos su información personal de conformidad con el RGPD y la legislación aplicable del Reino Unido.
 
 ## Información que recopilamos
 
-• Información personal: si se comunica con nosotros a través de nuestro sitio web, podemos recopilar su nombre, dirección de correo electrónico y número de teléfono.
+* Información personal: si se comunica con nosotros a través de nuestro sitio web, podemos recopilar su nombre, dirección de correo electrónico y número de teléfono.
 
 ## Cómo usamos su información
 
 Utilizamos sus datos personales para los siguientes fines:
 
-• Para responder a sus consultas o proporcionarle los servicios solicitados.
-
-• Para enviar actualizaciones, si ha optado por recibirlas.
+* Para responder a sus consultas o proporcionarle los servicios solicitados.
+* Para enviar actualizaciones, si ha optado por recibirlas.
 
 ### Intercambio de datos
 
 Solo compartimos sus datos personales con terceros bajo las siguientes condiciones:
 
-• Cuando lo hayamos discutido explícitamente con usted y obtenido su consentimiento. • Si colaboramos con socios comerciales, proveedores y prestadores de servicios para prestar los servicios acordados.
+* Cuando lo hayamos discutido explícitamente con usted y obtenido su consentimiento.
+* Si colaboramos con socios comerciales, proveedores y prestadores de servicios para prestar los servicios acordados.
 
 Fuera de estas circunstancias, no compartimos sus datos personales con terceros.
 
@@ -47,11 +47,9 @@ Conservamos sus datos solo durante el tiempo que sea necesario para cumplir los 
 
 Según el RGPD, usted tiene derecho a:
 
-• Acceder a sus datos personales.
-
-• Solicitar correcciones a sus datos.
-
-• Solicitar la supresión de sus datos.
+* Acceder a sus datos personales.
+* Solicitar correcciones a sus datos.
+* Solicitar la supresión de sus datos.
 
 Para ejercer estos derechos contáctenos en hello@claudiadecarlo.com
 
