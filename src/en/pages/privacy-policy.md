@@ -15,7 +15,7 @@ We are committed to protecting your privacy. This Privacy Policy outlines how we
 
 ## Information We Collect 
 
-• Personal Information: If you contact us via our website, we may collect your name,  email address, and phone number. 
+* Personal Information: If you contact us via our website, we may collect your name,  email address, and phone number. 
 
 ## How we use your information
 
