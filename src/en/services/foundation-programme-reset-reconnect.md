@@ -1,59 +1,46 @@
 ---
 layout: page.html
 order: 3
-title: Reset & Reconnect
+title: 21 Days to Reconnect
 cardImage: /static/uploads/img_0118-copy.jpeg
 summary: >-
-  A powerful 21-Day jumpstart to reclaim your energy, reconnect with your body,
-  and build momentum toward lasting transformation.
+  A powerful 21-day start to help you regain your energy, reconnect with
+  yourself, and build the momentum needed for real and lasting change.
 
 
-  For those who are not quite ready for the full 12-week journey, but know something needs to shift.
+  This program is for people who know something needs to shift, but don’t quite know where to start. If you’ve tried to do it on your own, if you feel disconnected, reactive, or stuck in cycles of self-pressure, this is your first step toward breaking free.
 
 
-  You know the weight isn’t just physical.
+  You’ll begin to create sustainable habits with more clarity, purpose, and ease—without falling into extremes or impossible expectations.
 
 
-  You’ve tried diets and willpower - it didn’t work.
-
-
-  You feel disconnected, reactive, or out of sync with yourself.
-
-
-  You want clarity and momentum before committing to the full 12-week programme.
+  It’s a safe space to transform your relationship with yourself and start building change from the inside out.
 showLink: true
 linkText: Find out more
 showContactForm: false
 ---
-## What it does
+## **What it does:**
 
-* Helps you break the surface-level cycle of control and guilt.
-* Lays the neuroscience-based foundation for habit change.
-* Starts to reconnect you with your body, not from pressure, but from presence.
-* Helps you experience early wins so you're not overwhelmed or stuck in all-or-nothing thinking.
-* Brings awareness to emotional triggers and subconscious patterns with tools you can start applying right away.
+I’ll guide you to break out of the superficial cycle of control, guilt, and self-pressure. Together, we’ll lay the foundations—supported by neuroscience—for long-term habit change, helping you reconnect with yourself from a place of presence, not pressure.
 
-You don’t need to be “ready” for the full transformation. You just need a safe place to start.
+You’ll experience small early wins, so you don’t feel overwhelmed or stuck in all-or-nothing thinking. You’ll also become more aware of your emotional triggers and subconscious patterns, using practical tools from day one.
 
-## Who it's for
+If you don’t feel “ready” for a full transformation yet, this is a safe and effective starting point.
 
-* You know the weight isn’t just physical.
-* You’ve tried diets and willpower - it didn’t work.
-* You feel disconnected, reactive, or out of sync with yourself.
-* You want clarity and momentum before committing to the full 12-week programme.
+## **Who it’s for:**
 
-## Includes
+This program is for you if you know something needs to change, but you’re unsure where to begin.
 
-* 3x private 1:1 coaching sessions
-* Telegram group support for 21 days (or optional email check-ins if you want to keep it lighter)
+It’s for anyone who wants to reconnect, find clarity, and build new habits from a place of self-compassion—not self-punishment.
 
-## Investment
+## **Includes:**
 
-Beta price: £376\
-(*Full launch price: £*757)
+Three private 1:1 coaching sessions and 21 days of Telegram group support—or, if you prefer a lighter approach, you can choose to receive guidance and inspiration via email.
 
-**Option to upgrade into the 12-week Reclaim your Body with your Mind programme with discount applied** if you join within 10 days of completion.\
-\
-I offer a *FREE Discovery Call* - a high-value coaching session in itself - to help you decide if this programme is the right fit for you.
+## **Investment:**
 
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+Beta price: £376 (*Full launch price: £757)
+
+If you decide to upgrade to the full 12-week program “Reclaim Your Body with Your Mind” within 10 days of completing this program, you’ll receive a special discount.
+
+I offer a free call to help you decide if this program is right for you.
