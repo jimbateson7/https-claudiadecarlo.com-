@@ -13,37 +13,37 @@ Me sorprende y entristece leer que la gente se está decepcionando por el “rec
 
 No es un rechazo: es un sorteo.
 
-Participaron más de 1,1 millones de personas, y solo alrededor del 1,5% logró entrar.
+Participaron más de 1.1 millones de personas, y solo alrededor del 1.5 % logró entrar.
 
 Si no lo hiciste, no es personal. Son solo números.
 
 Cuanto más aceptemos que algo no salga como nos gustaría, más fácil nos resultará superar esa sensación persistente de fracaso.
 
-Sí, emociones como la decepción, la frustración, incluso el desánimo son válidas, pero no dejes que definan tu próximo paso.
+Sí, emociones como la decepción, la frustración, incluso el desánimo, son válidas, pero no dejes que definan tu próximo paso.
 
 Permíteme invitarte a que te preguntes:
 
-¿Por qué quisiste volver a correr el Maratón de Londres -para muchos-?
+¿Por qué quisiste (para muchos "volver") a correr el Maratón de Londres?
 
-Si tu  *propósito*  en Londres es tan importante, puedes conseguir una plaza en una organización benéfica. Todavía hay organizaciones benéficas que aceptan corredores.
+Si tu motivación por Londres es tan importante, puedes conseguir una plaza a través de una organización benéfica. Todavía hay organizaciones que aceptan corredores.
 
 Esto fue lo que me pasó el año pasado. Para cuando supe que sería una experiencia increíble correr el maratón de Londres (mi primera vez), la convocatoria ya había cerrado, pero no perdí mi oportunidad y elegí una organización benéfica para hacerlo.
 
-Lo admito, fue el doble de trabajo, capacitación  *y*  recaudación de fondos, ¡pero valió la pena!
+Lo admito, fue el doble de trabajo, entrenar y recaudar fondos, ¡pero valió la pena!
 
-Si tu  *"por qué"*  es correr en sí, hay innumerables otros maratones en los que inscribirte.
+Si tu “por qué” es correr en sí, hay innumerables otros maratones en los que inscribirte.
 
-Hace poco vi una  [charla TEDx de Maria Nemeth: “¿Estaría bien si la vida fuera más fácil?” ](https://www.ted.com/talks/maria_nemeth_would_it_be_ok_with_you_if_life_got_easier) y me pareció muy acertada.
+Hace poco vi una charla TEDx de Maria Nemeth: “¿Estaría bien si la vida fuera más fácil?” y me pareció muy acertada.
 
 María nos invita a vernos desde la perspectiva de la ontología frente a la psicología. Aquí la diferencia:
 
 La psicología a menudo pregunta:
 
-*“¿Por qué me siento así?”*
+— “¿Por qué me siento así?”
 
-*“¿De dónde salió este patrón?”*
+— “¿De dónde salió este patrón?”
 
-*“¿Qué necesita sanación de mi pasado?”*
+— “¿Qué necesita sanación de mi pasado?”
 
 Se centra en comprender, procesar y, a veces, arreglar el yo, a menudo mirando hacia atrás.
 
@@ -51,50 +51,48 @@ Esto puede ser increíblemente útil para sanar y dar sentido a nuestro mundo in
 
 Pero a veces nos quedamos estancados allí, siempre tratando de resolver o mejorar antes de tomar acción.
 
-La ontología, por otro lado, es el estudio del  *ser* .
+La ontología, por otro lado, es el estudio del ser.
 
 Se pregunta:
 
-*“¿Quién elijo ser ahora mismo?”*
+— “¿Quién elijo ser ahora mismo?”
 
-*“¿Qué es posible si me convierto en esa versión de mí hoy?”*
+— “¿Qué es posible si me convierto en esa versión de mí hoy?”
 
 María también nos invita a centrar nuestra atención en hacer un aporte.
 
-Se necesita coraje para desviar la atención de las quejas y dirigirla hacia la contribución, pero sólo hay una decisión que tomar.
+Se necesita coraje para desviar la atención de las quejas y dirigirla hacia la contribución, pero solo hay una decisión que tomar.
 
 Uno de los ejercicios que comparte en su charla es simple, pero poderoso:
 
-1. Elige una persona que admires.
-2. Nombra las cualidades que ves en ellos: aquellas que respetas profundamente o que te inspiran.
-3. Ahora date cuenta: esas cualidades están dentro de  
+* Elige una persona que admires.
+* Nombra las cualidades que ves en ella: aquellas que respetas profundamente o que te inspiran.
+* Ahora date cuenta: esas cualidades están dentro de ti.
 
-   *ti*
-
-    .
-
-Ve y actúa como esa persona.
+Ve y compórtate como esa persona.
 
 Deja que esas cualidades guíen tu próxima decisión, incluso si se trata de algo tan pequeño como tu forma de actuar hoy.
 
 Así es como empezamos a pasar del estancamiento a la posibilidad.
 
-¿Cómo podría ser la contribución en este momento?
+¿Cómo podría ser tu contribución en este momento?
 
-* Tal vez sea inscribirse como voluntario para el maratón de Londres de 2026.
-* Quizás esté apoyando a un amigo que está entrenando para otra carrera.
-* Quizás sea correr por placer y estar más presente para tus seres queridos, o un proyecto soñado que aún no has comenzado.
+Tal vez inscribiéndote como voluntario para el maratón de Londres de 2026.
 
-Después de cruzar la meta el pasado mes de abril, me dije a mí mismo: “No volveré a hacer esto nunca más”, y dos días después, cuando el dolor disminuyó, me inscribí en la votación.
+Quizás apoyando a un amigo que está entrenando para otra carrera.
 
-Soy uno del 98,5% de personas que no entraron.
+Quizás sea correr por placer y estar más presente para tus seres queridos, o un proyecto soñado que aún no has comenzado.
 
-Disfruto simplemente  *de ser* , de correr para mantenerme activo como parte de mi entrenamiento cruzado y de concentrarme en mi proyecto soñado: escribir mis libros.
+Después de cruzar la meta el pasado mes de abril, me dije a mí misma: “No volveré a hacer esto nunca más”, y 2 días después, cuando el dolor disminuyó, me inscribí en el sorteo.
 
-Podría verte el próximo abril si decido apuntarme al voluntariado.
+Soy uno del 98.5 % de personas que no entraron.
+
+Disfruto simplemente de ser, de correr para mantenerme activa como parte de mi entrenamiento *cross-training* y de concentrarme en mi proyecto soñado: escribir mis libros.
+
+Tal vez nos encontremos en Londres el próximo abril si decido apuntarme al voluntariado.
 
 Sigue sonriendo,
 
 Clau
 
-Si esto te resonó, me encantaría saber de ti: no dudes en darle Me gusta, dejar un comentario o compartirlo con alguien que pueda necesitarlo.
+Si esto te resonó, me encantaría saber de ti: Déjame un comentario o compártelo con alguien que pueda necesitarlo.
