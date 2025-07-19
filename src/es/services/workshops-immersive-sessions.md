@@ -1,7 +1,7 @@
 ---
 layout: page.html
-order: 4
-title: Talleres y sesiones inmersivas
+order: 3
+title: Talleres
 cardImage: /static/uploads/huddle-event-group-.jpeg
 summary: >-
   Experiencias presenciales o en línea diseñadas para generar conocimiento,
