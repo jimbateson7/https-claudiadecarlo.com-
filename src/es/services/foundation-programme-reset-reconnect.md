@@ -13,7 +13,7 @@ summary: >-
 
   Es un espacio seguro para empezar a transformar tu relación contigo mismo y construir un cambio desde adentro hacia afuera, sin caer en extremos ni exigencias imposibles.
 showLink: true
-linkText: Descubra más
+linkText: Descubre más
 showContactForm: true
 ---
 Qué hace:
