@@ -5,25 +5,25 @@ title: 1:1 coaching and mentoring
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
   Through coaching, emotional processing, and mindset work, I help you live with
-  purpose, freedom, and clarity. 
+  more clarity, purpose, and freedom.
 
 
-  You'll begin making confident, aligned decisions and step into your full potential, creating more ease, joy, and flow in your life.
+  You’ll start making confident, aligned decisions, unlocking your full potential, and creating more ease, joy, and flow in your life.
 
 
-  **Duration**: 90 minutes
+  Duration: 90 minutes
 
 
-  **Format**: Online
+  Format: Online
 
 
-  **Fee**: £175
+  Investment: £175
 
 
-  **When**: Once you’ve accepted the challenge to get to know yourself and change your reality from the inside out, get in touch and we’ll find a time slot.
+  If you’re ready to take the step of connecting with yourself and transforming your life from the inside out, don't hesitate to reach out.
 
 
-  Use the form below to tell me a little about your goal or challenge and some availability, and I’ll get back to you to arrange a free discovery call.
+  You can book a free discovery call to share your situation with me, or simply send me an email with whatever you’d like to share.
 bannerImage: ""
 showLink: true
 linkText: Book a Free Discovery Call
