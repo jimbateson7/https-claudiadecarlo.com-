@@ -1,7 +1,7 @@
 ---
 layout: page.html
 order: 3
-title: 21 Days to Reconnect
+title: 21 days to reconnect
 cardImage: /static/uploads/img_0118-copy.jpeg
 summary: >-
   A powerful 21-day start to help you regain your energy, reconnect with
@@ -17,7 +17,7 @@ summary: >-
   It’s a safe space to transform your relationship with yourself and start building change from the inside out.
 showLink: true
 linkText: Find out more
-linkUrl: https://claudiadecarlo.zohobookings.eu/#/240577000000038054
+linkUrl: ""
 showContactForm: false
 ---
 ## **What it does:**
