@@ -4,8 +4,8 @@ order: 1
 title: Coaching y mentoría 1:1
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
-  A través del coaching, el procesamiento emocional y el trabajo de mindset, te
-  ayudo a vivir con más claridad, propósito y libertad.
+  A través del coaching, el procesamiento emocional y el trabajo de *mindset*,
+  te ayudo a vivir con más claridad, propósito y libertad.
 
 
   Comenzarás a tomar decisiones seguras y alineadas, alcanzando tu máximo potencial y creando más facilidad, alegría y fluidez en tu vida.
@@ -17,7 +17,7 @@ summary: >-
   Formato: Online
 
 
-  Tarifa: £175
+  Inversión: £175
 
 
   Si estás listo para asumir el reto de conectar contigo mismo y transformar tu vida desde adentro, no dudes en contactarme.
