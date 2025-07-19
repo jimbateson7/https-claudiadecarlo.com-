@@ -16,23 +16,23 @@ showLink: true
 linkText: Descubra más
 showContactForm: true
 ---
-# Qué hace:
+Qué hace:
 
-Te acompaño a romper el ciclo superficial de control y culpa. Sentaremos las bases —apoyados en la neurociencia— para un cambio de hábitos duradero, ayudándote a reconectar con tu cuerpo desde la presencia, no desde la presión.
+Te acompaño a romper el ciclo superficial de control, culpa y autoexigencia. Sentaremos las bases —apoyados en la neurociencia— para un cambio de hábitos duradero, ayudándote a reconectar contigo mismo desde la presencia, no desde la presión.
 
-Esto te permitirá lograr pequeñas conquistas tempranas y evitar que te sientas abrumado o estancado en un enfoque de todo o nada. Además, tomarás conciencia de tus desencadenantes emocionales y patrones subconscientes, con herramientas prácticas que podrás aplicar desde el primer día.
+Este proceso te permitirá lograr pequeñas conquistas tempranas y evitar que te sientas atrapado en un enfoque de todo o nada. Además, tomarás conciencia de tus desencadenantes emocionales y patrones subconscientes, con herramientas prácticas que podrás aplicar desde el primer día.
 
-Si no te sientes “listo” para la transformación completa, este es un punto de partida seguro y efectivo.
+Si no te sientes “listo” para un proceso completo de transformación, este es un punto de partida seguro y efectivo.
 
-# Para quién es:
+Para quién es:
 
-Este programa es para ti si sabes que el peso es más que físico, has intentado dietas y fuerza de voluntad sin éxito, te sientes desconectado o reactivo ante tu cuerpo y emociones, y buscas claridad y motivación antes de comprometerte con un proceso más largo.
+Este programa es para ti si sientes que algo tiene que cambiar, pero no sabes por dónde empezar. Si quieres recuperar claridad, motivación y conexión contigo mismo antes de comprometerte con un proceso más largo. Si quieres aprender a crear hábitos sostenibles desde un lugar de autocompasión, no desde la autoexigencia.
 
-# Incluye:
+Incluye:
 
-3 x sesiones privadas de coaching 1:1 y soporte en Telegram durante 21 días —o, si prefieres algo más ligero, recibirás pautas e inspiración por correo electrónico.
+Tres sesiones privadas de coaching 1:1 y soporte en Telegram durante 21 días —o, si prefieres algo más ligero, recibirás pautas e inspiración por correo electrónico.
 
-# Inversión:
+Inversión:
 
 Precio versión beta: £376 (*Precio lanzamiento completo: £757).
 
