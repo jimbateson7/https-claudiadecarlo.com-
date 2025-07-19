@@ -8,7 +8,7 @@ summary: >-
   more clarity, purpose, and freedom.
 
 
-  You’ll start making confident, aligned decisions, unlocking your full potential, and creating more ease, joy, and flow in your life.
+  You’ll start making confident, aligned decisions, continuously expanding your potential and possibilities, creating more ease, joy, and flow in your life.
 
 
   Duration: 90 minutes
