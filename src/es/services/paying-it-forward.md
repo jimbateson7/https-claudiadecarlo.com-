@@ -1,22 +1,21 @@
 ---
 layout: page.html
 order: 5
-title: Pagando por adelantado
+title: Apoyo para tu próximo paso
 cardImage: /static/uploads/img_0054cropped.jpeg
 summary: >-
   Sé lo que es desear profundamente un cambio, pero estar limitado por las
-  limitaciones económicas. He tenido la suerte de tener una determinación tenaz
-  y he encontrado la manera de conseguir el apoyo de otros, a veces disponible
-  gracias a su generosidad.
+  dificultades económicas. He tenido la suerte de contar con una determinación
+  tenaz y de recibir apoyo generoso que me ha permitido avanzar.
 
 
-  Como una forma de retribuir, ofrezco sesiones de coaching o tutoría a tarifa reducida para ayudar a otra persona en su camino.
+  Como forma de retribuir, ofrezco sesiones de coaching o mentoría a tarifa reducida para acompañar a otras personas en su camino.
 
 
-  Este programa es para aquellos que enfrentan desafíos financieros pero están profundamente comprometidos con el crecimiento y la transformación personal.
+  Este programa está pensado para quienes enfrentan desafíos financieros, pero están profundamente comprometidos con su crecimiento y transformación personal.
 
 
-  Para ser considerado, envíeme un correo electrónico para registrar su interés y me pondré en contacto con usted.
+  Si te interesa ser considerado, envíame un correo electrónico para registrar tu interés y me pondré en contacto contigo.
 showLink: true
 linkText: Envíame un correo electrónico
 linkUrl: mailto:hello@claudiadecarlo.com
