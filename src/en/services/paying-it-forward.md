@@ -1,22 +1,21 @@
 ---
 layout: page.html
 order: 5
-title: Paying it forward
+title: Support for your next step
 cardImage: /static/uploads/img_0054cropped.jpeg
 summary: >-
-  I know what it's like to deeply desire change but being limited by financial
-  constraints. I’ve been blessed with a stubborn determination and found my way
-  to reach the support of others, sometimes available thanks through their
-  generosity. 
+  I know what it feels like to deeply want change but face financial
+  limitations. I’ve been fortunate to have tenacity and to receive generous
+  support that helped me move forward.
 
 
-  As a way to pay it forward, I'm offering reduced rate coaching or mentoring sessions to help someone else on their journey.
+  As a way of giving back, I offer coaching or mentoring sessions at a reduced rate to support others on their journey. Availability is limited and subject to scheduling.
 
 
-  This programme is for those who face financial challenges yet are deeply committed to personal growth and transformation.
+  This program is designed for those facing financial challenges but who are deeply committed to their personal growth and transformation.
 
 
-  To be considered, please send me an email to register your interest and I'll be in touch.
+  If you’re interested in being considered, please email me to express your interest, and I will get in touch.
 showLink: true
 linkText: Email me
 linkUrl: mailto:hello@claudiadecarlo.com
