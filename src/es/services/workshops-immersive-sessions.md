@@ -21,3 +21,4 @@ linkUrl: https://claudiadecarlo.zohobookings.eu/#/240577000000038054
 isLinkExternal: true
 showContactForm: true
 ---
+<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Reserva una sesión gratis <span class="sr-only">opens in a new tab</span></a>
