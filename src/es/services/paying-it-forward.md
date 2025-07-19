@@ -9,7 +9,7 @@ summary: >-
   tenaz y de recibir apoyo generoso que me ha permitido avanzar.
 
 
-  Como forma de retribuir, ofrezco sesiones de coaching o mentoría a tarifa reducida para acompañar a otras personas en su camino.
+  Como forma de retribuir, ofrezco sesiones de coaching o mentoría a tarifa reducida para acompañar a otras personas en su camino. Las plazas son limitadas y dependen de disponibilidad.
 
 
   Este programa está pensado para quienes enfrentan desafíos financieros, pero están profundamente comprometidos con su crecimiento y transformación personal.
