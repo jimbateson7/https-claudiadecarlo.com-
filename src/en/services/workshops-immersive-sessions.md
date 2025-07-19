@@ -1,6 +1,6 @@
 ---
 layout: page.html
-order: 4
+order: 3
 title: Workshops
 cardImage: /static/uploads/huddle-event-group-.jpeg
 summary: >-
