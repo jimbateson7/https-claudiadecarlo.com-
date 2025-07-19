@@ -55,6 +55,4 @@ Más sobre mí:
 
 Me encantaría conocerte. Ofrezco una llamada de descubrimiento gratuita para explorar tus necesidades y ver si somos compatibles.
 
-
-
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Reserve una llamada de descubrimiento gratuita <span class="sr-only">se abre en una nueva pestaña</span></a>
+<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Reserva una sesión gratis <span class="sr-only">se abre en una nueva pestaña</span></a>
