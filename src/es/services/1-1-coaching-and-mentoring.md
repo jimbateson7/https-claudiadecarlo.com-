@@ -23,7 +23,7 @@ summary: >-
   Si estás listo para asumir el reto de conectar contigo mismo y transformar tu vida desde adentro, no dudes en contactarme.
 
 
-  Puedes reservar una llamada de descubrimiento gratuita para contarme tu caso, o enviarme un email con lo que quieras compartir.
+  Puedes reservar una sesión de descubrimiento gratuita para contarme tu caso, o enviarme un email con lo que quieras compartir.
 bannerImage: ""
 showLink: true
 linkText: Reserva tu sesión gratis
