@@ -1,7 +1,7 @@
 ---
 layout: page.html
 order: 3
-title: 21 Days to Reconnect
+title: 21 days to reconnect
 cardImage: /static/uploads/img_0118-copy.jpeg
 summary: >-
   A powerful 21-day start to help you regain your energy, reconnect with
