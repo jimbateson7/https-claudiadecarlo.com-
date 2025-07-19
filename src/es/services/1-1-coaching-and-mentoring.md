@@ -26,7 +26,7 @@ summary: >-
   Puedes reservar una llamada de descubrimiento gratuita para contarme tu caso, o enviarme un email con lo que quieras compartir.
 bannerImage: ""
 showLink: true
-linkText: Reserve una llamada de descubrimiento gratuita
+linkText: Reserva tu sesión gratis
 linkUrl: https://claudiadecarlo.zohobookings.eu/#/240577000000038054
 isLinkExternal: true
 showContactForm: true
