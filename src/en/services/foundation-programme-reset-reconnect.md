@@ -1,6 +1,6 @@
 ---
 layout: page.html
-order: 3
+order: 2
 title: 21 days to reconnect
 cardImage: /static/uploads/img_0118-copy.jpeg
 summary: >-
