@@ -4,14 +4,14 @@ order: 3
 title: 21 Días para Reconectar
 cardImage: /static/uploads/img_0118-copy.jpeg
 summary: >-
-  Un inicio poderoso de 21 días para recuperar tu energía, reconectarte con tu
-  cuerpo y generar el impulso necesario para una transformación duradera.
+  Un inicio poderoso de 21 días para recuperar tu energía, reconectarte contigo
+  mismo y generar el impulso necesario para un cambio real y duradero.
 
 
-  Este programa es ideal para quienes aún no están listos para un compromiso completo de 12 semanas, pero saben que algo en su vida debe cambiar.
+  Este programa es para quienes sienten que algo en su vida debe cambiar, pero todavía no saben por dónde empezar. Si has intentado hacerlo solo, si te sientes desconectado, reactivo o atrapado en ciclos de autoexigencia, este es un primer paso para salir del estancamiento y crear hábitos sostenibles con más claridad, propósito y bienestar.
 
 
-  Sabes que el peso no es solo físico. Has probado dietas y fuerza de voluntad, pero sin resultados duraderos. Te sientes desconectado, reactivo o desincronizado contigo mismo. Necesitas claridad y motivación antes de dar el paso hacia el programa completo.
+  Es un espacio seguro para empezar a transformar tu relación contigo mismo y construir un cambio desde adentro hacia afuera, sin caer en extremos ni exigencias imposibles.
 showLink: true
 linkText: Descubra más
 showContactForm: true
