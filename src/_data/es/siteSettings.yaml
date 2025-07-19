@@ -3,25 +3,18 @@ author: Claudia De Carlo
 url: https://claudiadecarlo.com/
 email: hello@claudiadecarlo.com
 showSubscribeForm: true
-subscribeHeading: Mantente en contacto
+subscribeHeading: Mantente al tanto de las novedades
 subscribeSummary: >-
-  Si te interesa el crecimiento personal, los cambios de mentalidad y crear una
-  vida que realmente sientas como tuya, estás en el lugar correcto.
+  Si te interesa el crecimiento personal, cambiar tu mentalidad y crear una vida
+  que realmente sientas como tuya, estás en el lugar correcto.
 
 
-  Regístrate a continuación para recibir:
+  Déjame tu email abajo y recibirás:
 
 
-  * Actualizaciones y reflexiones inspiradoras
-
-  * Recursos gratuitos para apoyar tu viaje
-
-  * Ofertas exclusivas y acceso anticipado a mis talleres, cursos y eventos.
-
-
-  Solo te enviaré lo que te convenga, te sea útil y te agrade. Crezcamos juntos.
+  Solo compartiré contigo contenido que te aporte valor, te inspire y te ayude en tu camino.
 subscribeLabel: Tu dirección de correo electrónico
-subscribeButton: Suscribirse
+subscribeButton: Suscribirme
 contactFormHeading: ¿Tienes alguna pregunta o te sientes llamado a conectarte?
 contactFormSummary: Si tienes curiosidad por colaborar, quieres explorar una
   idea o simplemente necesitas aclarar algo que has visto aquí, me encantaría
@@ -33,6 +26,6 @@ contactFormEmailLabel: Correo electrónico
 contactFormTelephoneLabel: Número de teléfono
 contactFormMessageLabel: ¿Cómo crees que podría ayudarte?
 contactFormMessageHelper: No necesitas entrar en muchos detalles aquí, una breve descripción está bien.
-contactFormButton: Entregar
+contactFormButton: Enviar
 languageSwitcherLabel: Seleccionar idioma
 footerText: Todos los derechos reservados
