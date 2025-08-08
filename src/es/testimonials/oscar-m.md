@@ -7,13 +7,13 @@ testimonialAuthorImage: /static/uploads/oscar.jpg
 quote: >-
   Gracias por la increíble transformación que siento después de nuestra
   conversación. En tan solo dos horas, sentí un cambio profundo en mi
-  mentalidad. Me siento más empoderada, en paz e incluso físicamente más ligera.
+  mentalidad. Me siento más empoderado, en paz e incluso físicamente más ligero.
   Las cargas que antes llevaba parecen haberse aliviado, dejándome con una
-  renovada sensación de libertad y claridad. ¡Estoy muy agradecida por esta
+  renovada sensación de libertad y claridad. ¡Estoy muy agradecido por esta
   experiencia!
 
 
-  Valoro muchísimo nuestras sesiones y la sabiduría y el enfoque de Claudia. Tiene una increíble capacidad para escuchar y comprender. Después de nuestra última sesión, la vida me planteó los desafíos habituales (algunos problemas en mi relación) y me sorprendió lo diferente que reaccioné: ¡no reaccioné! ¡Qué cambio! Recomiendo ampliamente a Claudia a cualquiera que busque una transformación profunda e impactante y quiera ver resultados rápidamente.
+  Valoro muchísimo nuestras sesiones y la sabiduría y el enfoque de Claudia. Tiene una increíble capacidad para escuchar y comprender. Después de nuestra última sesión, la vida me planteó los desafíos habituales (algunos problemas en mi relación) y me sorprendió lo diferente que me comporté: ¡no reaccioné! ¡Qué cambio! Recomiendo ampliamente a Claudia a cualquiera que busque una transformación profunda e impactante y quiera ver resultados rápidamente.
 showStory: true
 showContactForm: false
 ---
