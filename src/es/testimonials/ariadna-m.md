@@ -16,15 +16,15 @@ showContactForm: true
 
 Ari había estado trabajando como técnico dental durante 12 años cuando le ofrecieron una nueva oportunidad dentro de la misma empresa: un puesto administrativo que prometía un cambio refrescante después de más de una década en el mismo puesto.
 
-Acogió con agrado el cambio, pero entrar en un nuevo campo le trajo incertidumbre. Se sentía desprevenida, sin apoyo y sola. Su gerente posponía 121 reuniones constantemente, y su colega, con más experiencia en el puesto, no la ayudaba, posiblemente intentando que se ganara su puesto. No recibió orientación real ni recursos por parte de la empresa, y tuvo que estudiar y formarse por su cuenta.
+Acogió con agrado el cambio, pero entrar en un nuevo campo le trajo incertidumbre. Se sentía poco preparada, sin apoyo y sola. Su gerente posponía las reuniones 121 constantemente, y su colega, con más experiencia en el puesto, no la ayudaba, posiblemente intentando que se "ganara" su puesto. No recibió orientación real ni recursos por parte de la empresa, y tuvo que estudiar y formarse por su cuenta.
 
-A pesar de sus mejores esfuerzos, la frustración empezó a crecer. Daba tanto de sí misma, pero recibía muy poco a cambio. Fue entonces cuando me contactó.
+A pesar de sus mejores esfuerzos, la frustración empezó a crecer. Daba tanto de sí misma, pero recibía muy poco a cambio. Fue entonces cuando hablamos.
 
 En nuestras sesiones, comenzamos a explorar lo que realmente ocurría bajo la superficie. Ari se dio cuenta de que buscaba constantemente la validación fuera de sí misma, esperando que alguien más la viera, la valorara y reconociera todo lo que aportaba. Pero la verdad era que no se valoraba *a sí misma* .
 
 Una vez que eso hizo clic, todo empezó a cambiar.
 
-Empezó a actuar con coherencia: alzar la voz, establecer límites y defender su propio valor. Y quienes la rodeaban respondieron. La energía cambió. Pero lo más importante, *ella* cambió.
+Empezó a actuar con coherencia: usar su propia voz sin miedo, establecer límites y defender su propio valor. Y quienes la rodeaban respondieron. La energía cambió. Pero lo más importante, *ella* cambió.
 
 Finalmente, Ari tomó una decisión crucial. Se dio cuenta de que este nuevo puesto, sin el apoyo adecuado ni un entorno saludable, no era el lugar donde quería quedarse. Regresó a su puesto original, esta vez con un aumento y un equipo más acogedor.
 
