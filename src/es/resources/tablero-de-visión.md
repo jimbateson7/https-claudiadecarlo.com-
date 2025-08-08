@@ -12,7 +12,7 @@ showContactForm: true
 
 Estas son notas complementarias al taller Tablero de Visión.
 
-El primer paso -y fundamental- es realizar el ejercicio escrito (si es a mano mejor) y luego el collage (este último es opcional)
+El primer paso -y fundamental- es realizar el ejercicio escrito (si es a mano mejor) y luego el collage.
 
 Antes de crear tu tablero, necesitás plantar una semilla clara: **tu intención.**
 
