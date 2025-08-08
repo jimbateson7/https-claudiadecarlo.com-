@@ -20,19 +20,17 @@ showContactForm: false
 
 Jim me vio por primera vez en una charla relámpago el año pasado. En ese momento, algo le impactó; empezó a seguirme en LinkedIn y finalmente me contactó para pedirme ayuda.
 
-Sufría de ansiedad social. No había superado el periodo de prueba en su puesto anterior, que se produjo poco después de un despido. Tenía poca confianza en sí mismo y se sentía desconectado de sí mismo, especialmente de la parte que solía correr ultramaratones y hablar en público con facilidad.
+Sufría de ansiedad social. No había superado el periodo de prueba en su puesto anterior, que se produjo poco después de un despido. Tenía poca confianza en sí mismo y se sentía desconectado, especialmente de la parte que solía correr ultramaratones y hablar en público con facilidad.
 
 Después de un par de meses de trabajar juntos, las cosas empezaron a cambiar.
 
-Empezó a recuperar la confianza en sí mismo. Volvió a correr. Empezó a sentirse más fuerte, más centrado y más él mismo.
-
-¡Y luego firmó un nuevo contrato de trabajo!
+Empezó a recuperar la confianza en sí mismo. Volvió a correr. Empezó a sentirse más fuerte, más centrado y más él mismo ¡Y pronto firmó un nuevo contrato de trabajo!
 
 Volvió a hablar en público. Pasó de evitar las salas de reuniones en eventos en línea, preocupado por si lo expulsaban o por no saber qué decir, a dar presentaciones y solicitar nuevas oportunidades como conferenciante.
 
 Jim ya tenía lo necesario. Solo necesitaba el apoyo adecuado para reconectar con su fuerza y seguir adelante con claridad.
 
-Jim, estoy orgulloso de cómo te presentaste. Hiciste el trabajo, y se nota. Tengo ganas de ver qué te depara el futuro.
+Jim, estoy orgullosa de cómo te presentaste. Hiciste el trabajo, y se nota. Tengo ganas de ver qué te depara el futuro.
 
 — Claudia
 
