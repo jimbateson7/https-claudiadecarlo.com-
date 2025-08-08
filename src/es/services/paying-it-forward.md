@@ -1,7 +1,7 @@
 ---
 layout: page.html
 order: 2
-title: Devolver el favor
+title: Devolviendo el favor
 cardImage: /static/uploads/img_0054cropped.jpeg
 summary: >-
   Sé lo que es desear profundamente un cambio, pero estar limitado por las
