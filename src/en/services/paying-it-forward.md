@@ -1,7 +1,7 @@
 ---
 layout: page.html
 order: 2
-title: Paying it Forward
+title: Paying it forward
 cardImage: /static/uploads/img_0054cropped.jpeg
 summary: >-
   I know what it feels like to deeply want change but face financial
