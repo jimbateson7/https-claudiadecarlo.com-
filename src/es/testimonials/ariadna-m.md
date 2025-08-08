@@ -5,10 +5,10 @@ testimonialAuthor: Ari M.
 testimonialAuthorLocation: Barcelona, Spain
 testimonialAuthorImage: /static/uploads/ariadna.jpg
 quote: Claudia me ayudó a valorarme en el trabajo y a prepararme para una mejor
-  oportunidad laboral donde recibía reconocimiento económico, mis horas de
-  trabajo estaban protegidas y era reconocida por las tareas que realizaba. El
-  cambio empezó conmigo, y no podía creer que fuera posible hasta que me mostró
-  cómo.
+  oportunidad laboral donde recibo mayor reconocimiento económico, puedo hacer
+  que mis horas de trabajo sean protegidas y ser reconocida por las tareas que
+  realizo. El cambio empezó conmigo, y no podía creer que fuera posible hasta
+  que me mostró cómo.
 showStory: true
 showContactForm: true
 ---
