@@ -1,7 +1,7 @@
 ---
 layout: page.html
-order: 4
-title: Support for your next step
+order: 2
+title: Paying it Forward
 cardImage: /static/uploads/img_0054cropped.jpeg
 summary: >-
   I know what it feels like to deeply want change but face financial
