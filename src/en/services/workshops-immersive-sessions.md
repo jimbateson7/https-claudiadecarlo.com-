@@ -14,7 +14,10 @@ summary: >-
   Each session blends coaching, neuroscience, mindset work, and practical tools to meet you where you are, and move you forward with intention.
 
 
-  I'd love to hear what you're looking to achieve.
+  I'd love to hear what you're looking to achieve, I'll design and facilitate a bespoke workshop for your audience.
+
+
+  Get in touch for a free consultation. Rates start from £200 (half day)
 showLink: true
 linkText: Book a Free Discovery Call
 linkUrl: https://claudiadecarlo.zohobookings.eu/#/240577000000038054
