@@ -8,13 +8,16 @@ summary: >-
   cambiar narrativas internas y despertar acciones auténticas.
 
 
-  Ya sea que se trate de un individuo, un grupo o un equipo, estas sesiones están diseñadas para fomentar la autoconciencia, la claridad emocional y la alineación encarnada, con espacio para la creatividad, la visión y el crecimiento.
+  Ya sea que se trate de un individuo, un grupo o un equipo, estas sesiones están diseñadas para fomentar la el autoconocimiento y la claridad emocional, con espacio para la creatividad, la visión y el crecimiento.
 
 
   Cada sesión combina coaching, neurociencia, trabajo de mentalidad y herramientas prácticas para encontrarte donde estás y hacerte avanzar con intención.
 
 
-  Me encantaría saber qué estás buscando lograr.
+  Me encantaría saber qué buscas lograr, diseñaré y facilitaré un taller personalizado para tu audiencia.
+
+
+  Ponte en contacto para una consulta gratuita. Las tarifas comienzan desde £200 (medio día).
 showLink: true
 linkText: Reserva tu sesión gratis
 linkUrl: https://claudiadecarlo.zohobookings.eu/#/240577000000038054
