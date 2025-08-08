@@ -21,7 +21,7 @@ showContactForm: false
 
 {% video "/static/uploads/oscar-testimonial-reduced-.mp4" %}{% endvideo %}
 
-Oscar vino a mí llorando. Su relación estaba terminando, y aunque hacía tiempo que no se sentía verdaderamente feliz, la idea de separarse le causaba aún más dolor.
+Oscar vino a mí llorando. Su relación estaba terminanda, y aunque hacía tiempo que no se sentía verdaderamente feliz, la idea de separarse le causaba aún más dolor.
 
 Se sentía deprimido, confundido y humillado tras una serie de situaciones difíciles con su pareja. Intentaba mantener a flote algo que, en el fondo, ya sabía que no era adecuado para él.
 
@@ -29,11 +29,11 @@ En nuestra primera sesión, descubrimos de dónde provenía el verdadero dolor: 
 
 Pasamos de una mentalidad de víctima a una de autoestima y claridad. Empezó a comprender que podía elegir qué (y a quién) dejaba entrar en su vida.
 
-Se dio cuenta de que ya no se conformaba. La relación no reflejaba el tipo de amor que realmente deseaba. Se había quedado por costumbre, miedo y comodidad. Pero algo hizo clic: esto no era lo que merecía.
+Se dio cuenta de que ya no se conformaba. La relación no reflejaba el tipo de amor que realmente deseaba. Se había quedado por costumbre, miedo y comodidad. Pero algo hizo clic: esto no era lo que él merecía.
 
 Sintió una enorme sensación de alivio.
 
-Juntos, sacamos a la luz patrones ocultos: esas creencias subconscientes que lo habían mantenido atrapado. Al descubrirlas, empezaron a perder su control.
+Juntos, sacamos a la luz patrones ocultos: esas creencias subconscientes que lo habían mantenido atrapado. Al descubrirlas, empezaron a perder su poder.
 
 Oscar comenzó a *elegirse* a sí mismo.
 
