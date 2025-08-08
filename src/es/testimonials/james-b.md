@@ -9,10 +9,10 @@ quote: >-
   celebrar los pequeños logros que te ayudan a alcanzar tu objetivo.
 
 
-  Cuando empecé a trabajar con Claudia, estaba llena de ansiedad y tenía problemas de autoestima. Había perdido el interés por correr y entrenar, y siempre me decía que no podía volver a hacerlo o que empezaría otra vez.
+  Cuando empecé a trabajar con Claudia, estaba lleno de ansiedad y tenía problemas de autoestima. Había perdido el interés por correr y entrenar, y siempre me decía que no podía volver a hacerlo o que empezaría otra vez.
 
 
-  Ahora he vuelto a disfrutar de un plan para correr y, cuando me descubro pensando mal de mí mismo o no valoro las situaciones, Claudia me recuerda que debo ser amable conmigo misma. He perdido mucho peso físico y mental desde que empecé a trabajar con Claudia y a cambiar mi forma de pensar sobre mí misma. Lleva tiempo y puede ser difícil después de pensar de cierta manera durante tanto tiempo, pero el esfuerzo está dando sus frutos.
+  Ahora he vuelto a disfrutar de un plan para correr y, cuando me descubro pensando mal de mí mismo o no valoro las situaciones, una pequeña Claudia se me aparece y me recuerda que debo ser amable conmigo mismo. He perdido mucho peso físico y mental desde que empecé a trabajar con Claudia y a cambiar mi forma de pensar sobre mí mismo. Lleva tiempo y puede ser difícil después de pensar de cierta manera durante tanto tiempo, pero el esfuerzo está dando sus frutos.
 showStory: true
 showContactForm: false
 ---
