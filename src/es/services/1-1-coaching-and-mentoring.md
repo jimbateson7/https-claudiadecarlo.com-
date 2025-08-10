@@ -17,7 +17,7 @@ summary: >-
   Formato: Online
 
 
-  Inversión: ~~£175~~ £99 (Oferta durante agosto)
+  Inversión: ~~£175~~ £99 (Oferta agosto)
 
 
   Si estás listo para asumir el reto de conectar contigo mismo y transformar tu vida desde adentro, no dudes en contactarme.
