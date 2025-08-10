@@ -17,7 +17,7 @@ summary: >-
   Format: Online
 
 
-  Investment: ~~£175~~ £99 August Offer
+  Investment: ~~£175~~ £99 (August offer)
 
 
   If you’re ready to take the step of connecting with yourself and transforming your life from the inside out, don't hesitate to reach out.
