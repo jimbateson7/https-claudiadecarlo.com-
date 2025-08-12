@@ -4,8 +4,9 @@ order: 1
 title: 1:1 coaching and mentoring
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
-  Through coaching, emotional processing, and mindset work, I help you live with
-  more clarity, purpose, and freedom.
+  My approach blends coaching with emotional intelligence, helping you notice
+  what’s already working, shift what isn’t, and move forward with aligned
+  energy.
 
 
   You’ll start making confident, aligned decisions, continuously expanding your potential and possibilities, creating more ease, joy, and flow in your life.
