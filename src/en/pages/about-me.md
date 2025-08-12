@@ -2,8 +2,8 @@
 layout: page.html
 title: About me
 bannerImage: /static/uploads/portrait-through-the-window.jpeg
-showContactForm: true
 permalink: /en/about-me/
+showContactForm: true
 ---
 ## Hey, I’m Clau 
 
@@ -13,7 +13,7 @@ Through curiosity, courage, and a deep commitment to growth, I’ve moved throug
 
 Now, I help others do the same.
 
-My approach gets to the root of what’s holding you back, blending mindset, neuroscience, emotional and nervous system regulation, and spirituality - grounded in self-awareness and practical tools - so you can face life with new eyes. For more freedom. More purpose. More joy.
+My approach gets to the root of what’s holding you back, blending self-awareness and practical tools - so you can face life with new eyes, and move forward with aligned energy.
 
 I’ve been obsessed with personal growth since I was a teenager, and now I guide others to experience the transformation that self-awareness makes possible.
 
@@ -41,6 +41,6 @@ I’m also a…
 * Runner
 * Writer
 
-I'd love to meet you. I offer a free Discovery Call to walk through your needs and see whether we’re a good fit.
+I'd love to meet you.
 
 <a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
