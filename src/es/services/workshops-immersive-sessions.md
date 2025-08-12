@@ -17,7 +17,7 @@ summary: >-
   Me encantaría saber qué buscas lograr, diseñaré y facilitaré un taller personalizado para tu audiencia.
 
 
-  Ponte en contacto para una consulta gratuita. Las tarifas comienzan desde £200 (medio día).
+  Ponte en contacto para una consulta gratuita.
 showLink: true
 linkText: Reserva tu sesión gratis
 linkUrl: https://claudiadecarlo.zohobookings.eu/#/240577000000038054
