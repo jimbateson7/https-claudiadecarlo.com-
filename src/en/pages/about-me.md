@@ -13,7 +13,7 @@ Through curiosity, courage, and a deep commitment to growth, I’ve moved throug
 
 Now, I help others do the same.
 
-My approach gets to the root of what’s holding you back, blending self-awareness and practical tools - so you can face life with new eyes, and move forward with aligned energy.
+My approach gets to the root of what’s holding you back, blending self-awareness and practical tools so you can face life with new eyes, and move forward with aligned energy.
 
 I’ve been obsessed with personal growth since I was a teenager, and now I guide others to experience the transformation that self-awareness makes possible.
 
