@@ -1,56 +1,44 @@
 ---
-layout: page.html
 title: Sobre mí
-bannerImage: /static/uploads/portrait-through-the-window.jpeg
-permalink: /es/about-me/
+bannerImage: /static/uploads/portrait-main-headshot.jpeg
+permalink: /es/sobre-mi/
 showContactForm: true
 ---
-# Hola, soy Clau.
+## Hola, soy Clau
 
-Una chica "común" que se atrevió a creer que podía transformar su vida ✨
+Solo una chica común que se atrevió a creer que podía transformar su vida ✨\
+\
+Con curiosidad, valentía y un profundo compromiso con mi crecimiento, he atravesado traumas, retos de salud y diagnósticos difíciles. Creí que era posible… y lo hice realidad.
 
-Gracias a la curiosidad, la valentía y un compromiso profundo con el crecimiento personal, he superado traumas, problemas de salud y diagnósticos difíciles. Creí que era posible… y lo hice realidad.
+Ahora ayudo a otras personas a hacer lo mismo.
 
-Ahora ayudo a otros a hacer lo mismo.
+Mi enfoque llega a la raíz de lo que te está frenando, combinando autoconocimiento con herramientas prácticas para que puedas mirar la vida con nuevos ojos y avanzar con energía alineada.
 
-Mi enfoque llega a la raíz de lo que te frena, combinando autoconocimiento y herramientas prácticas para que puedas mirar la vida con nuevos ojos y avanzar con una energía alineada.
-
-Desde adolescente me ha fascinado el crecimiento personal, y hoy guío a otros a experimentar la transformación que el autoconocimiento hace posible.
+Desde mi adolescencia he estado obsesionada con el crecimiento personal, y hoy acompaño a otros a vivir la transformación que el autoconocimiento hace posible.
 
 Con mi apoyo, mis clientes experimentan:
 
-🧠 Libertad — de creencias limitantes y patrones subconscientes.
+🧠 Libertad – de creencias limitantes y guiones inconscientes
 
-💪 Empoderamiento — a través de elecciones conscientes e inteligencia emocional.
+💪 Empoderamiento – a través de elecciones conscientes e inteligencia emocional
 
-🌿 Alineación — con quienes realmente son y la vida que quieren crear.
+🌿 Alineación – con quienes son realmente y la vida que quieren crear
 
-Soy una chica normal que sabe que es extraordinaria, y creo que tú también lo eres.
+Soy una mujer ordinaria que sabe que es extraordinaria, y creo que tú también lo eres.
 
-Solo necesitas creerlo… y ser lo suficientemente valiente para soñar en grande.
+Solo necesitas creerlo… y atreverte a soñar en grande.
 
-Más sobre mí:
+También soy…
 
-• Coach certificada
+* Coach certificada
+* Asistente de primeros auxilios en salud mental
+* Profesora certificada CELTA de Cambridge
+* Madre de un niño curioso
+* Mujer neurodivergente
+* Aprendiz de por vida
+* Amante de los viajes
+* Políglota
+* Corredora
+* Escritora
 
-• Formación en primeros auxilios en salud mental
-
-• Profesora CELTA de Cambridge
-
-• Mamá de un niño curioso
-
-• Mujer neurodivergente
-
-• Aprendiz de por vida
-
-• Apasionada de los viajes
-
-• Políglota
-
-• Corredora
-
-• Escritora
-
-Me encantaría conocerte. 
-
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Reserva una sesión gratis <span class="sr-only">se abre en una nueva pestaña</span></a>
+Encantada de conocerte.
