@@ -1,10 +1,12 @@
 ---
+layout: page.html
 title: Sobre mí
 subTitle: test
 bannerImage: /static/uploads/portrait-main-headshot.jpeg
 permalink: /es/about-me/
 showContactForm: true
 ---
+
 ## Hola, soy Clau
 
 Solo una chica común que se atrevió a creer que podía transformar su vida ✨\
@@ -31,15 +33,15 @@ Solo necesitas creerlo… y atreverte a soñar en grande.
 
 También soy…
 
-* Coach certificada
-* Asistente de primeros auxilios en salud mental
-* Profesora certificada CELTA de Cambridge
-* Madre de un niño curioso
-* Mujer neurodivergente
-* Aprendiz de por vida
-* Amante de los viajes
-* Políglota
-* Corredora
-* Escritora
+-   Coach certificada
+-   Asistente de primeros auxilios en salud mental
+-   Profesora certificada CELTA de Cambridge
+-   Madre de un niño curioso
+-   Mujer neurodivergente
+-   Aprendiz de por vida
+-   Amante de los viajes
+-   Políglota
+-   Corredora
+-   Escritora
 
 Encantada de conocerte.
