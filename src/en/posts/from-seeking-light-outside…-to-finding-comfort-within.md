@@ -2,6 +2,7 @@
 title: From seeking light outside… To finding comfort within
 description: 3’ reflection recorded on my voice notes as I went for a run.
 author: Claudia De Carlo
+authorImage: /static/uploads/1747215352004.jpeg
 date: 2025-08-08T18:17:00.000+01:00
 showContactForm: false
 ---
