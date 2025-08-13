@@ -1,5 +1,6 @@
 ---
 title: Sobre mí
+subTitle: test
 bannerImage: /static/uploads/portrait-main-headshot.jpeg
 permalink: /es/about-me/
 showContactForm: true
