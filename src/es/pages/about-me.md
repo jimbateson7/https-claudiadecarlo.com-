@@ -1,7 +1,7 @@
 ---
 title: Sobre mí
 bannerImage: /static/uploads/portrait-main-headshot.jpeg
-permalink: /es/sobre-mi/
+permalink: /es/about-me/
 showContactForm: true
 ---
 ## Hola, soy Clau
