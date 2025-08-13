@@ -4,11 +4,12 @@ order: 1
 title: Coaching y mentoría 1:1
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
-  A través del coaching, el procesamiento emocional y el trabajo de mindset, te
-  ayudo a vivir con más claridad, propósito y libertad.
+  Mi enfoque combina el coaching con la inteligencia emocional, ayudándote a
+  reconocer lo que ya funciona, transformar lo que no, y avanzar con una energía
+  alineada.
 
 
-  Comenzarás a tomar decisiones seguras y alineadas, abriendo camino hacia nuevas versiones de ti mismo y permitiéndote descubrir un potencial mayor del que hoy imaginas, creando más facilidad, alegría y fluidez en tu vida.
+  Empezarás a tomar decisiones seguras y coherentes, ampliando continuamente tu potencial y posibilidades, y creando más facilidad, alegría y fluidez en tu vida.
 
 
   Duración: 90 minutos
@@ -20,10 +21,10 @@ summary: >-
   Inversión: ~~£175~~ £99 (Oferta agosto)
 
 
-  Si estás listo para asumir el reto de conectar contigo mismo y transformar tu vida desde adentro, no dudes en contactarme.
+  Si estás listo/a para dar el paso de conectar contigo y transformar tu vida desde dentro hacia fuera, no dudes en ponerte en contacto.
 
 
-  Puedes reservar una sesión de descubrimiento gratuita para contarme tu caso, o enviarme un email con lo que quieras compartir.
+  Puedes reservar una sesión de descubrimiento gratuita para contarme tu situación, o simplemente enviarme un correo con lo que quieras compartir.
 bannerImage: ""
 showLink: true
 linkText: Reserva tu sesión gratis
