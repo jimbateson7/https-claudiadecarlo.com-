@@ -1,8 +1,6 @@
 headerItems:
   - text: Sobre mí
     url: /about-me
-  - text: Mi enfoque
-    url: /my-approach
   - text: Servicios
     url: /services
   - text: Historias de éxito
