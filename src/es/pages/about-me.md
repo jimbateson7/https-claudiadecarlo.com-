@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: Sobre mí
-subTitle: test
+subTitle: ""
 bannerImage: /static/uploads/portrait-main-headshot.jpeg
 permalink: /es/about-me/
 showContactForm: true
