@@ -31,25 +31,16 @@ Solo necesitas creerlo… y ser lo suficientemente valiente para soñar en grand
 
 Más sobre mí:
 
-• Coach certificada
-
-• Formación en primeros auxilios en salud mental
-
-• Profesora CELTA de Cambridge
-
-• Mamá de un niño curioso
-
-• Mujer neurodivergente
-
-• Aprendiz de por vida
-
-• Apasionada de los viajes
-
-• Políglota
-
-• Corredora
-
-• Escritora
+* Coach certificada
+* Formación en primeros auxilios en salud mental
+* Profesora CELTA de Cambridge
+* Mamá de un niño curioso
+* Mujer neurodivergente
+* Aprendiz de por vida
+* Apasionada de los viajes
+* Políglota
+* Corredora
+* Escritora
 
 Me encantaría conocerte. 
 
