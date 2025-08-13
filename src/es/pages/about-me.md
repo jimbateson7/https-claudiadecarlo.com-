@@ -7,17 +7,15 @@ showContactForm: true
 ---
 # Hola, soy Clau.
 
-Una chica "normal" que se atrevió a creer que podía transformar su vida ✨
+Una chica "común" que se atrevió a creer que podía transformar su vida ✨
 
 Gracias a la curiosidad, la valentía y un compromiso profundo con el crecimiento personal, he superado traumas, problemas de salud y diagnósticos difíciles. Creí que era posible… y lo hice realidad.
 
 Ahora ayudo a otros a hacer lo mismo.
 
-Mi enfoque llega a la raíz de lo que te frena, combinando mindset, neurociencia, inteligencia emocional y regulación del sistema nervioso. Trabajo desde una espiritualidad no dogmática, basada en la autoconciencia, y te ofrezco herramientas prácticas para que puedas afrontar la vida con nuevos ojos.
+Mi enfoque llega a la raíz de lo que te frena, combinando autoconocimiento y herramientas prácticas para que puedas mirar la vida con nuevos ojos y avanzar con una energía alineada.
 
-Para más libertad. Más propósito. Más alegría.
-
-He estado obsesionada con el crecimiento personal desde que era adolescente, y hoy guío a otros a experimentar la transformación que la autoconciencia hace posible.
+Desde adolescente me ha fascinado el crecimiento personal, y hoy guío a otros a experimentar la transformación que el autoconocimiento hace posible.
 
 Con mi apoyo, mis clientes experimentan:
 
@@ -53,6 +51,6 @@ Más sobre mí:
 
 • Escritora
 
-Me encantaría conocerte. Ofrezco una llamada de descubrimiento gratuita para explorar tus necesidades y ver si somos compatibles.
+Me encantaría conocerte. 
 
 <a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Reserva una sesión gratis <span class="sr-only">se abre en una nueva pestaña</span></a>
