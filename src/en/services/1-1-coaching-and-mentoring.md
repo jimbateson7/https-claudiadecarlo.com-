@@ -27,7 +27,9 @@ showContactForm: true
 ---
 ## Who it’s for
 
-Growth-driven individuals who know they’re meant for more – ready to transform through self-discovery so you can finally move through life with clarity, confidence, and joy.
+Growth-driven individuals who know they’re meant for more;
+
+Ready to transform through self-discovery so the can finally move through life with clarity, confidence, and joy.
 
 ## What it does
 
