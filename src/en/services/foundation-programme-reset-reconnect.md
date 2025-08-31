@@ -26,7 +26,9 @@ showContactForm: false
 ---
 ## **Reset · Release · Realign**
 
-As the seasons shift, autumn invites us to pause, let go of what no longer serves us, and set intentions for the months ahead. This special edition of *21 Days to Reconnect* is designed to help you harness that energy – so you can create lasting change from the inside out.
+As the seasons shift, autumn invites us to pause, let go of what no longer serves us, and set intentions for the months ahead. 
+
+This special edition of *21 Days to Reconnect* is designed to help you harness that energy – so you can create lasting change from the inside out.
 
 ### Who it’s for
 
