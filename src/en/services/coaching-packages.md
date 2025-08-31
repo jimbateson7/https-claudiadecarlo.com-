@@ -39,9 +39,7 @@ For individuals feeling stuck or unclear about their next steps.
 
 Investment: £450
 
-
-
-## 2. Shift & Expand Package
+## **2. Shift & Expand Package**
 
 For individuals ready to break patterns, move with ease, and create meaningful change.
 
@@ -60,9 +58,7 @@ For individuals ready to break patterns, move with ease, and create meaningful c
 
 Investment: £750
 
-
-
-## 3. Transform Your Life Package
+## **3. Transform Your Life Package**
 
 For those ready to fully redesign their life, align with purpose, and step into their fullest potential.
 
@@ -81,8 +77,6 @@ For those ready to fully redesign their life, align with purpose, and step into 
 * Extra resources on-demand
 
 Investment: £2,000
-
-
 
 ### How to Start
 
