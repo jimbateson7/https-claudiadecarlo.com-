@@ -1,23 +1,76 @@
 ---
 layout: page.html
 order: 2
-title: Paying it forward
-cardImage: /static/uploads/img_0054cropped.jpeg
+title: Powerful Workshops
+cardImage: /static/uploads/img_7567-edited.jpg
 summary: >-
-  I know what it feels like to deeply want change but face financial
-  limitations. I’ve been fortunate to have tenacity and to receive generous
-  support that helped me move forward.
+  ## ✨ Create Your Vision Board: Design Your Future with Neuroscience
 
 
-  As a way of giving back, I offer coaching or mentoring sessions at a reduced rate to support others on their journey. Availability is limited and subject to scheduling.
+
+  ### Bring your goals and desires to life through the power of visualisation and creativity.
 
 
-  This program is designed for those facing financial challenges but who are deeply committed to their personal growth and transformation.
+  In this transformative workshop, you’ll blend neuroscience, coaching, and principles of
+
+  quantum physics to design a vision board that truly aligns with your values and
+
+  aspirations.
 
 
-  If you’re interested in being considered, please email me to express your interest, and I will get in touch.
+  🌿 Gain clarity on what matters most.
+
+  💫 Learn how visualisation rewires the brain to spot opportunities.
+
+  🎨 Craft a board that reflects your authentic goals and inspires daily action.
+
+
+  ### Workshop Overview:
+
+
+  Duration: 3 hours\
+
+  Group size: 5–20 participants
+
+  Audience: Women seeking clarity, motivation, and a science-backed method to manifest their goals.
+
+  Format: Online or in-person
+
+
+
+  ### Key Outcomes:
+
+
+  ✔️ A crystal-clear life vision across career, relationships, wellbeing, and lifestyle\
+
+  ✔️ Practical insight into how the brain supports manifestation and change\
+
+  ✔️ A personalised vision board (physical or digital) to keep as your daily anchor
+
+  ✔️ A simple “see-feel-act” neuro-hack to sustain momentum long after the workshop
+
+  \
+
+  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+
+  ## 🌊 Release & Transform: Meaning, Movement & Music Workshop
+
+
+
+  ### **Free your emotions, shift your energy, and reconnect with your inner power.**
+
+
+  This immersive workshop blends embodiment, neuroscience, and coaching to help you safely release emotional blocks and step into a lighter, more aligned version of yourself.\
+
+
+  💫 Discover how emotions live in the body – and how to let them move through you.
+
+  🎶 Use rhythm and music as powerful tools for transformation.
+
+  🌱 Reconnect with meaning and cultivate a deeper sense of presence and freedom.
 showLink: true
-linkText: Email me
-linkUrl: mailto:hello@claudiadecarlo.com
+linkText: Find out more
+linkUrl: ""
 showContactForm: true
 ---
