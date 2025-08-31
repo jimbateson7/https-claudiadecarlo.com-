@@ -2,7 +2,7 @@
 layout: page.html
 order: 6
 title: Coaching Packages
-cardImage: /static/uploads/transform.svg
+cardImage: /static/uploads/balance.svg
 summary: >-
   ### **Why coaching packages are better for you**
 
@@ -74,8 +74,6 @@ Individuals feeling stuck or unclear about their next steps.
 
 Investment: £450
 
-
-
 ## 2. Shift & Expand Package
 
 ### Who it’s for
@@ -97,10 +95,8 @@ Individuals ready to break patterns, move with ease, and create meaningful chang
 
 Investment: £750
 
-
 ## 3. Transform Your Life Package
 
-### 
 Who it’s for
 
 Those ready to fully redesign their life, align with purpose, and step into their fullest potential.
@@ -121,12 +117,11 @@ Those ready to fully redesign their life, align with purpose, and step into thei
 
 Investment: £2,000
 
-
 ### How to Start
 
 If you’re ready to reconnect with yourself, transform from the inside out, and finally move through life with clarity, confidence, and joy, book a free discovery call to share your situation with me.
 
-
 *Notes:* \
+\
 *All sessions are approx 90-minutes*\
 *I offer some flexibility with my rates, read the "Paying it Forward" article in the Resources section.*
