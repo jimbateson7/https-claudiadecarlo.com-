@@ -4,13 +4,16 @@ order: 1
 title: 🌿 1:1 Coaching
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
-  You know something needs to shift, but don’t quite know where to start. If
-  you’ve tried to do it on your own, if you feel disconnected, reactive, or
-  stuck in cycles of self-pressure, this is your first step toward breaking
-  free.
+  You know something needs to shift, but don’t quite know where to start. 
 
 
-  You’ll begin to see things differently, feel and act accordingly, and as a result you'll start seeing the results you want. You'll learn to create sustainable habits with more clarity, purpose, and ease, without falling into extremes or impossible expectations.
+  If you’ve tried to do it on your own, if you feel disconnected, reactive, or stuck in cycles of self-pressure, this is your first step toward breaking free.
+
+
+  You’ll begin to see things differently, feel and act accordingly, and as a result you'll start seeing the results you want. 
+
+
+  You'll learn to create sustainable habits with more clarity, purpose, and ease, without falling into extremes or impossible expectations.
 
 
   I offer a safe space to transform your relationship with yourself and start building change from the inside out.
