@@ -1,11 +1,13 @@
 ---
 layout: page.html
 order: 3
-title: "✨ Create Your Vision Board: Design Your Future with Neuroscience Workshop"
+title: ✨ Create Your Vision Board Workshop
 cardImage: /static/uploads/img_7567-edited.jpg
 summary: >-
-  Bring your goals and desires to life through the power of visualisation and
-  creativity.
+  ### Design Your Future with Neuroscience 
+
+
+  Bring your goals and desires to life through the power of visualisation and creativity.
 
 
   In this transformative workshop, you’ll blend neuroscience, coaching, and principles of
