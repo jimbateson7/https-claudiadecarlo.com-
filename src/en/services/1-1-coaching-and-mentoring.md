@@ -5,7 +5,7 @@ title: 🌿 1:1 Coaching
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
   ### **You know something needs to shift, but don’t quite know where to
-  start.** 
+  start.**
 
 
   If you’ve tried to do it on your own, if you feel disconnected, reactive, or stuck in cycles of self-pressure, this is your first step toward breaking free.
@@ -17,7 +17,11 @@ summary: >-
   You'll learn to create sustainable habits with more clarity, purpose, and ease, without falling into extremes or impossible expectations.
 
 
-  I offer a safe space to transform your relationship with yourself and start building change from the inside out.
+  I offer a safe space to transform your relationship with yourself and start building change from the inside out.\
+
+  \
+
+  Coaching packages available (within Services section)
 bannerImage: ""
 showLink: true
 linkText: Find out more
