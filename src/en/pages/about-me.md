@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: About me
-bannerImage: /static/uploads/portrait-main-headshot-background-removed.png
+bannerImage: /static/uploads/portrait-main-headshot.jpeg
 permalink: /en/about-me/
 showContactForm: true
 ---
