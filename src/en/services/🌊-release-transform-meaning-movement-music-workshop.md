@@ -1,7 +1,7 @@
 ---
 layout: page.html
 order: 3
-title: 🌊 Release & Transform Workshop
+title: 🌊 Dance, Release & Transform Workshop
 cardImage: /static/uploads/pexels-rdne-6173922.jpg
 summary: >-
   ### Free your emotions, shift your energy, and reconnect with your inner
