@@ -4,7 +4,8 @@ order: 1
 title: 🌿 1:1 Coaching
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
-  You know something needs to shift, but don’t quite know where to start. 
+  ### **You know something needs to shift, but don’t quite know where to
+  start.** 
 
 
   If you’ve tried to do it on your own, if you feel disconnected, reactive, or stuck in cycles of self-pressure, this is your first step toward breaking free.
