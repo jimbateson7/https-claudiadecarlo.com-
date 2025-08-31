@@ -32,7 +32,7 @@ showContactForm: true
 
 * Duration: 3 hours
 * Group size: 6–20 participants
-* Audience: Women seeking clarity, motivation, and a science-backed method to manifest their goals.
+* Audience: Anyone seeking clarity, motivation, and a science-backed method to manifest their goals.
 * Format: Online or in-person
 
 ### Key Outcomes
