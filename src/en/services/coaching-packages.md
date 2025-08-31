@@ -7,57 +7,22 @@ summary: >-
   ### **Why coaching packages are better for you**
 
 
-  The best way to work with a coach is through packages designed around results, not time. Here’s why that matters for you:
+  The best way to work with a coach is through packages designed around results, not time. 
 
 
-  ##### 1. Focus on your results
+  Coaching packages are like investing in a transformation journey. You’re not paying for minutes, you’re investing in the results, support, and tools that help you finally move through life with clarity, confidence, and joy.
 
 
-  You’re here to create real change. Packages allow us to focus on your transformation, so you get the outcome you want faster and more effectively.
-
-
-  #### 2. Clear roadmap for change
-
-
-  Packages give you a structured plan to reach your goals. You’ll know exactly what to expect, what steps to take, and how to track your progress – no guessing, no wasted effort.
-
-
-  #### 3. More support between sessions
-
-
-  With a package, you often get email or chat support between sessions. That means guidance, encouragement, and answers when you need them, not just during our calls.
-
-
-  #### 4. More value & extras
-
-
-  Packages can include bonuses like reflection prompts, mini-guides, templates, or accountability checkins – tools that help you integrate change and make it last.
-
-
-  #### 5. Saves you time and stress
-
-
-  Instead of booking single sessions and wondering if it’s enough, you have a clear plan. Less uncertainty, more momentum.
-
-
-  #### 6. Encourages commitment & motivation
-
-
-  By committing to a package, you’re committing to yourself. It creates accountability and motivation to show up for your own growth – and you’ll see real progress faster.
-
-
-  💡 Think of it this way: Coaching packages are like investing in a transformation journey. You’re not paying for minutes, you’re investing in the results, support, and tools that help you finally move through life with clarity, confidence, and joy.
+  You can read an article about this in the Resources section.
 bannerImage: ""
 showLink: true
 linkText: Choose your coaching package
 isLinkExternal: true
 showContactForm: true
 ---
-## 1. Clarity Package
+## **1. Clarity Package**
 
-### Who it’s for
-
-Individuals feeling stuck or unclear about their next steps.
+For individuals feeling stuck or unclear about their next steps.
 
 ### What it does
 
@@ -74,11 +39,11 @@ Individuals feeling stuck or unclear about their next steps.
 
 Investment: £450
 
+
+
 ## 2. Shift & Expand Package
 
-### Who it’s for
-
-Individuals ready to break patterns, move with ease, and create meaningful change.
+For individuals ready to break patterns, move with ease, and create meaningful change.
 
 ### What it does
 
@@ -95,11 +60,11 @@ Individuals ready to break patterns, move with ease, and create meaningful chang
 
 Investment: £750
 
+
+
 ## 3. Transform Your Life Package
 
-Who it’s for
-
-Those ready to fully redesign their life, align with purpose, and step into their fullest potential.
+For those ready to fully redesign their life, align with purpose, and step into their fullest potential.
 
 ### What it does
 
@@ -116,6 +81,8 @@ Those ready to fully redesign their life, align with purpose, and step into thei
 * Extra resources on-demand
 
 Investment: £2,000
+
+
 
 ### How to Start
 
