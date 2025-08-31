@@ -1,45 +1,60 @@
 ---
 layout: page.html
 order: 2
-title: 21 days to reconnect
+title: 🍂 21 Days to Reconnect – Autumn Edition
 cardImage: /static/uploads/img_0118-copy.jpeg
 summary: >-
-  A powerful 21-day start to help you regain your energy, reconnect with
-  yourself, and build the momentum needed for real and lasting change.
+  A seasonal reset to release what’s weighing you down, renew your energy, and
+  set strong foundations before the new year.
 
 
-  This programme is for people who know something needs to shift, but don’t quite know where to start. If you’ve tried to do it on your own, if you feel disconnected, reactive, or stuck in cycles of self-pressure, this is your first step toward breaking free.
+  This programme is for people who feel ready to close the year with clarity and purpose, instead of dragging old habits and pressure into January. \
+
+  \
+
+  If you’ve been running on empty, feeling reactive, or stuck in cycles that drain you, this is your chance to pause, reset, and realign.
 
 
-  You’ll begin to create sustainable habits with more clarity, purpose, and ease, without falling into extremes or impossible expectations.
+  Across 21 days, you’ll create sustainable habits that carry you into the new year with more balance, ease, and energy – so change feels natural, not forced.
 
 
-  It’s a safe space to transform your relationship with yourself and start building change from the inside out.
+  It’s your space to reset, reconnect, and step forward with confidence.
 showLink: true
 linkText: Find out more
 linkUrl: ""
 showContactForm: false
 ---
-## **What it does:**
+## **Reset · Release · Realign**
 
-I’ll guide you to break out of the superficial cycle of control, guilt, and self-pressure. Together, we’ll lay the foundations -supported by neuroscience- for long-term habit change, helping you reconnect with yourself from a place of presence, not pressure.
+As the seasons shift, autumn invites us to pause, let go of what no longer serves us, and set intentions for the months ahead. This special edition of *21 Days to Reconnect* is designed to help you harness that energy – so you can create lasting change from the inside out.
 
-You’ll experience small early wins, so you don’t feel overwhelmed or stuck in all-or-nothing thinking. You’ll also become more aware of your emotional triggers and subconscious patterns, using practical tools from day one.
+### Who it’s for
 
-If you don’t feel “ready” for a full transformation yet, this is a safe and effective starting point.
+* You feel the need to slow down and realign after a busy summer.
+* You want to set intentions that will actually stick – beyond New Year’s resolutions.
+* You’re ready to build small, sustainable habits that support your wellbeing and growth.
 
-## **Who it’s for:**
 
-This programme is for you if you know something needs to change, but you’re unsure where to begin.
+### What it does
 
-It’s for anyone who wants to reconnect, find clarity, and build new habits from a place of self-compassion—not self-punishment.
+🍂 Helps you reset your energy and focus, using the natural rhythm of the season.\
+🍂 Guides you to release unhelpful patterns and emotional clutter.\
+🍂 Supports you to set powerful, realistic intentions for the months ahead.\
+🍂 Builds momentum through small wins, so change feels natural – not forced.
 
-## **Includes:**
 
-3 x private 1:1 coaching sessions and 21 days of Telegram or WhatsApp support -or, if you prefer a lighter approach, you can choose to receive guidance and inspiration via email.
 
-## **Investment:**
+### Includes
 
-Launch price: £375
+✔️ 3 x private 1:1 coaching sessions (online, 90 minutes each)\
+✔️ 21 days of Telegram or WhatsApp support (or lighter email guidance)\
+✔️ Autumn reflection + intention-setting exercises designed just for this edition
+
+
+### Investment
+
+Seasonal price: £350 (the full programme is worth £700)
+
+🍂 This is your safe, supported space to reset before the year ends – and to step into the final months with clarity, ease, and purpose.
 
 I offer a free call to help you decide if this programme is right for you.
