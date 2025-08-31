@@ -1,30 +1,38 @@
 ---
 layout: page.html
 order: 1
-title: 1:1 coaching and mentoring
+title: 1:1 Coaching
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
-  My approach blends coaching with emotional intelligence, helping you notice
-  what’s already working, shift what isn’t, and move forward with aligned
-  energy.
+  ## Who it’s for
 
 
-  You’ll start making confident, aligned decisions, continuously expanding your potential and possibilities, creating more ease, joy, and flow in your life.
+  Growth-driven individuals who know they’re meant for more – ready to transform through self-discovery so you can finally move through life with clarity, confidence, and joy.
 
 
-  Duration: 90 minutes
+  ## What it does
 
 
-  Format: Online
+  * Notice what’s already working in your life, and what isn’t.
+
+  * Shift unhelpful patterns into empowered choices.
+
+  * Make aligned decisions with more ease and flow.
+
+  * Expand your potential without the constant pressure.
 
 
-  Investment: ~~£175~~ £99 (August offer)
+  ## Details
 
 
-  If you’re ready to take the step of connecting with yourself and transforming your life from the inside out, don't hesitate to reach out.
+  Duration: 90 minutes\
+
+  Format: Video call\
+
+  Investment: £175 (see *Pay It Forward* option)
 
 
-  You can book a free discovery call to share your situation with me, or simply send me an email with whatever you’d like to share.
+  If you’re ready to reconnect with yourself and transform your life from the inside out, book a free discovery call to share your situation with me – or simply email me with what’s on your heart.
 bannerImage: ""
 showLink: true
 linkText: Book a Free Discovery Call
