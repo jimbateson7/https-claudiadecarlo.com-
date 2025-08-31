@@ -42,7 +42,7 @@ Ready to transform through self-discovery so the can finally move through life w
 
 Duration: 90 minutes
 Format: Video call
-Investment: £175 (see *Pay It Forward* option)
+Investment: £175 (Reduced rate available. Check Resources -> *Paying It Forward* option)
 
 If you’re ready to reconnect with yourself and transform your life from the inside out, book a free discovery call to share your situation with me – or simply email me with what’s on your heart.\
 \
