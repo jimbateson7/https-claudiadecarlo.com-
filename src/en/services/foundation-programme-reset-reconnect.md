@@ -1,6 +1,6 @@
 ---
 layout: page.html
-order: 2
+order: 4
 title: 🍂 21 Days to Reconnect – Autumn Edition
 cardImage: /static/uploads/img_0118-copy.jpeg
 summary: >-
