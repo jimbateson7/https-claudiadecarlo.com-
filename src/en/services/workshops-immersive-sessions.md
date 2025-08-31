@@ -1,11 +1,13 @@
 ---
 layout: page.html
 order: 3
-title: "✨ Create Your Vision Board: Design Your Future with Neuroscience Workshop"
+title: ✨ Create Your Vision Board Workshop
 cardImage: /static/uploads/img_7567-edited.jpg
 summary: >-
-  Bring your goals and desires to life through the power of visualisation and
-  creativity.
+  ### Design Your Future with Neuroscience 
+
+
+  Bring your goals and desires to life through the power of visualisation and creativity.
 
 
   In this transformative workshop, you’ll blend neuroscience, coaching, and principles of
@@ -26,14 +28,14 @@ linkUrl: ""
 isLinkExternal: true
 showContactForm: true
 ---
-### Workshop Overview:
+### Workshop Overview
 
 * Duration: 3 hours
 * Group size: 6–20 participants
 * Audience: Women seeking clarity, motivation, and a science-backed method to manifest their goals.
 * Format: Online or in-person
 
-### Key Outcomes:
+### Key Outcomes
 
 ✔️ A crystal-clear life vision across career, relationships, wellbeing, and lifestyle
 
