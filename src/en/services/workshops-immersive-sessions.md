@@ -10,16 +10,14 @@ summary: >-
   Bring your goals and desires to life through the power of visualisation and creativity.
 
 
-  In this transformative workshop, you’ll blend neuroscience, coaching, and principles of
-
-  quantum physics to design a vision board that truly aligns with your values and
-
-  aspirations.
+  In this transformative workshop, you’ll blend neuroscience, coaching, and principles of quantum physics to design a vision board that truly aligns with your values and aspirations.
 
 
-  🌿 Gain clarity on what matters most.\
+  🌿 Gain clarity on what matters most.
+
 
   💫 Learn how visualisation rewires the brain to spot opportunities.
+
 
   🎨 Craft a board that reflects your authentic goals and inspires daily action.
 showLink: true
