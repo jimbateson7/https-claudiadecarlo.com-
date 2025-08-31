@@ -2,7 +2,7 @@
 layout: page.html
 order: 6
 title: Coaching Packages
-cardImage: /static/uploads/balance.svg
+cardImage: /static/uploads/heal.svg
 summary: >-
   ### **Why coaching packages are better for you**
 
