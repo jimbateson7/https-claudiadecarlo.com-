@@ -5,7 +5,7 @@ title: 🌊 Dance, Release & Transform Workshop
 cardImage: /static/uploads/pexels-rdne-6173922.jpg
 summary: >-
   ### **Free your emotions, shift your energy, and reconnect with your inner
-  power.**
+  power**
 
 
   This immersive workshop blends embodiment, neuroscience, and coaching to help you safely release emotional blocks and step into a lighter, more aligned version of yourself.
