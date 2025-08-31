@@ -26,14 +26,14 @@ linkUrl: ""
 isLinkExternal: true
 showContactForm: true
 ---
-### Workshop Overview:
+### Workshop Overview
 
 * Duration: 3 hours
 * Group size: 6–20 participants
 * Audience: Women seeking clarity, motivation, and a science-backed method to manifest their goals.
 * Format: Online or in-person
 
-### Key Outcomes:
+### Key Outcomes
 
 ✔️ A crystal-clear life vision across career, relationships, wellbeing, and lifestyle
 
