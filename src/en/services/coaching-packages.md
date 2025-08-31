@@ -2,7 +2,7 @@
 layout: page.html
 order: 6
 title: Coaching Packages
-cardImage: /static/uploads/heal.svg
+cardImage: /static/uploads/transform.svg
 summary: >-
   ### **Why coaching packages are better for you**
 
@@ -10,7 +10,7 @@ summary: >-
   The best way to work with a coach is through packages designed around results, not time. Here’s why that matters for you:
 
 
-  #### 1. Focus on your results
+  ##### 1. Focus on your results
 
 
   You’re here to create real change. Packages allow us to focus on your transformation, so you get the outcome you want faster and more effectively.
