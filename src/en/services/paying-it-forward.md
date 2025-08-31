@@ -95,7 +95,7 @@ summary: >-
   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 
-  ### Bespoke Workshops
+  ## 💡Bespoke Workshops
 
 
   In-person or online experiences designed to spark insight, shift inner narratives, and awaken authentic action.
@@ -110,9 +110,7 @@ summary: >-
   I'd love to hear what you're looking to achieve, I'll design and facilitate a bespoke workshop for your audience.
 
 
-  ### 
-
-  Get in touch for a free consultation.
+  #### 📥 Get in touch for a free consultation.
 showLink: true
 linkText: Find out more
 linkUrl: ""
