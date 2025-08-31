@@ -7,7 +7,6 @@ summary: >-
   ## ✨ Create Your Vision Board: Design Your Future with Neuroscience
 
 
-
   ### Bring your goals and desires to life through the power of visualisation and creativity.
 
 
@@ -30,12 +29,11 @@ summary: >-
 
   Duration: 3 hours\
 
-  Group size: 5–20 participants
+  Group size: 6–20 participants
 
   Audience: Women seeking clarity, motivation, and a science-backed method to manifest their goals.
 
   Format: Online or in-person
-
 
 
   ### Key Outcomes:
@@ -57,7 +55,6 @@ summary: >-
   ## 🌊 Release & Transform: Meaning, Movement & Music Workshop
 
 
-
   ### **Free your emotions, shift your energy, and reconnect with your inner power.**
 
 
@@ -69,6 +66,30 @@ summary: >-
   🎶 Use rhythm and music as powerful tools for transformation.
 
   🌱 Reconnect with meaning and cultivate a deeper sense of presence and freedom.
+
+
+  ### Workshop Overview
+
+
+  Duration: 2.5 hours\
+
+  Group size: 6–12 participants\
+
+  Audience: Anyone seeking release, renewal, and a deeper connection to themselves.\
+
+  Format: Online or in-person
+
+
+  ### Key Outcomes
+
+
+  ✔️ Learn embodied practices to release stored tension and emotions\
+
+  ✔️ Experience how movement and music can unlock energy and clarity\
+
+  ✔️ Reframe emotional patterns into empowering narratives\
+
+  ✔️ Leave with simple, practical tools you can use anytime you need a reset
 showLink: true
 linkText: Find out more
 linkUrl: ""
