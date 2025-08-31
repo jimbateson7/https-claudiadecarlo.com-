@@ -13,7 +13,7 @@ summary: >-
   Coaching packages are like investing in a transformation journey. You’re not paying for minutes, you’re investing in the results, support, and tools that help you finally move through life with clarity, confidence, and joy.
 
 
-  You can read an article about this in the Resources section.
+  You can read the article "The smart way to work together" about the topic in the "Resources" section.
 bannerImage: ""
 showLink: true
 linkText: Choose your coaching package
