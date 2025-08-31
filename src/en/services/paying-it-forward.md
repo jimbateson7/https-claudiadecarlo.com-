@@ -4,8 +4,8 @@ order: 5
 title: 💡 Bespoke Workshops
 cardImage: /static/uploads/huddle-event-group-.jpeg
 summary: >-
-  In-person or online experiences designed to spark insight, shift inner
-  narratives, and awaken authentic action.
+  ### **In-person or online experiences designed to spark insight, shift inner
+  narratives, and awaken authentic action.**
 
 
   Whether you’re an individual, a group, or a team, these sessions are crafted to foster self-awareness, emotional clarity, and embodied alignment - with space for creativity, vision, and growth.
