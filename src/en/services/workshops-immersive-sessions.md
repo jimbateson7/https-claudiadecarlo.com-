@@ -21,8 +21,8 @@ summary: >-
 
   🎨 Craft a board that reflects your authentic goals and inspires daily action.
 showLink: true
-linkText: Book a Free Discovery Call
-linkUrl: https://claudiadecarlo.zohobookings.eu/#/240577000000038054
+linkText: Find out more
+linkUrl: ""
 isLinkExternal: true
 showContactForm: true
 ---
