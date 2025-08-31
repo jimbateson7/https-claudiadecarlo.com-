@@ -16,8 +16,8 @@ summary: >-
   I offer a safe space to transform your relationship with yourself and start building change from the inside out.
 bannerImage: ""
 showLink: true
-linkText: Book a Free Discovery Call
-linkUrl: https://claudiadecarlo.zohobookings.eu/#/240577000000038054
+linkText: Find out more
+linkUrl: ""
 isLinkExternal: true
 showContactForm: true
 ---
