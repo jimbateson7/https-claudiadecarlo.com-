@@ -4,8 +4,8 @@ order: 4
 title: 🍂 21 Days to Reconnect – Autumn Edition
 cardImage: /static/uploads/img_0118-copy.jpeg
 summary: >-
-  A seasonal reset to release what’s weighing you down, renew your energy, and
-  set strong foundations before the new year.
+  ### **A seasonal reset to release what’s weighing you down, renew your energy,
+  and set strong foundations before the new year**
 
 
   This programme is for people who feel ready to close the year with clarity and purpose, instead of dragging old habits and pressure into January. \
