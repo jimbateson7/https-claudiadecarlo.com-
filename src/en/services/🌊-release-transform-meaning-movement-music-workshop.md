@@ -4,11 +4,14 @@ order: 3
 title: 🌊 Dance, Release & Transform Workshop
 cardImage: /static/uploads/pexels-rdne-6173922.jpg
 summary: >-
-  ### Free your emotions, shift your energy, and reconnect with your inner
-  power, through Meaning, Movement & Music 
+  ### **Free your emotions, shift your energy, and reconnect with your inner
+  power.**
 
 
   This immersive workshop blends embodiment, neuroscience, and coaching to help you safely release emotional blocks and step into a lighter, more aligned version of yourself.
+
+
+  Through Meaning, Movement & Music, we'll
 
 
   💫 Discover how emotions live in the body – and how to let them move through you. 
