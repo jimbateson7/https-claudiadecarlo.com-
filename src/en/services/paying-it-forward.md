@@ -90,6 +90,29 @@ summary: >-
   ✔️ Reframe emotional patterns into empowering narratives\
 
   ✔️ Leave with simple, practical tools you can use anytime you need a reset
+
+
+  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+
+  ### Bespoke Workshops
+
+
+  In-person or online experiences designed to spark insight, shift inner narratives, and awaken authentic action.
+
+
+  Whether you’re an individual, a group, or a team, these sessions are crafted to foster self-awareness, emotional clarity, and embodied alignment - with space for creativity, vision, and growth.
+
+
+  Each session blends coaching, neuroscience, mindset work, and practical tools to meet you where you are, and move you forward with intention.
+
+
+  I'd love to hear what you're looking to achieve, I'll design and facilitate a bespoke workshop for your audience.
+
+
+  ### 
+
+  Get in touch for a free consultation.
 showLink: true
 linkText: Find out more
 linkUrl: ""
