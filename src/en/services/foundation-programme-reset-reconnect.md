@@ -34,7 +34,6 @@ As the seasons shift, autumn invites us to pause, let go of what no longer serve
 * You want to set intentions that will actually stick – beyond New Year’s resolutions.
 * You’re ready to build small, sustainable habits that support your wellbeing and growth.
 
-
 ### What it does
 
 🍂 Helps you reset your energy and focus, using the natural rhythm of the season.\
@@ -42,14 +41,11 @@ As the seasons shift, autumn invites us to pause, let go of what no longer serve
 🍂 Supports you to set powerful, realistic intentions for the months ahead.\
 🍂 Builds momentum through small wins, so change feels natural – not forced.
 
-
-
 ### Includes
 
 ✔️ 3 x private 1:1 coaching sessions (online, 90 minutes each)\
 ✔️ 21 days of Telegram or WhatsApp support (or lighter email guidance)\
 ✔️ Autumn reflection + intention-setting exercises designed just for this edition
-
 
 ### Investment
 
