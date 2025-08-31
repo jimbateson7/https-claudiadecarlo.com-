@@ -1,7 +1,7 @@
 ---
 layout: page.html
 order: 1
-title: 1:1 Coaching
+title: 🌿 1:1 Coaching
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
   You know something needs to shift, but don’t quite know where to start. If
@@ -16,8 +16,8 @@ summary: >-
   I offer a safe space to transform your relationship with yourself and start building change from the inside out.
 bannerImage: ""
 showLink: true
-linkText: Book a Free Discovery Call
-linkUrl: https://claudiadecarlo.zohobookings.eu/#/240577000000038054
+linkText: Find out more
+linkUrl: ""
 isLinkExternal: true
 showContactForm: true
 ---
