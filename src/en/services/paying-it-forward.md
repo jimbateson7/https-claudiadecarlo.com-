@@ -1,7 +1,7 @@
 ---
 layout: page.html
-order: 2
-title: Bespoke Workshops
+order: 5
+title: 💡 Bespoke Workshops
 cardImage: /static/uploads/huddle-event-group-.jpeg
 summary: >-
   In-person or online experiences designed to spark insight, shift inner
