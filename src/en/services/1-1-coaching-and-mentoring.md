@@ -1,7 +1,7 @@
 ---
 layout: page.html
 order: 1
-title: 1:1 Coaching
+title: 🌿 1:1 Coaching
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
   You know something needs to shift, but don’t quite know where to start. If
