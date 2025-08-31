@@ -2,7 +2,7 @@
 layout: page.html
 order: 2
 title: Powerful Workshops
-cardImage: /static/uploads/img_7567-edited.jpg
+cardImage: /static/uploads/huddle-event-group-.jpeg
 summary: >-
   In-person or online experiences designed to spark insight, shift inner
   narratives, and awaken authentic action.
@@ -73,3 +73,5 @@ Format: Online or in-person
 ✔️ Leave with simple, practical tools you can use anytime you need a reset
 
 #### 📥 Get in touch for a free consultation.
+
+![](/static/uploads/img_7567-edited.jpg)
