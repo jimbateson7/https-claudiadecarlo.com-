@@ -7,13 +7,10 @@ summary: >-
   ### **Why coaching packages are better for you**
 
 
-  The best way to work with a coach is through packages designed around results, not time. 
+  A great way to work with a coach is through packages designed around results.
 
 
   Coaching packages are like investing in a transformation journey. You’re not paying for minutes, you’re investing in the results, support, and tools that help you finally move through life with clarity, confidence, and joy.
-
-
-  You can read the article "The smart way to work together" about the topic in the "Resources" section.
 bannerImage: ""
 showLink: true
 linkText: Choose your coaching package
