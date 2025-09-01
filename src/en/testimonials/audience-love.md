@@ -8,7 +8,7 @@ quote: >-
   and my ❤️
 
 
-  ![](/static/uploads/testimonial-screenshot_2.jpg)
+  ![](/static/uploads/untitled-design.png)
 showStory: false
 showContactForm: true
 ---
