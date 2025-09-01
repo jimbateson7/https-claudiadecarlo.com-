@@ -6,7 +6,7 @@ testimonialAuthorImage: /static/uploads/feel.svg
 quote: |-
   Workshops Testimonials
 
-  ![](/static/uploads/testimonials-1-.png)
+  ![](/static/uploads/yani-test.png)
 showStory: false
 showContactForm: false
 ---
