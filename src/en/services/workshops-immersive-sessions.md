@@ -1,7 +1,7 @@
 ---
 layout: page.html
 order: 2
-title: Create Your Vision Board Workshop
+title: The Science behind Vision Boards Workshop
 cardImage: /static/uploads/img_7567-edited.jpg
 summary: >-
   ### **Design your future with neuroscience**
