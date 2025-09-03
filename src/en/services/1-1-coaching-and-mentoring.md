@@ -44,10 +44,10 @@ Ready to transform through self-discovery so the can finally move through life w
 
 ## Details
 
-Duration: 90 minutes
-Format: Video call
-Investment: £175 (Reduced rate available. Check Resources -> *Paying It Forward* option)
+My coaching rate is £110 per hour. I recommend starting with a 90-minute first session to create enough space for deeper work. After that, we’ll decide together (based on your needs and our dynamic) whether 60 or 90 minutes is the best fit. This is always agreed during the free discovery call to ensure I can offer what's best for you.
 
-If you’re ready to reconnect with yourself and transform your life from the inside out, book a free discovery call to share your situation with me – or simply email me with what’s on your heart.\
+For those genuinely committed but unable to meet this rate, I offer a free call to discuss (see the Paying It Forward article in the Resources section). This option is available on a case-by-case basis, guided by willingness, openness, and alignment.
+
+If you’re ready to reconnect with yourself and transform your life from the inside out, book your call and share your situation with me – or simply email me with what’s on your heart.\
 \
 <a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
