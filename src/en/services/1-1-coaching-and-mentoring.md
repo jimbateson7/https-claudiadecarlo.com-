@@ -1,7 +1,7 @@
 ---
 layout: page.html
 order: 1
-title: 🌿 1:1 Coaching
+title: 1:1 Coaching & Mentoring
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
   ### **You know something needs to shift, but don’t quite know where to
@@ -21,7 +21,7 @@ summary: >-
 
   \
 
-  Coaching packages available (within Services section)
+  Coaching packages available (see Services section)
 bannerImage: ""
 showLink: true
 linkText: Find out more
