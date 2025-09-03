@@ -1,7 +1,7 @@
 ---
 layout: page.html
 order: 2
-title: ✨ Create Your Vision Board Workshop
+title: Create Your Vision Board Workshop
 cardImage: /static/uploads/img_7567-edited.jpg
 summary: >-
   ### **Design your future with neuroscience**
