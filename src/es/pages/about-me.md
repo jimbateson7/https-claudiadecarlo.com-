@@ -6,42 +6,28 @@ bannerImage: /static/uploads/portrait-main-headshot.jpeg
 permalink: /es/about-me/
 showContactForm: true
 ---
-
 ## Hola, soy Clau
 
-Solo una chica común que se atrevió a creer que podía transformar su vida ✨\
-\
-Con curiosidad, valentía y un profundo compromiso con mi crecimiento, he atravesado traumas, retos de salud y diagnósticos difíciles. Creí que era posible… y lo hice realidad.
+Una chica común que se atrevió a creer que podía transformar su vida ✨
 
-Ahora ayudo a otras personas a hacer lo mismo.
+Con curiosidad, valentía y un compromiso profundo con el crecimiento, atravesé traumas, desafíos de salud y diagnósticos difíciles. Creí que era posible… y lo logré.
 
-Mi enfoque llega a la raíz de lo que te está frenando, combinando autoconocimiento con herramientas prácticas para que puedas mirar la vida con nuevos ojos y avanzar con energía alineada.
+Ahora ayudo a otros a descubrir sus talentos y pasiones, y a crear nuevas posibilidades para sí mismos.
 
-Desde mi adolescencia he estado obsesionada con el crecimiento personal, y hoy acompaño a otros a vivir la transformación que el autoconocimiento hace posible.
+Mi enfoque combina **autoconocimiento y herramientas prácticas** para que puedas mirar la vida con nuevos ojos, reconocer lo que te ha estado frenando y avanzar con **claridad y energía alineada**.
 
-Con mi apoyo, mis clientes experimentan:
+Desde que era adolescente me ha fascinado el crecimiento personal, y hoy guío a otros a experimentar la transformación que comienza con la conciencia y la creencia en uno mismo.
 
-🧠 Libertad – de creencias limitantes y guiones inconscientes
+Con mi acompañamiento, mis clientes experimentan:
 
-💪 Empoderamiento – a través de elecciones conscientes e inteligencia emocional
+**Libertad** - de creencias limitantes y guiones inconscientes
 
-🌿 Alineación – con quienes son realmente y la vida que quieren crear
+**Empoderamiento** - a través de decisiones conscientes e inteligencia emocional
 
-Soy una mujer ordinaria que sabe que es extraordinaria, y creo que tú también lo eres.
+**Alineación** - con quienes realmente son y con la vida que desean crear
 
-Solo necesitas creerlo… y atreverte a soñar en grande.
+Soy una chica común que sabe que es extraordinaria - y creo que vos también lo sos.
 
-También soy…
-
--   Coach certificada
--   Asistente de primeros auxilios en salud mental
--   Profesora certificada CELTA de Cambridge
--   Madre de un niño curioso
--   Mujer neurodivergente
--   Aprendiz de por vida
--   Amante de los viajes
--   Políglota
--   Corredora
--   Escritora
+Solo hace falta **el deseo de soñar en grande y la disposición a cambiar**.
 
 Encantada de conocerte.
