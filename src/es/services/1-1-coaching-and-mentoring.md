@@ -4,7 +4,7 @@ order: 1
 title: Coaching y mentoría 1:1
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
-  Sabes que algo tiene que cambiar, pero no sabes bien por dónde empezar.
+  ## **Sabes que algo tiene que cambiar, pero no sabes bien por dónde empezar.**
 
 
   Si has intentado hacerlo por tu cuenta, si te sientes desconectado, reactivo o atrapado en ciclos de autoexigencia, este es tu primer paso para liberarte.
