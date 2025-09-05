@@ -1,5 +1,6 @@
 ---
 title: Cadena de Favores
+description: Coaching o mentoría a tarifa reducida
 author: Claudia De Carlo
 date: 2025-09-05T06:39:00.000+01:00
 showContactForm: false
