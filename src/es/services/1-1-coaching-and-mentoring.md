@@ -19,7 +19,7 @@ summary: >-
   Te ofrezco un espacio seguro para transformar tu relación contigo mismo y empezar a construir el cambio desde adentro hacia afuera.
 
 
-  Paquetes de coaching disponibles (ver sección Servicios).
+  Paquetes de coaching disponibles.
 bannerImage: ""
 showLink: true
 linkText: Reserva tu sesión gratis
