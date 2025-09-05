@@ -11,11 +11,11 @@ Just a regular girl who dared to believe she could transform her life ✨
 
 Through curiosity, courage, and a deep commitment to growth, I’ve moved through trauma, health challenges, and difficult diagnoses. I believed it was possible - and made it happen.
 
-Now, I help others do the same.
+Now, I help others discover their talents and passions, and create new possibilities for themselves.
 
-My approach gets to the root of what’s holding you back, blending self-awareness and practical tools so you can face life with new eyes, and move forward with aligned energy.
+My approach blends self-awareness and practical tools so you can face life with new eyes, uncover what’s been holding you back, and move forward with clarity and aligned energy.
 
-I’ve been obsessed with personal growth since I was a teenager, and now I guide others to experience the transformation that self-awareness makes possible.
+I’ve been fascinated by personal growth since I was a teenager, and today I guide others to experience the transformation that begins with awareness and belief.
 
 With my support, clients experience:
 
@@ -26,20 +26,12 @@ With my support, clients experience:
 🌿 Alignment - with who they truly are, and the life they want to create
 
 I’m an ordinary girl who knows she’s extraordinary - and I believe you are too.\
-You just need to believe it... and be brave enough to dream big.
+All it takes is the desire to dream big, and the willingness to change
 
-I’m also a…
-
-* Certified Coach
-* Mental Health First Aider
-* Cambridge CELTA Teacher
-* Mum to a curious young boy
-* Neurodivergent woman
-* Lifelong learner
-* Wanderluster
-* Polyglot
-* Runner
-* Writer
+I’m also a… \
+\
+Certified Coach | Mental Health First Aider | Cambridge CELTA Teacher | Writer.\
+I create spaces for clarity, connection & transformation ✨
 
 I'd love to meet you.
 
