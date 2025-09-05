@@ -19,11 +19,11 @@ I’ve been fascinated by personal growth since I was a teenager, and today I gu
 
 With my support, clients experience:
 
-🧠 Freedom - from limiting beliefs and unconscious scripts
+**Freedom** - from limiting beliefs and unconscious scripts
 
-💪 Empowerment - through conscious choices and emotional intelligence
+**Empowerment** - through conscious choices and emotional intelligence
 
-🌿 Alignment - with who they truly are, and the life they want to create
+**Alignment** - with who they truly are, and the life they want to create
 
 I’m an ordinary girl who knows she’s extraordinary - and I believe you are too.\
 All it takes is the desire to dream big, and the willingness to change
