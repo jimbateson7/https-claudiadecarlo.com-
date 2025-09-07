@@ -47,4 +47,4 @@ showContactForm: true
 
 ✔️ A sense of renewal and a deeper connection to yourself
 
- <a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="mailto:hello@claudiadecarlo.com" rel="noopener noreferrer" class="btn" target="_blank">Get in touch <span class="sr-only">opens in a new tab</span></a>
