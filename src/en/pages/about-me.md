@@ -35,4 +35,4 @@ I create spaces for clarity, connection & transformation ✨
 
 I'd love to meet you.
 
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="mailto:hello@claudiadecarlo.com" rel="noopener noreferrer" class="btn" target="_blank">Email me <span class="sr-only">opens in a new tab</span></a>
