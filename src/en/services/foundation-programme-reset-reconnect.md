@@ -57,4 +57,4 @@ Seasonal price: £350 (the full programme is worth £700)
 
 I offer a free call to help you decide if this programme is right for you.
 
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="mailto:hello@claudiadecarlo.com" rel="noopener noreferrer" class="btn" target="_blank">Get in touch <span class="sr-only">opens in a new tab</span></a>
