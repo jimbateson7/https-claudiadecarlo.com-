@@ -84,4 +84,4 @@ If you’re ready to reconnect with yourself, transform from the inside out, and
 *All sessions are approx 90-minutes*\
 *I offer some flexibility with my rates, read the "Paying it Forward" article in the Resources section.*
 
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="mailto:hello@claudiadecarlo.com" rel="noopener noreferrer" class="btn" target="_blank">Get in touch <span class="sr-only">opens in a new tab</span></a>
