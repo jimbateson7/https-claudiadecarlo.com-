@@ -43,4 +43,4 @@ showContactForm: true
 
 ✔️ A simple “see-feel-act” neuro-hack to sustain momentum long after the workshop\
 \
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="https://events.humanitix.com/create-your-vision-board-design-and-manifest-your-dream-life-with-neuroscience" rel="noopener noreferrer" class="btn" target="_blank">More info & Book <span class="sr-only">opens in a new tab</span></a>
