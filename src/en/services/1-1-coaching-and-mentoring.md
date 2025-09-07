@@ -50,4 +50,4 @@ For those genuinely committed but unable to meet this rate, I offer a free call 
 
 If you’re ready to reconnect with yourself and transform your life from the inside out, book your call and share your situation with me – or simply email me with what’s on your heart.\
 \
-<a href="https://claudiadecarlo.zohobookings.eu/#/240577000000038054" rel="noopener noreferrer" class="btn" target="_blank">Book a Free Discovery Call <span class="sr-only">opens in a new tab</span></a>
+<a href="mailto:hello@claudiadecarlo.com" rel="noopener noreferrer" class="btn" target="_blank">Get in touch <span class="sr-only">opens in a new tab</span></a>
