@@ -34,7 +34,7 @@ For individuals feeling stuck or unclear about their next steps.
 * Email/chat support between sessions
 * Option for personalised reflection prompts after each session
 
-Investment: £450
+Investment: £450 (savings: £45)
 
 ## **2. Shift & Expand Package**
 
@@ -53,7 +53,7 @@ For individuals ready to break patterns, move with ease, and create meaningful c
 * Email/chat support between sessions
 * Option for personalised reflection prompts after each session
 
-Investment: £725
+Investment: £725 (savings: £100)
 
 ## **3. Transform Your Life Package**
 
@@ -73,7 +73,7 @@ For those ready to fully redesign their life, align with purpose, and step into 
 * Personalised habits plan
 * Extra resources on-demand
 
-Investment: \~£2,000\~ £1,680
+Investment: £1,680 (savings: £300)
 
 ### How to Start
 
