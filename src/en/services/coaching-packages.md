@@ -30,7 +30,7 @@ For individuals feeling stuck or unclear about their next steps.
 
 ### Includes
 
-* 3 x 1:1 video coaching sessions.
+* 3 x 1:1 coaching sessions (based on 90' sessions)
 * Email/chat support between sessions
 * Option for personalised reflection prompts after each session
 
@@ -49,11 +49,11 @@ For individuals ready to break patterns, move with ease, and create meaningful c
 
 ### Includes
 
-* 5 x 1:1 video coaching sessions
+* 5 x 1:1 coaching sessions (based on 90' sessions)
 * Email/chat support between sessions
 * Option for personalised reflection prompts after each session
 
-Investment: £750
+Investment: £725
 
 ## **3. Transform Your Life Package**
 
@@ -68,12 +68,12 @@ For those ready to fully redesign their life, align with purpose, and step into 
 
 ### Includes
 
-* 12 x 1:1 video coaching sessions
+* 12 x 1:1 coaching sessions (based on 90' sessions)
 * Unlimited email/chat support
 * Personalised habits plan
 * Extra resources on-demand
 
-Investment: £2,000
+Investment: \~£2,000\~ £1,680
 
 ### How to Start
 
