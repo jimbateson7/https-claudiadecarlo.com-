@@ -3,6 +3,7 @@ title: Paying it Forward
 description: Reduced-Rate Sessions
 cardImage: ""
 author: Claudia De Carlo
+authorImage: /static/uploads/1747215352004.jpeg
 date: 2025-06-29T13:40:00.000+01:00
 showContactForm: true
 ---
