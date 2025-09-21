@@ -45,13 +45,13 @@ This special edition of *21 Days to Reconnect* is designed to help you harness t
 
 ### Includes
 
-✔️ 3 x private 1:1 coaching sessions (online, 90 minutes each)\
-✔️ 21 days of Telegram or WhatsApp support (or lighter email guidance)\
+✔️ 3 x private 1:1 coaching sessions (online, 60 minutes each)\
+✔️ 21 days of Telegram or WhatsApp support, or lighter email guidance (optional)\
 ✔️ Autumn reflection + intention-setting exercises designed just for this edition
 
 ### Investment
 
-Seasonal price: £350 (the full programme is worth £700)
+Seasonal price: £300 (this programme is worth £700)
 
 🍂 This is your safe, supported space to reset before the year ends – and to step into the final months with clarity, ease, and purpose.
 
