@@ -33,6 +33,8 @@ showContactForm: true
 
 * **Sunday 28 Sept**, 6–9pm (evening) - Only a few places left! 🔥
 
+
+
 ### Key Outcomes
 
 ✔️ Practical insight into how **the brain supports** **manifestation and change**
