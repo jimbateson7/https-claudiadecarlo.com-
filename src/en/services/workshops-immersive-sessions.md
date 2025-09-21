@@ -31,19 +31,14 @@ showContactForm: true
 \
 **In person Workshop in Manchester**
 
-**Sessions available**
-
-* **Sunday 21** **Sept**, 6–9pm (evening)
-* **Monday 22** **Sept**, 10am–1pm (morning) 
-* **Sunday 28 Sept**, 6–9pm (evening)
+* **Sunday 28 Sept**, 6–9pm (evening) - Only a few places left! 🔥
 
 ### Key Outcomes
 
-✔️ Practical insight into how the brain supports manifestation and change
+✔️ Practical insight into how **the brain supports** **manifestation and change**
 
-✔️ **A roadmap to manifest your dreams and desires** in all areas of your life.
-across career, relationships, wellbeing, and lifestyle
+✔️ **A roadmap to manifest your dreams and desires** in all areas of your life - across career, relationships, wellbeing, and lifestyle
 
-✔️ A simple “see-feel-act” neuro-hack to sustain momentum long after the workshop\
+✔️ A simple **“see-feel-act” neuro-hack** to sustain momentum long after the workshop\
 \
-<a href="https://events.humanitix.com/create-your-vision-board-design-and-manifest-your-dream-life-with-neuroscience" rel="noopener noreferrer" class="btn" target="_blank">More info & book <span class="sr-only">opens in a new tab</span></a>
+<a href="https://events.humanitix.com/create-your-vision-board-design-and-manifest-your-dream-life-with-neuroscience" rel="noopener noreferrer" class="btn" target="_blank">Get your tickets <span class="sr-only">opens in a new tab</span></a>
