@@ -17,7 +17,7 @@ linkText: Choose your coaching package
 isLinkExternal: true
 showContactForm: true
 ---
-## **1. Clarity Package**
+## **1. Clarity & Habits**
 
 For individuals feeling stuck or unclear about their next steps.
 
@@ -36,7 +36,7 @@ For individuals feeling stuck or unclear about their next steps.
 
 Investment: £450 (savings: £45)
 
-## **2. Shift & Expand Package**
+## **2. Shift & Expand** 
 
 For individuals ready to break patterns, move with ease, and create meaningful change.
 
@@ -55,7 +55,7 @@ For individuals ready to break patterns, move with ease, and create meaningful c
 
 Investment: £725 (savings: £100)
 
-## **3. Transform Your Life Package**
+## **3. Redesign Your Life** 
 
 For those ready to fully redesign their life, align with purpose, and step into their fullest potential.
 
