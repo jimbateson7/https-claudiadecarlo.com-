@@ -1,8 +1,8 @@
 ---
 layout: page.html
 order: 2
-title: The Science behind Vision Boards Workshop
-cardImage: /static/uploads/img_7567-edited.jpg
+title: All About Vision Boards Workshop
+cardImage: /static/uploads/7cc4bee7-9062-494b-9c4a-544e74878003.jpg
 summary: >-
   ### **Design your future with neuroscience**
 
