@@ -13,7 +13,7 @@ summary: >-
   In this transformative workshop, we’ll blend neuroscience, coaching, and principles of quantum physics to design a vision board that truly aligns with your values and aspirations.
 
 
-  🧠 Neuroscience shows that **vividly visualising your goals rewires your brain, primes you to notice opportunities, and shifts reality** before you even realise it.
+  🧠 Neuroscience shows that vividly visualising your goals rewires your brain, primes you to notice opportunities, and shifts reality before you even realise it.
 showLink: true
 linkText: Find out more
 linkUrl: ""
