@@ -2,7 +2,7 @@
 layout: page.html
 order: 2
 title: All About Vision Boards Workshop
-cardImage: /static/uploads/7cc4bee7-9062-494b-9c4a-544e74878003.jpg
+cardImage: /static/uploads/workshop1.jpg
 summary: >-
   ### **Design your future with neuroscience**
 
