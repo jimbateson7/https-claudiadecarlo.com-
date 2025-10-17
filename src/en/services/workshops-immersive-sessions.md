@@ -22,22 +22,14 @@ showContactForm: true
 ---
 ### Workshop Overview
 
-* Duration: 3 hours
-* Group size: 6–20 participants
+* Duration: 2 hours
+* Group size: 15–20 participants (in-person)
 * Audience: Anyone seeking clarity, motivation, and a science-backed method to manifest their goals.
-* Format: In-person (Online coming soon)
-
-\
-**In person Workshop in Manchester**
-
-* **Sunday 28 Sept**, 6–9pm (evening) - Only a few places left! 🔥
 
 ### Key Outcomes
 
-✔️ Practical insight into how **the brain supports** **manifestation and change**
+✔️ Practical insight into how **the brain supports** **manifestation and change.**
 
-✔️ **A roadmap to manifest your dreams and desires** in all areas of your life - across career, relationships, wellbeing, and lifestyle
+✔️ **A roadmap to manifest your dreams and desires** in all areas of your life - across career, relationships, wellbeing, and lifestyle.
 
-✔️ A simple **“see-feel-act” neuro-hack** to sustain momentum long after the workshop\
-\
-<a href="https://events.humanitix.com/create-your-vision-board-design-and-manifest-your-dream-life-with-neuroscience" rel="noopener noreferrer" class="btn" target="_blank">Get your tickets <span class="sr-only">opens in a new tab</span></a>
+✔️ A simple **“see-feel-act” neuro-hack** to sustain momentum long after the workshop
