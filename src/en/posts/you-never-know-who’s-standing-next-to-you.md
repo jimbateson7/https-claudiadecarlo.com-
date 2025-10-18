@@ -2,7 +2,7 @@
 title: You never know who’s standing next to you
 description: "Or the impact we can all make in each other's lives. "
 cardImage: ""
-bannerImage: /static/uploads/kindia-collage.png
+bannerImage: ""
 author: Claudia De Carlo
 authorImage: /static/uploads/1747215352004.jpeg
 date: 2025-10-18T14:47:00.000+01:00
