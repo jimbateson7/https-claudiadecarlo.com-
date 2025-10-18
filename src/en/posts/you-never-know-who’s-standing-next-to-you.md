@@ -1,8 +1,10 @@
 ---
 title: You never know who’s standing next to you
 description: "Or the impact we can all make in each other's lives. "
-cardImage: /static/uploads/kindia-collage.png
+cardImage: ""
+bannerImage: /static/uploads/kindia-collage.png
 author: Claudia De Carlo
+authorImage: /static/uploads/1747215352004.jpeg
 date: 2025-10-18T14:47:00.000+01:00
 showContactForm: true
 ---
@@ -35,3 +37,5 @@ If I could leave you with this today..
 What can you do that feels effortless to you, that for someone else might mean the world. 
 
 Who could you be the bridge for today? Go do it.
+
+![](/static/uploads/kindia-collage.png)
