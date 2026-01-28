@@ -2,7 +2,7 @@
 layout: page.html
 order: 3
 title: Talleres
-cardImage: /static/uploads/huddle-event-group-.jpeg
+cardImage: /static/uploads/7cc4bee7-9062-494b-9c4a-544e74878003.jpg
 summary: >-
   Experiencias presenciales o en línea diseñadas para generar conocimiento,
   cambiar narrativas internas y despertar acciones auténticas.
