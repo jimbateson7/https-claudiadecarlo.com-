@@ -2,6 +2,7 @@
 layout: page.html
 order: 1
 testimonialAuthor: Francesco F.
+testimonialAuthorLocation: Cambridge, UK
 testimonialAuthorImage: ""
 quote: Working with Claudia is transformative. After years of therapy and
   self-help books in search of meaning and purpose, it took just one session
