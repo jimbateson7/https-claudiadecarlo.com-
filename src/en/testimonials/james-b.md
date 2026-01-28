@@ -1,6 +1,6 @@
 ---
 layout: page.html
-order: 1
+order: 3
 testimonialAuthor: James B.
 testimonialAuthorLocation: North West, UK
 testimonialAuthorImage: /static/uploads/jim-2.jpeg
