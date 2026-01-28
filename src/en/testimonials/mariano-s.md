@@ -1,11 +1,11 @@
 ---
 layout: page.html
-order: 9
+order: 2
 testimonialAuthor: Mariano S.
 testimonialAuthorLocation: Buenos Aires, Argentina
 quote: >-
-  Claudia listens, and from our very first session, I felt seen and understood
-  in a way that was both grounding and clarifying.
+  Claudia listens, and I felt seen and understood in a way that was both
+  grounding and clarifying.
 
 
   Claudia has a rare gift. She can read between the lines and gently bring awareness to emotions and patterns that often remain hidden – even from ourselves. Through our chats, I gained greater clarity around where I was blocked, deeper emotional understanding, and a stronger sense of direction in my life.
