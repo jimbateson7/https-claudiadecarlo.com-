@@ -44,7 +44,7 @@ Ready to transform through self-discovery so the can finally move through life w
 
 ## Details
 
-My coaching rate is £110 per hour. I recommend starting with a 90-minute first session to create enough space for deeper work. After that, we’ll decide together (based on your needs and our dynamic) whether 60 or 90 minutes is the best fit. This is always agreed during the free discovery call to ensure I can offer what's best for you.
+My coaching rate is £125 per hour. I recommend starting with a 90-minute first session to create enough space for deeper work. After that, we’ll decide together (based on your needs and our dynamic) whether 60 or 90 minutes is the best fit. This is always agreed during the free discovery call to ensure I can offer what's best for you.
 
 For those genuinely committed but unable to meet this rate, I offer a free call to discuss (see the Paying It Forward article in the Resources section). This option is available on a case-by-case basis, guided by willingness, openness, and alignment.
 
