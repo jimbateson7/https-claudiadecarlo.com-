@@ -1,6 +1,6 @@
 ---
 layout: page.html
-order: 2
+order: 6
 testimonialAuthor: Mariano S.
 testimonialAuthorLocation: Buenos Aires, Argentina
 quote: >-
