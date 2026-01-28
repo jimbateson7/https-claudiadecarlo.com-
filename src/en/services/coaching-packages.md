@@ -7,7 +7,7 @@ summary: >-
   ### **Why coaching packages are better for you**
 
 
-  A great way to work with a coach is through packages designed around results.
+  A great way to work together is through packages designed around results.
 
 
   Coaching packages are like investing in a transformation journey. You’re not paying for minutes, you’re investing in the results, support, and tools that help you finally move through life with clarity, confidence, and joy.
@@ -34,9 +34,9 @@ For individuals feeling stuck or unclear about their next steps.
 * Email/chat support between sessions
 * Option for personalised reflection prompts after each session
 
-Investment: £450 (savings: £45)
+**Investment: £550**
 
-## **2. Shift & Expand** 
+## **2. Shift & Expand**
 
 For individuals ready to break patterns, move with ease, and create meaningful change.
 
@@ -45,7 +45,7 @@ For individuals ready to break patterns, move with ease, and create meaningful c
 * Transform unhelpful patterns into empowered choices
 * Make aligned decisions with confidence and flow
 * Develop clarity, purpose, and ease in your daily life
-* Expand your potential without pressure or extremes
+* Explore and expand your potential without pressure or extremes
 
 ### Includes
 
@@ -53,9 +53,9 @@ For individuals ready to break patterns, move with ease, and create meaningful c
 * Email/chat support between sessions
 * Option for personalised reflection prompts after each session
 
-Investment: £725 (savings: £100)
+**Investment: £900** 
 
-## **3. Redesign Your Life** 
+## **3. Redesign Your Life**
 
 For those ready to fully redesign their life, align with purpose, and step into their fullest potential.
 
@@ -73,7 +73,7 @@ For those ready to fully redesign their life, align with purpose, and step into 
 * Personalised habits plan
 * Extra resources on-demand
 
-Investment: £1,680 (savings: £300)
+Investment: £2,100
 
 ### How to Start
 
