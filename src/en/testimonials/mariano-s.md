@@ -3,6 +3,7 @@ layout: page.html
 order: 6
 testimonialAuthor: Mariano S.
 testimonialAuthorLocation: Buenos Aires, Argentina
+testimonialAuthorImage: /static/uploads/mariano.jpeg
 quote: >-
   Claudia listens, and I felt seen and understood in a way that was both
   grounding and clarifying.
