@@ -4,7 +4,7 @@ order: 1
 title: Coaching y mentoría 1:1
 cardImage: /static/uploads/portrait-main-headshot-copy.jpeg
 summary: >-
-  ## **Sabes que algo tiene que cambiar, pero no sabes bien por dónde empezar.**
+  ## **Sabes que algo tiene que cambiar, pero no sabes bien por dónde empezar**
 
 
   Si has intentado hacerlo por tu cuenta, si te sientes desconectado, reactivo o atrapado en ciclos de autoexigencia, este es tu primer paso para liberarte.
@@ -45,8 +45,8 @@ Expandir tu potencial sin la presión constante.
 
 ## Detalles
 
-Mi tarifa de coaching es de £110 por hora. Recomiendo comenzar con una primera sesión de 90 minutos para tener espacio suficiente y hacer un trabajo más profundo. Después, decidiremos juntos (según tus necesidades y nuestra dinámica) si lo mejor son sesiones de 60 o 90 minutos. Esto siempre se acuerda en la llamada gratuita de descubrimiento, para asegurar que pueda ofrecerte lo que más te sirva.
+Mi tarifa de coaching es de £125 por hora. Recomiendo comenzar con una primera sesión de 90 minutos para tener espacio suficiente y hacer un trabajo más profundo. Después, decidiremos juntos (según tus necesidades y nuestra dinámica) si lo mejor son sesiones de 60 o 90 minutos. Esto siempre se acuerda en la llamada gratuita de descubrimiento, para asegurar que pueda ofrecerte lo que más te sirva.
 
 Para quienes tienen un compromiso genuino pero no pueden asumir esta tarifa, ofrezco una llamada gratuita para conversar (ver el artículo Cadena de Favores en la sección Recursos). Esta opción está disponible caso por caso, guiada por la disposición, apertura y alineación.
 
-Si estás listo para reconectarte contigo mismo y transformar tu vida desde adentro hacia afuera, agenda tu llamada y cuéntame tu situación - o simplemente escríbeme compartiendo lo que está en tu corazón.
+Si estás listo para reconectar contigo mismo y transformar tu vida desde adentro hacia afuera, agenda tu llamada y cuéntame tu situación - o simplemente escríbeme compartiendo lo que está en tu corazón.
