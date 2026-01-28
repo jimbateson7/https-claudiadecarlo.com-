@@ -2,7 +2,7 @@
 layout: page.html
 order: 1
 testimonialAuthor: Francesco F.
-testimonialAuthorImage: /static/uploads/screenshot-2026-01-28-at-19.22.55.png
+testimonialAuthorImage: ""
 quote: Working with Claudia is transformative. After years of therapy and
   self-help books in search of meaning and purpose, it took just one session
   with her to uncover a hidden aspect of my personality – a revelation that
