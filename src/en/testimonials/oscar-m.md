@@ -1,6 +1,6 @@
 ---
 layout: page.html
-order: 3
+order: 4
 testimonialAuthor: Oscar M.
 testimonialAuthorLocation: Manchester, UK
 testimonialAuthorImage: /static/uploads/oscar.jpg
