@@ -1,6 +1,6 @@
 ---
 layout: page.html
-order: 4
+order: 12
 testimonialAuthor: Words that hug me
 testimonialAuthorImage: /static/uploads/screenshot-2025-07-10-at-16.02.53.png
 quote: |-
