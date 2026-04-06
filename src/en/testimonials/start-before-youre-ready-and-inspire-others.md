@@ -2,7 +2,7 @@
 layout: page.html
 order: 15
 testimonialAuthor: Start before you're ready.. and inspire others
-testimonialAuthorImage: /static/uploads/screenshot-2026-04-06-at-10.09.55.png
+testimonialAuthorImage: /static/uploads/feel.svg
 quote: >-
   It was a dream of mine to become a public speaker. 
 
