@@ -2,6 +2,7 @@
 layout: page.html
 order: 1
 testimonialAuthor: Laura L.
+testimonialAuthorLocation: Madrid, Spain
 testimonialAuthorImage: /static/uploads/screenshot-2026-04-06-at-09.40.53.png
 quote: >-
   I was at rock bottom with burnout, physically and emotionally exhausted, and
