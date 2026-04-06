@@ -1,5 +1,5 @@
 ---
-order: 4
+order: 6
 testimonialAuthor: Paulina K.
 testimonialAuthorLocation: London, UK
 testimonialAuthorImage: /static/uploads/paulina.jpg
