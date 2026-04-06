@@ -1,6 +1,6 @@
 ---
 layout: page.html
-order: 2
+order: 8
 testimonialAuthor: Mariano S.
 testimonialAuthorLocation: Buenos Aires, Argentina
 testimonialAuthorImage: /static/uploads/mariano.jpeg
