@@ -1,11 +1,11 @@
 headerItems:
-  - text: About me
-    url: /about-me
-  - text: Services
-    url: /services
-  - text: Success stories
-    url: /success-stories
-  - text: Blog
-    url: /blog
-  - text: Resources
-    url: /resources
+    - text: About me
+      url: /about-me
+    - text: Services
+      url: /services
+    - text: Testimonials
+      url: /testimonials
+    - text: Inspirational Conversations
+      url: /inspirational-conversations
+    - text: Resources
+      url: /resources
