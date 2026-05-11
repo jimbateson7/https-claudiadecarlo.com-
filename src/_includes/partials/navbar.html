@@ -54,7 +54,7 @@
                                 {% else %}
                                     text-brand-purple
                                 {% endif %}"
-                                aria-current="{% if isBlogActive or isServicesActive or isResourcesActive or currentUrl == item.finalUrl %}page{% endif %}"
+                                {% if isBlogActive or isServicesActive or isResourcesActive or currentUrl == item.finalUrl %}aria-current="page"{% endif %}
                             >{{ item.text }}</a>
                         </li>
                     {% endif %}
