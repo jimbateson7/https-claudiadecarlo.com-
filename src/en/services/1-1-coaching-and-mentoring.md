@@ -35,12 +35,20 @@ Growth-driven individuals who know they’re meant for more;
 
 Ready to transform through self-discovery so the can finally move through life with clarity, confidence, and joy.
 
-## What it does
+## What it does Format
 
 * Notice what’s already working in your life, and what isn’t.
 * Shift unhelpful patterns into empowered choices.
 * Make aligned decisions with more ease and flow.
 * Expand your potential without the constant pressure.
+
+##  Format
+
+1:1 online session. First session, 90'. 
+
+Investment: £200
+
+*Notes:* *I offer some flexibility with my rates, read the "Paying it Forward" article in the Resources section.*
 
 ## Are you ready?
 
