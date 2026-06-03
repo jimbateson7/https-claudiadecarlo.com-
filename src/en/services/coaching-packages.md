@@ -30,8 +30,8 @@ For individuals feeling stuck or unclear about their next steps.
 
 ### Includes
 
-* 3 x 1:1 coaching sessions (based on 90' sessions)
-* Email/chat support between sessions
+* 3 x 1:1 coaching sessions
+* Email/chat support
 * Option for personalised reflection prompts after each session
 
 **Investment: £550**
@@ -49,13 +49,12 @@ For individuals ready to break patterns, move with ease, and create meaningful c
 
 ### Includes
 
-* 5 x 1:1 coaching sessions (based on 90' sessions)
-* Email/chat support between sessions
-* Option for personalised reflection prompts after each session
+* 5 x 1:1 coaching sessions 
+* Email/chat support
 
-**Investment: £900** 
+Investment: £900 
 
-## **3. Redesign Your Life**
+## **3. Redesign your life**
 
 For those ready to fully redesign their life, align with purpose, and step into their fullest potential.
 
@@ -68,8 +67,8 @@ For those ready to fully redesign their life, align with purpose, and step into 
 
 ### Includes
 
-* 12 x 1:1 coaching sessions (based on 90' sessions)
-* Unlimited email/chat support
+* 12 x 1:1 coaching sessions 
+* Email/chat support
 * Personalised habits plan
 * Extra resources on-demand
 
@@ -77,11 +76,10 @@ Investment: £2,100
 
 ### How to Start
 
-If you’re ready to reconnect with yourself, transform from the inside out, and finally move through life with clarity, confidence, and joy, book a free discovery call to share your situation with me.
+If you’re ready to reconnect with yourself, transform from the inside out, and finally move through life with clarity, confidence, and joy, book a free discovery call.
 
 *Notes:* \
 \
-*All sessions are approx 90-minutes*\
 *I offer some flexibility with my rates, read the "Paying it Forward" article in the Resources section.*
 
 <a href="mailto:hello@claudiadecarlo.com" rel="noopener noreferrer" class="btn" target="_blank">Get in touch <span class="sr-only">opens in a new tab</span></a>
