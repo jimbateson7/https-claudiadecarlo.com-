@@ -34,7 +34,7 @@ For individuals feeling stuck or unclear about their next steps.
 * Email/chat support
 * Option for personalised reflection prompts after each session
 
-**Investment: £550**
+Investment: £550
 
 ## **2. Shift & Expand**
 
