@@ -2,7 +2,7 @@
 layout: page.html
 order: 5
 title: Bespoke Workshops
-cardImage: /static/uploads/7cc4bee7-9062-494b-9c4a-544e74878003.jpg
+cardImage: /static/uploads/photo-audience-interacting-copy.png
 summary: >-
   ### **In-person or online experiences designed to spark insight, shift inner
   narratives, and awaken authentic action**
