@@ -4,14 +4,17 @@ order: 2
 title: 21 días para reconectar
 cardImage: /static/uploads/img_0118-copy.jpeg
 summary: >-
-  Un programa poderoso de 21 días para recuperar tu energía, reconectar contigo
-  mismo y generar el impulso necesario para un cambio real y duradero.
+  Un poderoso inicio de 21 días para ayudarte a recuperar tu energía, reconectar
+  contigo y crear el impulso necesario para un cambio real y duradero.
 
 
-  Este programa es para quienes sienten que algo en su vida debe cambiar, pero todavía no saben por dónde empezar. Si has intentado hacerlo solo, si te sientes desconectado, reactivo o atrapado en ciclos de autoexigencia, este es un primer paso para salir del estancamiento y crear hábitos sostenibles con más claridad, propósito y bienestar.
+  Este programa es para personas que saben que algo tiene que cambiar, pero no tienen claro por dónde empezar. Si has intentado hacerlo por tu cuenta, si te sientes desconectado/a, reactivo/a o atrapado/a en ciclos de autoexigencia, este es tu primer paso para liberarte.
 
 
-  Es un espacio seguro para empezar a transformar tu relación contigo mismo y construir un cambio desde dentro hacia afuera, sin caer en extremos ni exigencias imposibles.
+  Comenzarás a crear hábitos sostenibles con más claridad, propósito y facilidad, sin caer en extremos ni expectativas imposibles.
+
+
+  Es un espacio seguro para transformar tu relación contigo y empezar a construir el cambio desde dentro hacia fuera.
 showLink: true
 linkText: Descubre más
 showContactForm: true
