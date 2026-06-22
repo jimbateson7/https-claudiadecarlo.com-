@@ -9,9 +9,9 @@ This privacy notice provides you with details of how we collect and process your
 
 By providing us with your data, you warrant to us that you are over 18 years of age. 
 
-Claudia De Carlois the data controller and we are responsible for your personal  data (referred to as “we”, “us” or “our” in this privacy notice). 
+Claudia De Carlo is the data controller, and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice). 
 
-We are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information in compliance with GDPR and  applicable UK laws. 
+We are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information in compliance with GDPR and applicable UK laws. 
 
 ## Information We Collect 
 
@@ -53,7 +53,7 @@ Under GDPR, you have the right to: 
 * Request corrections to your data. 
 * Request the deletion of your data.
 
-To exercise these rights, contact us at hello@claudiadecarlo.com 
+To exercise these rights, contact us at claudecarlo.uk@gmail.com
 
 ## Contact
 
