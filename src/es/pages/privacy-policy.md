@@ -51,7 +51,7 @@ Según el RGPD, usted tiene derecho a:
 * Solicitar correcciones a sus datos.
 * Solicitar la supresión de sus datos.
 
-Para ejercer estos derechos contáctenos en hello@claudiadecarlo.com
+Para ejercer estos derechos contáctenos en claudecarlo.uk@gmail.com
 
 ## Contacto
 
