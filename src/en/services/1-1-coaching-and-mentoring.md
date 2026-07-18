@@ -42,9 +42,9 @@ Ready to transform through self-discovery so the can finally move through life w
 * Make aligned decisions with more ease and flow.
 * Expand your potential without the constant pressure.
 
-##  Format
+## Format
 
-1:1 online session. First session, 90'. 
+1:1 session (90 minutes / online)
 
 Investment: £200
 
