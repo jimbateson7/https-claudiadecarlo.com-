@@ -42,9 +42,9 @@ Ready to transform through self-discovery so the can finally move through life w
 * Make aligned decisions with more ease and flow.
 * Expand your potential without the constant pressure.
 
-##  Format
+## Format
 
-1:1 online session. First session, 90'. 
+1:1 session (90 minutes / online)
 
 Investment: £200
 
@@ -54,4 +54,4 @@ Investment: £200
 
 If you’re ready to reconnect with yourself and transform your life from the inside out, book your call and share your situation with me – or simply email me with what’s on your heart.\
 \
-<a href="mailto:hello@claudiadecarlo.com" rel="noopener noreferrer" class="btn" target="_blank">Get in touch <span class="sr-only">opens in a new tab</span></a>
+<a href="mailto:cldecarlo@gmail.com" rel="noopener noreferrer" class="btn" target="_blank">Get in touch <span class="sr-only">opens in a new tab</span></a>
